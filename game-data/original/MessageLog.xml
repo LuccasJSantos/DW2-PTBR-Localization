@@ -1,0 +1,2572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmpireMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmpireMessage>
+    <Type>Story</Type>
+    <Title>Glory Awaits!</Title>
+    <Text>In the Ancient Mortalen Troopship Ruins we have made a curious discovery:
+
+We are the Slayers of the Mortak, the Bravest of the Brave!
+The traditions of our ancestors, who came here in the age before, live strong within us.
+We know that they were the greatest of warriors who stood against all and were never vanquished, even by the great ancient horror that consumed the stars.
+We have kept the old ways and the ancient pact to rebuild and regain the greatness of the champions of old.
+The ancient tales speak of powerful enemies, battles greater than any we have seen and incredible dangers.  The honor and glory that awaits us is beyond reckoning!
+We will use the star drive our ancestors left for us and send forth the Brave, the Mortalen, to reclaim the stars!
+
+We have found technology that has advanced our understanding of [RESEARCH]Early Warp Field Experiments[/RESEARCH].
+
+We have found technology that has advanced our understanding of [RESEARCH]Research Labs[/RESEARCH].
+
+These ruins provide the following colony bonuses: [BONUS]+3% Colony Development, +9% Construction Research, +7% Scenery[/BONUS]</Text>
+    <StarDateDescription>2754.01.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Story</Type>
+    <Title>Feudalism</Title>
+    <Text>Due to our chosen government, we have gained insight into:
+
+[ULI][RESEARCH]Star Fighters[/RESEARCH][/ULI]
+[ULI][RESEARCH]Zero-G Combat[/RESEARCH][/ULI]
+[ULI][RESEARCH]Ship Boarding[/RESEARCH][/ULI]
+
+An infantry force is also available on our homeworld.</Text>
+    <StarDateDescription>2754.01.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at TK490</Title>
+    <Text>We have discovered new resources at [LOCATION]TK490[/LOCATION] in the Yaven system.
+
+Cuprica is a shiny metal smelted from Cuprica ore. It is extremely strong and light-weight and has a shiny red-brown appearance. Cuprica is commonly used in beam and torpedo weapons. It is found at some Rocky Metallic planets and at asteroids.
+</Text>
+    <StarDateDescription>2757.08.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Research Labs Research Completed</Title>
+    <Text>We have completed research in [RESEARCH]Research Labs[/RESEARCH].
+
+This project provides the following advances:
+[RESEARCH]Research Lab[/RESEARCH]</Text>
+    <StarDateDescription>2759.04.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Yaven 1</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Yaven 1[/LOCATION] in the Yaven system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2759.05.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Yaven 1</Title>
+    <Text>We have discovered new resources at [LOCATION]Yaven 1[/LOCATION] in the Yaven system.
+
+Vofula Scent is an intoxicating perfume that comes from the brilliant green flowers of the Vofula plant. The Vofula plant is a small bush that grows next to the hydrocarbon lakes on Carbonaceous worlds.
+Vofula Scent provides the following bonuses: [BONUS]+4% Colony Development[/BONUS]</Text>
+    <StarDateDescription>2760.09.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Space Construction Research Completed</Title>
+    <Text>We have completed research in [RESEARCH]Space Construction[/RESEARCH].
+
+This project provides the following advances:
+[RESEARCH]Construction Yard (v2)
+Small Space Port v2[/RESEARCH]</Text>
+    <StarDateDescription>2762.02.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Stable Warp Fields Research Completed</Title>
+    <Text>We have completed research in [RESEARCH]Stable Warp Fields[/RESEARCH].
+
+This project provides the following advances:
+[RESEARCH]Warp Bubble Generator [/RESEARCH]</Text>
+    <StarDateDescription>2766.04.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Mortalen Skyjackers encountered</Title>
+    <Text>We have encountered a new pirate faction in the Yaven system, the [FACTION]Mortalen Skyjackers[/FACTION].
+
+This pirate faction is predominantly composed of Mortalens, the same as our empire. Although they are pirates, they could prove useful allies if handled properly.
+
+Initial communications with the Mortalens have been catastrophically bad. A misunderstanding of their customs caused great offense.</Text>
+    <StarDateDescription>2766.07.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Exploration Ship Completed</Title>
+    <Text>Retrofit of a Exploration Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.09.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Exploration Ship Completed</Title>
+    <Text>Retrofit of a Exploration Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.09.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Exploration Ship Completed</Title>
+    <Text>Retrofit of a Exploration Ship has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2766.09.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Base Raided!</Title>
+    <Text>The [FACTION]Mortalen Skyjackers[/FACTION] have raided our base [LOCATION]Yaven 4 Mining Station[/LOCATION]! In the raid they looted the following: 1,166 Argon</Text>
+    <StarDateDescription>2766.09.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Exploration Ship Completed</Title>
+    <Text>Retrofit of a Exploration Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.10.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Construction Ship Completed</Title>
+    <Text>Retrofit of a Construction Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.10.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Exploration Ship Completed</Title>
+    <Text>Retrofit of a Exploration Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.10.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Exploration Ship Completed</Title>
+    <Text>Retrofit of a Exploration Ship has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2766.10.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.11.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.11.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Ship Completed</Title>
+    <Text>Retrofit of a Mining Ship has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2766.11.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.11.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.12.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.12.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2766.12.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.01.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Who are the Ikkuro?</Title>
+    <Text>Our analysts have learnt the following about the Ikkuro:
+
+Ikkuro are large, muscular primates with short brown-red fur.
+
+They have very large, widely-spaced ears that enable them to precisely determine the location of sounds. This ability gives them rudimentary sonar skills, allowing them to ‘see’ in the dark.
+
+Ikkuro tend to be intelligent and aggressive, though cautious. Ikkuro are often short-tempered. When provoked or threatened they can quickly become violent. Despite this they are generally gentle and affectionate to those they know well.
+
+They are extremely capable mechanics. Ikkuro can repair nearly any type of machinery. They also confidently reverse-engineer new devices they encounter. In fact they often end up improving the machine when they reassemble it.
+
+This natural mechanical predisposition has also led the Ikkuro to develop the S2F7 RepairBot, an advanced repair robot that can swiftly fix damage to star ships, even while they are in battle.
+
+Ikkuro have a great fascination with trees and plants, and have extensive knowledge of the various types of flora throughout the galaxy. They use this expert understanding to create an array of highly effective herbal medications.
+
+They typically live in tree-dwellings high in the forest canopies on Forest, Continental or Grasslands planets.</Text>
+    <StarDateDescription>2767.01.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Independent Colony of Ikkuros encountered</Title>
+    <Text>We have encountered a new independent colony of Ikkuros at [FACTION]Sefokhe 3[/FACTION] in the Sefokhe system.
+
+The Ikkuro are naturally hostile towards us.
+
+We can invade and take over the colony by landing troops. Or we could attempt to colonize them by sending a Colony Ship, although this is unlikely to succeed due to their negative view of us.
+
+Initial communications with the Ikkuros have gone very poorly. We accidentally insulted the Ikkuros, causing great offense.
+
+Research projects are available on our tech tree that can increase our understanding of the Ikkuro. We should research these projects to improve relations with the Ikkuro.</Text>
+    <StarDateDescription>2767.01.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.01.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.01.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.01.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.02.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.02.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Hidden Vacuum Dwellers encountered</Title>
+    <Text>We have encountered a new pirate faction in the Yaven system, the [FACTION]Hidden Vacuum Dwellers[/FACTION].
+
+This pirate faction is predominantly composed of Humans. The Human are naturally hostile towards us. They are unlikely to be useful allies.
+
+Initial communications with the Humans have gone poorly. The Humans are quite unimpressed with us.</Text>
+    <StarDateDescription>2767.02.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.02.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.02.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] is under attack by Courageous Reckoning (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 4 in the Sefokhe system!</Text>
+    <StarDateDescription>2767.02.28</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Bleak Chariot[/LOCATION] is under attack by Tenacious Trap (Frigate) of the [FACTION]Hidden Vacuum Dwellers[/FACTION] at Yaven 4 in the Yaven system!</Text>
+    <StarDateDescription>2767.02.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.03.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.03.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.03.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Characters</Type>
+    <Title>New Ambassador Appears!</Title>
+    <Text>A [CHARACTER]new Ambassador[/CHARACTER] named [CHARACTER]Danpo Takruan[/CHARACTER] has appeared at [LOCATION]Degohirt[/LOCATION]</Text>
+    <StarDateDescription>2767.03.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.03.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Ship Completed</Title>
+    <Text>Retrofit of a Mining Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.04.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.04.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.04.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.04.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Yosul 2</Title>
+    <Text>We have discovered new resources at [LOCATION]Yosul 2[/LOCATION] in the Yosul system.
+
+Darkhul Tentacles: Darkhuls are formidable sea monsters that inhabit the bottomless undersea tunnels of Deep Ocean worlds. Darkhuls can grow to lengths of 100 meters or more. They are apex predators that fear nothing. Hunting these terrifying creatures is thus a perilous task, fraught with danger. Darkhul tentacles are a rare delicacy used as food and medicine across the galaxy.
+Darkhul Tentacles provides the following bonuses: [BONUS]+8% Colony Development, +3% Population Growth[/BONUS]</Text>
+    <StarDateDescription>2767.05.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Yosul 2</Title>
+    <Text>We have discovered hidden items at [LOCATION]Yosul 2[/LOCATION] in the Yosul system.
+
+Bonuses: [BONUS]+6% Scenery from Coral Forest of Yosul[/BONUS]</Text>
+    <StarDateDescription>2767.05.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Characters</Type>
+    <Title>New Spy Appears!</Title>
+    <Text>A [CHARACTER]new Spy[/CHARACTER] named [CHARACTER]Gobar Shiddai[/CHARACTER] has appeared at [LOCATION]Degohirt[/LOCATION]</Text>
+    <StarDateDescription>2767.05.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.05.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Creaboho Mining Station[/LOCATION] is under attack by Judgment of Kaamas (Destroyer) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 2 in the Yaven system!</Text>
+    <StarDateDescription>2767.06.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Kaamas 7</Title>
+    <Text>We have discovered new resources at [LOCATION]Kaamas 7[/LOCATION] in the Kaamas system.
+
+Vodkol is a powerful alcoholic beverage made from the roots of the Vodia plant. This hardy plant grows in the tundra wastelands of Ice worlds. Above ground the Vodia plant appears as a scraggly shrub with broad, pale yellow leaves. Below ground it has bulbous, white roots.
+Vodkol provides the following bonuses: [BONUS]+3% Colony Development, +1% Colony Happiness[/BONUS]</Text>
+    <StarDateDescription>2767.06.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Kaamas 7</Title>
+    <Text>We have discovered new resources at [LOCATION]Kaamas 7[/LOCATION] in the Kaamas system.
+
+Attarion Fur: Attarions are predatory cats that live high in the mountains of Frozen Ice worlds. They grow to 2 meters in length, and have beautiful grey-white fur. The fur is extremely soft and light. It is prized for its warmth and durability when used in clothing.
+Attarion Fur provides the following bonuses: [BONUS]+4% Colony Development, +1% Colony Happiness[/BONUS]</Text>
+    <StarDateDescription>2767.06.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Kaamas 7</Title>
+    <Text>We have discovered new resources at [LOCATION]Kaamas 7[/LOCATION] in the Kaamas system.
+
+Hexodorium is a unique type of polymer. It is very strong and damage resistant. It has many uses in various high-end components. Hexodorium is usually found at Frozen Ice worlds, although other Ice planets may also have small deposits.
+</Text>
+    <StarDateDescription>2767.06.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.07.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Advocate of Yaven[/LOCATION] is under attack by Resistance of Urctun (Escort) of the [FACTION]Hidden Vacuum Dwellers[/FACTION] at Sefokhe 3 in the Sefokhe system!</Text>
+    <StarDateDescription>2767.07.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Nibu 1</Title>
+    <Text>We have discovered new resources at [LOCATION]Nibu 1[/LOCATION] in the Nibu system.
+
+Podanthia Root is a medicinal herb that helps cure many diseases. It’s fine, fibrous stems are packed with powerful nutrients that reinforce the immune system. It is found at Sulphur Volcanic worlds.
+Podanthia Root provides the following bonuses: [BONUS]+6% Colony Development, +2% Population Growth[/BONUS]</Text>
+    <StarDateDescription>2767.07.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Crafty Mystery[/LOCATION] is under attack by Growling Star (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 5 in the Yaven system!</Text>
+    <StarDateDescription>2767.08.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.08.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.10.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.10.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Small Freighter Completed</Title>
+    <Text>Retrofit of a Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.10.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Feeble Pride[/LOCATION] is under attack by a Gravillex (Super Giant) at Javen 4 in the Javen system!</Text>
+    <StarDateDescription>2767.11.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Decisive Advocate[/LOCATION] is under attack by Great Decree (Frigate) of the [FACTION]Hidden Vacuum Dwellers[/FACTION] at Sefokhe 3 in the Sefokhe system!</Text>
+    <StarDateDescription>2767.11.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.12.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Advocate of Yaven[/LOCATION] is under attack by Kaamas Horizon (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 3 in the Sefokhe system!</Text>
+    <StarDateDescription>2767.12.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Ship Completed</Title>
+    <Text>Retrofit of a Mining Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.12.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Intrepid Destiny[/LOCATION] is under attack by Courageous Reckoning (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 5 in the Yaven system!</Text>
+    <StarDateDescription>2767.12.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Colony Attack at Degohirt</Title>
+    <Text>Our colony [LOCATION]Degohirt[/LOCATION] is under attack by the [FACTION]Mortalen Skyjackers[/FACTION]!</Text>
+    <StarDateDescription>2767.12.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Colony Raided!</Title>
+    <Text>Our colony [LOCATION]Degohirt[/LOCATION] is being raided by forces from the [FACTION]Mortalen Skyjackers[/FACTION]! A ground battle rages at the colony.</Text>
+    <StarDateDescription>2768.01.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Ship Completed</Title>
+    <Text>Retrofit of a Mining Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.01.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Raiders Withdraw</Title>
+    <Text>Raiders from [FACTION]Mortalen Skyjackers[/FACTION] have been beaten back and have withdrawn from our colony [LOCATION]Degohirt[/LOCATION]!</Text>
+    <StarDateDescription>2768.01.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] is under attack by Judgment of Kaamas (Destroyer) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 5 in the Sefokhe system!</Text>
+    <StarDateDescription>2768.02.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Kaamas 1</Title>
+    <Text>We have discovered new resources at [LOCATION]Kaamas 1[/LOCATION] in the Kaamas system.
+
+Bifurian Silk is an extremely fine shimmering blue silk, spun by the Bifuria worm. Bifuria worms live deep in dark underground caves on Grasslands and Continental worlds. They attach themselves to the ceiling and walls of damp grottos and spin vast webs of ultra-fine gossamer fibers. These fibers can be collected and woven into Bifurian silk.
+Bifurian Silk provides the following bonuses: [BONUS]+7% Colony Development, +1% Colony Income[/BONUS]</Text>
+    <StarDateDescription>2768.02.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Characters</Type>
+    <Title>Agent Captured!</Title>
+    <Text>Our agent [CHARACTER]Kutar Kazzdi[/CHARACTER] has been captured while preparing to steal the territory map of the Mortalen Skyjackers. The exposure of this mission will have diplomatic consequences.
+
+[CHARACTER]Kutar Kazzdi[/CHARACTER] has been imprisoned by the [FACTION]Mortalen Skyjackers[/FACTION].</Text>
+    <StarDateDescription>2768.02.28</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Escort Completed</Title>
+    <Text>Construction of a new Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.05.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Escort Completed</Title>
+    <Text>Construction of a new Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.05.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Yaven Destiny[/LOCATION] is under attack by Kaamas Serpent (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 4 in the Yaven system!</Text>
+    <StarDateDescription>2768.06.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Escort Completed</Title>
+    <Text>Construction of a new Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.06.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Improved Escorts Research Completed</Title>
+    <Text>We have completed research in [RESEARCH]Improved Escorts[/RESEARCH].
+
+This project provides the following advances:
+[RESEARCH]Patrol Escort
+Heavy Escort[/RESEARCH]</Text>
+    <StarDateDescription>2768.07.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Yosul 1</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Yosul 1[/LOCATION] in the Yosul system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2768.09.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Vagrant of Yaven[/LOCATION] is under attack by Kaamas Horizon (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 4 in the Yaven system!</Text>
+    <StarDateDescription>2768.09.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Yaven Zenith[/LOCATION] is under attack by Kaamas Serpent (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 3 in the Sefokhe system!</Text>
+    <StarDateDescription>2768.10.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Base Raided!</Title>
+    <Text>The [FACTION]Mortalen Skyjackers[/FACTION] have raided our base [LOCATION]Yaven 4 Mining Station[/LOCATION]! In the raid they looted the following: 5,051 credits</Text>
+    <StarDateDescription>2768.10.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Brintaal 5</Title>
+    <Text>We have discovered new resources at [LOCATION]Brintaal 5[/LOCATION] in the Brintaal system.
+
+Kasotti is a creamy alcoholic drink that comes from the thick, juicy leaves of the Kasot plant, a ground-covering herb that grows in the lowland coastal plains of Ice Tundra worlds.
+Kasotti provides the following bonuses: [BONUS]+3% Colony Development[/BONUS]</Text>
+    <StarDateDescription>2768.11.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Escort Completed</Title>
+    <Text>Construction of a new Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.11.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.12.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Escort Completed</Title>
+    <Text>Construction of a new Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2769.01.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Escort Completed</Title>
+    <Text>Construction of a new Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2769.02.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Mining Ship Wanderer of Yaven[/LOCATION] is under attack by Kaamas Serpent (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 2 in the Yaven system!</Text>
+    <StarDateDescription>2769.03.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Sefokhe 4</Title>
+    <Text>We have discovered new resources at [LOCATION]Sefokhe 4[/LOCATION] in the Sefokhe system.
+
+Dantha Fur is the shaggy brown-white fur of the Dantha. Danthas are large animals that live on the vast desert plains of Desert worlds. They live in herds ranging in size from 30 to 200. Danthas migrate across the desert in search of food. Their preferred diet are the Lopid fungii that grow about half a meter beneath the desert sands. Danthas have a highly-developed sense of smell that allows them to locate these water-bearing fungal growths and dig them out.
+Dantha Fur provides the following bonuses: [BONUS]+4% Colony Development[/BONUS]</Text>
+    <StarDateDescription>2769.05.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Sefokhe 4</Title>
+    <Text>We have discovered hidden items at [LOCATION]Sefokhe 4[/LOCATION] in the Sefokhe system.
+
+Bonuses: [BONUS]+4% Scenery from Dust Rings of Sefokhe[/BONUS]</Text>
+    <StarDateDescription>2769.05.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]LT536 Mining Station[/LOCATION] is under attack by Courageous Reckoning (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 2 in the Yaven system!</Text>
+    <StarDateDescription>2769.06.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Degohirt Spaceport[/LOCATION] is under attack by Kaamas Horizon (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 5 in the Yaven system!</Text>
+    <StarDateDescription>2769.07.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Crafty Mystery[/LOCATION] is under attack by Judgment of Kaamas (Destroyer) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 1 in the Yaven system!</Text>
+    <StarDateDescription>2769.07.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Yaven Bandit[/LOCATION] is under attack by Dreadful Destiny (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven Asteroid Field in the Yaven system!</Text>
+    <StarDateDescription>2769.07.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] is under attack by Kaamas Serpent (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe in the Sefokhe system!</Text>
+    <StarDateDescription>2769.08.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Construction Ship Completed</Title>
+    <Text>Construction of a new Construction Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2769.10.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Frugal Encounter[/LOCATION] is under attack by Growling Star (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 5 in the Yaven system!</Text>
+    <StarDateDescription>2769.10.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Kaamas 2</Title>
+    <Text>We have discovered new resources at [LOCATION]Kaamas 2[/LOCATION] in the Kaamas system.
+
+Tassont Moth Fiber: The gigantic Tassont Moths are the largest of their species. They live deep in vast caves on Sandy Desert worlds, where the climate is most comfortable for them. The ingenious fiber of their wings can bear enormous loads though it is only a few microns thick. It is much in demand for use in garment making and tailoring ceremonial costumes. But it is also used in structural and safety work, such as rock climbing.
+Tassont Moth Fiber provides the following bonuses: [BONUS]+6% Colony Development, +1% Colony Income[/BONUS]</Text>
+    <StarDateDescription>2769.11.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Exploration Ship Completed</Title>
+    <Text>Construction of a new Exploration Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2769.11.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Escort being Boarded</Title>
+    <Text>[LOCATION]Escort Yaven Bandit[/LOCATION] is being boarded by the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 6 in the Yaven system!</Text>
+    <StarDateDescription>2769.11.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Last Intrigue[/LOCATION] is under attack by Tenacious Trap (Frigate) of the [FACTION]Hidden Vacuum Dwellers[/FACTION] at Yaven 5 in the Yaven system!</Text>
+    <StarDateDescription>2769.12.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Exploration Ship Completed</Title>
+    <Text>Construction of a new Exploration Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.01.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Construction Ship Completed</Title>
+    <Text>Construction of a new Construction Ship has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.01.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Exploration Ship Completed</Title>
+    <Text>Construction of a new Exploration Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.01.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]LT536 Mining Station[/LOCATION] is under attack by Tenacious Trap (Frigate) of the [FACTION]Hidden Vacuum Dwellers[/FACTION] at Yaven 2 in the Yaven system!</Text>
+    <StarDateDescription>2770.02.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] is under attack by Judgment of Kaamas (Destroyer) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe in the Sefokhe system!</Text>
+    <StarDateDescription>2770.02.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Decrepit Subterfuge[/LOCATION] is under attack by Evil Subjugator (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 5 in the Yaven system!</Text>
+    <StarDateDescription>2770.02.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Sailf</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Sailf[/LOCATION] in the Yosul system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2770.03.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Exploration Ship Completed</Title>
+    <Text>Construction of a new Exploration Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.03.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Construction Ship Completed</Title>
+    <Text>Retrofit of a Construction Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.03.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Mining Ship Solitary Hope[/LOCATION] is under attack by Judgment of Kaamas (Destroyer) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 4 in the Sefokhe system!</Text>
+    <StarDateDescription>2770.04.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.04.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Exploration Ship Completed</Title>
+    <Text>Construction of a new Exploration Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.04.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.04.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.04.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Escort Completed</Title>
+    <Text>Construction of a new Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.05.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Yaven Bandit[/LOCATION] is under attack by Looming Guardian (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 2 in the Yaven system!</Text>
+    <StarDateDescription>2770.05.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.28</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Escort Completed</Title>
+    <Text>Construction of a new Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.06.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Majestic Tramp[/LOCATION] is under attack by Kaamas Horizon (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 5 in the Yaven system!</Text>
+    <StarDateDescription>2770.06.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.07.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.07.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.07.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Escort Completed</Title>
+    <Text>Construction of a new Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.07.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>New Escort Completed</Title>
+    <Text>Construction of a new Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.07.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Destroyed Troop Transport</Title>
+    <Text>We have discovered the [DISCOVERY]Destroyed Troop Transport[/DISCOVERY], ancient ruins from a lost civilization, at the Volcanic planet [LOCATION]Brintaal 1[/LOCATION] in the Brintaal system.
+
+We have discovered what appears to be a crashed alien troop transport. It would be wise to investigate the planet further for signs of potential enemies.
+
+Should we investigate the ruins?</Text>
+    <StarDateDescription>2770.07.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Brintaal 1</Title>
+    <Text>We have discovered hidden items at [LOCATION]Brintaal 1[/LOCATION] in the Brintaal system.
+
+Bonuses: [BONUS]+6% Scenery from Fire Caverns of Brintaal[/BONUS]</Text>
+    <StarDateDescription>2770.07.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>An Underground Colony</Title>
+    <Text>Further investigation of the planet revealed an underground colony of the insectoid aliens. These disgusting creatures are most likely descended from survivors of the troop transport crash.
+
+These aliens have proved themselves vile not only in appearance, but also in behavior. They launched a dishonorable assault upon our surface exploration team. The Mortalen explorers were taken by surprise in a cowardly ambush, and though they fought bravely, the were outnumbered and ultimately overcome. We must avenge them and answer blood with blood.</Text>
+    <StarDateDescription>2770.07.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Who are the Boskara?</Title>
+    <Text>Our analysts have learnt the following about the Boskara:
+
+Boskara are a ferocious insectoid race with a tough brown exoskeleton skin.
+
+They are the most violent and aggressive race in the known galaxy. They excel in combat, using trickery and deceit to gain the upper-hand. Boskara are untrustworthy allies.
+
+Boskarans instinctive lust for conquest and expansion is without equal. Most other races consider them to be completely without scruples, and thus steer well clear of them. However Boskara have a natural ally in the Sluken, their slightly more reasonable close relatives.
+
+Their technology includes the deadly Shaktur FireStorm, an immensely destructive torpedo weapon. This weapon gives Boskaran star ships very powerful planetary assault capabilities, allowing them to quickly take down defending spaceports at enemy colonies. The Shaktur Firestorm also has a planetary bombardment capability, allowing the Boskara to wipe out the populations of enemy colonies.
+
+Boskara typically inhabit the forbidding terrain of Volcanic planets. Communities may sometimes also be found in the rocky mountains of Carbonaceous planets.</Text>
+    <StarDateDescription>2770.07.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Independent Colony of Boskaras encountered</Title>
+    <Text>We have encountered a new independent colony of Boskaras at [FACTION]Brintaal 1[/FACTION] in the Brintaal system.
+
+The Boskara are naturally very hostile towards us.
+
+We can invade and take over the colony by landing troops. Or we could attempt to colonize them by sending a Colony Ship, although this is unlikely to succeed due to their negative view of us.
+
+Initial communications with the Boskaras have been extremely successful. The Boskaras regard us with some friendliness.
+
+The colony has unique features that provide bonuses:
++6% Scenery from Fire Caverns of Brintaal
+
+Research projects are available on our tech tree that can increase our understanding of the Boskara. We should research these projects to improve relations with the Boskara.</Text>
+    <StarDateDescription>2770.07.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.08.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Yaven 4 Mining Station[/LOCATION] is under attack by Worthy Enforcer (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 4 in the Yaven system!</Text>
+    <StarDateDescription>2770.08.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Kaamas 7 Mining Station[/LOCATION] is under attack by Red Zenith (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 7 in the Kaamas system!</Text>
+    <StarDateDescription>2770.08.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.08.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] is under attack by Evil Subjugator (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 2 in the Sefokhe system!</Text>
+    <StarDateDescription>2770.09.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.09.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Base Raided!</Title>
+    <Text>The [FACTION]Mortalen Skyjackers[/FACTION] have raided our base [LOCATION]Yaven 4 Mining Station[/LOCATION]! In the raid they looted the following: 2,224 Argon</Text>
+    <StarDateDescription>2770.09.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Degohirt Spaceport[/LOCATION] is under attack by Judgment of Kaamas (Destroyer) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 5 in the Yaven system!</Text>
+    <StarDateDescription>2770.10.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.10.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] is under attack by Evil Subjugator (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 3 in the Sefokhe system!</Text>
+    <StarDateDescription>2770.10.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Atoita</Title>
+    <Text>We have discovered hidden items at [LOCATION]Atoita[/LOCATION] in the Kaamas system.
+
+Bonuses: [BONUS]+9% Scenery from Ice Rings of Kaamas[/BONUS]</Text>
+    <StarDateDescription>2770.10.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>System Patrol Starships Research Completed</Title>
+    <Text>We have completed research in [RESEARCH]System Patrol Starships[/RESEARCH].
+
+This project provides the following advances:
+[RESEARCH]Frigate[/RESEARCH]</Text>
+    <StarDateDescription>2770.10.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.10.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Creaboho Mining Station[/LOCATION] is under attack by Kaamas Horizon (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 2 in the Yaven system!</Text>
+    <StarDateDescription>2770.11.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Afeusc</Title>
+    <Text>We have discovered new resources at [LOCATION]Afeusc[/LOCATION] in the Javen system.
+
+Decarion Ale is a strong, bright-red colored alcohol that is made on Ice Tundra worlds. This alcohol comes from a small shrub called Decaria, which has yellow-red leaves. The alcohol is made from the roots of the plant, which reach deep into the ground. It is harvested in summer before being replanted in autumn.
+Decarion Ale provides the following bonuses: [BONUS]+5% Colony Development, +1% Colony Happiness[/BONUS]</Text>
+    <StarDateDescription>2770.11.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.11.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.12.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.12.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Kaamas 7 Mining Station[/LOCATION] is under attack by Red Zenith (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 7 in the Kaamas system!</Text>
+    <StarDateDescription>2771.01.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.01.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.02.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Black Crucible[/LOCATION] is under attack by Kaamas Horizon (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 5 in the Yaven system!</Text>
+    <StarDateDescription>2771.02.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Feeble Pride[/LOCATION] is under attack by Growling Star (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe in the Sefokhe system!</Text>
+    <StarDateDescription>2771.03.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.03.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] is under attack by Dreadful Destiny (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 3 in the Sefokhe system!</Text>
+    <StarDateDescription>2771.03.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.03.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Creaboho Mining Station[/LOCATION] is under attack by Evil Subjugator (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 2 in the Yaven system!</Text>
+    <StarDateDescription>2771.03.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Mining Ship Solitary Hope[/LOCATION] is under attack by Kaamas Serpent (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 4 in the Sefokhe system!</Text>
+    <StarDateDescription>2771.04.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Red Rage[/LOCATION] is under attack by Looming Guardian (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 4 in the Yaven system!</Text>
+    <StarDateDescription>2771.04.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.04.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.05.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Mining Station being Boarded</Title>
+    <Text>[LOCATION]Kaamas 1 Mining Station[/LOCATION] is being boarded by the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 1 in the Kaamas system!</Text>
+    <StarDateDescription>2771.05.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Ussil 3</Title>
+    <Text>We have discovered new resources at [LOCATION]Ussil 3[/LOCATION] in the Ussil system.
+
+Yapara Leaf is a low-lying shrub that grows deep in the arid wastelands of Desert Savanna worlds. The leaves are a yellowish-green color. Yapara Leaf can withstand intense heat and can survive without water for almost 10 years. The leaves of this plant are packed full of powerful phytonutrients that are very effective at protecting against toxins and pathogens.
+Yapara Leaf provides the following bonuses: [BONUS]+3% Colony Development, +2% Population Growth, +2% Plague Curing[/BONUS]</Text>
+    <StarDateDescription>2771.06.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.06.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.06.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Nibu 1 Mining Station[/LOCATION] is under attack by Courageous Reckoning (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Nibu 1 in the Nibu system!</Text>
+    <StarDateDescription>2771.07.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Yaven Bandit[/LOCATION] is under attack by Kaamas Horizon (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 2 in the Yaven system!</Text>
+    <StarDateDescription>2771.07.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.08.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.08.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at OG685</Title>
+    <Text>We have discovered hidden items at [LOCATION]OG685[/LOCATION] in the OG685 system.
+
+Bonuses: [BONUS]+6% Scenery from Spectacular Coronal Eruptions[/BONUS]</Text>
+    <StarDateDescription>2771.08.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2771.08.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Solemn Scheme[/LOCATION] is under attack by Red Zenith (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 6 in the Kaamas system!</Text>
+    <StarDateDescription>2771.09.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.09.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Base Raided!</Title>
+    <Text>The [FACTION]Mortalen Skyjackers[/FACTION] have raided our base [LOCATION]Nibu 1 Mining Station[/LOCATION]! In the raid they looted the following: 4,272 credits</Text>
+    <StarDateDescription>2771.09.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.09.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Villaceya 1</Title>
+    <Text>We have discovered new resources at [LOCATION]Villaceya 1[/LOCATION] in the Villaceya system.
+
+Dyrillium Quartz is used in high-end electronic components and energy collectors. It is found at Sulphur Volcanic worlds.
+</Text>
+    <StarDateDescription>2771.10.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] is under attack by Evil Subjugator (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 2 in the Sefokhe system!</Text>
+    <StarDateDescription>2771.10.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Accept Treaty</Title>
+    <Text>Hidden Vacuum Dwellers offers us Protection</Text>
+    <StarDateDescription>2771.10.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Kaamas 1 Mining Station[/LOCATION] is under attack by Dreadful Mutiny (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 1 in the Kaamas system!</Text>
+    <StarDateDescription>2771.11.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.11.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Yaven Advocate[/LOCATION] is under attack by Kaamas Horizon (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 3 in the Sefokhe system!</Text>
+    <StarDateDescription>2771.11.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.11.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Treasure Recovered</Title>
+    <Text>While salvaging a Hull Section in the Yaven system we have made the following discovery:
+
+We have found [DISCOVERY]valuable treasure worth 2,000 credits[/DISCOVERY].</Text>
+    <StarDateDescription>2771.11.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Solemn Gamble[/LOCATION] is under attack by a Gravillex (Main Sequence) at Nobea in the Nobea system!</Text>
+    <StarDateDescription>2771.12.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Ship Completed</Title>
+    <Text>Retrofit of a Mining Ship has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2771.12.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at AV253</Title>
+    <Text>We have discovered hidden items at [LOCATION]AV253[/LOCATION] in the Ussil system.
+
+Bonuses: [BONUS]+8% HighTech Research from Gravimetric Distortion[/BONUS]</Text>
+    <StarDateDescription>2771.12.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.12.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.01.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Ship Completed</Title>
+    <Text>Retrofit of a Mining Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.01.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Base Raided!</Title>
+    <Text>The [FACTION]Mortalen Skyjackers[/FACTION] have raided our base [LOCATION]Kaamas 1 Mining Station[/LOCATION]! In the raid they looted the following: 5,851 credits</Text>
+    <StarDateDescription>2772.01.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Yaven Advocate Taken Over!</Title>
+    <Text>Our escort [LOCATION]'Yaven Advocate'[/LOCATION] has been boarded and captured by the [FACTION]Mortalen Skyjackers[/FACTION]!</Text>
+    <StarDateDescription>2772.02.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.02.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Solemn Scheme[/LOCATION] is under attack by Looming Guardian (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 6 in the Kaamas system!</Text>
+    <StarDateDescription>2772.02.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.03.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Mining Ship Meagre Guardian[/LOCATION] is under attack by Courageous Reckoning (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 2 in the Kaamas system!</Text>
+    <StarDateDescription>2772.04.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Frugal Encounter[/LOCATION] is under attack by Kaamas Horizon (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 4 in the Yaven system!</Text>
+    <StarDateDescription>2772.04.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Construction Ship Completed</Title>
+    <Text>Retrofit of a Construction Ship has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2772.04.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Kaamas 7 Mining Station[/LOCATION] is under attack by Looming Guardian (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 7 in the Kaamas system!</Text>
+    <StarDateDescription>2772.05.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Base Raided!</Title>
+    <Text>The [FACTION]Mortalen Skyjackers[/FACTION] have raided our base [LOCATION]Yaven 4 Mining Station[/LOCATION]! In the raid they looted the following: 4,227 credits</Text>
+    <StarDateDescription>2772.06.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Base Raided!</Title>
+    <Text>The [FACTION]Mortalen Skyjackers[/FACTION] have raided our base [LOCATION]Kaamas 7 Mining Station[/LOCATION]! In the raid they looted the following: 4,465 credits</Text>
+    <StarDateDescription>2772.07.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.08.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.08.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Brintaal 2</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Brintaal 2[/LOCATION] in the Brintaal system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2772.09.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.09.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.09.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2772.10.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Small Freighter Completed</Title>
+    <Text>Construction of a new Small Freighter has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.11.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] is under attack by Kaamas Horizon (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 2 in the Sefokhe system!</Text>
+    <StarDateDescription>2772.11.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Javen 1</Title>
+    <Text>We have discovered new resources at [LOCATION]Javen 1[/LOCATION] in the Javen system.
+
+Korduva Grain is grown on Grassland worlds. This grain grows on very tall stalks of 3-4 meters in height. Each stalk can have millions of grain heads, thus producing colossal harvests. The grain is a beige color and is valued for its high nutrition and pleasant flavour.
+Korduva Grain provides the following bonuses: [BONUS]+3% Colony Development, +2% Population Growth[/BONUS]</Text>
+    <StarDateDescription>2772.11.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Javen 1</Title>
+    <Text>We have discovered new resources at [LOCATION]Javen 1[/LOCATION] in the Javen system.
+
+Muurion Wine: Muurion plants are tall bamboo-like shoots that can reach 15 meters in height. They grow on the vast plains of Grassland worlds. Muurion plants have many small fragrant flowers. The yellow petals of these flowers are used to make Muurion wine.
+Muurion Wine provides the following bonuses: [BONUS]+4% Colony Development, +1% Colony Happiness[/BONUS]</Text>
+    <StarDateDescription>2772.11.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Rail Gun Weaponry Research Completed</Title>
+    <Text>We have completed research in [RESEARCH]Rail Gun Weaponry[/RESEARCH].
+
+This project provides the following advances:
+[RESEARCH]Rail Gun [Ftr]
+Rail Gun [S]
+Rail Gun [M][/RESEARCH]</Text>
+    <StarDateDescription>2772.12.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 1[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 5[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 3[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Nibu 1[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Kaamas 1[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 6[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Mining Ship Wanderer of Yaven[/LOCATION] is under attack by Growling Star (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 4 in the Sefokhe system!</Text>
+    <StarDateDescription>2772.12.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Kaamas 7[/LOCATION].</Text>
+    <StarDateDescription>2772.12.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Small Spaceport Completed</Title>
+    <Text>Retrofit of a Small Spaceport has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2772.12.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 4[/LOCATION].</Text>
+    <StarDateDescription>2772.12.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yosul 2[/LOCATION].</Text>
+    <StarDateDescription>2773.01.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Glizareiga</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Glizareiga[/LOCATION] in the Talos system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2773.02.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Mining Ship Completed</Title>
+    <Text>Construction of a new Mining Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2773.03.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Vinaare 5</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Vinaare 5[/LOCATION] in the Vinaare system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2773.04.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Nibu 1 Mining Station[/LOCATION] is under attack by Dreadful Destiny (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Nibu 1 in the Nibu system!</Text>
+    <StarDateDescription>2773.09.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2773.11.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Lundure 4</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Lundure 4[/LOCATION] in the Lundure system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2773.11.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Lundure 4</Title>
+    <Text>We have discovered hidden items at [LOCATION]Lundure 4[/LOCATION] in the Lundure system.
+
+Bonuses: [BONUS]+6% Weapons Research from Unstable Plasma Discharges[/BONUS]</Text>
+    <StarDateDescription>2773.11.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2773.12.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Brintaal 3</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Brintaal 3[/LOCATION] in the Brintaal system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2774.01.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yosul 1[/LOCATION].</Text>
+    <StarDateDescription>2774.02.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2774.02.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] is under attack by Dreadful Destiny (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 1 in the Sefokhe system!</Text>
+    <StarDateDescription>2774.03.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Unoasu</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Unoasu[/LOCATION] in the Yaven system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2774.04.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Villaceya 3[/LOCATION].</Text>
+    <StarDateDescription>2774.04.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Red Rage[/LOCATION] is under attack by Dreadful Destiny (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 5 in the Sefokhe system!</Text>
+    <StarDateDescription>2774.04.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Nibu 1 Mining Station[/LOCATION] is under attack by Judgment of Kaamas (Destroyer) of the [FACTION]Mortalen Skyjackers[/FACTION] at Nibu 1 in the Nibu system!</Text>
+    <StarDateDescription>2774.05.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Red Rage Taken Over!</Title>
+    <Text>Our escort [LOCATION]'Red Rage'[/LOCATION] has been boarded and captured by the [FACTION]Mortalen Skyjackers[/FACTION]!</Text>
+    <StarDateDescription>2774.06.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Base Raided!</Title>
+    <Text>The [FACTION]Mortalen Skyjackers[/FACTION] have raided our base [LOCATION]Nibu 1 Mining Station[/LOCATION]! In the raid they looted the following: 4,417 credits</Text>
+    <StarDateDescription>2774.07.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Villaceya 3</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Villaceya 3[/LOCATION] in the Villaceya system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2774.10.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Kaamas 1</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Kaamas 1[/LOCATION] in the Kaamas system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2774.10.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Escort Bleak Chariot[/LOCATION] is under attack by Dreadful Destiny (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Praxles 2 in the Praxles system!</Text>
+    <StarDateDescription>2774.10.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Base Raided!</Title>
+    <Text>The [FACTION]Mortalen Skyjackers[/FACTION] have raided our base [LOCATION]Elteemifu Mining Station[/LOCATION]! In the raid they looted the following: 66 Emeros Crystal</Text>
+    <StarDateDescription>2774.12.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Feeble Pride[/LOCATION] is under attack by Judgment of Kaamas (Destroyer) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 3 in the Sefokhe system!</Text>
+    <StarDateDescription>2774.12.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Gheunin</Title>
+    <Text>We have discovered new resources at [LOCATION]Gheunin[/LOCATION] in the Javen system.
+
+Tebraakian Granite is found only on Volcanic worlds. It is formed by magma mixing with basalt and being forced deeper underground. As the magma cools it forms crystals that have a radiant red glow. Tebraakian Granite comes in a mixture of colours such as red, white, grey and black. It is a very hard granite that is used to decorate and construct buildings.
+Tebraakian Granite provides the following bonuses: [BONUS]+5% Colony Development, +1% Colony Income[/BONUS]</Text>
+    <StarDateDescription>2775.01.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Broken Twilight[/LOCATION] is under attack by Kaamas Firelance (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 4 in the Kaamas system!</Text>
+    <StarDateDescription>2775.03.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Unoasu</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Unoasu[/LOCATION] in the Yaven system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2775.03.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Aimless Agent[/LOCATION] is under attack by Judgment of Kaamas (Destroyer) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 4 in the Yaven system!</Text>
+    <StarDateDescription>2775.04.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] is under attack by Bastion of Kaamas (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 2 in the Sefokhe system!</Text>
+    <StarDateDescription>2775.04.28</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Kaamas 1 Mining Station[/LOCATION] is under attack by Invincible Revenge (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 1 in the Kaamas system!</Text>
+    <StarDateDescription>2775.05.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Treasure Recovered</Title>
+    <Text>While salvaging a Hull Section in the Nibu system we have made the following discovery:
+
+We have found [DISCOVERY]valuable treasure worth 6,200 credits[/DISCOVERY].</Text>
+    <StarDateDescription>2775.05.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Treasure Recovered</Title>
+    <Text>While salvaging a Hull Section in the Nibu system we have made the following discovery:
+
+We have found [DISCOVERY]valuable treasure worth 4,200 credits[/DISCOVERY].</Text>
+    <StarDateDescription>2775.05.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Mining Ship Yaven Evasion[/LOCATION] is under attack by Kaamas Firelance (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 6 in the Kaamas system!</Text>
+    <StarDateDescription>2775.05.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Merry Peril[/LOCATION] is under attack by Growling Star (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 5 in the Yaven system!</Text>
+    <StarDateDescription>2775.07.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Mining Ship Completed</Title>
+    <Text>Construction of a new Mining Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2775.07.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Yaven Illusion[/LOCATION] is under attack by Kaamas Sentry (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 4 in the Yaven system!</Text>
+    <StarDateDescription>2775.08.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Asceicil</Title>
+    <Text>We have discovered new resources at [LOCATION]Asceicil[/LOCATION] in the Javen system.
+
+Wiconium is an incredibly sweet type of alcohol made from the rare Wiconius plant. This plant is a cactus-like succulent. It has thick spongy leaves that contain the rich Wiconium juice. The Wiconius plant is found only on Desert Savanna worlds.
+Wiconium provides the following bonuses: [BONUS]+4% Colony Development, +2% Colony Happiness[/BONUS]</Text>
+    <StarDateDescription>2775.08.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Unknown Items Detected at Villaceya 3</Title>
+    <Text>Our exploration has detected unknown items at [LOCATION]Villaceya 3[/LOCATION] in the Villaceya system.
+
+We should explore at higher levels to reveal these items.</Text>
+    <StarDateDescription>2775.09.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Basic Point Defense Research Completed</Title>
+    <Text>We have completed research in [RESEARCH]Basic Point Defense[/RESEARCH].
+
+This project provides the following advances:
+[RESEARCH]Point Defense Cannon [PD][/RESEARCH]</Text>
+    <StarDateDescription>2775.09.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] is under attack by Judgment of Kaamas (Destroyer) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe in the Sefokhe system!</Text>
+    <StarDateDescription>2775.11.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Mining Station being Boarded</Title>
+    <Text>[LOCATION]Kaamas 1 Mining Station[/LOCATION] is being boarded by the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 1 in the Kaamas system!</Text>
+    <StarDateDescription>2775.12.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Nibu 1[/LOCATION].</Text>
+    <StarDateDescription>2775.12.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 6[/LOCATION].</Text>
+    <StarDateDescription>2775.12.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2775.12.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 1[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 5[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 3[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Great Chamber of Yaven</Title>
+    <Text>We have discovered the [DISCOVERY]Great Chamber of Yaven[/DISCOVERY], ancient ruins from a lost civilization, at the Volcanic moon [LOCATION]Unoasu[/LOCATION] in the Yaven system.
+
+Our orbital inspection reveals that the ruins date from an extremely distant past age.
+
+Should we investigate the ruins?</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Refugee Fleet</Title>
+    <Text>In the Great Chamber of Yaven we have made a curious discovery:
+
+Our expedition found a powerful locator beacon. They [DISCOVERY]activated the beacon[/DISCOVERY] and its signal has been picked up by a [DISCOVERY]fleet of 11 ships[/DISCOVERY] that has just hyperjumped into the Yaven system!
+
+A message from the fleet explains: 'Greetings! We are Sluken refugees from a far away galaxy. We were driven from our home by a cruel alien race who pursued us in a brutal war. We seek refuge with you and wish to join your empire. In return, we offer you our fleet of ships.'
+
+Their fleet consists of some colony ships and a small escort of military ships. The ships appear to be quite advanced.
+
+If we want to absorb these refugees into our empire and claim their ships then we should move towards their fleet at Unoasu.
+
+These ruins provide the following colony bonuses: [BONUS]+17% Colony Development, +13% Troop Research, +16% Scenery[/BONUS]
+
+We can acquire research bonuses by building a research station here.
+
+We can acquire scenery bonuses by building a resort base here.
+
+To obtain the other bonuses we should colonize this planet.</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Kaamas 7[/LOCATION].</Text>
+    <StarDateDescription>2775.12.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Small Spaceport Completed</Title>
+    <Text>Retrofit of a Small Spaceport has been completed at [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2775.12.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Praxles 2[/LOCATION].</Text>
+    <StarDateDescription>2776.01.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Kaamas 7 Mining Station[/LOCATION] is under attack by Kaamas Firelance (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 7 in the Kaamas system!</Text>
+    <StarDateDescription>2776.01.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Nibu 1 Mining Station[/LOCATION] is under attack by Invincible Revenge (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Nibu 1 in the Nibu system!</Text>
+    <StarDateDescription>2776.01.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Kaamas 1[/LOCATION].</Text>
+    <StarDateDescription>2776.01.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yosul 2[/LOCATION].</Text>
+    <StarDateDescription>2776.01.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Mining Ship Completed</Title>
+    <Text>Construction of a new Mining Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2776.02.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Noble Bluff[/LOCATION] is under attack by Dreadful Destiny (Escort) of the [FACTION]Mortalen Skyjackers[/FACTION] at Yaven 5 in the Yaven system!</Text>
+    <StarDateDescription>2776.02.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2776.03.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Escort Completed</Title>
+    <Text>Retrofit of a Escort has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2776.03.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Retrofit of Mining Station Completed</Title>
+    <Text>Retrofit of a Mining Station has been completed at [LOCATION]Yaven 4[/LOCATION].</Text>
+    <StarDateDescription>2776.03.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Base Raided!</Title>
+    <Text>The [FACTION]Mortalen Skyjackers[/FACTION] have raided our base [LOCATION]Nibu 1 Mining Station[/LOCATION]! In the raid they looted the following: 6,136 credits</Text>
+    <StarDateDescription>2776.03.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>New Mining Ship Completed</Title>
+    <Text>Construction of a new Mining Ship has been completed at [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2776.03.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Kaamas 1</Title>
+    <Text>We have discovered new resources at [LOCATION]Kaamas 1[/LOCATION] in the Kaamas system.
+
+Megallos Nut is the tangy yellow nut of the Megallos tree. These trees have a gnarled, twisted appearance. They grow very slowly, usually taking 2,000 years to reach a mature height of 5 meters. Their vast root system can spread for up to 30 meters in every direction. They grow deep within dense forests on Continental worlds.
+Megallos Nut provides the following bonuses: [BONUS]+3% Colony Development, +1% Population Growth[/BONUS]</Text>
+    <StarDateDescription>2776.03.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Base Raided!</Title>
+    <Text>The [FACTION]Mortalen Skyjackers[/FACTION] have raided our base [LOCATION]Kaamas 7 Mining Station[/LOCATION]! In the raid they looted the following: 168 Attarion Fur, 18 Vodkol, 52 Hexodorium</Text>
+    <StarDateDescription>2776.04.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Retrofit of Research Station Completed</Title>
+    <Text>Retrofit of a Research Station has been completed at [LOCATION]Ussil Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2776.04.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Small Freighter Hasty Miracle[/LOCATION] is under attack by Kaamas Firelance (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Kaamas 1 in the Kaamas system!</Text>
+    <StarDateDescription>2776.04.28</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] is under attack by Dreadful Mutiny (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Sefokhe 2 in the Sefokhe system!</Text>
+    <StarDateDescription>2776.05.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Discovery at Nobea 2</Title>
+    <Text>We have discovered new resources at [LOCATION]Nobea 2[/LOCATION] in the Nobea system.
+
+Aquasian Incense is an intense blue-colored perfume. It is made from a combination of various unique ingredients found on Ocean worlds. The primary ingredient is poisonous spines from Dakhul deep sea anemones. Another constituent is brilliant blue Orkton coral, crushed to a fine powder.
+Aquasian Incense provides the following bonuses: [BONUS]+6% Colony Development, +1% Population Growth[/BONUS]</Text>
+    <StarDateDescription>2776.07.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Under Attack</Title>
+    <Text>[LOCATION]Elteemifu Mining Station[/LOCATION] is under attack by Dreadful Mutiny (Frigate) of the [FACTION]Mortalen Skyjackers[/FACTION] at Praxles 2 in the Praxles system!</Text>
+    <StarDateDescription>2776.08.17</StarDateDescription>
+  </EmpireMessage>
+</ArrayOfEmpireMessage>

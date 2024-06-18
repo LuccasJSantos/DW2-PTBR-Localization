@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfColonyEventDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>82</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0.025</RandomInitiationChance>
+		<MinimumIntervalPerEmpireYears>20</MinimumIntervalPerEmpireYears>
+		<GovernmentFilterIds>
+			<short>2</short>
+		</GovernmentFilterIds>
+		<Bonuses>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.10</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Research and Development Surge</Name>
+		<Description>Our [B]Democratic form of government[/B] has encouraged the enterprising spirit of our people.
+			
+Research and Development spending by our private corporations has soared.
+			
+Thus for the next year our empire will enjoy the following bonuses:
+
+[ULI][BONUS]+10% boost to All Research[/BONUS][/ULI]</Description>
+		<ImageFilename>Environment/Events/Democracy Positive Boost</ImageFilename>
+	</ColonyEventDefinition>
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>83</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0.025</RandomInitiationChance>
+		<MinimumIntervalPerEmpireYears>20</MinimumIntervalPerEmpireYears>
+		<GovernmentFilterIds>
+			<short>2</short>
+		</GovernmentFilterIds>
+		<Bonuses>
+			<Bonus>
+				<Type>Diplomacy</Type>
+				<Amount>0.10</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Cooperative Energy</Name>
+		<Description>Our [B]Democratic form of government[/B] has encouraged the enterprising spirit of our people.
+
+A strong desire for unity and cooperation is growing throughout our population.
+
+Thus for the next year our empire will enjoy the following bonuses:
+
+[ULI][BONUS]+10% boost to Diplomacy[/BONUS][/ULI]</Description>
+		<ImageFilename>Environment/Events/Democracy Positive Boost</ImageFilename>
+	</ColonyEventDefinition>
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>84</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0.025</RandomInitiationChance>
+		<MinimumIntervalPerEmpireYears>20</MinimumIntervalPerEmpireYears>
+		<GovernmentFilterIds>
+			<short>2</short>
+		</GovernmentFilterIds>
+		<Bonuses>
+			<Bonus>
+				<Type>Espionage</Type>
+				<Amount>0.10</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Spy Thrillers</Name>
+		<Description>Our [B]Democratic form of government[/B] has encouraged the enterprising spirit of our people.
+
+A popular fascination with spy thriller novels and movies has caused a focus on espionage and intelligence missions.
+
+Thus for the next year our empire will enjoy the following bonuses:
+
+[ULI][BONUS]+10% boost to Espionage[/BONUS][/ULI]</Description>
+		<ImageFilename>Environment/Events/Democracy Positive Boost</ImageFilename>
+	</ColonyEventDefinition>
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>85</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0.025</RandomInitiationChance>
+		<MinimumIntervalPerEmpireYears>20</MinimumIntervalPerEmpireYears>
+		<GovernmentFilterIds>
+			<short>2</short>
+		</GovernmentFilterIds>
+		<Bonuses>
+			<Bonus>
+				<Type>TroopRecruitment</Type>
+				<Amount>0.10</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+			<Bonus>
+				<Type>TroopMaintenance</Type>
+				<Amount>0.10</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Action Movies</Name>
+		<Description>Our [B]Democratic form of government[/B] has encouraged the enterprising spirit of our people.
+
+A popular fascination with patriotic action movies has caused a focus on military matters.
+
+Thus for the next year our empire will enjoy the following bonuses:
+
+[ULI][BONUS]+10% boost to Troop Recruitment Rate[/BONUS][/ULI]
+[ULI][BONUS]+10% boost to Troop Maintenance Savings[/BONUS][/ULI]</Description>
+		<ImageFilename>Environment/Events/Democracy Positive Boost</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>86</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>-5</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<MinimumIntervalPerEmpireYears>10</MinimumIntervalPerEmpireYears>
+		<CanBeManuallyInitiated>true</CanBeManuallyInitiated>
+		<ManualInitiationCost>20000</ManualInitiationCost>
+		<GovernmentFilterIds>
+			<short>5</short>
+		</GovernmentFilterIds>
+		<Bonuses>
+			<Bonus>
+				<Type>TroopRecruitment</Type>
+				<Amount>1.00</Amount>
+				<AppliesTo>Item</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+			<Bonus>
+				<Type>ConstructionSpeedAllShips</Type>
+				<Amount>1.00</Amount>
+				<AppliesTo>Item</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+			<Bonus>
+				<Type>ConstructionSpeedFacility</Type>
+				<Amount>1.00</Amount>
+				<AppliesTo>Item</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+			<Bonus>
+				<Type>ColonyDefense</Type>
+				<Amount>0.25</Amount>
+				<AppliesTo>Item</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>War World</Name>
+		<Description></Description>
+		<ImageFilename>Environment/Events/War World</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>87</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1</DurationMinimum>
+		<DurationMaximum>1</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>-5</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<MinimumIntervalPerEmpireYears>0</MinimumIntervalPerEmpireYears>
+		<Bonuses>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Flag Ship Destroyed</Name>
+		<Description>Our empire flag ship has been lost in battle.\n\nThis catastrophic event has produced a wave of mourning, lowering happiness for the next year.</Description>
+		<ImageFilename>Environment/Events/flagship negative</ImageFilename>
+	</ColonyEventDefinition>
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>88</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1</DurationMinimum>
+		<DurationMaximum>1</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>5</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<MinimumIntervalPerEmpireYears>0</MinimumIntervalPerEmpireYears>
+		<Bonuses>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Flag Ship Triumphs</Name>
+		<Description>Our empire flag ship has triumphed in a decisive battle.\n\nThis great exploit has produced a wave of patriotic sentiment, raising happiness for the next year.</Description>
+		<ImageFilename>Environment/Events/flagship positive</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>89</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1000</DurationMinimum>
+		<DurationMaximum>1000</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<MinimumIntervalPerEmpireYears>0</MinimumIntervalPerEmpireYears>
+		<Bonuses>
+			<Bonus>
+				<Type>ColonyPopulationGrowthRate</Type>
+				<Amount>0.50</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>War Spawning</Name>
+		<Description></Description>
+		<ImageFilename>Environment/Events/Hive Mind Population Boost</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>90</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<MinimumIntervalPerEmpireYears>0</MinimumIntervalPerEmpireYears>
+		<Bonuses>
+			<Bonus>
+				<Type>TroopRecruitment</Type>
+				<Amount>1.00</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Feudal Obligation</Name>
+		<Description></Description>
+		<ImageFilename>Environment/Events/Feudalism Troop Boost</ImageFilename>
+	</ColonyEventDefinition>
+
+</ArrayOfColonyEventDefinition>
