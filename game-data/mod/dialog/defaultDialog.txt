@@ -1,152 +1,151 @@
 
-INFO_NOFUNDS				;Looks like you don't have enough money to pay for this
-INFO_UNMETEMPIRE			;The new empire is called the {0}
-INFO_EXPLORATION	 		;We have given you maps of the {0} system in sector {1}
-INFO_INDEPENDENTCOLONY			;The independent colony is at the {0} 
-INFO_RUINS				;Our contacts tell us about some ancient ruins, the {0}, at the {1}.\n\nMaybe you will find something of value there...
-INFO_DEBRISFIELD			;We have heard rumors about a vast debris field of ship wrecks from an ancient battle in the {0} system in sector {1}.\n\nApparently many of the wrecks are salvageable. If you send a construction ship you should be able to recover some of them...
-INFO_PLANETDESTROYER			;We have heard rumors about a colossal abandoned construction project in the {0} system in sector {1}.\n\nWe are unsure what the project is for, but with the right equipment it could probably be completed...
-INFO_RESTRICTEDAREA			;We have heard rumors about a secret restricted area near the {0} system in sector {1}.\n\nApparently ships entering this area find that their hyperdrive becomes suddenly and mysteriously disabled. Many who enter are never heard from again...
-PIRATE_PROTECTIONPROPOSE		;You are wise to come to us for protection. For the entirely reasonable fee shown below we can ensure your safety throughout our domain.
-PIRATE_PROTECTIONPROPOSEINITIATE	;Who knows what hidden dangers await you when travelling through the lawless regions of space?\n\nFor the entirely reasonable fee shown below we can ensure your safety throughout our domain.\n\nWhat do you say?
-PIRATE_PROTECTIONACCEPTRESPONSE		;Excellent! We will ensure that your ships do not suffer any 'unfortunate accidents' until our next fee is due...
-PIRATE_PROTECTIONREJECTRESPONSE		;Too bad you're so cheap! Without payment we cannot guarantee your safety...
-PIRATE_PROTECTIONALREADYPAID		;You have already paid us protection.\n\nCome back when your current protection period expires. We will be happy to accept further payment then.
-PIRATE_BUYINFO				;We can supply you information on any of the items listed below for the prices indicated
-PIRATE_ATTACKOFFER_EMPIRES		;We would be willing to attack any of the empires listed below for the prices indicated
-PIRATE_ATTACKOFFER_SINGLEEMPIRE		;Seems like you're having trouble with the {0}. We would be very happy to attack their bases for you.\n\nOf course we would be very discreet about our arrangement - no one else would know.\n\nAll we ask for this service is a small payment of {1} credits. What do you say?
-PIRATE_ATTACKCOMMENCE			;Consider it money well spent. We will commence our attacks on the {0} immediately!
+INFO_NOFUNDS				;Parece que você não tem dinheiro suficiente para pagar por isso
+INFO_UNMETEMPIRE			;O novo império é chamado de {0}
+INFO_EXPLORATION	 		;Nós lhe demos mapas do sistema {0} no setor {1}
+INFO_INDEPENDENTCOLONY			;A colônia independente está em {0}
+INFO_RUINS				;Nossos contatos nos informam sobre algumas ruínas antigas, o {0}, em {1}.\n\nTalvez você encontre algo de valor lá...
+INFO_DEBRISFIELD			;Ouvimos rumores sobre um vasto campo de destroços de naves de uma batalha antiga no sistema {0} no setor {1}.\n\nAparentemente muitos dos destroços são recuperáveis. Se você enviar uma nave de construção, deverá conseguir recuperar alguns deles...
+INFO_PLANETDESTROYER			;Ouvimos rumores sobre um projeto colossal abandonado no sistema {0} no setor {1}.\n\nNão temos certeza para que serve o projeto, mas com o equipamento certo provavelmente poderia ser concluído...
+INFO_RESTRICTEDAREA			;Ouvimos rumores sobre uma área restrita secreta perto do sistema {0} no setor {1}.\n\nParece que as naves que entram nesta área têm seus drives hiperespaciais desativados de repente e misteriosamente. Muitos que entram nunca mais são ouvidos...
+PIRATE_PROTECTIONPROPOSE		;Você é sábio em vir até nós em busca de proteção. Pela taxa totalmente razoável mostrada abaixo, podemos garantir sua segurança em todo o nosso domínio.
+PIRATE_PROTECTIONPROPOSEINITIATE	;Quem sabe que perigos ocultos o esperam ao viajar pelas regiões sem lei do espaço?\n\nPela taxa totalmente razoável mostrada abaixo, podemos garantir sua segurança em todo o nosso domínio.\n\nO que você diz?
+PIRATE_PROTECTIONACCEPTRESPONSE		;Excelente! Garantiremos que suas naves não sofram 'acidentes infelizes' até que nossa próxima taxa seja devida...
+PIRATE_PROTECTIONREJECTRESPONSE		;Pena que você é tão mesquinho! Sem pagamento, não podemos garantir sua segurança...
+PIRATE_PROTECTIONALREADYPAID		;Você já nos pagou pela proteção.\n\nVolte quando seu período de proteção atual expirar. Teremos prazer em aceitar outro pagamento então.
+PIRATE_BUYINFO				;Podemos fornecer informações sobre qualquer um dos itens listados abaixo pelos preços indicados
+PIRATE_ATTACKOFFER_EMPIRES		;Estaríamos dispostos a atacar qualquer um dos impérios listados abaixo pelos preços indicados
+PIRATE_ATTACKOFFER_SINGLEEMPIRE		;Parece que você está tendo problemas com o {0}. Ficaríamos muito felizes em atacar suas bases por você.\n\nÉ claro que seremos muito discretos sobre nosso acordo - ninguém mais saberá.\n\nTudo o que pedimos por esse serviço é um pequeno pagamento de {1} créditos. O que você diz?
+PIRATE_ATTACKCOMMENCE			;Considere um dinheiro bem gasto. Vamos iniciar nossos ataques ao {0} imediatamente!
 
-PIRATE_ALLIANCEPROPOSE			;Your previous arrangement with us has now expired. Why not upgrade to a permanent alliance with us?\n\nFor the ongoing monthly fee of {0} credits, we could both protect your ships and also attack your enemies, while you keep your hands clean.\n\nWhat do you think?
-PIRATE_ALLIANCEACCEPT			;We accept your offer of an alliance
-PIRATE_ALLIANCEACCEPTRESPONSE	;An excellent decision!\n\nWe'll make sure that your ships are safe from our marauders. And we'll start targetting the assets of your enemies.\n\nLet us know if there's anyone you'd especially like us to attack
-PIRATE_ALLIANCEREJECT			;We reject your alliance offer
-PIRATE_ALLIANCEREJECTRESPONSE	;A poor choice.\n\nWe cannot help you without appropriate reimbursement.\n\nPiracy is an expensive business you know!
-PIRATE_ALLIANCECANCEL			;We wish to cancel this alliance
-PIRATE_ALLIANCECANCELRESPONSE	;A sad end to a most profitable relationship...\n\nRemember that without ongoing payment we cannot ensure the safety of your ships.\n\nMaybe you should reconsider?
+PIRATE_ALLIANCEPROPOSE			;Seu acordo anterior conosco agora expirou. Que tal atualizar para uma aliança permanente conosco?\n\nPela taxa mensal contínua de {0} créditos, poderíamos proteger suas naves e também atacar seus inimigos, enquanto você mantém as mãos limpas.\n\nO que você acha?
+PIRATE_ALLIANCEACCEPT			;Aceitamos sua oferta de uma aliança
+PIRATE_ALLIANCEACCEPTRESPONSE	;Uma decisão excelente!\n\nVamos garantir que suas naves estejam seguras contra nossos saqueadores. E começaremos a mirar nos bens de seus inimigos.\n\nInforme-nos se há alguém que você gostaria especialmente que atacássemos
+PIRATE_ALLIANCEREJECT			;Rejeitamos sua oferta de aliança
+PIRATE_ALLIANCEREJECTRESPONSE	;Uma escolha ruim.\n\nNão podemos ajudá-lo sem a devida remuneração.\n\nPirataria é um negócio caro, você sabe!
+PIRATE_ALLIANCECANCEL			;Desejamos cancelar esta aliança
+PIRATE_ALLIANCECANCELRESPONSE	;Um fim triste para um relacionamento tão lucrativo...\n\nLembre-se de que sem pagamento contínuo não podemos garantir a segurança de suas naves.\n\nTalvez você deva reconsiderar?
 
-INFO_OFFER_UNMETEMPIRE			;Exchange with other civilizations is the key to growth and prosperity, don't you think?\n\nWe can put you in contact with another empire for {0} credits
-INFO_OFFER_INDEPENDENTCOLONY		;Wondering where to establish your next colony?\n\nWe can reveal the location of an independent colony for {0} credits
-INFO_OFFER_SYSTEMMAPS			;Knowing your surroundings is key to survival.\n\nWe have maps of an unexplored system that we are willing to sell to you for {0} credits
-INFO_OFFER_RUINS			;There are many valuable secrets hidden throughout the galaxy.\n\nWe have made an intriguing discovery that we would be happy to share with you for {0} credits.\n\nWhat do you say?
-INFO_OFFER_DEBRISFIELD			;There are many valuable secrets hidden throughout the galaxy.\n\nWe have made an intriguing discovery that we would be happy to share with you for {0} credits.\n\nWhat do you say?
-INFO_OFFER_RESTRICTEDAREA		;There are many valuable secrets hidden throughout the galaxy.\n\nWe have made an intriguing discovery that we would be happy to share with you for {0} credits.\n\nWhat do you say?
-INFO_OFFER_PLANETDESTROYER		;There are many valuable secrets hidden throughout the galaxy.\n\nWe have made an intriguing discovery that we would be happy to share with you for {0} credits.\n\nWhat do you say?
+INFO_OFFER_UNMETEMPIRE			;A troca com outras civilizações é a chave para o crescimento e a prosperidade, você não acha?\n\nPodemos colocá-lo em contato com outro império por {0} créditos
+INFO_OFFER_INDEPENDENTCOLONY		;Se perguntando onde estabelecer sua próxima colônia?\n\nPodemos revelar a localização de uma colônia independente por {0} créditos
+INFO_OFFER_SYSTEMMAPS			;Conhecer seus arredores é a chave para sobrevivência.\n\nTemos mapas de um sistema inexplorado que estamos dispostos a vender para você por {0} créditos
+INFO_OFFER_RUINS			;Existem muitos segredos valiosos escondidos pela galáxia.\n\nFizemos uma descoberta intrigante que ficaríamos felizes em compartilhar com você por {0} créditos.\n\nO que você diz?
+INFO_OFFER_DEBRISFIELD			;Existem muitos segredos valiosos escondidos pela galáxia.\n\nFizemos uma descoberta intrigante que ficaríamos felizes em compartilhar com você por {0} créditos.\n\nO que você diz?
+INFO_OFFER_RESTRICTEDAREA		;Existem muitos segredos valiosos escondidos pela galáxia.\n\nFizemos uma descoberta intrigante que ficaríamos felizes em compartilhar com você por {0} créditos.\n\nO que você diz?
+INFO_OFFER_PLANETDESTROYER		;Existem muitos segredos valiosos escondidos pela galáxia.\n\nFizemos uma descoberta intrigante que ficaríamos felizes em compartilhar com você por {0} créditos.\n\nO que você diz?
 
-OFFER_FREETRADE				;We urge you to join with our dynamic economy in a Free Trade Agreement!\n\nWhat do you say?
-OFFER_PROTECTORATE			;Our friends, we offer you refuge in a Protectorate treaty. Our mighty empire will defend you against any attackers.\n\nWhat do you think?
-OFFER_MUTUALDEFENSE			;Our good friends, we feel that it would be in both our best interests to form a Mutual Defense Pact.\n\nThis would discourage others from launching attacks against either of us.\n\nWhat do you think?
+OFFER_FREETRADE				;Instamos você a se juntar à nossa economia dinâmica em um Acordo de Livre Comércio!\n\nO que você diz?
+OFFER_PROTECTORATE			;Nossos amigos, oferecemos-lhe refúgio em um tratado de Protetorado. Nosso poderoso império irá defendê-lo contra quaisquer atacantes.\n\nO que você acha?
+OFFER_MUTUALDEFENSE			;Nossos bons amigos, sentimos que seria do interesse de ambos formar um Pacto de Defesa Mútua.\n\nIsso desencorajaria outros de lançar ataques contra qualquer um de nós.\n\nO que você acha?
 
-OFFER_DEAL_TERRITORYMAP	;Care to swap territory maps?
-OFFER_DEAL_GALAXYMAP	;Care to swap galaxy maps?
-OFFER_DEAL_COMPONENT	;Would you like to buy some technology from us?\n\nWe are willing to sell you {0} for {1} credits.\n\nWhat do you say?
+OFFER_DEAL_TERRITORYMAP	;Gostaria de trocar mapas de território?
+OFFER_DEAL_GALAXYMAP	;Gostaria de trocar mapas da galáxia?
+OFFER_DEAL_COMPONENT	;Gostaria de comprar alguma tecnologia de nós?\n\nEstamos dispostos a vender {0} por {1} créditos.\n\nO que você diz?
 
-DEAL_OFFER				;Please consider this trade offer.\n\nWe give you: {0}...\n\n...in exchange for: {1}
-DEAL_DEMAND				;We require you to relinquish ownership of this:\n\n{1}
-DEAL_THREAT				;You must give us this:\n\n{1}\n\n...{0}
-DEAL_ACCEPTCOMPLAIN		;We accede to your outrageous demands, but under duress!
-DEAL_IMPROVE			;Your proposal is worthy of further consideration - can you improve your offer?
-DEAL_REJECTCOMPLAIN		;Don't bully us! We are not scared of your threats!
-DEAL_REJECTDEMAND_RESPONSE	;How dare you reject our entirely reasonable ultimatum!\n\nThat's the last mistake you'll ever make!
-'DEAL_REJECTCOMPLAIN		;This proposal is totally one-sided! We will NOT accept it!
-'DEAL_REJECTCOMPLAIN		;Don't bully us! Offer a fair trade and we might consider it
+DEAL_OFFER				;Por favor, considere esta oferta comercial.\n\nNós lhe damos: {0}...\n\n...em troca de: {1}
+DEAL_DEMAND				;Exigimos que você renuncie à propriedade disso:\n\n{1}
+DEAL_THREAT				;Você deve nos dar isso:\n\n{1}\n\n...{0}
+DEAL_ACCEPTCOMPLAIN		;Nós concordamos com suas demandas ultrajantes, mas sob coação!
+DEAL_IMPROVE			;Sua proposta merece mais consideração - você pode melhorar sua oferta?
+DEAL_REJECTCOMPLAIN		;Não nos intimide! Não temos medo de suas ameaças!
+DEAL_REJECTDEMAND_RESPONSE	;Como ousa rejeitar nossa ultimato totalmente razoável!\n\nEssa será a última vez que você comete esse erro!
+'DEAL_REJECTCOMPLAIN		;Esta proposta é totalmente unilateral! NÃO vamos aceitá-la!
+'DEAL_REJECTCOMPLAIN		;Não nos intimide! Ofereça um comércio justo e talvez consideremos
 
-MUTUALDEFENSE_ACCEPT			;We agree, a Mutual Defense Pact with you would be highly beneficial.\n\nLong live our alliance!
-MUTUALDEFENSE_REJECT			;Thank you for your offer, but we do not desire a Mutual Defense Pact at this time
-MUTUALDEFENSE_REQUESTHELP		;We are under attack from the {0}! We call on you to honor your treaty with us and declare war on them.\n\nWill you stand with us?
-MUTUALDEFENSE_HONORREQUESTHELP		;We stand alongside our friends and allies - we declare war on the {0}!
-MUTUALDEFENSE_HONORREQUESTHELP_RESPONSE	;We deeply appreciate your loyal support friend!
-MUTUALDEFENSE_DECLINEREQUESTHELP	;Sorry but you're on your own...
-MUTUALDEFENSE_DECLINEREQUESTHELP_RESPONSE	;We will not forget the way you treacherously abandoned us!
-PROTECTORATE_ACCEPT			;We gratefully accept your offer of a Protectorate!
-PROTECTORATE_REJECT			;Sorry, but we do not want to be part of a Protectorate treaty at the moment
-FREETRADE_ACCEPT			;We gladly accept your offer of a Free Trade Agreement!
-FREETRADE_REJECT			;Sorry, but we are not interested in a Free Trade Agreement at this time
+MUTUALDEFENSE_ACCEPT			;Concordamos, um Pacto de Defesa Mútua com você seria altamente benéfico.\n\nViva nossa aliança!
+MUTUALDEFENSE_REJECT			;Obrigado pela oferta, mas não desejamos um Pacto de Defesa Mútua neste momento
+MUTUALDEFENSE_REQUESTHELP		;Estamos sendo atacados pelos {0}! Pedimos que você honre seu tratado conosco e declare guerra contra eles.\n\nVocê ficará ao nosso lado?
+MUTUALDEFENSE_HONORREQUESTHELP		;Estamos ao lado de nossos amigos e aliados - declaramos guerra aos {0}!
+MUTUALDEFENSE_HONORREQUESTHELP_RESPONSE	;Agradecemos profundamente seu apoio leal, amigo!
+MUTUALDEFENSE_DECLINEREQUESTHELP	;Desculpe, mas você está por sua conta...
+MUTUALDEFENSE_DECLINEREQUESTHELP_RESPONSE	;Não esqueceremos como você nos abandonou traiçoeiramente!
 
+PROTECTORATE_ACCEPT			;Aceitamos graciosamente sua oferta de um Protetorado!
+PROTECTORATE_REJECT			;Desculpe, mas não queremos fazer parte de um tratado de Protetorado no momento
+FREETRADE_ACCEPT			;Aceitamos com prazer sua oferta de um Acordo de Livre Comércio!
+FREETRADE_REJECT			;Desculpe, mas não estamos interessados em um Acordo de Livre Comércio neste momento
 
-SUBJUGATION_RELEASE_RESPONSE		;Freedom at last!
-SUBJUGATIONDEMAND_ACCEPT_RESPONSE	;Welcome to our new slaves! Defeat is bitter, wouldn't you agree?
-WAR_END_ACCEPT_RESPONSE			;A wise choice
+SUBJUGATION_RELEASE_RESPONSE		;Liberdade finalmente!
+SUBJUGATIONDEMAND_ACCEPT_RESPONSE	;Bem-vindos aos nossos novos escravos! A derrota é amarga, não é?
+WAR_END_ACCEPT_RESPONSE			;Uma escolha sábia
 
-TRADESANCTIONS_IMPOSE			;We are imposing Trade Sanctions against you. Effective immediately, all trade between our two empires is terminated!
-TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;This is an outrage! You will pay for this perfidy!
-TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Fine then! This will hurt you more than us!
-TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Trade Sanctions?! What did we do wrong? I thought we were friends!
-TRADESANCTIONS_LIFT			;We are lifting our Trade Sanctions against you. We will now resume normal trade
-TRADESANCTIONS_LIFT_RESPONSE		;Huh! We do not need your trade,... but we accept this change
-TRADESANCTIONS_REQUESTLIFTOTHER		;We demand that you restore trade with the {0} at once!
-TRADESANCTIONS_REQUESTLIFTOTHER_ACCEPT	;As you have requested, we will resume trade with the {0}
-TRADESANCTIONS_REQUESTLIFTOTHER_REJECT	;We see no reason to resume trade with the {0}
-TRADESANCTIONS_REQUESTIMPOSEJOINT	;We request that you terminate trade with the {0}
-TRADESANCTIONS_REQUESTIMPOSEJOINT_ACCEPT	;At your request, we have terminated all trade with the {0}
-TRADESANCTIONS_REQUESTIMPOSEJOINT_REJECT	;We see no need to end trade with the {0}
+TRADESANCTIONS_IMPOSE			;Estamos impondo Sanções Comerciais contra você. Com efeito imediato, todo comércio entre nossos dois impérios está terminado!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Isso é um ultraje! Você pagará por essa perfídia!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Tudo bem então! Isso vai te machucar mais do que a nós!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Sanções Comerciais?! O que fizemos de errado? Pensei que éramos amigos!
+TRADESANCTIONS_LIFT			;Estamos suspendendo nossas Sanções Comerciais contra você. Agora retomaremos o comércio normal
+TRADESANCTIONS_LIFT_RESPONSE		;Huh! Não precisamos do seu comércio,... mas aceitamos essa mudança
+TRADESANCTIONS_REQUESTLIFTOTHER		;Exigimos que você restaure o comércio com os {0} imediatamente!
+TRADESANCTIONS_REQUESTLIFTOTHER_ACCEPT	;Como você solicitou, vamos retomar o comércio com os {0}
+TRADESANCTIONS_REQUESTLIFTOTHER_REJECT	;Não vemos motivo para retomar o comércio com os {0}
+TRADESANCTIONS_REQUESTIMPOSEJOINT	;Solicitamos que você termine o comércio com os {0}
+TRADESANCTIONS_REQUESTIMPOSEJOINT_ACCEPT	;A seu pedido, terminamos todo o comércio com os {0}
+TRADESANCTIONS_REQUESTIMPOSEJOINT_REJECT	;Não vemos necessidade de encerrar o comércio com os {0}
 
-WAR_DECLARE				;We formally declare War on your worthless empire. Your colonies await liberation from your tyranny
-'WAR_DECLARE_RESPONSE_EAGER		;We eagerly anticipate crushing your worthless empire to dust!
-'WAR_DECLARE_RESPONSE_NEUTRAL		;So be it. Prepare your defenses!
-'WAR_DECLARE_RESPONSE_SURPRISED		;There must be some mistake! What did we do to offend you?! Aren't we friends any more?
+WAR_DECLARE				;Declaramos formalmente guerra ao seu império sem valor. Suas colônias aguardam libertação de sua tirania
+'WAR_DECLARE_RESPONSE_EAGER		;Antecipamos ansiosamente esmagar seu império sem valor até virar pó!
+'WAR_DECLARE_RESPONSE_NEUTRAL		;Seja assim. Prepare suas defesas!
+'WAR_DECLARE_RESPONSE_SURPRISED		;Deve haver algum engano! O que fizemos para te ofender?! Não somos mais amigos?
 
-WAR_DECLARE_REQUESTJOINT		;We formally request that you declare war on the {0}
-WAR_DECLARE_REQUESTJOINT_ACCEPT		;At your request, we declare war on the {0}
-WAR_DECLARE_REQUESTJOINT_REJECT		;We will not declare war on the {0}. Fight your own wars!
+WAR_DECLARE_REQUESTJOINT		;Solicitamos formalmente que você declare guerra ao {0}
+WAR_DECLARE_REQUESTJOINT_ACCEPT		;A seu pedido, declaramos guerra ao {0}
+WAR_DECLARE_REQUESTJOINT_REJECT		;Não declararemos guerra ao {0}. Lute suas próprias guerras!
 
-WAR_END					;We propose an end to this pointless war.\n\nWhat do you say?
-WAR_END_SUBJUGATIONDEMAND		;We agree to end this war only if you agree to enslave yourselves and become our Subjugated Dominion.\n\nA small price to pay to spare your lives, don't you think?
-WAR_END_SUBJUGATIONOFFER		;We offer to subjugate ourselves as slaves of your mighty empire if you agree to end this destructive war against us.\n\nYour humble slaves await your reply - what do you say?
+WAR_END					;Propomos um fim a esta guerra sem sentido.\n\nO que você diz?
+WAR_END_SUBJUGATIONDEMAND		;Concordamos em encerrar esta guerra apenas se você concordar em se escravizar e se tornar nosso Domínio Subjugado.\n\nUm pequeno preço a pagar para poupar suas vidas, não acha?
+WAR_END_SUBJUGATIONOFFER		;Oferecemos nos submeter como escravos de seu poderoso império se você concordar em encerrar esta guerra destrutiva contra nós.\n\nSeus humildes escravos aguardam sua resposta - o que você diz?
 
-WAR_END_REQUESTOTHER			;Please end your war with the {0}
-WAR_END_REQUESTOTHER_ACCEPT		;At your request, we will end our war with the {0}
-WAR_END_REQUESTOTHER_REJECT		;We will not stop our fight against the miserable {0}!
+WAR_END_REQUESTOTHER			;Por favor, encerre sua guerra com o {0}
+WAR_END_REQUESTOTHER_ACCEPT		;A seu pedido, encerraremos nossa guerra com o {0}
+WAR_END_REQUESTOTHER_REJECT		;Não vamos parar nossa luta contra os miseráveis {0}!
 
-SUBJUGATIONDEMAND_ACCEPT		;Yes, we accept defeat and acknowledge your status as our ruler
-SUBJUGATIONDEMAND_REJECT		;No, we will not accede to your outrageous demand for subjugation!
-SUBJUGATIONOFFER_ACCEPT			;Good, we accept your acknowledgement of defeat. We look forward to receiving our regular tribute from you.\n\nGo now, and try not to be such troublemakers!
-SUBJUGATIONOFFER_REJECT			;No, you must suffer further before this war will end
+SUBJUGATIONDEMAND_ACCEPT		;Sim, aceitamos a derrota e reconhecemos seu status como nosso governante
+SUBJUGATIONDEMAND_REJECT		;Não, não vamos ceder à sua demanda ultrajante de subjugação!
+SUBJUGATIONOFFER_ACCEPT			;Ótimo, aceitamos seu reconhecimento de derrota. Aguardamos ansiosamente nosso tributo regular de vocês.\n\nAgora vá e tente não ser tão problemáticos!
+SUBJUGATIONOFFER_REJECT			;Não, você deve sofrer mais antes que esta guerra termine
 
-SUBJUGATION_REQUESTRELEASE		;Our people chafe under your despotic rule! We beg you to release us from our slavery
-SUBJUGATION_RELEASE			;We set you free from your slavery. Use your freedom wisely
-SUBJUGATION_REFUSERELEASE		;No, you will remain our slaves. You make rather good slaves, don't you think?
+SUBJUGATION_REQUESTRELEASE		;Nosso povo sofre sob seu governo despótico! Pedimos que nos liberte de nossa escravidão
+SUBJUGATION_RELEASE			;Nós te libertamos da sua escravidão. Use sua liberdade sabiamente
+SUBJUGATION_REFUSERELEASE		;Não, você permanecerá nossos escravos. Vocês são escravos bastante bons, não acham?
 
-WARNING						;What is it?
-WARNING_INTELLIGENCEMISSIONS			;We warn you to end your treacherous covert missions against us immediately! We will not tolerate your continued meddling in our affairs!
-WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;We are not aware of any missions against you my friend, but we will investigate this situation at once
-WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Be assured that we will investigate this incident
-WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Covert missions? What missions? If there were any missions, we certainly wouldn't talk to you about them. But there are no missions anyway... So stop being so paranoid!
-WARNING_ATTACKS					;We serve official warning on you to cease all military attacks against us! Failure to stop will lead us to respond with overwhelming force!
-WARNING_ATTACKS_RESPONSE_FRIENDLY		;How terrible, please accept our sincere apologies for any overzealous actions of our military commanders
-WARNING_ATTACKS_RESPONSE_NEUTRAL		;We will investigate this incident and deal with the offending military commander
-WARNING_ATTACKS_RESPONSE_ANGRY			;Attacks? We wouldn't waste our time on attacks against such a pathetic empire like yours.
+WARNING						;O que foi?
+WARNING_INTELLIGENCEMISSIONS			;Avisamos que encerre imediatamente suas traiçoeiras missões secretas contra nós! Não toleraremos sua contínua interferência em nossos assuntos!
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Não temos conhecimento de missões contra você, meu amigo, mas investigaremos esta situação imediatamente
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Fique tranquilo que investigaremos este incidente
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Missões secretas? Que missões? Se houvesse missões, certamente não falaríamos sobre elas. Mas de qualquer forma não existem missões... Então pare de ser tão paranoico!
+WARNING_ATTACKS					;Lançamos um aviso oficial para que cesse todos os ataques militares contra nós! Falha em parar resultará em nossa resposta com força avassaladora!
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Que terrível, por favor aceite nossas sinceras desculpas por quaisquer ações excessivamente zelosas de nossos comandantes militares
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Investigaremos este incidente e lidaremos com o comandante militar responsável
+WARNING_ATTACKS_RESPONSE_ANGRY			;Ataques? Não perderíamos nosso tempo com ataques contra um império tão patético como o seu.
 
-WARNING_REMOVEFORCESSYSTEM					;We will not tolerate the presence of your forces in our territory.\n\nRemove your military ships from the {0} system at once!
-WARNING_REMOVEFORCESSYSTEM_RESPONSE_COMPLY	;We see no need to remove our ships from the {0} system.
-WARNING_REMOVEFORCESSYSTEM_RESPONSE_REFUSE	;We will comply with your request. Our ships are leaving the {0} system.
-WARNING_REMOVEFORCESSYSTEM_RESPONSE_NOFORCESPRESENT	;Surely you are mistaken? We do not have any military forces in your territory.
+WARNING_REMOVEFORCESSYSTEM					;Não toleraremos a presença de suas forças em nosso território.\n\nRemova suas naves militares do sistema {0} imediatamente!
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_COMPLY	;Não vemos necessidade de remover nossas naves do sistema {0}.
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_REFUSE	;Iremos cumprir com seu pedido. Nossas naves estão deixando o sistema {0}.
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_NOFORCESPRESENT	;Certamente você está enganado? Não temos nenhuma força militar em seu território.
 
-HISTORY_OFFER_LOCATIONHINT		;Our research has uncovered the location of important historical items.\n\nWould you like to know more?
-HISTORY_LOCATIONHINT			;Our sources tell us about the {0}.\n\nImportant items can be found there.
-HISTORY_OFFER_STORYCLUE			;We have discovered something important that we think you should see for yourselves.\n\nDo we have your full attention?
-HISTORY_OFFER_STORYMESSAGE		;We have an important warning that you need to hear.\n\nDo we have your full attention?
-
-
-
-MININGRIGHTS_OFFER		;We are pleased to offer your empire mining rights within our borders.\n\nYou may now construct mining stations in our territory.
-MININGRIGHTS_CANCEL		;Your mining rights within our borders have been cancelled.\n\nYou must remove all of your mining stations within our territory!
-MILITARYREFUELING_OFFER		;We are pleased to allow your military ships to refuel at our colonies and space ports.\n\nWe hope that your fleets find this arrangement useful.
-MILITARYREFUELING_CANCEL		;Your military refueling rights have been cancelled.\n\nYour military ships may no longer refuel at our colonies and space ports.
+HISTORY_OFFER_LOCATIONHINT		;Nossa pesquisa descobriu a localização de itens históricos importantes.\n\nGostaria de saber mais?
+HISTORY_LOCATIONHINT			;Nossas fontes nos informam sobre o {0}.\n\nItens importantes podem ser encontrados lá.
+HISTORY_OFFER_STORYCLUE			;Descobrimos algo importante que achamos que vocês deveriam ver por si mesmos.\n\nTemos toda a sua atenção?
+HISTORY_OFFER_STORYMESSAGE		;Temos um aviso importante que vocês precisam ouvir.\n\nTemos toda a sua atenção?
 
 
+MININGRIGHTS_OFFER		;Temos o prazer de oferecer direitos de mineração ao seu império dentro de nossas fronteiras.\n\nAgora você pode construir estações de mineração em nosso território.
+MININGRIGHTS_CANCEL		;Seus direitos de mineração dentro de nossas fronteiras foram cancelados.\n\nVocê deve remover todas as suas estações de mineração de nosso território!
+MILITARYREFUELING_OFFER		;Temos o prazer de permitir que suas naves militares reabasteçam em nossas colônias e portos espaciais.\n\nEsperamos que suas frotas encontrem esta disposição útil.
+MILITARYREFUELING_CANCEL	;Seus direitos de reabastecimento militar foram cancelados.\n\nSuas naves militares não podem mais reabastecer em nossas colônias e portos espaciais.
 
-CANCELPIRATEPROTECTION				;We no longer want your 'protection'. Our arrangement with you is cancelled.
-CANCELPIRATEPROTECTIONPIRATE				;We no longer wish to protect you. Our protection arrangement with you is cancelled.
-PIRATE_PROTECTIONPROPOSE_OFFER_ACCEPT		;We accept your offer of protection. We agree to pay {0} credits per month to you.
-PIRATE_PROTECTIONPROPOSE_OFFER_REJECT		;We reject your offer of 'protection'.
 
-PIRATE_EXTORTPROTECTION		;Greetings to our victims! You may have noticed that we are about to attack you. But for the small price of {0} credits per month we could avoid this unnecessary violence.\n\nOf course, you really should have paid up sooner. Now that our attack is underway, we have no choice but to increase our prices.\n\nSo are you ready to pay up now?
 
-PIRATE_TRUCEPROPOSE		;You are wise to seek a truce with us. If you agree to a truce, we can ensure your safety throughout our domain.
-PIRATE_TRUCEPROPOSEINITIATE		;Who knows what hidden dangers await you when travelling through the lawless regions of space?\n\nBy agreeing to a truce we can ensure your safety throughout our domain.\n\nWhat do you say?
-PIRATE_TRUCEACCEPTRESPONSE		;Excellent! We will ensure that your ships do not suffer any 'unfortunate accidents' while our truce holds...
-PIRATE_TRUCEREJECTRESPONSE		;As you wish. But without a truce we cannot guarantee your safety...
+CANCELPIRATEPROTECTION				;Não queremos mais sua 'proteção'. Nosso acordo com você está cancelado.
+CANCELPIRATEPROTECTIONPIRATE				;Não desejamos mais protegê-lo. Nosso acordo de proteção com você está cancelado.
+PIRATE_PROTECTIONPROPOSE_OFFER_ACCEPT		;Aceitamos sua oferta de proteção. Concordamos em pagar {0} créditos por mês para você.
+PIRATE_PROTECTIONPROPOSE_OFFER_REJECT		;Rejeitamos sua oferta de 'proteção'.
+
+PIRATE_EXTORTPROTECTION		;Saudações às nossas vítimas! Você pode ter notado que estamos prestes a atacá-lo. Mas pelo pequeno preço de {0} créditos por mês, poderíamos evitar essa violência desnecessária.\n\nÉ claro, você realmente deveria ter pago mais cedo. Agora que nosso ataque está em andamento, não temos escolha senão aumentar nossos preços.\n\nEntão, está pronto para pagar agora?
+
+PIRATE_TRUCEPROPOSE		;Você é sábio em buscar um acordo de trégua conosco. Se concordar com uma trégua, podemos garantir sua segurança em todo o nosso domínio.
+PIRATE_TRUCEPROPOSEINITIATE		;Quem sabe quais perigos ocultos o aguardam ao viajar pelas regiões sem lei do espaço?\n\nAo concordar com uma trégua, podemos garantir sua segurança em todo o nosso domínio.\n\nO que você diz?
+PIRATE_TRUCEACCEPTRESPONSE		;Excelente! Garantiremos que suas naves não sofram 'acidentes desafortunados' enquanto nossa trégua durar...
+PIRATE_TRUCEREJECTRESPONSE		;Como desejar. Mas sem uma trégua, não podemos garantir sua segurança...
 
 
 
@@ -155,72 +154,72 @@ PIRATE_TRUCEREJECTRESPONSE		;As you wish. But without a truce we cannot guarante
 '*** DISTANT WORLDS 2 ENTRIES BELOW ***
 '======================================
 
-GREETING_INTRODUCTION			;Greetings! We are the {0}
-GREETING_FRIENDLY			;Share your thoughts with us friend
-GREETING_NEUTRAL			;You wanted to speak with me?
-GREETING_ANGRY				;What do you want?
+GREETING_INTRODUCTION			;Saudações! Nós somos os {0}
+GREETING_FRIENDLY			;Compartilhe seus pensamentos conosco, amigo
+GREETING_NEUTRAL			;Você queria falar comigo?
+GREETING_ANGRY				;O que você quer?
 
-OFFER_DEAL				;Would you accept this trade?
-OFFER_DEAL_RESPONSE		;What kind of deal are you offering?
-'PIRATEPROTECTION_DEAL				;Who knows what hidden dangers await you when travelling through the lawless regions of space?\n\nFor the entirely reasonable monthly fee of {0} credits we can ensure that our trigger-happy ship captains avoid any damage to your vessels.\n\nWe urge you to accept our offer and thus avert any unfortunate accidents...
-PIRATEPROTECTION_DEAL				;It would be a shame if any of your ships or bases suffered harm.\n\nFor the small monthly fee of {0} credits we can ensure that our trigger-happy ship captains avoid damaging your vessels.\n\nWe urge you to accept our offer and thus avert any unfortunate accidents...
-DEAL_BEGIN				;What do you propose?
-DEAL_ACCEPT				;We accept your proposal
-DEAL_ACCEPT_RESPONSE		;An excellent outcome!
-DEAL_REJECT_RESPONSE		;How disappointing...
-DEAL_REJECT				;This proposal is not in our interests - no deal
+OFFER_DEAL				;Você aceitaria este acordo?
+OFFER_DEAL_RESPONSE		;Que tipo de acordo você está oferecendo?
+'PIRATEPROTECTION_DEAL				;Quem sabe quais perigos ocultos o aguardam ao viajar pelas regiões sem lei do espaço?\n\nPela taxa mensal totalmente razoável de {0} créditos, podemos garantir que nossos capitães de nave, sempre prontos para atirar, evitem causar qualquer dano às suas naves.\n\nInstamos você a aceitar nossa oferta e assim evitar quaisquer acidentes desafortunados...
+PIRATEPROTECTION_DEAL				;Seria uma pena se alguma de suas naves ou bases sofresse danos.\n\nPela pequena taxa mensal de {0} créditos, podemos garantir que nossos capitães de nave, sempre prontos para atirar, evitem danificar suas naves.\n\nInstamos você a aceitar nossa oferta e assim evitar quaisquer acidentes desafortunados...
+DEAL_BEGIN				;O que você propõe?
+DEAL_ACCEPT				;Aceitamos sua proposta
+DEAL_ACCEPT_RESPONSE		;Um excelente resultado!
+DEAL_REJECT_RESPONSE		;Que decepção...
+DEAL_REJECT				;Esta proposta não está em nossos interesses - sem acordo
 
-SWAP_MAPS		;What kind of map would you like to swap?
-WAR_END_ACCEPT				;We agree that this war should end - we will cease hostilities immediately
-WAR_END_REJECT				;No, we will fight on.
+SWAP_MAPS		;Que tipo de mapa você gostaria de trocar?
+WAR_END_ACCEPT				;Concordamos que esta guerra deve terminar - cessaremos imediatamente as hostilidades
+WAR_END_REJECT				;Não, vamos continuar lutando.
 
-WAR_END_ACCEPT_BECOMEVASSAL				;We agree to become your vassal. We will cease hostilities immediately and commence our monthly tribute payments
-WAR_END_REJECT_BECOMEVASSAL				;No, we refuse to subjugate ourselves as your vassal.
+WAR_END_ACCEPT_BECOMEVASSAL				;Concordamos em nos tornar seu vassalo. Cessaremos imediatamente as hostilidades e iniciaremos nossos pagamentos mensais de tributo
+WAR_END_REJECT_BECOMEVASSAL				;Não, recusamos nos submeter como seu vassalo.
 
-WAR_END_ACCEPT_ACCEPTVASSAL				;We agree to your surrender and subjugation as our vassal. We look forward to your monthly tribute payments.
-WAR_END_REJECT_ACCEPTVASSAL				;No, we refuse your offer of subjugation as our vassal. This war is not over yet.
+WAR_END_ACCEPT_ACCEPTVASSAL				;Aceitamos sua rendição e submissão como nosso vassalo. Aguardamos ansiosamente seus pagamentos mensais de tributo.
+WAR_END_REJECT_ACCEPTVASSAL				;Não, recusamos sua oferta de submissão como nosso vassalo. Esta guerra ainda não acabou.
 
-TREATY_ACCEPT			;We accept your offer of {0}
-TREATY_REJECT			;No, we are not interested in {0} at this time
-TREATY_REJECT_TOOSOON_NEUTRAL			;No, we are not interested in {0}. It is too soon after the last change to our relations
-TREATY_REJECT_TOOSOON_ANGRY			;We have no interest in {0} with you! Besides, it is too soon after the last change to our relations
-TREATY_REJECT_TOOSOON_FRIENDLY			;Sorry but we are not interested in {0}. It is too soon after the last change to our relations
-TREATY_ACCEPT_NEUTRAL			;We accept your offer of {0}
-TREATY_REJECT_NEUTRAL			;No, we are not interested in {0} at this time
-TREATY_ACCEPT_ANGRY			;We accept your offer of {0}
-TREATY_REJECT_ANGRY			;We have no interest in {0} with you!
-TREATY_ACCEPT_FRIENDLY			;We gladly accept your offer of {0}!
-TREATY_REJECT_FRIENDLY			;Sorry, but we are not interested in {0} at this time
+TREATY_ACCEPT			;Aceitamos sua oferta de {0}
+TREATY_REJECT			;Não, não estamos interessados em {0} neste momento
+TREATY_REJECT_TOOSOON_NEUTRAL			;Não, não estamos interessados em {0}. É muito cedo após a última mudança em nossas relações
+TREATY_REJECT_TOOSOON_ANGRY			;Não temos interesse em {0} com você! Além disso, é muito cedo após a última mudança em nossas relações
+TREATY_REJECT_TOOSOON_FRIENDLY			;Desculpe, mas não estamos interessados em {0}. É muito cedo após a última mudança em nossas relações
+TREATY_ACCEPT_NEUTRAL			;Aceitamos sua oferta de {0}
+TREATY_REJECT_NEUTRAL			;Não, não estamos interessados em {0} neste momento
+TREATY_ACCEPT_ANGRY			;Aceitamos sua oferta de {0}
+TREATY_REJECT_ANGRY			;Não temos interesse em {0} com você!
+TREATY_ACCEPT_FRIENDLY			;Aceitamos com prazer sua oferta de {0}!
+TREATY_REJECT_FRIENDLY			;Desculpe, mas não estamos interessados em {0} neste momento
 
-PROTECTION_ACCEPT		;We accept your request for protection. The monthly fee is {0} credits
-PROTECTION_ACCEPT_NEUTRAL		;We accept your request for protection. The monthly fee is {0} credits
-PROTECTION_ACCEPT_ANGRY		;Your weakness has been noted. Our 'protection' will cost you {0} credits per month. You may go now
-PROTECTION_ACCEPT_FRIENDLY		;We accept your request for protection. The monthly fee is {0} credits
-PROTECTION_REJECT			;No, we are not interested in protection at this time
-PROTECTION_REJECT_NEUTRAL		;No, we don't want a Protection Arrangement with you
-PROTECTION_REJECT_ANGRY		;No, we don't want to protect your worthless empire!
-PROTECTION_REJECT_FRIENDLY		;No, we don't want a Protection Arrangement with you
+PROTECTION_ACCEPT		;Aceitamos seu pedido de proteção. A taxa mensal é de {0} créditos
+PROTECTION_ACCEPT_NEUTRAL		;Aceitamos seu pedido de proteção. A taxa mensal é de {0} créditos
+PROTECTION_ACCEPT_ANGRY		;Sua fraqueza foi notada. Nossa 'proteção' custará {0} créditos por mês. Você pode ir agora
+PROTECTION_ACCEPT_FRIENDLY		;Aceitamos seu pedido de proteção. A taxa mensal é de {0} créditos
+PROTECTION_REJECT			;Não, não estamos interessados em proteção neste momento
+PROTECTION_REJECT_NEUTRAL		;Não, não queremos um Arranjo de Proteção com você
+PROTECTION_REJECT_ANGRY		;Não, não queremos proteger seu império sem valor!
+PROTECTION_REJECT_FRIENDLY		;Não, não queremos um Arranjo de Proteção com você
 
-CANCELTREATY				;We are cancelling our {0} with you
-CANCELTREATY_RESPONSE_FRIENDLY		;We are saddened that you have chosen to end this beneficial relationship
-CANCELTREATY_RESPONSE_NEUTRAL		;As you wish
-CANCELTREATY_RESPONSE_ANGRY		;We are glad to rid ourselves of this worthless treaty!
-CANCELPROTECTION_RESPONSE_FRIENDLY		;Perhaps it is for the best
-CANCELPROTECTION_RESPONSE_NEUTRAL		;We will miss those monthly credits. Perhaps we will find other ways to obtain them...
-CANCELPROTECTION_RESPONSE_ANGRY		;Fool! Do you really think you can survive without our 'protection'?!
+CANCELTREATY				;Estamos cancelando nosso {0} com você
+CANCELTREATY_RESPONSE_FRIENDLY		;Estamos tristes que você tenha escolhido encerrar este relacionamento benéfico
+CANCELTREATY_RESPONSE_NEUTRAL		;Como você desejar
+CANCELTREATY_RESPONSE_ANGRY		;Estamos felizes de nos livrar deste tratado sem valor!
+CANCELPROTECTION_RESPONSE_FRIENDLY		;Talvez seja para o melhor
+CANCELPROTECTION_RESPONSE_NEUTRAL		;Sentiremos falta daqueles créditos mensais. Talvez encontremos outras maneiras de obtê-los...
+CANCELPROTECTION_RESPONSE_ANGRY		;Tolo! Você realmente acha que pode sobreviver sem nossa 'proteção'?!
 
-TREATY_PROPOSAL				;What do you propose?
-TREATY_ACCEPTRESPONSE			;Excellent! We welcome our new allies
-TREATY_REJECTRESPONSE			;How disappointing...
-PROTECTION_ACCEPTRESPONSE		;Excellent! We look forward to your monthly payments
-PROTECTION_REJECTRESPONSE		;A foolish choice. You will pay one way or another...
+TREATY_PROPOSAL				;O que você propõe?
+TREATY_ACCEPTRESPONSE			;Excelente! Damos as boas-vindas aos nossos novos aliados
+TREATY_REJECTRESPONSE			;Que decepção...
+PROTECTION_ACCEPTRESPONSE		;Excelente! Aguardamos seus pagamentos mensais
+PROTECTION_REJECTRESPONSE		;Uma escolha tola. Você pagará de uma forma ou de outra...
 
-GIFT_GIVE				;Please accept this gift of {0} credits as a token of our goodwill
-GIFT_THANKS_ANGRY				;Your meagre gift has been noted
-GIFT_THANKS_NEUTRAL				;Thank you for your kind gift
-GIFT_THANKS_FRIENDLY				;We are delighted to receive your most generous gift!
-GIFT_PROPOSE				;What kind of gift do you have in mind?
+GIFT_GIVE				;Por favor, aceite este presente de {0} créditos como um gesto de nossa boa vontade
+GIFT_THANKS_ANGRY				;Seu mísero presente foi notado
+GIFT_THANKS_NEUTRAL				;Obrigado pelo seu gentil presente
+GIFT_THANKS_FRIENDLY				;Estamos encantados em receber seu generoso presente!
+GIFT_PROPOSE				;Que tipo de presente você tem em mente?
 
-WAR_DECLARE_RESPONSE_ANGRY		;We eagerly anticipate crushing your worthless empire to dust!
-WAR_DECLARE_RESPONSE_NEUTRAL		;So be it. Prepare your defenses!
-WAR_DECLARE_RESPONSE_FRIENDLY		;There must be some mistake! What did we do to offend you?! Aren't we friends any more?
+WAR_DECLARE_RESPONSE_ANGRY		;Antecipamos ansiosamente esmagar seu império sem valor até a poeira!
+WAR_DECLARE_RESPONSE_NEUTRAL		;Que assim seja. Prepare suas defesas!
+WAR_DECLARE_RESPONSE_FRIENDLY		;Deve haver algum engano! O que fizemos para ofendê-lo?! Não somos mais amigos?

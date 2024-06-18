@@ -1,37 +1,37 @@
 
-GREETING_INTRODUCTION			;Greetings to you outsider. We are the {0}.\n\nWe prefer to keep to ourselves, living peacefully in our deep undersea metropolises.
-GREETING_FRIENDLY			;We are listening, friend
-GREETING_NEUTRAL			;You seek an audience with us?
-GREETING_ANGRY				;You are not welcome here.\n\nSpeak quickly
+GREETING_INTRODUCTION			;Saudações para você, estrangeiro. Nós somos os {0}.\n\nPreferimos ficar sozinhos, vivendo pacificamente em nossas metrópoles submarinas profundas.
+GREETING_FRIENDLY			;Estamos ouvindo, amigo
+GREETING_NEUTRAL			;Você busca uma audiência conosco?
+GREETING_ANGRY				;Você não é bem-vindo aqui.\n\nFale rapidamente
 
-OFFER_FREETRADE				;We feel that trade and industry are highly civilizing activities. Won't you accept a Free Trade Agreement with us?\n\nWhat do you say?
-FREETRADE_ACCEPT			;We happily accept a Free Trade Agreement!\n\nLong live our alliance!
-FREETRADE_REJECT			;No, a Free Trade Agreement does not suit us.\n\nSorry about that
+OFFER_FREETRADE				;Acreditamos que o comércio e a indústria são atividades altamente civilizadoras. Você aceita um Acordo de Livre Comércio conosco?\n\nO que você diz?
+FREETRADE_ACCEPT			;Aceitamos com prazer um Acordo de Livre Comércio!\n\nViva nossa aliança!
+FREETRADE_REJECT			;Não, um Acordo de Livre Comércio não nos convém.\n\nDesculpe por isso
 
-CANCELTREATY				;It is time to cancel the {0} that we have with you. We do not want it any more.
-CANCELTREATY_RESPONSE_FRIENDLY		;How sad. We felt that this was a good treaty.
-CANCELTREATY_RESPONSE_NEUTRAL		;As you wish. We cannot keep it, if you do not want it
-CANCELTREATY_RESPONSE_ANGRY		;Yes, this treaty is a bad one.\n\nWe are wary of you. A deadly Darkhul, you are
+CANCELTREATY				;É hora de cancelar o {0} que temos com você. Não o queremos mais.
+CANCELTREATY_RESPONSE_FRIENDLY		;Que tristeza. Achamos que este era um bom tratado.
+CANCELTREATY_RESPONSE_NEUTRAL		;Como você desejar. Não podemos mantê-lo se você não o quiser
+CANCELTREATY_RESPONSE_ANGRY		;Sim, este tratado é ruim.\n\nEstamos desconfiados de você. Um Darkhul mortal, você é
 
-TREATY_PROPOSAL				;What new arrangement do you seek?
-TREATY_ACCEPTRESPONSE			;May this new treaty profit us both! Welcome friends
-TREATY_REJECTRESPONSE			;It was not to be. We cannot compel you
+TREATY_PROPOSAL				;Que novo arranjo você busca?
+TREATY_ACCEPTRESPONSE			;Que este novo tratado nos beneficie! Bem-vindos amigos
+TREATY_REJECTRESPONSE			;Não era para ser. Não podemos obrigá-lo
 
-TRADESANCTIONS_IMPOSE			;By the claws of the Darkhul, you are a tricky one!\n\nThe time has come for Trade Sanctions against you. We will not trade with you any more
-TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Dealing with you is like handling a poisonous deep-sea anemone! We are glad to be finished with your tricky ways\n\nStay away from us now
-TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;We survived before we met you. We will survive now
-TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;How unexpected! We see no reason for this.\n\nWe will just have to adapt I suppose
-TRADESANCTIONS_LIFT			;We have decided to end our Trade Sanctions against you. We trade with you once more.\n\nBe warned that our eyes remain watchful for any trickiness from you though
-TRADESANCTIONS_LIFT_RESPONSE		;A welcome action from you. Trade leads to peace
+TRADESANCTIONS_IMPOSE			;Pelos garras do Darkhul, você é ardiloso!\n\nChegou a hora de impor Sanções Comerciais contra você. Não negociaremos mais com você
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Lidar com você é como lidar com uma anêmona venenosa do mar profundo! Estamos contentes de acabar com suas artimanhas\n\nMantenha-se afastado de nós agora
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Sobrevivemos antes de conhecê-lo. Sobreviveremos agora
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Que inesperado! Não vemos motivo para isso.\n\nTeremos que nos adaptar, suponho
+TRADESANCTIONS_LIFT			;Decidimos suspender nossas Sanções Comerciais contra você. Negociaremos com você novamente.\n\nMas esteja avisado de que nossos olhos permanecem vigilantes quanto a qualquer astúcia sua
+TRADESANCTIONS_LIFT_RESPONSE		;Uma ação bem-vinda de sua parte. O comércio leva à paz
 
-WAR_DECLARE				;You are a raging Darkhul that must be caged! We declare WAR on you!\n\nWe will end your reign of terror
-WAR_DECLARE_RESPONSE_EAGER		;We are a peaceful people, but we know how to defend our homes!\n\nWe will fight hard
-WAR_DECLARE_RESPONSE_NEUTRAL		;Your aggression made this path inevitable.\n\nWe are ready for you!
-WAR_DECLARE_RESPONSE_SURPRISED		;How shocking! You are a deadly Darkhul, sneaking up from behind.\n\nWe will put you back in your cage!
+WAR_DECLARE				;Você é um Darkhul furioso que precisa ser contido! Declaramos GUERRA a você!\n\nVamos acabar com seu reinado de terror
+WAR_DECLARE_RESPONSE_EAGER		;Somos um povo pacífico, mas sabemos defender nossos lares!\n\nNós lutaremos com vigor
+WAR_DECLARE_RESPONSE_NEUTRAL		;Sua agressão tornou este caminho inevitável.\n\nEstamos prontos para você!
+WAR_DECLARE_RESPONSE_SURPRISED		;Que chocante! Você é um Darkhul mortal, atacando sorrateiramente por trás.\n\nVamos colocá-lo de volta na sua jaula!
 
-WAR_END					;This war has become very dark, gaining nothing and destroying everything. We propose an end to it.\n\nWhat do you say?
-WAR_END_ACCEPT				;Yes, this war must end.\n\nOur forces are returning home now
-WAR_END_REJECT				;End the war? No, this war cannot end while you are still free
+WAR_END					;Esta guerra se tornou muito sombria, ganhando nada e destruindo tudo. Propomos um fim a ela.\n\nO que você diz?
+WAR_END_ACCEPT				;Sim, esta guerra deve acabar.\n\nNossas forças estão retornando para casa agora
+WAR_END_REJECT				;Encerrar a guerra? Não, esta guerra não pode acabar enquanto você estiver livre
 
-GIFT_GIVE				;We send you a gift of {0} credits
-GIFT_THANKS				;Thank you for your kind gift
+GIFT_GIVE				;Enviamos a você um presente de {0} créditos
+GIFT_THANKS				;Obrigado pelo seu generoso presente

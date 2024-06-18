@@ -1,63 +1,63 @@
 
-GREETING_INTRODUCTION			;Hi funny alien! {0} we are.\n\nFriends with you, we be!
-GREETING_FRIENDLY			;Good to see you it is, friend. We help you, yes?
-GREETING_NEUTRAL			;We listen. You speak
-GREETING_ANGRY				;What you smelly ones want this time?
+GREETING_INTRODUCTION			;Oi alienígena engraçado! {0} nós somos.\n\nAmigos com você, seremos!
+GREETING_FRIENDLY			;Bom ver você, é, amigo. Ajudamos você, sim?
+GREETING_NEUTRAL			;Nós ouvimos. Você fala
+GREETING_ANGRY				;O que vocês fedorentos querem desta vez?
 
-PIRATE_PROTECTIONPROPOSE		;You want us to protect you? Good idea!\n\nFor fee shown below we can 'protect' all your ships in our region for six months.\n\nReady to pay?
-PIRATE_PROTECTIONPROPOSEINITIATE	;Galaxy is dangerous place, you know. Easy to get hurt.\n\nFor small fee we can protect all your ships in our region for six months.\n\nYou should pay up, hmmm?
-PIRATE_PROTECTIONACCEPTRESPONSE		;Your money smell real good!\n\nNo accidents for your ships till we spent all the money, ok?
-PIRATE_PROTECTIONREJECTRESPONSE		;No pay - no protection.\n\nVery simple, it is
-PIRATE_PROTECTIONALREADYPAID		;You crazy alien! You already paid!\n\nCome back later. We take more money then
-PIRATE_BUYINFO				;Here's all the secret stuff we know about.\n\nJust clicky-clicky on anything you want, ok?
-PIRATE_ATTACKOFFER_EMPIRES		;We send big bashing on anyone on the list.\n\nJust clicky-clicky who you want bashed, ok?
-PIRATE_ATTACKOFFER_SINGLEEMPIRE		;You not like {0}? We could do big bashing on them for you.\n\nDon't worry - we not tell anyone, ok?\n\nJust pay us {1} credits and we take care of everything.\n\nSound good?
-PIRATE_ATTACKCOMMENCE			;We got the money. {0} getting a bashing!\n\nBye
+PIRATE_PROTECTIONPROPOSE		;Você quer que protegemos você? Boa ideia!\n\nPela taxa mostrada abaixo, podemos 'proteger' todas as suas naves em nossa região por seis meses.\n\nPronto para pagar?
+PIRATE_PROTECTIONPROPOSEINITIATE	;A galáxia é um lugar perigoso, você sabe. Fácil se machucar.\n\nPor uma pequena taxa, podemos proteger todas as suas naves em nossa região por seis meses.\n\nVocê deveria pagar, hmmm?
+PIRATE_PROTECTIONACCEPTRESPONSE		;Seu dinheiro cheira muito bem!\n\nSem acidentes para suas naves até gastarmos todo o dinheiro, ok?
+PIRATE_PROTECTIONREJECTRESPONSE		;Sem pagamento - sem proteção.\n\nMuito simples, é
+PIRATE_PROTECTIONALREADYPAID		;Você é louco, alienígena! Você já pagou!\n\nVolte mais tarde. Pegamos mais dinheiro então
+PIRATE_BUYINFO				;Aqui estão todas as coisas secretas que sabemos.\n\nSó clicar em qualquer coisa que você quiser, ok?
+PIRATE_ATTACKOFFER_EMPIRES		;Enviamos um grande ataque a qualquer um da lista.\n\nSó clicar em quem você quer atacar, ok?
+PIRATE_ATTACKOFFER_SINGLEEMPIRE		;Você não gosta de {0}? Podemos fazer um grande ataque neles por você.\n\nNão se preocupe - não contamos a ninguém, ok?\n\nSó nos pague {1} créditos e cuidamos de tudo.\n\nParece bom?
+PIRATE_ATTACKCOMMENCE			;Recebemos o dinheiro. {0} está sendo atacado!\n\nTchau
 
-PIRATE_ALLIANCEPROPOSE			;We spent all that money you gave us. How about permanent alliance with us now?\n\nGive us {0} credits every month and we protect your ships and attack your enemies, without you getting in trouble.\n\nGood deal, yes?
-PIRATE_ALLIANCEACCEPTRESPONSE	;You smarter than you look!\n\nWe friends forever now - just keep sending that money, ok.\n\nHave to go now - we bash all your enemies!
-PIRATE_ALLIANCEREJECTRESPONSE	;Silly alien!\n\nWe have to eat, you know. No pay, no help for you - got it?
-PIRATE_ALLIANCECANCELRESPONSE	;Very, very bad.\n\nWe need your money - if you not give it, then we just have to take it anyway.\n\nNot too late to change mind, ok?
+PIRATE_ALLIANCEPROPOSE			;Gastamos todo o dinheiro que você nos deu. Que tal uma aliança permanente agora?\n\nDê-nos {0} créditos todo mês e protegemos suas naves e atacamos seus inimigos, sem você se meter em encrenca.\n\nBom negócio, sim?
+PIRATE_ALLIANCEACCEPTRESPONSE	;Você é mais esperto do que parece!\n\nSomos amigos para sempre agora - só continue enviando o dinheiro, ok.\n\nTemos que ir agora - vamos atacar todos os seus inimigos!
+PIRATE_ALLIANCEREJECTRESPONSE	;Alienígena tolo!\n\nNós temos que comer, sabe. Sem pagamento, sem ajuda para você - entendeu?
+PIRATE_ALLIANCECANCELRESPONSE	;Muito, muito ruim.\n\nPrecisamos do seu dinheiro - se você não der, então teremos que pegar de qualquer maneira.\n\nNão é tarde demais para mudar de ideia, ok?
 
-OFFER_FREETRADE				;You and us be friends - have Free Trade Agreement. Lots of money!\n\nSmells good, yes?
-FREETRADE_ACCEPT			;We very happy to have Free Trade Agreement with you! Big feast time!
-FREETRADE_REJECT			;No, we not want Free Trade Agreement.\n\nMaybe later, ok
+OFFER_FREETRADE				;Você e nós seremos amigos - ter Acordo de Livre Comércio. Muito dinheiro!\n\nCheira bem, sim?
+FREETRADE_ACCEPT			;Estamos muito felizes em ter um Acordo de Livre Comércio com você! Hora de grande festa!
+FREETRADE_REJECT			;Não, não queremos Acordo de Livre Comércio.\n\nTalvez mais tarde, ok
 
-CANCELTREATY				;{0} with you all finished. We had enough now
-CANCELTREATY_RESPONSE_FRIENDLY		;We not friends now? We smell bad? What is it? Very sad
-CANCELTREATY_RESPONSE_NEUTRAL		;Treaty over? Ok then
-CANCELTREATY_RESPONSE_ANGRY		;We not like you anyway. You smell funny, and no good hunter.\n\nGo away now
+CANCELTREATY				;{0} com você acabou. Já tivemos o suficiente
+CANCELTREATY_RESPONSE_FRIENDLY		;Não somos mais amigos? Cheiramos mal? O que é? Muito triste
+CANCELTREATY_RESPONSE_NEUTRAL		;Tratado acabou? Ok então
+CANCELTREATY_RESPONSE_ANGRY		;Nós não gostamos de você de qualquer maneira. Você cheira engraçado e não é bom caçador.\n\nVá embora agora
 
-TREATY_PROPOSAL				;Tell us treaty - we tell you if smell good or bad
-TREATY_ACCEPTRESPONSE			;We make big feast! Welcome friends!
-TREATY_REJECTRESPONSE			;You missing many big feasts, much good hunting. Think more - change mind
+TREATY_PROPOSAL				;Diga-nos o tratado - diremos se cheira bem ou mal
+TREATY_ACCEPTRESPONSE			;Faremos uma grande festa! Bem-vindos amigos!
+TREATY_REJECTRESPONSE			;Você está perdendo muitas grandes festas, muita boa caça. Pense mais - mude de ideia
 
-TRADESANCTIONS_IMPOSE			;Trade Sanctions on you now! No more feasts, no more hunting.\n\nWe teach you!
-TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Bad, bad! You pay big time! Angry, angry!
-TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Your goods were smelly anyway. Not hurt us
-TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;No more trade? Why? We not friends now?
-TRADESANCTIONS_LIFT			;We stop Trade Sanctions on you now.\n\nYou come hunting with us again if you want
-TRADESANCTIONS_LIFT_RESPONSE		;Your goods still smelly. But we buy smelly stuff from you again now
+TRADESANCTIONS_IMPOSE			;Sanções Comerciais em você agora! Sem mais festas, sem mais caça.\n\nVamos ensinar você!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Ruim, ruim! Você vai pagar caro! Com muita raiva!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Seus bens já eram fedorentos de qualquer maneira. Não nos machuca
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Sem mais comércio? Por quê? Não somos mais amigos?
+TRADESANCTIONS_LIFT			;Suspendemos as Sanções Comerciais contra você agora.\n\nVocê pode caçar conosco novamente se quiser
+TRADESANCTIONS_LIFT_RESPONSE		;Seus bens ainda são fedorentos. Mas vamos comprar coisas fedorentas de você novamente agora
 
-WAR_DECLARE				;WAR on you! You in big trouble - we hunting YOU!
-WAR_DECLARE_RESPONSE_EAGER		;We not frightened. We good hunters. You be sorry
-WAR_DECLARE_RESPONSE_NEUTRAL		;We ready for war. Our spears are sharp!
-WAR_DECLARE_RESPONSE_SURPRISED		;You all mixed up! We friends, have feast together - not war! Tell us is mistake
+WAR_DECLARE				;GUERRA contra você! Você está em grandes problemas - nós vamos caçar VOCÊ!
+WAR_DECLARE_RESPONSE_EAGER		;Nós não estamos com medo. Somos bons caçadores. Você vai se arrepender
+WAR_DECLARE_RESPONSE_NEUTRAL		;Estamos prontos para a guerra. Nossas lanças estão afiadas!
+WAR_DECLARE_RESPONSE_SURPRISED		;Você está confuso! Somos amigos, fazemos festas juntos - não guerra! Diga-nos que é um erro
 
-WAR_END					;Big hunting time finished now. We want feast.\n\nEnd war, yes?
-WAR_END_ACCEPT				;Yes, we stop war now. Ready for big feast
-WAR_END_REJECT				;No, we just started hunting. Not end war now. Not feast time yet
+WAR_END					;Grande tempo de caça acabou agora. Queremos festa.\n\nFim da guerra, sim?
+WAR_END_ACCEPT				;Sim, vamos parar a guerra agora. Prontos para grande festa
+WAR_END_REJECT				;Não, acabamos de começar a caçar. Não é hora de acabar com a guerra. Não é hora de festa ainda
 
-GIFT_GIVE				;We give you {0} credits. You can have big feast now!
-GIFT_THANKS				;Thank you for money! All things smelling good!
+GIFT_GIVE				;Damos a você {0} créditos. Você pode fazer uma grande festa agora!
+GIFT_THANKS				;Obrigado pelo dinheiro! Todas as coisas cheiram bem!
 
-WARNING_INTELLIGENCEMISSIONS		;Stop spying on us! We get angry angry with sneaky sneaky.\n\nNo more spy stuff - we warning you!
-WARNING_ATTACKS				;Stop hunting our ships! All smells very bad.\n\nBig warning: we hunt YOU if not stop
+WARNING_INTELLIGENCEMISSIONS		;Pare de nos espionar! Ficamos muito zangados com essa espionagem.\n\nSem mais espionagem - estamos avisando você!
+WARNING_ATTACKS				;Pare de atacar nossas naves! Tudo cheira muito mal.\n\nGrande aviso: vamos caçar VOCÊ se não parar
 
-WARNING						;What you warn us about?
-WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;No missions on you, friend. We not sneaky
-WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Really? Not heard this. Will check about it, ok?
-WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Missions on you? Oh yes, we not like you - very smelly.\n\nSo we send missions. Maybe send more if you still smelly
-WARNING_ATTACKS_RESPONSE_FRIENDLY		;Oh sorry. We mixed you up with someone else.\n\nNot happen again
-WARNING_ATTACKS_RESPONSE_NEUTRAL		;That not good. We be more careful, ok?
-WARNING_ATTACKS_RESPONSE_ANGRY			;Attacks on you? Yes - we not like you.\n\nWe send more attacks if you not behave, ok?
+WARNING						;Sobre o que você nos avisa?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Sem missões contra você, amigo. Não somos sorrateiros
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Sério? Não ouvimos isso. Vamos verificar, ok?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Missões contra você? Oh sim, nós não gostamos de você - muito fedido.\n\nEntão enviamos missões. Talvez enviemos mais se você continuar fedendo
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Oh, desculpe. Confundimos você com outra pessoa.\n\nNão acontecerá novamente
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Isso não é bom. Vamos ser mais cuidadosos, ok?
+WARNING_ATTACKS_RESPONSE_ANGRY			;Ataques contra você? Sim - não gostamos de você.\n\nVamos enviar mais ataques s

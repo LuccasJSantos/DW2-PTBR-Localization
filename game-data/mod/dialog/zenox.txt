@@ -1,67 +1,66 @@
-GREETING_INTRODUCTION   ;Greetings! The {0}, we are.\n\nMuch we have to tell, for those wise enough to listen.\n\nAre you wise?
-GREETING_FRIENDLY   ;Pleased we are, to see you.\n\nHave time for a story, do you?
-GREETING_NEUTRAL   ;Well, there you are. Come to speak with us, you have.\n\nTell us everything, take your time
-GREETING_ANGRY    ;Hmmm, remember you, we do. Quite troublesome, you are.\n\nStill, listen to your voice, we do
+GREETING_INTRODUCTION   ;Saudações! Nós somos os {0}.\n\nMuito temos para contar, para aqueles sábios o suficiente para ouvir.\n\nSábio você é?
+GREETING_FRIENDLY   ;Contentes em vê-lo, ficamos.\n\nTempo para uma história, tem?
+GREETING_NEUTRAL   ;Bem, aqui está você. Falar conosco veio, você veio.\n\nConte-nos tudo, leve o seu tempo
+GREETING_ANGRY    ;Hmm, lembramos de você. Bastante problemático você é.\n\nAinda assim, ouvir sua voz, vamos
 
-OFFER_DEAL    ;This trade, would you accept?
-OFFER_DEAL_RESPONSE  ;You are offering a deal? What kind?
+OFFER_DEAL    ;Este comércio, aceitaria?
+OFFER_DEAL_RESPONSE  ;Um negócio está oferecendo? Que tipo?
 
-PIRATEPROTECTION_DEAL    ;If any of your ships or bases suffered harm, it would be a shame.\n\nPay us the monthly fee of {0} credits, it would be smart to.\n\nEnsure that we do not have to reprimand our commanders for unfortunate accidents, you can. Overly quick on the trigger, they can be...
+PIRATEPROTECTION_DEAL    ;Se alguma de suas naves ou bases sofrer danos, seria uma vergonha.\n\nA taxa mensal de {0} créditos pagar, seria inteligente.\n\nAssegurar que não precisemos repreender nossos comandantes por acidentes infelizes. Muito rápidos no gatilho, eles podem ser...
 
-DEAL_BEGIN    ;A proposal? What is involved?
-DEAL_ACCEPT    ;Your proposal, we accept
-DEAL_ACCEPT_RESPONSE  ;An excellent outcome, this is!
-DEAL_REJECT_RESPONSE  ;How disappointing...
-DEAL_REJECT    ;In our interests, this proposal is not - no deal
+DEAL_BEGIN    ;Uma proposta? O que envolvido está?
+DEAL_ACCEPT    ;Sua proposta, aceitamos
+DEAL_ACCEPT_RESPONSE  ;Um excelente resultado, este é!
+DEAL_REJECT_RESPONSE  ;Que decepção...
+DEAL_REJECT    ;Em nossos interesses, esta proposta não está - sem negócio
 
-SWAP_MAPS  ;A map would you like to swap? What kind?
+SWAP_MAPS  ;Um mapa trocaria? Que tipo?
 
-WAR_END_ACCEPT    ;Ending this war, we agree. Our fighting, we will stop
-WAR_END_REJECT    ;Absolutely not!\n\nMercy for you - we have none! Annihilate you, we must
+WAR_END_ACCEPT    ;Encerrar esta guerra, concordamos. Nossa luta pararemos
+WAR_END_REJECT    ;Absolutamente não!\n\nMisericórdia para você - nós não temos! Aniquilar você, devemos
 
-TREATY_ACCEPT   ;Your our offer of {0}, we accept
-TREATY_REJECT   ;Interested in {0} we are not, at this time
-TREATY_REJECT_TOOSOON_NEUTRAL   ;Interested in {0} we are not. Too soon after the last change to our relations, it is
-TREATY_REJECT_TOOSOON_ANGRY   ;No interest in {0} with you, we have! Too soon after the last change to our relations, it is
-TREATY_REJECT_TOOSOON_FRIENDLY   ;Apologies. Interested in {0} we are not. Too soon after the last change to our relations, it is
-TREATY_ACCEPT_NEUTRAL   ;Your our offer of {0}, we accept
-TREATY_REJECT_NEUTRAL   ;Interested in {0} we are not, at this time
-TREATY_ACCEPT_ANGRY   ;Your our offer of {0}, we accept
-TREATY_REJECT_ANGRY   ;No interest in {0} with you, we have
-TREATY_ACCEPT_FRIENDLY   ;Your our offer of {0}, we warmly accept!
-TREATY_REJECT_FRIENDLY   ;Apologies. Interested in {0} we are not
+TREATY_ACCEPT   ;Sua oferta de {0}, aceitamos
+TREATY_REJECT   ;Interessados em {0} não estamos, neste momento
+TREATY_REJECT_TOOSOON_NEUTRAL   ;Interessados em {0} não estamos. Cedo demais após a última mudança em nossas relações, é
+TREATY_REJECT_TOOSOON_ANGRY   ;Sem interesse em {0} com você, nós temos! Cedo demais após a última mudança em nossas relações, é
+TREATY_REJECT_TOOSOON_FRIENDLY   ;Pedimos desculpas. Interessados em {0} não estamos. Cedo demais após a última mudança em nossas relações, é
+TREATY_ACCEPT_NEUTRAL   ;Sua oferta de {0}, aceitamos
+TREATY_REJECT_NEUTRAL   ;Interessados em {0} não estamos, neste momento
+TREATY_ACCEPT_ANGRY   ;Sua oferta de {0}, aceitamos
+TREATY_REJECT_ANGRY   ;Sem interesse em {0} com você, nós temos
+TREATY_ACCEPT_FRIENDLY   ;Sua oferta de {0}, calorosamente aceitamos!
+TREATY_REJECT_FRIENDLY   ;Desculpas pedimos. Interessados em {0} não estamos
 
-PROTECTION_ACCEPT  ;Accept your request for protection, we do. {0} credits, the monthly fee is
-PROTECTION_ACCEPT_NEUTRAL  ;Accept your request for protection, we do. {0} credits, the monthly fee is
-PROTECTION_ACCEPT_ANGRY  ;Remembered, your weakness will be. Cost you {0} credits per month, our 'protection' will.
-PROTECTION_ACCEPT_FRIENDLY  ;Accept your request for protection, we do. {0} credits, the monthly fee is
-PROTECTION_REJECT   ;Interested in protection, we are not
-PROTECTION_REJECT_NEUTRAL  ;Interested in protection, we are not
-PROTECTION_REJECT_ANGRY  ;Protect your worthless empire, we will not.
-PROTECTION_REJECT_FRIENDLY  ;Interested in protection, we are not
+PROTECTION_ACCEPT  ;Aceitamos seu pedido de proteção. {0} créditos, a taxa mensal é
+PROTECTION_ACCEPT_NEUTRAL  ;Aceitamos seu pedido de proteção. {0} créditos, a taxa mensal é
+PROTECTION_ACCEPT_ANGRY  ;Lembraremos sua fraqueza será. Custará {0} créditos por mês, nossa 'proteção'.
+PROTECTION_ACCEPT_FRIENDLY  ;Aceitamos seu pedido de proteção. {0} créditos, a taxa mensal é
+PROTECTION_REJECT   ;Interessados em proteção não estamos
+PROTECTION_REJECT_NEUTRAL  ;Interessados em proteção não estamos
+PROTECTION_REJECT_ANGRY  ;Proteger seu império sem valor, nós não faremos.
+PROTECTION_REJECT_FRIENDLY  ;Interessados em proteção não estamos
 
-CANCELTREATY    ;Thought a lot about our {0}, we have.\n\nTime to end this, we feel. Changed, things have
-CANCELTREATY_RESPONSE_FRIENDLY  ;Unfortunate, this is. The treaty was good, we feel.\n\nBut now it is gone
-CANCELTREATY_RESPONSE_NEUTRAL  ;Things come and things go. This we have seen before
-CANCELTREATY_RESPONSE_ANGRY  ;This is for the best really.\n\nTrue to our feelings, this treaty no longer was
+CANCELTREATY    ;Pensamos muito sobre nosso {0}.\n\nHora de acabar com isso, sentimos. Mudamos, coisas aconteceram
+CANCELTREATY_RESPONSE_FRIENDLY  ;Lamentável, isso é. Sentimos que o tratado era bom.\n\nMas agora ele se foi
+CANCELTREATY_RESPONSE_NEUTRAL  ;Coisas vêm e coisas vão. Isso já vimos antes
+CANCELTREATY_RESPONSE_ANGRY  ;Isso é para o melhor realmente.\n\nFiel aos nossos sentimentos, este tratado não era mais
 
-CANCELPROTECTION_RESPONSE_FRIENDLY  ;For the best, perhaps this is
-CANCELPROTECTION_RESPONSE_NEUTRAL  ;Miss those monthly credits, we will. Find other ways to obtain them, we may...
-CANCELPROTECTION_RESPONSE_ANGRY  ;Short-sighted, you are! Think you can survive without our 'protection', do you?!
+CANCELPROTECTION_RESPONSE_FRIENDLY  ;Para o melhor, talvez isso seja
+CANCELPROTECTION_RESPONSE_NEUTRAL  ;Sentiremos falta daqueles créditos mensais. Encontrar outras maneiras de obtê-los, podemos...
+CANCELPROTECTION_RESPONSE_ANGRY  ;Curto prazo, você está! Acha que sobreviver sem nossa 'proteção', pode, não acha?!
 
-TREATY_PROPOSAL    ;A treaty, you say?\n\nHear your offer, we will. Consider our response, we will
-TREATY_ACCEPTRESPONSE   ;An agreement, we have reached! Very fine, this is.\n\nA story, shall we share with you friend?
-TREATY_REJECTRESPONSE   ;Most unsatisfying, this is. Hopeful of a better outcome, we were
+TREATY_PROPOSAL    ;Um tratado, você diz?\n\nOuviremos sua oferta. Consideraremos nossa resposta
+TREATY_ACCEPTRESPONSE   ;Um acordo, alcançamos! Muito bom, isso é.\n\nUma história, compartilharemos com você, amigo?
+TREATY_REJECTRESPONSE   ;Muito insatisfatório, isso é. Esperançosos por um resultado melhor, estávamos
 
-PROTECTION_ACCEPTRESPONSE  ;Wonderful! Look forward to your monthly payments, we will
-PROTECTION_REJECTRESPONSE  ;A foolish choice. Pay either one way or the other, you will...
+PROTECTION_ACCEPTRESPONSE  ;Maravilhoso! Aguardamos ansiosamente seus pagamentos mensais
+PROTECTION_REJECTRESPONSE  ;Uma escolha tola. Pague de um jeito ou de outro, você fará...
 
-GIFT_GIVE    ;A gift we send: {0} credits. Friendship, we seek
-GIFT_THANKS_ANGRY    ;Recorded, your minor gift has been
-GIFT_THANKS_NEUTRAL    ;Your kind gift, we have received
-GIFT_THANKS_FRIENDLY    ;Delighted to receive your generous gift, we were!
-GIFT_PROPOSE    ;A gift of what kind, do you have in mind?
+GIFT_GIVE    ;Um presente enviamos: {0} créditos. Amizade, buscamos
+GIFT_THANKS_ANGRY    ;Registrado, seu pequeno presente foi
+GIFT_THANKS_NEUTRAL    ;Seu gentil presente, recebemos
+GIFT_THANKS_FRIENDLY    ;Encantados em receber seu generoso presente, estamos!
 
-WAR_DECLARE_RESPONSE_ANGRY  ;War, we will give you!\n\nYour end, you will meet. A wise one, you are not
-WAR_DECLARE_RESPONSE_NEUTRAL  ;Your aggression, end you it will.\n\nGrave error, you have made. Fight you, we will
-WAR_DECLARE_RESPONSE_FRIENDLY  ;Fighting, you enjoy?\n\nNothing joyful in war, there is. Nothing good in betrayal, there is
+WAR_DECLARE_RESPONSE_ANGRY  ;Guerra, nós lhe daremos!\n\nSeu fim, você encontrará. Sábio, você não é
+WAR_DECLARE_RESPONSE_NEUTRAL  ;Sua agressão, terminá-la nós vamos.\n\nGrave erro, você cometeu. Lutar nós iremos
+WAR_DECLARE_RESPONSE_FRIENDLY  ;Gosta de lutar?\n\nNada alegre na guerra há. Nada bom na traição há

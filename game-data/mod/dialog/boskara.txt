@@ -1,68 +1,67 @@
-GREETING_INTRODUCTION   ;We are the {0}.\n\nWe seek total dominance over all.\n\nWill you bow before us, or must you be conquered?
-GREETING_FRIENDLY   ;What scheme for conquest have you come to share with us, friend?
-GREETING_NEUTRAL   ;Explain your presence before us
-GREETING_ANGRY    ;You come to speak with us, enemy?\n\nWhat pacifying offer do you have for us?
+GREETING_INTRODUCTION   ;Nós somos os {0}.\n\nBuscamos dominação total sobre todos.\n\nVocê se curvará diante de nós ou deve ser conquistado?
+GREETING_FRIENDLY   ;Que plano de conquista você veio compartilhar conosco, amigo?
+GREETING_NEUTRAL   ;Explique sua presença diante de nós
+GREETING_ANGRY    ;Você vem falar conosco, inimigo?\n\nQue oferta de pacificação você tem para nós?
 
+OFFER_DEAL    ;Você aceitaria esta troca?
+OFFER_DEAL_RESPONSE  ;Que tipo de negócio você está oferecendo?
 
-OFFER_DEAL    ;Would you accept this trade?
-OFFER_DEAL_RESPONSE  ;What kind of deal are you offering?
+PIRATEPROTECTION_DEAL    ;O espaço é um lugar frio e perigoso. Seria uma pena se alguma de suas naves ou bases sofresse danos...\n\nPor uma pequena taxa mensal de {0} créditos, podemos garantir que nenhuma de suas naves sofrerá "acidentes infelizes".\n\nPelo menos, até a próxima taxa vencer...
 
-PIRATEPROTECTION_DEAL    ;Space is a cold and dangerous place. It would be a such a shame if any of your ships or bases suffered harm...\n\nFor the small monthly fee of {0} credits we can guarantee that none of your ships will suffer any 'unfortunate accidents'.\n\nAt least, not until our next fee is due anyway...
+DEAL_BEGIN    ;Um acordo? Vamos ouvir
+DEAL_ACCEPT    ;Aceitamos sua proposta
+DEAL_ACCEPT_RESPONSE  ;Um excelente resultado!
+DEAL_REJECT_RESPONSE  ;Isso é muito decepcionante...
+DEAL_REJECT    ;Esta proposta é inútil - sem acordo
 
-DEAL_BEGIN    ;A deal? Let's hear it
-DEAL_ACCEPT    ;We accept your proposal
-DEAL_ACCEPT_RESPONSE  ;An excellent outcome!
-DEAL_REJECT_RESPONSE  ;That�s very disappointing...
-DEAL_REJECT    ;This proposal is worthless - no deal
+SWAP_MAPS  ;Que tipo de mapa você quer trocar?
 
-SWAP_MAPS  ;What kind of map did you want to swap?
+WAR_END_ACCEPT    ;Pela primeira vez, concordamos com você - esta guerra deve acabar.\n\nNossas forças estão recuando
+WAR_END_REJECT    ;Acabar com a guerra?!\n\nSó os fracos anseiam por alívio de suas perdas. Os fortes avançam com a conquista. Você é o fraco, e nós somos os fortes.\n\nEsta guerra ainda não acabou
 
-WAR_END_ACCEPT    ;For once we agree with you - this war should end.\n\nOur forces are standing down
-WAR_END_REJECT    ;End the war?!\n\nOnly the weak crave relief from their losses. The strong press forward with conquest. You are the weak, and we are the strong.\n\nThis war is not over yet
+TREATY_ACCEPT   ;Aceitamos sua oferta de {0}
+TREATY_REJECT   ;Não, não estamos interessados em {0}
+TREATY_REJECT_TOOSOON_NEUTRAL   ;Não, não estamos interessados em {0}. É muito cedo após a última mudança em nossas relações
+TREATY_REJECT_TOOSOON_ANGRY   ;Não temos interesse em {0} com você! Além disso, é muito cedo após a última mudança em nossas relações
+TREATY_REJECT_TOOSOON_FRIENDLY   ;Não estamos interessados em {0} agora. É muito cedo após a última mudança em nossas relações
+TREATY_ACCEPT_NEUTRAL   ;Aceitamos sua oferta de {0}
+TREATY_REJECT_NEUTRAL   ;Não, não estamos interessados em {0} neste momento
+TREATY_ACCEPT_ANGRY   ;Aceitamos sua oferta de {0}
+TREATY_REJECT_ANGRY   ;Não temos interesse em {0} com você!
+TREATY_ACCEPT_FRIENDLY   ;Aceitamos com prazer sua oferta de {0}!
+TREATY_REJECT_FRIENDLY   ;Não estamos interessados em {0} neste momento
 
-TREATY_ACCEPT   ;We accept your offer of {0}
-TREATY_REJECT   ;No, we are not interested in {0}
-TREATY_REJECT_TOOSOON_NEUTRAL   ;No, we are not interested in {0}. It is too soon after the last change to our relations
-TREATY_REJECT_TOOSOON_ANGRY   ;We have no interest in {0} with you! Besides, it is too soon after the last change to our relations
-TREATY_REJECT_TOOSOON_FRIENDLY   ;We are not interested in {0} now. It is too soon after the last change to our relations
-TREATY_ACCEPT_NEUTRAL   ;We accept your offer of {0}
-TREATY_REJECT_NEUTRAL   ;No, we are not interested in {0} at this time
-TREATY_ACCEPT_ANGRY   ;We accept your offer of {0}
-TREATY_REJECT_ANGRY   ;We have no interest in {0} with you!
-TREATY_ACCEPT_FRIENDLY   ;We gladly accept your offer of {0}!
-TREATY_REJECT_FRIENDLY   ;We are not interested in {0} at this time
+PROTECTION_ACCEPT  ;Aceitamos seu pedido de proteção. A taxa mensal é de {0} créditos
+PROTECTION_ACCEPT_NEUTRAL  ;Aceitamos seu pedido de proteção. A taxa mensal é de {0} créditos
+PROTECTION_ACCEPT_ANGRY  ;Sua fraqueza patética foi notada. Nossa 'proteção' custará {0} créditos por mês. Você pode ir agora
+PROTECTION_ACCEPT_FRIENDLY  ;Aceitamos seu pedido de proteção. A taxa mensal é de {0} créditos
+PROTECTION_REJECT   ;Não, não estamos interessados em proteger você
+PROTECTION_REJECT_NEUTRAL  ;Não, não queremos um acordo de proteção com você
+PROTECTION_REJECT_ANGRY  ;Não, não queremos proteger seu império inútil! Talvez o conquistemos em vez disso...
+PROTECTION_REJECT_FRIENDLY  ;Não, não queremos um acordo de proteção com você
 
-PROTECTION_ACCEPT  ;We accept your request for protection. The monthly fee is {0} credits
-PROTECTION_ACCEPT_NEUTRAL  ;We accept your request for protection. The monthly fee is {0} credits
-PROTECTION_ACCEPT_ANGRY  ;Your pathetic weakness has been noted. Our 'protection' will cost you {0} credits per month. You may go now
-PROTECTION_ACCEPT_FRIENDLY  ;We accept your request for protection. The monthly fee is {0} credits
-PROTECTION_REJECT   ;No, we are not interested in protecting you
-PROTECTION_REJECT_NEUTRAL  ;No, we don't want a Protection Arrangement with you
-PROTECTION_REJECT_ANGRY  ;No, we don't want to protect your worthless empire! Perhaps we will conquer it instead...
-PROTECTION_REJECT_FRIENDLY  ;No, we don't want a Protection Arrangement with you
+CANCELTREATY    ;Nosso {0} com você está agora encerrado.\n\n"Encerrado" - como amamos essa palavra! Tem uma sonoridade tão boa, você não acha?
+CANCELTREATY_RESPONSE_FRIENDLY  ;Gostávamos de você.\n\nMas talvez tenhamos julgado mal...
+CANCELTREATY_RESPONSE_NEUTRAL  ;Muito bem então. Seu insulto foi anotado
+CANCELTREATY_RESPONSE_ANGRY  ;Bom, bom. Este tratado estava atrapalhando nossos planos de qualquer maneira
 
-CANCELTREATY    ;Our {0} with you is now terminated.\n\n"Terminated" - how we love that word! It has such a ring to it, don't you think?
-CANCELTREATY_RESPONSE_FRIENDLY  ;We used to like you.\n\nBut perhaps we misjudged matters...
-CANCELTREATY_RESPONSE_NEUTRAL  ;Very well then. Your insult has been noted
-CANCELTREATY_RESPONSE_ANGRY  ;Good, good. This treaty was getting in the way of our plans anyway
+CANCELPROTECTION_RESPONSE_FRIENDLY  ;Uma escolha surpreendente. Mas talvez seja para o melhor
+CANCELPROTECTION_RESPONSE_NEUTRAL  ;Que pena. Sentiremos falta desses créditos mensais. Talvez encontremos outras maneiras de obtê-los...
+CANCELPROTECTION_RESPONSE_ANGRY  ;Idiota! Você realmente acha que pode sobreviver sem nossa 'proteção'?!
 
-CANCELPROTECTION_RESPONSE_FRIENDLY  ;A surprising choice. But perhaps it is for the best
-CANCELPROTECTION_RESPONSE_NEUTRAL  ;What a shame. We will miss those monthly credits. Perhaps we will find other ways to obtain them...
-CANCELPROTECTION_RESPONSE_ANGRY  ;Fool! Do you really think you can possibly survive without our 'protection'?!
+TREATY_PROPOSAL    ;O que exatamente você está propondo?
+TREATY_ACCEPTRESPONSE   ;Excelente!\n\nEsperamos que você seja um aliado submisso e obediente. Certo?
+TREATY_REJECTRESPONSE   ;Que independente da sua parte.\n\nEssa não é uma característica que gostamos
 
-TREATY_PROPOSAL    ;What exactly are you proposing?
-TREATY_ACCEPTRESPONSE   ;Excellent!\n\nWe hope that you are compliant and submissive allies. Are you?
-TREATY_REJECTRESPONSE   ;How independent of you.\n\nThat is not a trait that we like
+PROTECTION_ACCEPTRESPONSE  ;Uma escolha astuta! Aguardamos ansiosamente seus pagamentos mensais
+PROTECTION_REJECTRESPONSE  ;Que escolha tola! Você acabará pagando por isso...
 
-PROTECTION_ACCEPTRESPONSE  ;A shrewd choice! We look forward to your monthly payments
-PROTECTION_REJECTRESPONSE  ;What a foolish choice! You will end up paying for this...
+GIFT_GIVE    ;Temos um presente para você de {0} créditos.\n\nNão é da nossa natureza ser tão gentil.\n\nPortanto, seria prudente ver isso como uma manobra cínica
+GIFT_THANKS_ANGRY    ;Seu presente mesquinho foi registrado
+GIFT_THANKS_NEUTRAL    ;Obrigado pelo seu presente modesto
+GIFT_THANKS_FRIENDLY    ;Estamos encantados em receber seu presente muito satisfatório!
+GIFT_PROPOSE    ;Que tipo de presente você tinha em mente?
 
-GIFT_GIVE    ;We have a gift for you of {0} credits.\n\nIt is not in our nature to be so kind.\n\nSo you would be wise to see this as a cynical ploy
-GIFT_THANKS_ANGRY    ;Your stingy gift has been recorded
-GIFT_THANKS_NEUTRAL    ;Thank you for your modest gift
-GIFT_THANKS_FRIENDLY    ;We are delighted to receive your very satisfactory gift!
-GIFT_PROPOSE    ;What kind of gift did you have in mind?
-
-WAR_DECLARE_RESPONSE_ANGRY  ;How ironic - we were just about to declare war on you! So convenient.\n\nAnd now you must die...
-WAR_DECLARE_RESPONSE_NEUTRAL  ;How brave of you - daring to take us on!\n\nOf course, bravery and foolishness are closely related.\n\nVery closely, in this case
-WAR_DECLARE_RESPONSE_FRIENDLY  ;You are full of surprises!\n\nBut we always welcome a good fight.\n\nSo victory to the strong! - that's us, of course
+WAR_DECLARE_RESPONSE_ANGRY  ;Que ironia - estávamos prestes a declarar guerra contra você! Tão conveniente.\n\nE agora você deve morrer...
+WAR_DECLARE_RESPONSE_NEUTRAL  ;Que corajoso da sua parte - ousar nos enfrentar!\n\nClaro, coragem e tolice estão intimamente relacionadas.\n\nMuito intimamente, neste caso
+WAR_DECLARE_RESPONSE_FRIENDLY  ;Você está cheio de surpresas!\n\nMas sempre damos as boas-vindas a uma boa luta.\n\nEntão, vitória aos fortes! - que somos nós, é claro
