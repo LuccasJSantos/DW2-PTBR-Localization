@@ -227,10 +227,10 @@ disabled		;desativado
 All components normal		;Todos os componentes normais
 Fleet		;Frota
 
-Star		;Estrela
-Planet		;Planeta
-Moon		;Lua
-Asteroid		;Asteróide
+Star		;(Estrela)
+Planet		;(Planeta)
+Moon		;(Lua)
+Asteroid		;(Asteróide)
 
 Population		;População
 Others		;Outros
