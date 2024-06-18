@@ -16,7 +16,7 @@ A construção de naves ou bases ocorre em três tipos de locais:
 Para iniciar a construção estatal, você tem quatro opções:
 [ULI]selecione uma colônia ou um porto espacial e clique no botão amarelo 'Construir nova nave ou base' sob o Painel de Seleção. Os botões mudarão para mostrar todos os itens construíveis para aquele estaleiro. Passe o mouse sobre cada botão para ver o tipo e o custo de cada nova nave. Clique em um botão para construir um item[/ULI]
 [ULI]selecione uma nave de construção, encontre um local de construção para uma nova base e clique com o botão direito para mostrar um menu pop-up com a opção de menu 'Construir' para as bases que podem ser construídas neste local. Clique na opção de menu 'Construir Base' desejada[/ULI]
-[ULI]abra a tela de Pedidos de Construção (na seção de Construção do Centro de Controle) e selecione os projetos e quantidades para cada papel de nave, em seguida, clique no botão Comprar[/ULI]
+[ULI]abra a tela de Pedidos de Construção (na seção de Construção do Centro de Controle) e selecione os projetos e quantidades para cada função de nave, em seguida, clique no botão Comprar[/ULI]
 [ULI]use os botões 'Enfileirar Nova Base' em qualquer uma das listas de Novos Locais, por exemplo, Novos Locais de Mineração (shift-F7) ou Novos Locais de Pesquisa (shift-F9)[/ULI]
 
 Note que após a construção, as naves começam totalmente automatizadas. Para assumir o controle de uma de suas naves estatais, simplesmente atribua uma missão a ela.

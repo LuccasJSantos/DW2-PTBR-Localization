@@ -56,4 +56,4 @@ Quando as armas são disparadas contra um alvo, sua precisão é determinada pel
 [ULI]Velocidade do alvo: alvos mais lentos são mais fáceis de atingir. Alvos completamente estacionários como bases são especialmente fáceis de atingir[/ULI]
 [ULI]Sensores de Alvo de Combate em suas naves aumentam a probabilidade de que suas armas encontrem seu alvo[/ULI]
 [ULI]Componentes de Contramedidas em suas naves tornam mais difícil serem atingidas[/ULI]
-[ULI]Fatores aleatórios e incontroláveis também desempenham seu papel na melhoria ou pioria da precisão das armas[/ULI]
+[ULI]Fatores aleatórios e incontroláveis também desempenham sua função na melhoria ou pioria da precisão das armas[/ULI]

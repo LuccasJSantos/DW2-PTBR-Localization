@@ -401,7 +401,7 @@ GameTaskType SetArmyTemplate		;Modelo de Exército: {0}
 GameTaskType SetFleetFormationCoherence		;Formação: {0}
 GameTaskType SetFleetAllowShipRoleReassignment			;Reatribuição de posição de nave na frota: {0}
 GameTaskType SetFleetOverrideShipTacticsWithFleet		;Táticas - Usar Frota ou Nave: {0}
-GameTaskType SetFleetAllowShipRoleUpgrade			;Melhoria/Rebaixamento de Papel da Nave: {0}
+GameTaskType SetFleetAllowShipRoleUpgrade			;Melhoria/Rebaixamento de Função da Nave: {0}
 GameTaskType SetFleetAllowTrimmingExcessShips			;Eliminar Naves Excedentes: {0}
 GameTaskType SetFleetAllowAutoUpgradingSpecificDesigns			;Atualização Automática de Designs Obsoletos Específicos: {0}
 GameTaskType SetCapital		;Definir {0} como nova capital do império
@@ -414,7 +414,7 @@ GameTaskType SetFleetAttackPoint		;Definir ponto de ataque para {0} como {1}
 GameTaskType SetFleetHomeBase		;Definir base principal para {0} como {1}
 GameTaskType SetFleetRetreatOverwhelmed		;Frota deve recuar quando: {0}
 GameTaskType SetFleetRetreatStrength		;Frota deve recuar quando: {0}
-GameTaskType SetFleetRole		;Papel da Frota: {0}
+GameTaskType SetFleetRole		;Função da Frota: {0}
 GameTaskType SetInvasionTactics		;Invadir colônias: {0}
 GameTaskType SetResearchQueue		;
 GameTaskType SetShipAutomation		;Automação da Nave: {0}
@@ -537,7 +537,7 @@ GameTaskType Short SetFleetAttackPoint		;Definir Ponto de Ataque da Frota
 GameTaskType Short SetFleetHomeBase		;Definir Base Principal da Frota
 GameTaskType Short SetFleetRetreatOverwhelmed		;Definir Quando a Frota Deve Recuar
 GameTaskType Short SetFleetRetreatStrength		;Definir Força de Recuo da Frota
-GameTaskType Short SetFleetRole		;Definir Papel da Frota
+GameTaskType Short SetFleetRole		;Definir Função da Frota
 GameTaskType Short SetInvasionTactics		;Definir Táticas de Invasão
 GameTaskType Short SetResearchQueue		;Enfileirar Projeto de Pesquisa
 GameTaskType Short SetShipAutomation		;Automação da Nave
@@ -1117,7 +1117,7 @@ ComponentCategory ScannerJammer		;Jammer de Scanner
 ComponentCategory ScannerJumpTracking		;Rastreamento de Salto de Scanner
 ComponentCategory ScannerLongRange		;Scanner de Longo Alcance
 ComponentCategory ScannerShortRange		;Scanner de Curto Alcance
-ComponentCategory ScannerRoleMasking		;Máscara de Papel de Scanner
+ComponentCategory ScannerRoleMasking		;Máscara de Função de Scanner
 ComponentCategory ScannerTrace		;Rastreador de Scanner
 ComponentCategory Shields		;Escudos
 ComponentCategory ShieldEnhancement		;Aprimoramento de Escudo
@@ -1946,11 +1946,11 @@ Unknown Systems Explanation		;Número de sistemas estelares que não foram visit
 Current Amount		;Quantidade Atual
 Suggested Amount		;Quantidade Sugerida
 Build Amount		;Quantidade Construída
-Build Order Current Amount Explanation		;A quantidade de naves para esse papel atualmente em nosso império. Isso inclui naves atualmente em construção
-Build Order Suggested Amount Explanation		;A quantidade sugerida de naves para esse papel
-Build Order Build Amount Explanation		;A quantidade de novas naves que devemos construir para esse papel
-Build Order Cost Explanation		;O custo total de compra de todas as novas naves para esse papel
-Build Order Maintenance Explanation		;O custo total de manutenção anual contínua de todas as novas naves para esse papel
+Build Order Current Amount Explanation		;A quantidade de naves para essa função atualmente em nosso império. Isso inclui naves atualmente em construção
+Build Order Suggested Amount Explanation		;A quantidade sugerida de naves para essa função
+Build Order Build Amount Explanation		;A quantidade de novas naves que devemos construir para essa função
+Build Order Cost Explanation		;O custo total de compra de todas as novas naves para essa função
+Build Order Maintenance Explanation		;O custo total de manutenção anual contínua de todas as novas naves para essa função
 TOTAL Purchase and Maintenance Costs		;Custos Totais de Compra e Manutenção
 Available Money and Cashflow		;Dinheiro Disponível e Fluxo de Caixa
 Purchase		;Compra
@@ -1969,8 +1969,8 @@ Left-click to queue new ROLE		;Clique esquerdo para enfileirar novo {0}
 Right-click to remove ROLE		;Clique direito para remover {0}
 Cannot Build DESIGN here		;Não é possível construir {0} aqui
 Cannot afford Purchase Cost		;Não é possível arcar com o Custo de Compra
-Build Order Design Button Explanation		;Clique para selecionar um design para este papel
-Build Order Role Explanation		;Clique para selecionar este papel. Você pode então clicar nos sistemas na visualização da galáxia para enfileirar naves para construção
+Build Order Design Button Explanation		;Clique para selecionar um design para essa função
+Build Order Role Explanation		;Clique para selecionar essa função. Você pode então clicar nos sistemas na visualização da galáxia para enfileirar naves para construção
 Off		;Desligado
 On		;Ligado
 Overlay Off		;Overlay Desligado
@@ -2406,7 +2406,7 @@ Model Issues Explanation		;Os seguintes problemas foram encontrados ao examinar 
 
 No Buildable Designs		;Sem Designs Construíveis
 No Buildable Designs for ROLE		;Sem Designs Construíveis para {0}
-No Buildable Designs Explanation		;Você deve primeiro pesquisar um Casco de Nave para esse papel e depois criar um Design que use o Casco de Nave
+No Buildable Designs Explanation		;Você deve primeiro pesquisar um Casco de Nave para essa função e depois criar um Design que use o Casco de Nave
 
 Cannot cancel crash programs		;Não é possível cancelar programas de falha
 Under Attack		;Sob Ataque
@@ -4686,13 +4686,13 @@ ComponentCategory Description ScannerExploration		;Os scanners de exploração e
 ComponentCategory Description ScannerExplorationSurvey		;Os scanners de levantamento permitem o envio de uma equipe de pouso à superfície de planetas, luas e asteroides próximos para explorá-los em detalhes.\n\nIsso permite a descoberta de recursos e itens ocultos, como ruínas antigas, artefatos e naves abandonadas.\n\nPara itens profundamente ocultos, o componente de levantamento pode precisar de várias varreduras para descobrir completamente as descobertas. Isso pode levar um período prolongado de tempo.\n\nOs scanners de levantamento são o contraponto de baixa tecnologia (mas mais detalhado) aos Scanners de Exploração.
 ComponentCategory Description ScannerJammer		;Os Jammer de Scanner impedem que uma nave ou base seja escaneada por outras naves com componentes de Scanner de Rastreamento.\n\nOs Jammer de Scanner têm uma força de bloqueio avaliada. A digitalização será impedida se esta força de bloqueio for maior que a força do Scanner de Rastreamento.
 ComponentCategory Description ScannerJumpTracking		;Os scanners de Rastreamento de Salto permitem rastrear um alvo conforme ele salta para o hiperespaço. Isso melhora a capacidade de perseguir um inimigo se ele fugir da batalha.
-ComponentCategory Description ScannerLongRange		;Os scanners de longo alcance escaneiam uma grande área, permitindo ver qualquer nave ou base dentro do alcance.\n\nOs scanners de longo alcance podem até ver em sistemas vizinhos, permitindo que você monitore a atividade lá mesmo quando não tem naves ou bases presentes.\n\nOutros componentes (máscara de scanner, furtividade) podem limitar a eficácia dos scanners de longo alcance. Isso pode derrotar os scanners de longo alcance, escondendo uma nave ou base para que não seja visível, especialmente em alcances maiores.\n\nAs nuvens de nebulosa também limitam a eficácia dos scanners de longo alcance. O alcance de digitalização é muito reduzido dentro ou através de uma nuvem de nebulosa.\n\nItens escaneados podem ser detectados, mas pode não ser possível identificá-los: seu papel ou império podem ser desconhecidos. Isso é especialmente verdadeiro quando os itens escaneados estão perto dos limites de alcance do scanner de longo alcance.
-ComponentCategory Description ScannerShortRange		;Os scanners de curto alcance escaneiam uma área local, permitindo ver qualquer nave ou base dentro do alcance.\n\nOs scanners de curto alcance normalmente não veem muito além de um único sistema.\n\nOutros componentes (máscara de scanner, furtividade) podem limitar a eficácia dos scanners de curto alcance. Isso pode derrotar os scanners de curto alcance, escondendo uma nave ou base para que não seja visível, especialmente em alcances maiores.\n\nAs nuvens de nebulosa também limitam a eficácia dos scanners de curto alcance. O alcance de digitalização é muito reduzido dentro ou através de uma nuvem de nebulosa.\n\nItens escaneados podem ser detectados, mas pode não ser possível identificá-los: seu papel ou império podem ser desconhecidos. Isso é especialmente verdadeiro quando os itens escaneados estão perto dos limites de alcance do scanner de curto alcance.
-ComponentCategory Description ScannerRoleMasking		;Os Jammer de Ocultação de Papel escondem o tipo de nave ou base dos scanners de longo alcance. Isso permite que uma nave ou base evite detecção ou apareça como um tipo genérico de nave inofensiva (por exemplo, em vez de seu verdadeiro papel como uma nave militar).
+ComponentCategory Description ScannerLongRange		;Os scanners de longo alcance escaneiam uma grande área, permitindo ver qualquer nave ou base dentro do alcance.\n\nOs scanners de longo alcance podem até ver em sistemas vizinhos, permitindo que você monitore a atividade lá mesmo quando não tem naves ou bases presentes.\n\nOutros componentes (máscara de scanner, furtividade) podem limitar a eficácia dos scanners de longo alcance. Isso pode derrotar os scanners de longo alcance, escondendo uma nave ou base para que não seja visível, especialmente em alcances maiores.\n\nAs nuvens de nebulosa também limitam a eficácia dos scanners de longo alcance. O alcance de digitalização é muito reduzido dentro ou através de uma nuvem de nebulosa.\n\nItens escaneados podem ser detectados, mas pode não ser possível identificá-los: sua função ou império podem ser desconhecidos. Isso é especialmente verdadeiro quando os itens escaneados estão perto dos limites de alcance do scanner de longo alcance.
+ComponentCategory Description ScannerShortRange		;Os scanners de curto alcance escaneiam uma área local, permitindo ver qualquer nave ou base dentro do alcance.\n\nOs scanners de curto alcance normalmente não veem muito além de um único sistema.\n\nOutros componentes (máscara de scanner, furtividade) podem limitar a eficácia dos scanners de curto alcance. Isso pode derrotar os scanners de curto alcance, escondendo uma nave ou base para que não seja visível, especialmente em alcances maiores.\n\nAs nuvens de nebulosa também limitam a eficácia dos scanners de curto alcance. O alcance de digitalização é muito reduzido dentro ou através de uma nuvem de nebulosa.\n\nItens escaneados podem ser detectados, mas pode não ser possível identificá-los: sua função ou império podem ser desconhecidos. Isso é especialmente verdadeiro quando os itens escaneados estão perto dos limites de alcance do scanner de curto alcance.
+ComponentCategory Description ScannerRoleMasking		;Os Jammer de Ocultação de Função escondem o tipo de nave ou base dos scanners de longo alcance. Isso permite que uma nave ou base evite detecção ou apareça como um tipo genérico de nave inofensiva (por exemplo, em vez de sua verdadeira função como uma nave militar).
 ComponentCategory Description ScannerTrace		;Os Scanners de Rastreamento permitem escanear outra nave ou base próxima para determinar sua carga, tropas a bordo e status dos componentes.\n\nOs Scanners de Rastreamento podem ser derrotados por componentes de Jammer de Scanner, que bloqueiam o escaneamento.
 ComponentCategory Description Shields		;Escudos são barreiras defensivas de energia que protegem uma nave ou base contra disparos de armas inimigas.\n\nOs escudos podem ser gradualmente reduzidos pelo dano de disparos de armas inimigas. Todos os componentes de escudo têm uma taxa inerente de regeneração - eles restauram sua força gradualmente ao longo do tempo, embora geralmente a uma taxa muito menor do que o dano entrante de disparos de armas inimigas.\n\nAlguns componentes de escudo podem também ter um nível de Resistência abaixo do qual o dano inimigo não afeta os escudos. Em outras palavras, o nível de dano deve ser acima do nível de Resistência para reduzir a força do escudo.\n\nCada tipo de componente de escudo tem uma especialidade diferente: alguns têm uma maior resistência protetora, enquanto outros são mais ajustados para uma regeneração mais rápida.\n\nOs escudos muitas vezes não são 100% eficazes em bloquear disparos de armas, algum dano pode 'vazar' para atingir a nave ou base. Além disso, alguns tipos de armas têm a capacidade inerente de passar parcialmente pelos escudos.
 ComponentCategory Description ShieldEnhancement		;Os Aprimoramentos de Escudo complementam os componentes completos de Escudo ao fornecer barreiras defensivas de energia que protegem uma nave ou base contra disparos de armas inimigas.\n\nOs Aprimoramentos de Escudo normalmente aumentam a taxa de regeneração do escudo, mas não fornecem nenhuma força de escudo própria.
-ComponentCategory Description Stealth		;Componentes de Furtividade minimizam a visibilidade de uma nave, permitindo que ela evite detecção - especialmente a longo alcance.\n\nObserve que os componentes de furtividade não tornam uma nave completamente invisível. Eles simplesmente reduzem sua detectabilidade pelos sensores inimigos, aumentando o alcance em que pode ser detectada.\n\nAlém disso, quando uma nave ou base equipada com furtividade é detectada, a habilidade de Furtividade reduz o quão fácil é identificar o papel e o império da nave ou base. Assim, a nave ou base pode aparecer apenas como um item desconhecido, especialmente quando detectado próximo aos limites de alcance do scanner.
+ComponentCategory Description Stealth		;Componentes de Furtividade minimizam a visibilidade de uma nave, permitindo que ela evite detecção - especialmente a longo alcance.\n\nObserve que os componentes de furtividade não tornam uma nave completamente invisível. Eles simplesmente reduzem sua detectabilidade pelos sensores inimigos, aumentando o alcance em que pode ser detectada.\n\nAlém disso, quando uma nave ou base equipada com furtividade é detectada, a habilidade de Furtividade reduz o quão fácil é identificar a função e o império da nave ou base. Assim, a nave ou base pode aparecer apenas como um item desconhecido, especialmente quando detectado próximo aos limites de alcance do scanner.
 ComponentCategory Description TargetingComputer		;Componentes de Mirador aumentam a precisão de disparo das armas durante o combate.\n\nEsses computadores poderosos calculam rapidamente trajetórias ideais para atingir um alvo inimigo. Isso aumenta suas chances de acertar um inimigo durante o combate.
 ComponentCategory Description TargetingComputerFleet		;O Mirador de Frota afeta toda uma frota, aumentando a precisão de mira de todas as naves na frota.
 ComponentCategory Description TractorBeam		;Feixes Tratores são usados para puxar naves inimigas em direção ao atirador para atacar, ou para afastar um atacante inimigo.\n\nEles têm um efeito maior em alvos menores e próximos. Múltiplos feixes tratores podem ser usados para fornecer maior poder de puxar ou empurrar.\n\nFeixes tratores são especialmente úteis para abordar e capturar naves inimigas. Eles também são eficazes para impedir que inimigos em fuga escapem.\n\nObserve que os feixes tratores não causam qualquer dano a um alvo, eles simplesmente o puxam ou empurram.
@@ -4780,7 +4780,7 @@ FleetAllowShipRoleReassignment Manual		;As naves mantêm a posição atual dentr
 FleetAllowShipRoleUpgrade Automate		;Os papéis das naves na frota podem ser atualizados ou rebaixados para atender aos requisitos gerais da frota
 FleetAllowShipRoleUpgrade Manual		;Os papéis das naves na frota nunca são atualizados ou rebaixados para atender aos requisitos gerais da frota
 
-FleetAllowTrimmingExcessShips Automate		;Cortar naves excedentes na frota que não correspondem exatamente ao modelo (papel/casco/design errados)
+FleetAllowTrimmingExcessShips Automate		;Cortar naves excedentes na frota que não correspondem exatamente ao modelo (função/casco/design errados)
 FleetAllowTrimmingExcessShips Manual		;Permitir naves não correspondentes na frota para completar o número total de naves, mesmo quando não há correspondência exata
 
 FleetTemplateAllowAutoUpgradingSpecificDesigns Automate		;Permitir que designs específicos obsoletos no modelo de frota sejam automaticamente atualizados para o próximo design não obsoleto em seu caminho de atualização
@@ -5226,20 +5226,20 @@ Error while saving game. Check that you have enough storage space		;Erro ao salv
 Warning - Low Storage Space		;Aviso - Espaço de Armazenamento Baixo
 You have low storage space. Your game may fail to save.		;Você tem pouco espaço de armazenamento. Seu jogo pode falhar ao salvar.
 Apply Tactics Description - Designs in Fleet		;Aplicar estas configurações táticas a todas as naves deste Design nesta Frota
-Apply Tactics Description - Roles in Fleet		;Aplicar estas configurações táticas a todas as naves deste Papel nesta Frota
+Apply Tactics Description - Roles in Fleet		;Aplicar estas configurações táticas a todas as naves desta Função nesta Frota
 Apply Tactics Description - Position in Fleet		;Aplicar estas configurações táticas a todas as naves desta Posição nesta Frota
 Apply Tactics Description - All Ships in Fleet		;Aplicar estas configurações táticas a todas as naves nesta Frota
 Settings applied to X ships		;Configurações aplicadas a {0} naves
 Note that manually-controlled fleets will not automatically retreat		;Observe que frotas controladas manualmente não irão recuar automaticamente. Esta configuração se aplica apenas a frotas automatizadas (Ataque, Defesa, Raid, Invadir).
 Note that manually-controlled fleets will not engage outside of their current star system		;Observe que frotas controladas manualmente não irão automaticamente se engajar em ameaças fora de seu sistema estelar atual.
-Fleets Military Attacks Automation Explanation		;As frotas não irão automaticamente se engajar em ameaças fora de seu sistema estelar atual quando os Ataques Militares são controlados manualmente (veja a seção Militar nas configurações de Política do Império). Portanto, para que as frotas respondam automaticamente a ameaças fora de seu sistema estelar atual, você deve habilitar a automação de Ataques Militares (Totalmente Automático ou Sugerir). Além disso, você deve usar frotas automatizadas (não o papel de frota Manual) se desejar que elas se engajem automaticamente em ameaças além de seu sistema atual.
+Fleets Military Attacks Automation Explanation		;As frotas não irão automaticamente se engajar em ameaças fora de seu sistema estelar atual quando os Ataques Militares são controlados manualmente (veja a seção Militar nas configurações de Política do Império). Portanto, para que as frotas respondam automaticamente a ameaças fora de seu sistema estelar atual, você deve habilitar a automação de Ataques Militares (Totalmente Automático ou Sugerir). Além disso, você deve usar frotas automatizadas (não a função de frota Manual) se desejar que elas se engajem automaticamente em ameaças além de seu sistema atual.
 
 EMPIRE reports		;Relatórios de {0}
 
 FleetEngagementRange Explanation		;A Faixa de Engajamento da Frota especifica quando uma frota irá engajar alvos.\n\nNão Engajar: a frota nunca irá engajar inimigos\nEngajar Quando Atacado: irá engajar inimigos somente quando diretamente atacada por eles\nPróximo: irá engajar alvos inimigos próximos\nMesmo Local: irá engajar alvos inimigos no mesmo local (planeta e luas)\nMesmo Sistema: irá engajar alvos inimigos no mesmo sistema estelar\n50M de alcance: irá engajar alvos inimigos dentro de 50 milhões de unidades\n100M de alcance: irá engajar alvos inimigos dentro de 100 milhões de unidades\n200M de alcance: irá engajar alvos inimigos dentro de 200 milhões de unidades\n300M de alcance: irá engajar alvos inimigos dentro de 300 milhões de unidades\n33% do Alcance de Combustível: irá engajar alvos inimigos dentro de 33% do alcance de combustível da frota\n50% do Alcance de Combustível: irá engajar alvos inimigos dentro de 50% do alcance de combustível da frota\n\nNote que a faixa de engajamento da frota substitui as faixas de engajamento das naves individuais na frota. Ou seja, quando uma nave faz parte de uma frota, ela usa a faixa de engajamento da frota em vez de sua própria faixa de engajamento.
 
 Explicação Coerência de Formação da Frota		;Especifica a proximidade das naves de Escolta Próxima e Piquete em relação às suas naves Núcleo escoltadas na frota.
-Explicação Permite Reatribuição de Papel de Nave na Frota		;Isso determina se as naves podem ter seu 'Papel Dentro da Frota' reatribuído automaticamente ou não. Isso significa que sempre que uma nova nave líder de frota for selecionada (por exemplo, quando uma nave melhor se juntar à frota ou quando a nave líder anterior se perder), então as naves Núcleo, Escolta Próxima e Piquete podem mudar.
+Explicação Permite Reatribuição de Função de Nave na Frota		;Isso determina se as naves podem ter sua 'Função Dentro da Frota' reatribuída automaticamente ou não. Isso significa que sempre que uma nova nave líder de frota for selecionada (por exemplo, quando uma nave melhor se juntar à frota ou quando a nave líder anterior se perder), então as naves Núcleo, Escolta Próxima e Piquete podem mudar.
 FleetRetreatOverwhelmed Explanation		;Determina quando toda a frota decidirá se retirar de uma batalha.
 FleetOverrideShipTacticsWithFleet Explanation		;Especifica se as naves em uma frota usam táticas individuais próprias, ou em vez disso, usam um conjunto comum de substituições táticas de sua frota.
 
@@ -5793,14 +5793,14 @@ PolicyExplanation WeaponLevelBombard		;Nível de prioridade para armas de bombar
 WeaponLevelFighters		;Prioridade de Hangares de Caças
 PolicyExplanation WeaponLevelFighters		;Nível de prioridade para hangares de caças ao projetar novas naves em seu império. Maior prioridade significa mais hangares de caças serão utilizados. Você pode evitar o uso de hangares de caças em qualquer um dos designs de suas naves militares definindo isso como 'Não Utilizar'
 
-WeaponLowestRoleIon		;Papel Inicial Para Armas de Íons
-PolicyExplanation WeaponLowestRoleIon		;Papel militar inicial onde armas de íons serão adicionadas. Armas de íons não serão adicionadas aos designs de naves militares abaixo deste papel, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão essas armas.
-WeaponLowestRoleArea		;Papel Inicial Para Armas de Área
-PolicyExplanation WeaponLowestRoleArea		;Papel militar inicial onde armas de área serão adicionadas. Armas de área não serão adicionadas aos designs de naves militares abaixo deste papel, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão essas armas.
-WeaponLowestRoleBombard		;Papel Inicial Para Armas de Bombardeio
-PolicyExplanation WeaponLowestRoleBombard		;Papel militar inicial onde armas de bombardeio serão adicionadas. Armas de bombardeio não serão adicionadas aos designs de naves militares abaixo deste papel, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão essas armas.
-WeaponLowestRoleFighters		;Papel Inicial Para Hangares de Caças
-PolicyExplanation WeaponLowestRoleFighters		;Papel militar inicial onde hangares de caças serão adicionados. Hangares de caças não serão adicionados aos designs de naves militares abaixo deste papel, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão hangares de caças.
+WeaponLowestRoleIon		;Função Inicial Para Armas de Íons
+PolicyExplanation WeaponLowestRoleIon		;Função militar inicial onde armas de íons serão adicionadas. Armas de íons não serão adicionadas aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão essas armas.
+WeaponLowestRoleArea		;Função Inicial Para Armas de Área
+PolicyExplanation WeaponLowestRoleArea		;Função militar inicial onde armas de área serão adicionadas. Armas de área não serão adicionadas aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão essas armas.
+WeaponLowestRoleBombard		;Função Inicial Para Armas de Bombardeio
+PolicyExplanation WeaponLowestRoleBombard		;Função militar inicial onde armas de bombardeio serão adicionadas. Armas de bombardeio não serão adicionadas aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão essas armas.
+WeaponLowestRoleFighters		;Função Inicial Para Hangares de Caças
+PolicyExplanation WeaponLowestRoleFighters		;Função militar inicial onde hangares de caças serão adicionados. Hangares de caças não serão adicionados aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão hangares de caças.
 
 ComponentFocusReactor		;Foco de Reator
 PolicyExplanation ComponentFocusReactor		;Especifica o foco ao selecionar projetos de pesquisa de Reator e componentes de Reator em designs de nave. Para um foco equilibrado, selecione 'Neutro'

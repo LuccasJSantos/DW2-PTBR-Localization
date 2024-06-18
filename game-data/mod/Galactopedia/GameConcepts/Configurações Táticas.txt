@@ -71,9 +71,9 @@ O Alcance de Engajamento da Frota especifica quando uma nave irá engajar alvos.
 
 Note que o alcance de engajamento da frota substitui os alcances de engajamento das naves individuais na frota. Quando uma nave faz parte de uma frota, ela utiliza o alcance de engajamento da frota em vez do seu próprio alcance de engajamento.
 
-Frotas controladas manualmente não responderão automaticamente a ameaças fora do seu sistema estelar atual. Isso é indicado por texto amarelo para essa configuração quando a frota é controlada manualmente. Para habilitar o alcance de engajamento da frota além do sistema estelar atual, você deve utilizar um papel automatizado da frota (Defender, Atacar, Saquear, Invadir).
+Frotas controladas manualmente não responderão automaticamente a ameaças fora do seu sistema estelar atual. Isso é indicado por texto amarelo para essa configuração quando a frota é controlada manualmente. Para habilitar o alcance de engajamento da frota além do sistema estelar atual, você deve utilizar uma função automatizada da frota (Defender, Atacar, Saquear, Invadir).
 
-As frotas também não irão automaticamente engajar ameaças fora do seu sistema estelar atual quando os Ataques Militares são controlados manualmente (ver seção Militar nas configurações de Política do Império). Isso é indicado por texto laranja para essa configuração quando os Ataques Militares são controlados manualmente. Assim, para as frotas responderem automaticamente a ameaças fora do seu sistema estelar atual, você deve habilitar a automação de Ataques Militares (Totalmente Automático ou Sugerir). Além disso, você deve usar frotas automatizadas (não o papel Manual da frota) se desejar que elas engajem automaticamente ameaças além do sistema atual.
+As frotas também não irão automaticamente engajar ameaças fora do seu sistema estelar atual quando os Ataques Militares são controlados manualmente (ver seção Militar nas configurações de Política do Império). Isso é indicado por texto laranja para essa configuração quando os Ataques Militares são controlados manualmente. Assim, para as frotas responderem automaticamente a ameaças fora do seu sistema estelar atual, você deve habilitar a automação de Ataques Militares (Totalmente Automático ou Sugerir). Além disso, você deve usar frotas automatizadas (não a função Manual da frota) se desejar que elas engajem automaticamente ameaças além do sistema atual.
 
 [H3]Formação[/H3]
 Especifica a proximidade das naves de Escolta Próxima e Piquete em relação às naves Núcleo que estão sendo escoltadas na frota.
@@ -83,10 +83,10 @@ Especifica a proximidade das naves de Escolta Próxima e Piquete em relação à
 [ULI]Solto[/ULI]
 [ULI]Muito Solto[/ULI]
 
-[H3]Permitir Reatribuição de Papel das Naves[/H3]
-Isso determina se as naves podem ter seu 'Papel na Frota' automaticamente reatribuído ou não. Isso significa que sempre que uma nova nave líder da frota for selecionada (por exemplo, quando uma nave melhor se junta à frota ou quando a antiga nave líder é perdida), as naves Núcleo, de Escolta Próxima e Piquete podem mudar.
+[H3]Permitir Reatribuição de Função das Naves[/H3]
+Isso determina se as naves podem ter sua 'Função na Frota' automaticamente reatribuída ou não. Isso significa que sempre que uma nova nave líder da frota for selecionada (por exemplo, quando uma nave melhor se junta à frota ou quando a antiga nave líder é perdida), as naves Núcleo, de Escolta Próxima e Piquete podem mudar.
 [ULI]Naves reatribuem papéis dentro da frota conforme necessário[/ULI]
-[ULI]Naves mantêm o papel atual dentro da frota[/ULI]
+[ULI]Naves mantêm a função atual dentro da frota[/ULI]
 
 [H3]Retirada Quando[/H3]
 Determina quando a frota inteira decidirá se retirar de uma batalha.

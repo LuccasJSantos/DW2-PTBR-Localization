@@ -1,7 +1,7 @@
 Todas as naves e bases em seu império utilizam projetos. Projetos são modelos ou plantas para a construção de uma nave ou base.
 
 [H3]Casco das Naves[/H3]
-Os cascos das naves são a superestrutura de uma nave ou base. Cada casco tem um papel, por exemplo, Cargueiro Pequeno, Estação de Mineração, Fragata.
+Os cascos das naves são a superestrutura de uma nave ou base. Cada casco tem uma função, por exemplo, Cargueiro Pequeno, Estação de Mineração, Fragata.
 
 Os cascos possuem um tamanho intrínseco (o tamanho do próprio casco) e um tamanho máximo que define o maior projeto que você pode fazer com o casco, incluindo todos os componentes adicionados ao casco.
 

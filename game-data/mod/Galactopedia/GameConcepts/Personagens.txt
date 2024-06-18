@@ -4,7 +4,7 @@ Cada personagem possui habilidades e traços que determinam suas forças e fraqu
 
 Alguns personagens inicialmente têm seus traços e níveis de habilidade ocultos. Estes não serão revelados até que sejam realmente atribuídos a uma missão ou outra responsabilidade que use essas habilidades. Esses personagens são considerados "Não Testados".
 
-As habilidades dos personagens fornecem bônus específicos para o papel do personagem. Alguns exemplos:
+As habilidades dos personagens fornecem bônus específicos para a função do personagem. Alguns exemplos:
 [ULI]O Líder do seu império fornece bônus para todo o seu império[/ULI]
 [ULI]Embaixadores fornecem bônus para as relações diplomáticas com o império estrangeiro onde atuam como embaixadores[/ULI]
 [ULI]Almirantes da Frota fornecem bônus para todas as naves em sua frota[/ULI]
