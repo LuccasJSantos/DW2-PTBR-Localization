@@ -1,33 +1,33 @@
-Tourism involves transporting vacationing passengers from colonies to resort bases.
+O turismo envolve transportar passageiros em férias de colônias para bases de resorts.
 
-These tourists are transported to their destination by privately-owned passenger ships. Tourism occurs entirely in the private sector of your empire - you have no control over the movement of tourists.
+Esses turistas são transportados para seus destinos por naves de passageiros de propriedade privada. O turismo ocorre inteiramente no setor privado do seu império - você não tem controle sobre o movimento dos turistas.
 
-Tourism can be a significant source of bonus income for your empire.
+O turismo pode ser uma fonte significativa de renda bônus para o seu império.
 
-[H3]Scenic Locations and Resorts[/H3]
-Resort bases are special bases built at scenic locations throughout the galaxy. Scenic locations can include the following:
-[ULI]Ringed planets[/ULI]
-[ULI]Black Holes[/ULI]
-[ULI]Neutron stars[/ULI]
-[ULI]Planets with unusual ruins or ancient monuments[/ULI]
-[ULI]Colonies with Wonders[/ULI]
-[ULI]Planets or moons with spectacular natural features[/ULI]
+[H3]Locais Cênicos e Resorts[/H3]
+Bases de resorts são bases especiais construídas em locais cênicos por toda a galáxia. Locais cênicos podem incluir o seguinte:
+[ULI]Planetas com anéis[/ULI]
+[ULI]Buracos negros[/ULI]
+[ULI]Estrelas de nêutrons[/ULI]
+[ULI]Planetas com ruínas incomuns ou monumentos antigos[/ULI]
+[ULI]Colônias com Maravilhas[/ULI]
+[ULI]Planetas ou luas com características naturais espetaculares[/ULI]
 
-[H3]Scenery Bonuses[/H3]
-Scenic locations will have a Scenery bonus. This defines the amount and source of the scenic feature, for example: '+10% from Vast Underwater Tunnel Network'.
+[H3]Bônus de Cenário[/H3]
+Locais cênicos terão um bônus de cenário. Isso define a quantidade e a fonte do recurso cênico, por exemplo: '+10% do Vasto Sistema de Túneis Subaquáticos'.
 
-To see any scenery bonuses for a star, planet, moon or asteroid:
-[OLI]select the location[/OLI]
-[OLI]in the Selection Panel, hover the 'Location Bonuses' area[/OLI]
-[OLI]a tooltip will display all of the bonuses at the location, including any scenery bonuses[/OLI]
+Para ver quaisquer bônus de cenário para uma estrela, planeta, lua ou asteroide:
+[OLI]selecione o local[/OLI]
+[OLI]no Painel de Seleção, passe o mouse sobre a área 'Bônus do Local'[/OLI]
+[OLI]uma dica de ferramenta mostrará todos os bônus no local, incluindo quaisquer bônus de cenário[/OLI]
 
-You can find unused scenic locations in the 'New Resort Locations' list in the Civilian section of the Control Center. Use the 'Build Resort Base' buttons at the right to queue the construction of new Resort Bases at your desired locations.
+Você pode encontrar locais cênicos não utilizados na lista 'Novos Locais de Resort' na seção Civil da Central de Controle. Use os botões 'Construir Base de Resort' à direita para enfileirar a construção de novas Bases de Resort nos locais desejados.
 
-Note that colonies with scenery bonuses will attract tourism without the need to build a resort base at the colony.
+Observe que colônias com bônus de cenário atrairão turismo sem a necessidade de construir uma base de resort na colônia.
 
-The volume of tourists that a resort attracts depends on how scenic the location is, and how close it is to large, wealthy colonies. The wealthy citizens of these kinds of colonies are on the lookout for scenic tourism destinations to travel to.
+O volume de turistas que um resort atrai depende da scenicidade do local e de quão próximo ele está de colônias grandes e ricas. Os cidadãos ricos desses tipos de colônias estão à procura de destinos turísticos cênicos para viajar.
 
-[H3]Income from Tourism[/H3]
-Income is derived when passenger ships arrive at a resort. The amount of income depends on how many passengers the ship was carrying. This variable income is shown in the Economy screen (F2) under the line item 'Tourism' in the section 'Annual Bonus Income'.
+[H3]Renda do Turismo[/H3]
+A renda é derivada quando naves de passageiros chegam a um resort. A quantidade de renda depende de quantos passageiros a nave estava transportando. Esta renda variável é mostrada na tela de Economia (F2) na linha 'Turismo' na seção 'Renda Bônus Anual'.
 
-Tourism also occurs across empire boundaries (as long as relations between two empires are not war). So passenger ships can transport visitors from the colony of one empire to the Resort Base of another empire.
+O turismo também ocorre entre os limites do império (desde que as relações entre dois impérios não estejam em guerra). Portanto, naves de passageiros podem transportar visitantes da colônia de um império para a Base de Resort de outro império.

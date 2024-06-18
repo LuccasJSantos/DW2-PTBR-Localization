@@ -1,11 +1,11 @@
-Corruption is the loss of wealth due to fraud, crime and inefficiency. Corruption affects your colonies, reducing the revenue you receive from them.
+A corrupção é a perda de riqueza devido a fraudes, crimes e ineficiência. A corrupção afeta suas colônias, reduzindo a receita que você recebe delas.
 
-Smaller empires have relatively low corruption, but as your empire's population grows, corruption grows along with it. Also, the further your colonies are from your capital, the more corruption exists.
+Impérios menores têm uma corrupção relativamente baixa, mas à medida que a população do seu império cresce, a corrupção cresce junto. Além disso, quanto mais distantes suas colônias estiverem da sua capital, mais corrupção existirá.
 
-[H3]Planetary Administration Facilities[/H3]
-A good way to reduce corruption is by building Planetary Administration facilities throughout your empire. Planetary Administration facilities reduce corruption.
+[H3]Instalações de Administração Planetária[/H3]
+Uma boa maneira de reduzir a corrupção é construindo instalações de Administração Planetária em todo o seu império. As instalações de Administração Planetária reduzem a corrupção.
 
-Planetary Administration facilities also improve happiness and development at your colonies.
+As instalações de Administração Planetária também melhoram a felicidade e o desenvolvimento em suas colônias.
 
-[H3]Governments that reduce Corruption[/H3]
-Another way to reduce corruption is to choose a government that has lower corruption. Republic, Technocracy and Hive Mind governments are all effective at lowering corruption.
+[H3]Governos que reduzem a Corrupção[/H3]
+Outra maneira de reduzir a corrupção é escolher um governo que tenha menor corrupção. Governos do tipo República, Tecnocracia e Mente Coletiva são todos eficazes em reduzir a corrupção.

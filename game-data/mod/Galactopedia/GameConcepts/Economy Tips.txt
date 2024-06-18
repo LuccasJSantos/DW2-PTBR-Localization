@@ -1,39 +1,39 @@
-Running out of money? Need more powerful military forces, but don�t have the cash to pay for them? Following the economic tips below can help you.
+Está com pouco dinheiro? Precisa de forças militares mais poderosas, mas não tem dinheiro para pagá-las? Seguir as dicas econômicas abaixo pode ajudá-lo.
 
-[H3]Establish new Colonies[/H3]
-Continue to expand your empire with new colonies. This increases the number of tax-paying citizens.
+[H3]Estabeleça novas Colônias[/H3]
+Continue expandindo seu império com novas colônias. Isso aumenta o número de cidadãos pagadores de impostos.
 
-It also stimulates demand for new freighters and mining ships from your private citizens. These ship purchases at your construction yards add more money to your state economy.
+Também estimula a demanda por novos cargueiros e naves de mineração de seus cidadãos privados. Essas compras de naves em seus estaleiros adicionam mais dinheiro à economia do estado.
 
-[H3]Improve your existing Colonies[/H3]
-The growth rate of each of your colonies is strongly tied to the overall suitability of the planet for the population living there. So anything that improves suitability is important. This includes Colonization research.
+[H3]Melhore suas Colônias existentes[/H3]
+A taxa de crescimento de cada uma de suas colônias está fortemente ligada à adequação geral do planeta para a população que vive lá. Portanto, tudo o que melhora a adequação é importante. Isso inclui pesquisa de Colonização.
 
-Corruption can also reduce the income and happiness at your colonies. Building Planetary Administration facilities reduces corruption and increases happiness.
+A corrupção também pode reduzir a renda e a felicidade em suas colônias. Construir instalações de Administração Planetária reduz a corrupção e aumenta a felicidade.
 
-[H3]Defend your trade routes[/H3]
-It is critical that you maintain unimpeded trade throughout your empire, allowing goods to flow freely.
+[H3]Defenda suas rotas comerciais[/H3]
+É crucial manter o comércio livre em todo o seu império, permitindo que os bens fluam livremente.
 
-This means defending all of the elements that make up your empire�s economic supply chain: colonies, spaceports, mining stations and even independent alien colonies that you trade with.
+Isso significa defender todos os elementos que compõem a cadeia de suprimentos econômicos de seu império: colônias, portos espaciais, estações de mineração e até colônias alienígenas independentes com as quais você negocia.
 
-Freighters transport important resources between these locations. Disruption to these trade routes can severely hamper your economy.
+Cargueiros transportam recursos importantes entre esses locais. A interrupção dessas rotas comerciais pode prejudicar severamente sua economia.
 
-So eliminate any pirates, aggressive space creatures or enemy ships that threaten these locations.
+Portanto, elimine quaisquer piratas, criaturas espaciais agressivas ou naves inimigas que ameacem esses locais.
 
-[H3]Maximize luxury resource access[/H3]
-Try to obtain consistent access to as many luxury resources as possible. These help your colonies to develop and grow, providing greater tax revenue.
+[H3]Maximize o acesso a recursos de luxo[/H3]
+Tente obter acesso consistente a quantos recursos de luxo forem possíveis. Isso ajuda suas colônias a se desenvolverem e crescerem, proporcionando uma maior receita de impostos.
 
-[H3]Minimize maintenance expenses[/H3]
-Ships, bases, troops and planetary facilities all have ongoing maintenance costs.
+[H3]Minimize as despesas de manutenção[/H3]
+Naves, bases, tropas e instalações planetárias têm todos custos contínuos de manutenção.
 
-So you should carefully plan your needs for any new ships or bases. 
+Portanto, você deve planejar cuidadosamente suas necessidades para novas naves ou bases.
 
-Only recruit troops that you really need to defend key colonies. Build up more troops only when you plan on war.
+Recrute apenas tropas que realmente precisa para defender colônias-chave. Construa mais tropas apenas quando planejar uma guerra.
 
-[H3]Spaceports spread across your empire[/H3]
-Building spaceports at strategic locations across your empire can accelerate growth at your colonies. Resources mined by your mining ships and mining stations can be transported to nearby spaceports faster, making them available for use in your empire, or for sale to other empires.
+[H3]Espalhe portos espaciais por todo o seu império[/H3]
+Construir portos espaciais em locais estratégicos em todo o seu império pode acelerar o crescimento de suas colônias. Recursos minerados por suas naves e estações de mineração podem ser transportados para portos espaciais próximos mais rapidamente, tornando-os disponíveis para uso em seu império ou para venda a outros impérios.
 
-[H3]Select an appropriate Government[/H3]
-Select a form of government that aligns with your goals. Some governments have lower maintenance costs. Others lower the amount of corruption.
+[H3]Escolha um Governo adequado[/H3]
+Escolha uma forma de governo que esteja alinhada com seus objetivos. Alguns governos têm custos de manutenção mais baixos. Outros reduzem a quantidade de corrupção.
 
-[H3]Seek out Trade Agreements[/H3]
-You gain income when you form Trade treaties with other empires. In this situation a small percentage of the entire trade volume between the two empires is earned as bonus income by each empire. Over time the bonus percentage grows until it reaches a maximum limit.
+[H3]Busque Acordos Comerciais[/H3]
+Você ganha renda quando forma tratados comerciais com outros impérios. Nessa situação, um pequeno percentual do volume total de comércio entre os dois impérios é obtido como renda de bônus por cada império. Com o tempo, a porcentagem de bônus cresce até atingir um limite máximo.

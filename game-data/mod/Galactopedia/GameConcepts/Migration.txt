@@ -1,30 +1,30 @@
-Migration generally involves people migrating from large colonies to new, smaller colonies. Migration helps quickly boost the population of new colonies, enabling them to become productive faster.
+A migração geralmente envolve pessoas migrando de colônias grandes para novas colônias menores. A migração ajuda a aumentar rapidamente a população das novas colônias, permitindo que elas se tornem produtivas mais rapidamente.
 
-Migrants are transported to their destination by privately-owned passenger ships. Migration occurs entirely in the private sector of your empire � you have no direct control over the movement of citizens between your colonies.
+Os migrantes são transportados para seus destinos por navios de passageiros de propriedade privada. A migração ocorre inteiramente no setor privado do seu império - você não tem controle direto sobre o movimento de cidadãos entre suas colônias.
 
-[H3]Migration Factors[/H3]
-Factors that attract new migrants to a colony include:
-[ULI]low tax rates[/ULI]
-[ULI]general desirability: high planet quality, high development levels[/ULI]
-[ULI]how close the new colony is to the migrant�s current home colony[/ULI]
+[H3]Fatores de Migração[/H3]
+Fatores que atraem novos migrantes para uma colônia incluem:
+[ULI]baixas taxas de imposto[/ULI]
+[ULI]atratividade geral: alta qualidade do planeta, altos níveis de desenvolvimento[/ULI]
+[ULI]proximidade da nova colônia à colônia atual do migrante[/ULI]
 
-Factors that promote emigration away from a colony include:
-[ULI]happiness level at colony: unhappiness promotes emigration[/ULI]
-[ULI]high population: heavily populated colonies promote emigration[/ULI]
-[ULI]nearby colonies desirable for emigration[/ULI]
+Fatores que promovem a emigração de uma colônia incluem:
+[ULI]nível de felicidade na colônia: infelicidade promove emigração[/ULI]
+[ULI]alta população: colônias densamente povoadas promovem emigração[/ULI]
+[ULI]colônias próximas desejáveis para emigração[/ULI]
 
-[H3]Inter-empire Migration[/H3]
-People are more likely to migrate within their own empire, simply because it's easier - there�s less bureacracy to overcome.
+[H3]Migração Inter-império[/H3]
+As pessoas têm mais probabilidade de migrar dentro de seu próprio império, simplesmente porque é mais fácil - há menos burocracia para superar.
 
-However if you have a Migration treaty with another empire then inter-empire migration can also occur.
+No entanto, se você tiver um tratado de Migração com outro império, então a migração inter-império também pode ocorrer.
 
-Once your empire contains one billion citizens of a specific alien race, your empire will also receive their racial bonuses. This might include smarter scientists and engineers, better spies, faster miners, etc.
+Quando seu império contém um bilhão de cidadãos de uma raça alienígena específica, seu império também receberá seus bônus raciais. Isso pode incluir cientistas e engenheiros mais inteligentes, espiões melhores, mineradores mais rápidos, etc.
 
-[H3]Colony Population Policies[/H3]
-Population Policies provide control over which alien races you allow at your colonies.
+[H3]Políticas Populacionais da Colônia[/H3]
+As Políticas Populacionais fornecem controle sobre quais raças alienígenas você permite em suas colônias.
 
-These can be set in the Population Policy screen which pops out from the Selection Panel when one of your colonies is selected. Hover over the population policy icon at the far-right of the population row for the selected colony. Click the icon or the screen to lock it open.
+Essas políticas podem ser definidas na tela de Políticas Populacionais, que aparece no Painel de Seleção quando uma de suas colônias é selecionada. Passe o mouse sobre o ícone de política populacional no extremo direito da linha de população para a colônia selecionada. Clique no ícone ou na tela para mantê-la aberta.
 
-Each race you have met is listed, allowing you to set specific policies for every alien race at each colony.
+Cada raça que você encontrou é listada, permitindo que você defina políticas específicas para cada raça alienígena em cada colônia.
 
-Using these settings gives you precise control over migration to your colonies.
+Usar essas configurações lhe dá controle preciso sobre a migração para suas colônias.

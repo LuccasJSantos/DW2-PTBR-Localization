@@ -1,26 +1,26 @@
-Resources are the raw materials found at planets, moons and asteroids. These can include metallic ores, gases, minerals, textiles, foods, beverages, and many other items.
+Recursos são os materiais brutos encontrados em planetas, luas e asteroides. Estes podem incluir minérios metálicos, gases, minerais, têxteis, alimentos, bebidas e muitos outros itens.
 
-Mining valuable resources is an important part of your empire�s economy.
+A mineração de recursos valiosos é uma parte importante da economia do seu império.
 
-Some resources are used in constructing new ships and bases. Other resources are used to raise the development of your colonies - these are luxury resources. And one resource (Caslon) is used as a universal reactor fuel.
+Alguns recursos são utilizados na construção de novas naves e bases. Outros recursos são usados para aumentar o desenvolvimento de suas colônias - estes são recursos de luxo. E um recurso (Caslon) é usado como combustível universal para reatores.
 
-[H3]Mining Locations[/H3]
-Mining occurs at both fixed mining stations and mobile mining ships.
+[H3]Locais de Mineração[/H3]
+A mineração ocorre tanto em estações de mineração fixas quanto em naves de mineração móveis.
 
-Mining stations are bases that are built at resource-rich locations. They extract resources, which are then transported by freighters to your nearest spaceport.
+Estações de mineração são bases construídas em locais ricos em recursos. Elas extraem recursos, que são então transportados por cargueiros até o seu porto espacial mais próximo.
 
-Mining ships are mobile resource extraction ships. They seek out locations with resources that are in high demand, mining these resources and returning them to your nearest spaceport.
+Naves de mineração são naves móveis de extração de recursos. Elas procuram locais com recursos de alta demanda, mineram esses recursos e os transportam de volta ao seu porto espacial mais próximo.
 
-[H3]Using Mined Resources[/H3]
-Once mined resources reach a spaceport they can be used. For construction resources this could mean using them to build new ships or bases. Or the resources may be sold to another empire.
+[H3]Uso dos Recursos Minerados[/H3]
+Quando os recursos minerados alcançam um porto espacial, podem ser utilizados. Para recursos de construção, isso pode significar usá-los para construir novas naves ou bases. Ou os recursos podem ser vendidos para outro império.
 
-All resource usage and trading happens automatically - mining stations, mining ships and freighters are all privately owned. They go about their business without any state input. You cannot assign missions to these types of ships.
+Todo uso e comércio de recursos ocorre automaticamente - estações de mineração, naves de mineração e cargueiros são de propriedade privada. Elas conduzem seus negócios sem nenhum controle estatal. Você não pode atribuir missões a esses tipos de naves.
 
-[H3]How to Exploit Resources[/H3]
-As ruler and manager of your empire, your tasks with mining for resources are:
-[ULI]exploring for new resource locations using exploration ships[/ULI]
-[ULI]building mining stations at resource-rich locations using construction ships[/ULI]
+[H3]Como Explorar Recursos[/H3]
+Como governante e administrador do seu império, suas tarefas com relação à mineração de recursos são:
+[ULI]explorar novos locais de recursos usando naves de exploração[/ULI]
+[ULI]construir estações de mineração em locais ricos em recursos usando naves de construção[/ULI]
 
-The New Mining Locations list (shift-F7) allows you to quickly identify valuable resources and build mining stations to obtain them. The Resources list (F6) contains detailed filters to find specific resources throughout the galaxy.
+A lista de Novos Locais de Mineração (shift-F7) permite identificar rapidamente recursos valiosos e construir estações de mineração para obtê-los. A lista de Recursos (F6) contém filtros detalhados para encontrar recursos específicos por toda a galáxia.
 
-The Resource Flow map overlay helps you to see the sources and destinations for resources in your empire.
+O mapa de Fluxo de Recursos ajuda a visualizar as fontes e destinos de recursos em seu império.

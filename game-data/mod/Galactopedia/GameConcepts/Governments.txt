@@ -1,14 +1,14 @@
-Empires have various forms of government, each with their own characteristics. Different types of government also naturally attract and repel other types, shaping diplomatic relations throughout the galaxy.
+Impérios têm vários tipos de governo, cada um com suas próprias características. Diferentes tipos de governo também naturalmente atraem e repelem outros tipos, moldando as relações diplomáticas por toda a galáxia.
 
-The five basic government types are: Democracy, Republic, Feudalism, Monarchy and Military Dictatorship. These government types are available to all empires and alien races.
+Os cinco tipos básicos de governo são: Democracia, República, Feudalismo, Monarquia e Ditadura Militar. Esses tipos de governo estão disponíveis para todos os impérios e raças alienígenas.
 
-Three other government types are available only to certain alien races: Mercantile Guild, Technocracy and Hive Mind. Two other special forms of government also exist: the Way of the Ancients and the Way of Darkness. These two ancient government types must be rediscovered before they are available to an empire.
+Três outros tipos de governo estão disponíveis apenas para certas raças alienígenas: Guilda Mercantil, Tecnocracia e Mente Colmeia. Dois outros tipos especiais de governo também existem: o Caminho dos Antigos e o Caminho das Trevas. Esses dois tipos antigos de governo devem ser redescobertos antes de estarem disponíveis para um império.
 
-Each alien race has natural tendencies towards certain forms of government: more aggressive races often prefer Military Dictatorships; more peaceful races usually prefer Democracy or Republics.
+Cada raça alienígena tem tendências naturais para certas formas de governo: raças mais agressivas frequentemente preferem Ditaduras Militares; raças mais pacíficas geralmente preferem Democracia ou Repúblicas.
 
-Each government type has a unique set of bonuses and penalties, making them more or less suitable for different styles of rulership. Each of these government types is explained in detail in their own topic. Refer to each of these individual topics for more details.
+Cada tipo de governo possui um conjunto único de bônus e penalidades, tornando-os mais ou menos adequados para diferentes estilos de governança. Cada um desses tipos de governo é explicado detalhadamente em seu próprio tópico. Consulte cada um desses tópicos individuais para mais detalhes.
 
-[H3]Natural Affinity[/H3]
-Each type of government has natural friends and rivals in other specific government types. However government types are simply one of many factors that influence how empires interact with each other � empires with government types that are naturally rivals can still be friends because of other factors like trade.
+[H3]Afinidade Natural[/H3]
+Cada tipo de governo tem amigos e rivais naturais em outros tipos específicos de governo. No entanto, os tipos de governo são apenas um dos muitos fatores que influenciam como os impérios interagem entre si. Impérios com tipos de governo que são naturalmente rivais ainda podem ser amigos devido a outros fatores como o comércio.
 
-On the other hand empires with government types that are naturally friends can still be enemies due to other factors like disputes over systems.
+Por outro lado, impérios com tipos de governo que são naturalmente amigos ainda podem ser inimigos devido a outros fatores como disputas sobre sistemas.

@@ -1,81 +1,81 @@
-Research opens up new technologies for use in constructing ships and bases. It can also provide your empire with new capabilities, like colonizing new types of planets or building new planetary facilities.
+A pesquisa abre novas tecnologias para uso na construção de naves e bases. Também pode fornecer ao seu império novas capacidades, como colonizar novos tipos de planetas ou construir novas instalações planetárias.
 
-To obtain these new technologies and capabilities you must carry out research in specific projects that unlock these new breakthroughs.
+Para obter essas novas tecnologias e capacidades, você deve realizar pesquisas em projetos específicos que desbloqueiem essas novas descobertas.
 
-Researching projects takes time. The speed of research is determined by the research output from your colonies and research stations.
+A pesquisa de projetos leva tempo. A velocidade da pesquisa é determinada pela produção de pesquisa de suas colônias e estações de pesquisa.
 
-Below is a list of benefits that can be obtained from research:
-[ULI]new Ship Hulls allowing you to build new types of ships or bases[/ULI]
-[ULI]completely new components that can be built into your ships and bases, giving them new capabilities[/ULI]
-[ULI]improvements to existing components: your ships and bases that use these improved components are automatically and immediately upgraded with enhanced capabilities. This reduces the need to retrofit your ships and bases to benefit from research breakthroughs[/ULI]
-[ULI]new planetary facilities that can be built at your colonies[/ULI]
-[ULI]the ability to colonize new types of planets[/ULI]
-[ULI]improved abilities for troop units[/ULI]
-[ULI]bonuses to your empire in various areas[/ULI]
-[ULI]improvements to diplomacy with specific alien races[/ULI]
+Abaixo está uma lista de benefícios que podem ser obtidos através da pesquisa:
+[ULI]novos cascos de nave que permitem construir novos tipos de naves ou bases[/ULI]
+[ULI]componentes completamente novos que podem ser incorporados em suas naves e bases, conferindo a elas novas capacidades[/ULI]
+[ULI]melhorias em componentes existentes: suas naves e bases que usam esses componentes aprimorados são automaticamente e imediatamente atualizadas com capacidades aprimoradas. Isso reduz a necessidade de retrofitar suas naves e bases para se beneficiar das descobertas da pesquisa[/ULI]
+[ULI]novas instalações planetárias que podem ser construídas em suas colônias[/ULI]
+[ULI]a capacidade de colonizar novos tipos de planetas[/ULI]
+[ULI]habilidades melhoradas para unidades de tropas[/ULI]
+[ULI]bônus para o seu império em várias áreas[/ULI]
+[ULI]melhorias na diplomacia com raças alienígenas específicas[/ULI]
 
-[H2]Research Screen[/H2]
-You can view the currently available research projects in the Research screen (F10).
+[H2]Tela de Pesquisa[/H2]
+Você pode ver os projetos de pesquisa atualmente disponíveis na tela de Pesquisa (F10).
 
-The left side of the screen has projects for the lowest tech levels. These are the techs that you have at the start of a new game.
+O lado esquerdo da tela mostra os projetos para os níveis de tecnologia mais baixos. Estes são os techs que você tem no início de um novo jogo.
 
-As you progress towards the right of the screen, the tech level increases.
+Conforme você avança para a direita da tela, o nível de tecnologia aumenta.
 
-Hovering over a project will provide details on the new technology and other benefits that it provides.
+Passar o mouse sobre um projeto fornecerá detalhes sobre a nova tecnologia e outros benefícios que ela oferece.
 
-[H3]Order of Research[/H3]
-Projects are linked together by paths. Parent projects must be researched before child projects. As you research one project, any child projects (usually to the right) are enabled for research.
+[H3]Ordem de Pesquisa[/H3]
+Os projetos são ligados por caminhos. Projetos pais devem ser pesquisados antes dos projetos filhos. Conforme você pesquisa um projeto, quaisquer projetos filhos (geralmente à direita) são habilitados para pesquisa.
 
-[H3]Blind versus Non-Blind Research[/H3]
-When your game has been setup to use blind research then you can only see the next available projects beyond those already researched.
+[H3]Pesquisa Cega versus Não-Cega[/H3]
+Quando seu jogo está configurado para usar pesquisa cega, você só pode ver os próximos projetos disponíveis além dos já pesquisados.
 
-When your game has been setup to see all research then you can see all of the projects from the start of the game.
+Quando seu jogo está configurado para ver toda a pesquisa, você pode ver todos os projetos desde o início do jogo.
 
-[H3]Queuing Projects to be Researched[/H3]
-Left-click a project to queue it up for research. You can queue up to 15 projects.
+[H3]Fila de Projetos para Pesquisa[/H3]
+Clique esquerdo em um projeto para adicioná-lo à fila de pesquisa. Você pode enfileirar até 15 projetos.
 
-When you have multiple research stations you can research more than one project at a time. You can set the upper limit of concurrent projects in the Research section of the Empire Policy screen (P key).
+Quando você tem múltiplas estações de pesquisa, você pode pesquisar mais de um projeto ao mesmo tempo. Você pode definir o limite máximo de projetos simultâneos na seção de Pesquisa da tela de Política do Império (tecla P).
 
-Each project will begin researching immediately after its preceding project(s) are completed.
+Cada projeto começará a ser pesquisado imediatamente após a conclusão de seu(s) projeto(s) precedente(s).
 
-[H3]Race-specific tech[/H3]
-Some research projects are limited to specific alien races - these cannot be researched by anyone else.
+[H3]Tecnologia Específica de Raça[/H3]
+Alguns projetos de pesquisa são limitados a raças alienígenas específicas - estes não podem ser pesquisados por ninguém mais.
 
-However these techs can sometimes be obtained through other means. For example you might be able to trade this tech with a race that has it.
+No entanto, essas tecnologias às vezes podem ser obtidas por outros meios. Por exemplo, você pode conseguir negociar essa tecnologia com uma raça que a possua.
 
-Note though that if you obtain a tech through trade, you cannot then trade it away to another empire - you do not understand the tech well enough to explain it to someone else.
+Note que se você obtiver uma tecnologia através de comércio, você não poderá então negociá-la com outro império - você não entende bem o suficiente a tecnologia para explicá-la a outra pessoa.
 
-[H3]Initiation Costs[/H3]
-Some projects require an initiation cost to be paid before research can begin. The cost may include money and resources.
+[H3]Custos de Iniciação[/H3]
+Alguns projetos exigem um custo de iniciação a ser pago antes que a pesquisa possa começar. O custo pode incluir dinheiro e recursos.
 
-When you left-click to queue a project that has initiation costs, a prompt window will popup asking you to approve payment of the costs.
+Quando você clica esquerdo para enfileirar um projeto que tem custos de iniciação, uma janela de prompt aparecerá pedindo que você aprove o pagamento dos custos.
 
-[H3]Extra Requirements[/H3]
-Some projects have extra research bonus requirements before you can begin researching them. This means that they can only be initiated when you have sufficient research bonuses of a particular type, e.g. some high-end Shield projects require you to have a certain threshold of Shield research bonuses.
+[H3]Requisitos Extras[/H3]
+Alguns projetos têm requisitos extras de bônus de pesquisa antes que você possa começar a pesquisá-los. Isso significa que eles só podem ser iniciados quando você tiver bônus de pesquisa suficientes de um tipo específico, por exemplo, alguns projetos avançados de Escudos exigem que você tenha um certo nível de bônus de pesquisa de Escudos.
 
-You can obtain research bonuses in specific areas by seeking out these locations through exploration. When you find an area with special research bonuses you can then build a research station there to obtain those bonuses for your empire.
+Você pode obter bônus de pesquisa em áreas específicas explorando e encontrando essas localizações. Quando encontrar uma área com bônus de pesquisa especiais, você pode construir uma estação de pesquisa lá para obter esses bônus para o seu império.
 
-[H3]Crash Research[/H3]
-You can accelerate research of an important project by 'crash-researching' it. This means spending money to double the research rate for that project.
+[H3]Pesquisa Acelerada[/H3]
+Você pode acelerar a pesquisa de um projeto importante realizando uma "pesquisa acelerada". Isso significa gastar dinheiro para dobrar a taxa de pesquisa para aquele projeto.
 
-To begin a crash research program, click the top-most project currently being researched (i.e. the first project in the queue). A prompt will indicate the cost of the crash program and ask you to confirm the spending. Research projects being crash-researched are indicated by a stopwatch icon at upper-left of the project.
+Para iniciar um programa de pesquisa acelerada, clique no projeto mais alto que está sendo pesquisado atualmente (ou seja, o primeiro projeto na fila). Um prompt indicará o custo do programa de aceleração e pedirá que você confirme o gasto. Projetos de pesquisa sendo acelerados são indicados por um ícone de cronômetro no canto superior esquerdo do projeto.
 
-[H2]Research Sources and Output[/H2]
-Research output comes from both the populations at your colonies and research stations that you build.
+[H2]Fontes e Produção de Pesquisa[/H2]
+A produção de pesquisa vem tanto das populações em suas colônias quanto das estações de pesquisa que você constrói.
 
-To fully exploit your research output you should also spend excess funding on research. Fully-funded research means faster access to new technologies.
+Para explorar totalmente sua produção de pesquisa, você também deve gastar recursos excedentes em pesquisa. Pesquisa totalmente financiada significa acesso mais rápido a novas tecnologias.
 
-You can allocate research funding in the Funding Levels screen (shift-F2) in the Empire section.
+Você pode alocar financiamento para pesquisa na tela de Níveis de Financiamento (shift-F2) na seção do Império.
 
-[H3]Research Stations[/H3]
-Research Stations should be built at locations with research bonuses. These research bonuses come from unusual galactic anomalies, often found at exotic locations like black holes, neutron stars and other places.
+[H3]Estações de Pesquisa[/H3]
+Estações de Pesquisa devem ser construídas em locais com bônus de pesquisa. Esses bônus de pesquisa vêm de anomalias galácticas incomuns, muitas vezes encontradas em locais exóticos como buracos negros, estrelas de nêutrons e outros lugares.
 
-The New Research Locations list (shift-F9) shows the best places to build new Research Stations. 
+A lista de Novas Localizações de Pesquisa (shift-F9) mostra os melhores lugares para construir novas Estações de Pesquisa.
 
-Use the button at the right of each list row to queue construction of a new research station at the location. When the next construction ship becomes available it will build a research station here. You can click the button again to cancel construction.
+Use o botão à direita de cada linha da lista para enfileirar a construção de uma nova estação de pesquisa no local. Quando a próxima nave de construção estiver disponível, ela construirá uma estação de pesquisa aqui. Você pode clicar no botão novamente para cancelar a construção.
 
-Once a research station is built at a location, the research bonuses there get included in your empire's overall research bonuses. 
+Uma vez que uma estação de pesquisa é construída em um local, os bônus de pesquisa lá são incluídos nos bônus gerais de pesquisa do seu império.
 
-Research bonuses are important in two ways:
-[ULI]research speed is increased for projects with the matching bonus type, e.g. researching new Ship Hulls is accelerated when you have construction research bonuses[/ULI]
-[ULI]as explained above, some research projects have extra requirements where they can only be initiated when you have sufficient research bonuses of a particular type, e.g. some high-end Shield projects require you to have a certain threshold of Shield research bonuses[/ULI]
+Bônus de pesquisa são importantes de duas maneiras:
+[ULI]a velocidade de pesquisa é aumentada para projetos com o tipo de bônus correspondente, por exemplo, pesquisar novos Casco de Naves é acelerado quando você tem bônus de pesquisa de construção[/ULI]
+[ULI]como explicado acima, alguns projetos de pesquisa têm requisitos extras onde só podem ser iniciados quando você tem bônus de pesquisa suficientes de um tipo específico, por exemplo, alguns projetos avançados de Escudos exigem que você tenha um certo nível de bônus de pesquisa de Escudos[/ULI]

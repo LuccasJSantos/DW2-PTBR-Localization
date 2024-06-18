@@ -1,34 +1,34 @@
-All of the ships and bases in your empire use designs. Designs are templates or blueprints for building a ship or base.
+Todas as naves e bases em seu império utilizam projetos. Projetos são modelos ou plantas para a construção de uma nave ou base.
 
-[H3]Ship Hulls[/H3]
-Ship Hulls are the superstructure of a ship or base. Each hull has a role, e.g. Small Freighter, Mining Station, Frigate.
+[H3]Casco das Naves[/H3]
+Os cascos das naves são a superestrutura de uma nave ou base. Cada casco tem um papel, por exemplo, Cargueiro Pequeno, Estação de Mineração, Fragata.
 
-Hulls have an intrinsic size (the size of the hull itself) and a maximum size which defines the largest design you can make with the hull, including all of the components added to the hull.
+Os cascos possuem um tamanho intrínseco (o tamanho do próprio casco) e um tamanho máximo que define o maior projeto que você pode fazer com o casco, incluindo todos os componentes adicionados ao casco.
 
-They can sometimes have a built-in reactive armor level. This means that some hulls are better able to resist enemy weapons fire, even without armor components being added to the design.
+Às vezes, eles podem ter um nível de armadura reativa integrada. Isso significa que alguns cascos são mais capazes de resistir ao fogo de armas inimigas, mesmo sem a adição de componentes de armadura ao projeto.
 
-Hulls also require resources to build.
+Os cascos também requerem recursos para serem construídos.
 
-[H3]Component Bays[/H3]
-Hulls contain component bays - spaces that house components of various types in the design.
+[H3]Compartimentos de Componentes[/H3]
+Os cascos contêm compartimentos de componentes - espaços que abrigam componentes de vários tipos no projeto.
 
-There are 6 types of component bays. Each bay type only allows certain types of components:
-[ULI]General: command centers, crew quarters, fuel cells, reactors, hyperdrives, cargo bays, passenger compartments, troop compartments, mining engines, energy collectors and all others[/ULI]
-[ULI]Weapons: weapons or tractor beams[/ULI]
-[ULI]Engines: engines and vectoring engines[/ULI]
-[ULI]Defense: armor, shields or damage control[/ULI]
-[ULI]Hangars: docking bays, construction yards or fighter bays[/ULI]
-[ULI]Sensors: scanners, countermeasures, targeting computers, survey modules, scanner jammers[/ULI]
+Existem 6 tipos de compartimentos de componentes. Cada tipo de compartimento permite apenas certos tipos de componentes:
+[ULI]Geral: centros de comando, alojamentos da tripulação, células de combustível, reatores, hiperpropulsores, porões de carga, compartimentos de passageiros, compartimentos de tropas, motores de mineração, coletores de energia e outros[/ULI]
+[ULI]Armas: armas ou feixes tratores[/ULI]
+[ULI]Motores: motores e motores de vetorização[/ULI]
+[ULI]Defesa: armadura, escudos ou controle de danos[/ULI]
+[ULI]Hangares: baías de atracação, estaleiros de construção ou hangares de caças[/ULI]
+[ULI]Sensores: scanners, contramedidas, computadores de mira, módulos de pesquisa, interferidores de scanner[/ULI]
 
-Each component bay also has a maximum size. Components that are larger than this size cannot fit in the bay.
+Cada compartimento de componente também possui um tamanho máximo. Componentes maiores do que este tamanho não podem caber no compartimento.
 
-[H3]Components[/H3]
-Designs are made by adding a set of components that provide all of the functionality required for the particular type of ship or base. The components are added to specific bays in the hull, as outlined above.
+[H3]Componentes[/H3]
+Os projetos são feitos adicionando um conjunto de componentes que fornecem toda a funcionalidade necessária para o tipo específico de nave ou base. Os componentes são adicionados a compartimentos específicos no casco, conforme descrito acima.
 
-Some types of components are always present in all designs: e.g. reactors, fuel storage, crew quarters and command centers are always required for any type of ship or base.
+Alguns tipos de componentes estão sempre presentes em todos os projetos: por exemplo, reatores, armazenamento de combustível, alojamentos da tripulação e centros de comando são sempre necessários para qualquer tipo de nave ou base.
 
-Other component types are more specialized, e.g. construction yards, research labs, docking bays.
+Outros tipos de componentes são mais especializados, por exemplo, estaleiros de construção, laboratórios de pesquisa, baías de atracação.
 
-As your research progresses you unlock improvements to existing components in your ships and bases. These improvements will automatically enhance the capabilities of your ships and bases.
+À medida que sua pesquisa avança, você desbloqueia melhorias para os componentes existentes em suas naves e bases. Essas melhorias melhoram automaticamente as capacidades de suas naves e bases.
 
-Sometimes research breakthroughs may provide completely new components. As these new advanced components become available you should upgrade your designs to use them.
+Às vezes, avanços na pesquisa podem fornecer componentes completamente novos. Conforme esses novos componentes avançados se tornam disponíveis, você deve atualizar seus projetos para utilizá-los.

@@ -1,10 +1,10 @@
-Planetary Facilities are buildings that you construct at colonies. They provide bonuses or special abilities to the colony.
+Instalações Planetárias são construções que você ergue em colônias. Elas oferecem bônus ou habilidades especiais à colônia.
 
-Before you can build a facility you must first research it. Facilities cost money to build. They also have ongoing maintenance costs. You can only build one of each type of facility at a colony.
+Antes de poder construir uma instalação, você deve primeiro pesquisá-la. As instalações têm custos de construção e também custos contínuos de manutenção. Você só pode construir um tipo de cada instalação em uma colônia.
 
-[H3]Building and viewing facilities[/H3]
-You can build facilities at a colony by selecting the colony in the Selection Panel and then clicking the green 'Build Facilities' button. This will open a set of buttons with all of the facilities that can be built at the colony.
+[H3]Construção e visualização das instalações[/H3]
+Você pode construir instalações em uma colônia selecionando-a no Painel de Seleção e clicando no botão verde 'Construir Instalações'. Isso abrirá um conjunto de botões com todas as instalações que podem ser construídas na colônia.
 
-You can see all of the facilities in your empire in the Planetary Facilities list (Colonies section).
+Você pode ver todas as instalações em seu império na lista de Instalações Planetárias (seção de Colônias).
 
-For details on each facility refer to the individual topics in the Planetary Facilities section.
+Para detalhes sobre cada instalação, consulte os tópicos individuais na seção de Instalações Planetárias.

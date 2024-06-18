@@ -1,60 +1,60 @@
-Troops defend your colonies against invasion by enemy empires. They can also be used as attacking forces to invade and take over enemy colonies.
+As tropas defendem suas colônias contra invasões de impérios inimigos. Elas também podem ser usadas como forças de ataque para invadir e tomar colônias inimigas.
 
-[H3]Strength and Readiness[/H3]
-Each race has its own unique infantry troop unit. This is the default troop unit that can be recruited at colonies without any special planetay facility. This infantry troop unit has a default defend strength.
+[H3]Força e Prontidão[/H3]
+Cada raça possui sua própria unidade única de tropas de infantaria. Esta é a unidade padrão de tropas que pode ser recrutada em colônias sem nenhuma instalação planetária especial. Esta unidade de tropas de infantaria possui uma força de defesa padrão.
 
-The readiness of troops for combat is measured on a scale from 1 to 100. Troops at a readiness level of 100 are completely rested and ready for battle. When troops are in combat they suffer losses and their readiness drops. Readiness takes time to rise back to 100. Medical facilities can accelerate healing of troop readiness.
+A prontidão das tropas para o combate é medida em uma escala de 1 a 100. Tropas com um nível de prontidão de 100 estão completamente descansadas e prontas para o combate. Quando as tropas estão em combate, elas sofrem perdas e sua prontidão diminui. A prontidão leva tempo para subir de volta para 100. Instalações médicas podem acelerar a recuperação da prontidão das tropas.
 
-[H3]Recruitment[/H3]
-Troops are recruited at your colonies. They cost money to maintain, so only recruit troops that you really need. However note that troop maintenance costs only apply to fully-trained troops. Troops that are being recruited do not have any maintenance costs.
+[H3]Recrutamento[/H3]
+Tropas são recrutadas em suas colônias. Elas custam dinheiro para serem mantidas, então recrute apenas as tropas que você realmente precisa. No entanto, observe que os custos de manutenção das tropas se aplicam apenas às tropas totalmente treinadas. Tropas que estão sendo recrutadas não têm nenhum custo de manutenção.
 
-It also takes time to recruit troops - they must be trained and equipped. The following factors influence troop recruitment time:
-[ULI]Size of the colony - larger populations recruit troops faster[/ULI]
-[ULI]Your empire�s government type - some government types recruit troops faster than others[/ULI]
-[ULI]Troop Recruitment bonuses - some facilities or characters can provide troop recruitment rate bonuses[/ULI]
+Também leva tempo para recrutar tropas - elas precisam ser treinadas e equipadas. Os seguintes fatores influenciam o tempo de recrutamento de tropas:
+[ULI]Tamanho da colônia - populações maiores recrutam tropas mais rapidamente[/ULI]
+[ULI]Tipo de governo do seu império - alguns tipos de governo recrutam tropas mais rapidamente do que outros[/ULI]
+[ULI]Bônus de Recrutamento de Tropas - algumas instalações ou personagens podem fornecer bônus na taxa de recrutamento de tropas[/ULI]
 
-You must plan ahead to have adequate troops to support your aims.
+Você deve planejar com antecedência para ter tropas adequadas para apoiar seus objetivos.
 
-To recruit new troops, select one of your colonies, then click the 'Manage Troops' button under the Selection Panel. This will open a set of buttons with all of the troops that can be recruited at the colony.
+Para recrutar novas tropas, selecione uma de suas colônias e clique no botão 'Gerenciar Tropas' sob o Painel de Seleção. Isso abrirá um conjunto de botões com todas as tropas que podem ser recrutadas na colônia.
 
-[H3]Garrisoning[/H3]
-Troop units can be garrisoned at a colony. This ensures that they will not be picked up by troop transport ships, but instead will always remain at a colony to defend it.
+[H3]Guarnição[/H3]
+Unidades de tropas podem ser guarnecidas em uma colônia. Isso garante que elas não serão recolhidas por naves de transporte de tropas, mas permanecerão sempre em uma colônia para defendê-la.
 
-When troops are garrisoned they appear with a blue line underneath their icon.
+Quando as tropas estão guarnecidas, elas aparecem com uma linha azul abaixo do ícone delas.
 
-You can mark troops as garrisoned by selecting one of your colonies, then selecting a single troop unit in the Troops area. The buttons below the Selection Panel will change to match the selected troop. Click the 'Garrison troop' button to toggle its garrison status.
+Você pode marcar tropas como guarnecidas selecionando uma de suas colônias, em seguida, selecionando uma única unidade de tropa na área de Tropas. Os botões abaixo do Painel de Seleção mudarão para corresponder à tropa selecionada. Clique no botão 'Guarnecer tropa' para alternar seu status de guarnição.
 
-[H3]Troop Types[/H3]
-There are five types of troops:
-[ULI]Infantry: the basic defensive troop unit. Infantry are available from the start of the game. Each race has it's own unique infantry unit with various strengths and weaknesses[/ULI]
-[ULI]Armored: the primary attack troop unit. Requires an Armor Barracks facility to recruit[/ULI]
-[ULI]Planetary Defense: specialized defensive troop units that can intercept enemy troops as they travel from their landing ships to the planetary surface. Requires a Planetary Defense Center facility to recruit[/ULI]
-[ULI]Special Forces: highly-trained infantry units that specialize in taking out colony defenses during an invasion (ground facilities, defending planetary defense units, enemy generals). Defending Special Forces focus on eliminating invading Special Forces units. Requires a Special Operations Barracks facility to recruit[/ULI]
-[ULI]Titans: very strong high-end attack units. Requires a Titan Manufacturing Center facility to recruit[/ULI]
+[H3]Tipos de Tropas[/H3]
+Existem cinco tipos de tropas:
+[ULI]Infantaria: a unidade básica de defesa. A infantaria está disponível desde o início do jogo. Cada raça possui sua própria unidade única de infantaria com várias forças e fraquezas[/ULI]
+[ULI]Blindada: a unidade principal de ataque. Requer uma instalação de Quartel de Blindados para recrutar[/ULI]
+[ULI]Defesa Planetária: unidades especializadas de defesa que podem interceptar tropas inimigas à medida que viajam de suas naves de desembarque para a superfície planetária. Requer uma instalação de Centro de Defesa Planetária para recrutar[/ULI]
+[ULI]Forças Especiais: unidades de infantaria altamente treinadas que se especializam em eliminar defesas de colônias durante uma invasão (instalações terrestres, unidades defensoras de defesa planetária, generais inimigos). As Forças Especiais defensoras se concentram em eliminar unidades inimigas de Forças Especiais invasoras. Requer uma instalação de Quartel de Operações Especiais para recrutar[/ULI]
+[ULI]Titãs: unidades de ataque de alto nível muito fortes. Requer uma instalação de Centro de Fabricação de Titãs para recrutar[/ULI]
 
-Each troop type has separate values for Attack and Defense. Thus some troop unit types are specialized at attack, and others at defense.
+Cada tipo de tropa possui valores separados para Ataque e Defesa. Assim, alguns tipos de unidades de tropas são especializados em ataque, e outros em defesa.
 
-Some troop types are also larger than normal, and thus take more space on troop transport ships. Each troop type also has different maintenance costs, e.g. Armored troops are more expensive to maintain than Infantry.
+Alguns tipos de tropas também são maiores que o normal e, portanto, ocupam mais espaço em naves de transporte de tropas. Cada tipo de tropa também tem diferentes custos de manutenção, por exemplo, tropas Blindadas são mais caras de manter do que Infantaria.
 
-Note that research is needed to recruit troop types other than Infantry. The Armored Barracks is needed to recruit Armored troops at a colony. The Special Operations Barracks is needed to recruit Special Forces troops at a colony. These facilities are unlocked through research.
+Observe que pesquisa é necessária para recrutar tipos de tropas diferentes de Infantaria. O Quartel de Blindados é necessário para recrutar tropas Blindadas em uma colônia. O Quartel de Operações Especiais é necessário para recrutar tropas de Forças Especiais em uma colônia. Essas instalações são desbloqueadas por meio de pesquisa.
 
-In additions, the tech tree has a number of upgrades for each troop type, improving their attack or defend strength, Hover over each research project to see details of each upgrade.
+Além disso, a árvore de tecnologia possui uma série de melhorias para cada tipo de tropa, melhorando seu ataque ou defesa. Passe o mouse sobre cada projeto de pesquisa para ver detalhes de cada melhoria.
 
-[H3]Troop Loadouts for Ships and Fleets[/H3]
-You can specify which types of troops should be loaded onto a fleet by selecting an Army Template for the fleet. Army Templates define the percentages of each troop type that should be used.
+[H3]Cargas de Tropas para Naves e Frotas[/H3]
+Você pode especificar quais tipos de tropas devem ser carregadas em uma frota selecionando um Modelo de Exército para a frota. Os Modelos de Exército definem as porcentagens de cada tipo de tropa que devem ser usadas.
 
-The troop transport ships in the fleet will attempt to load troops to match the percentages outlined in the Army Template.
+As naves de transporte de tropas na frota tentarão carregar tropas para corresponder às porcentagens descritas no Modelo de Exército.
 
-Note that even though you can specify a preferred troop loadout for a ship or fleet, in practice other factors can alter which troops are actually picked up. There may not be sufficient ungarrisoned troops of the requested type available for pickup at your colonies.
+Observe que, mesmo que você possa especificar uma carga de tropas preferencial para uma nave ou frota, na prática outros fatores podem alterar quais tropas são realmente selecionadas. Pode não haver tropas não guarnecidas do tipo solicitado disponíveis para transporte em suas colônias.
 
-When there are insufficient troops of a specified type to meet the preferred troop loadout, then the ship or fleet will attempt to substitute other troop types to completely fill the ship or fleet.
+Quando não há tropas suficientes de um tipo especificado para atender à carga de tropas preferencial, então a nave ou frota tentará substituir outros tipos de tropas para preencher completamente a nave ou frota.
 
-[H3]Balance and planning[/H3]
-Be careful not to recruit too many troops - the maintenance costs can put a large drain on your funds.
+[H3]Equilíbrio e Planejamento[/H3]
+Tenha cuidado para não recrutar tropas em excesso - os custos de manutenção podem ser um grande dreno em seus fundos.
 
-Thus when you are at peace with your neighbors, minimize spending by keeping only the bare minimum of troops on your key colonies. When you decide to go on the offensive against another empire, recruit more troops.
+Assim, quando estiver em paz com seus vizinhos, minimize os gastos mantendo apenas o mínimo necessário de tropas em suas colônias principais. Quando decidir partir para o ataque contra outro império, recrute mais tropas.
 
-[H3]Transporting your Troops[/H3]
-Troops can be loaded onto ships that have troop storage components, such as troop transports or larger military ships. They can then be sent to another colony and unloaded there to reinforce it. Or they can be used as an invasion force at an enemy colony.
+[H3]Transportando suas Tropas[/H3]
+Tropas podem ser carregadas em naves que possuem componentes de armazenamento de tropas, como transportes de tropas ou naves militares maiores. Elas podem então ser enviadas para outra colônia e descarregadas lá para reforçá-la. Ou podem ser usadas como uma força de invasão em uma colônia inimiga.
 
-Fleets can be specialized as Invasion fleets, which are comprised of many troop transports. You can load troops onto a fleet using the 'Load Troops' mission type.
+Frotas podem ser especializadas como frotas de Invasão, que são compostas por muitos transportes de tropas. Você pode carregar tropas em uma frota usando o tipo de missão 'Carregar Tropas'.

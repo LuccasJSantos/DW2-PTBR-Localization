@@ -1,99 +1,99 @@
-The populations at each of your colonies all have an opinion of you as their ruler. You must be careful to maintain the approval of the majority of the population or else they may be inclined to rebel or even leave your empire.
+As populações de cada uma de suas colônias têm uma opinião sobre você como governante. Você deve ter cuidado para manter a aprovação da maioria da população, caso contrário, elas podem se inclinar a se rebelar ou até mesmo deixar seu império.
 
-You should aim to keep colony approval at 5 or higher. Anything below this level risks rebellion should a sudden change in happiness occur, such as by a natural disaster or enemy intelligence mission.
- 
-[H3]Factors influencing approval[/H3]
-Many factors can influence your approval at each colony:
-[ULI]Tax rate - lower the better[/ULI]
-[ULI]Development level - higher the better[/ULI]
-[ULI]Planet suitability - higher the better[/ULI]
-[ULI]High Corruption increases unhappiness[/ULI]
+Você deve tentar manter a aprovação da colônia em 5 ou mais. Qualquer coisa abaixo desse nível corre o risco de rebelião caso ocorra uma mudança repentina na felicidade, como um desastre natural ou uma missão de inteligência inimiga.
 
-There may be special circumstances which lower the approval rating for particular colonies:
-[ULI]Recently Conquered planets are unhappy[/ULI]
-[ULI]Colonies with poorly assimilated populations are less happy[/ULI]
-[ULI]Recent pirate raids against a colony increase unhappiness[/ULI]
-[ULI]War with an empire of the same race as a colony � if you are at war with an empire, and some of your colonies have the same dominant race as that empire, then this will lower your approval rating at those colonies[/ULI]
-[ULI]Low planet quality - if the planet or moon has low quality (either naturally or due to enemy bombardment) then the citizens of the colony will be unhappy[/ULI]
+[H3]Fatores que influenciam a aprovação[/H3]
+Muitos fatores podem influenciar sua aprovação em cada colônia:
+[ULI]Taxa de impostos - quanto mais baixa, melhor[/ULI]
+[ULI]Nível de desenvolvimento - quanto mais alto, melhor[/ULI]
+[ULI]Adequação do planeta - quanto mais alta, melhor[/ULI]
+[ULI]Alta corrupção aumenta a infelicidade[/ULI]
 
-Other factors have an impact on all the colonies in your empire:
-[ULI]War weariness - if you are involved in wars against other empires � especially for an extended period � then your approval rating will drop with all citizens throughout your empire[/ULI]
-[ULI]Poor reputation - some alien races can become quite concerned if your empire has a poor reputation, lowering your approval rating[/ULI]
+Podem haver circunstâncias especiais que diminuem a aprovação de colônias específicas:
+[ULI]Planetas recentemente conquistados são infelizes[/ULI]
+[ULI]Colônias com populações mal assimiladas são menos felizes[/ULI]
+[ULI]Ataques piratas recentes contra uma colônia aumentam a infelicidade[/ULI]
+[ULI]Guerra com um império da mesma raça de uma colônia - se você estiver em guerra com um império, e algumas de suas colônias tiverem a mesma raça dominante desse império, isso reduzirá a aprovação nessas colônias[/ULI]
+[ULI]Baixa qualidade do planeta - se o planeta ou lua tiver baixa qualidade (naturalmente ou devido a bombardeios inimigos), os cidadãos da colônia ficarão infelizes[/ULI]
 
-Strive to maintain a high approval rating by ensuring your colonies have high development levels. This is achieved by securing the trade routes to and from your colonies so that luxury resources can safely reach them.
+Outros fatores têm impacto em todas as colônias do seu império:
+[ULI]Cansaço de guerra - se você estiver envolvido em guerras contra outros impérios - especialmente por um longo período - sua aprovação cairá com todos os cidadãos do seu império[/ULI]
+[ULI]Má reputação - algumas raças alienígenas podem ficar bastante preocupadas se seu império tiver uma má reputação, diminuindo sua aprovação[/ULI]
 
-Also, be careful not to raise taxes too high � it�s usually a good idea to allow colony taxes to be automatically controlled (default setting in Game Options).
+Esforce-se para manter uma alta aprovação garantindo que suas colônias tenham altos níveis de desenvolvimento. Isso é alcançado ao assegurar as rotas comerciais de e para suas colônias, para que os recursos de luxo possam chegar a elas com segurança.
 
-[H3]Maximum Population[/H3]
-Colony populations eventually reach a natural limit, at which point no further population growth will occur. This limit is determined by two factors:
-[ULI]Suitability of the planet for the population: higher suitability increases maximum population level[/ULI]
-[ULI]Size of world: larger worlds allow for higher maximum population levels[/ULI]
+Além disso, tenha cuidado para não aumentar os impostos demais - geralmente é uma boa ideia permitir que os impostos das colônias sejam controlados automaticamente (configuração padrão nas Opções do Jogo).
 
-[H3]Population Growth[/H3]
-The overall growth rate of a colony is strongly related to the overall suitability of the planet for the population living there. More suitable colonies will grow much faster.
+[H3]População Máxima[/H3]
+As populações das colônias eventualmente atingem um limite natural, a partir do qual nenhum crescimento adicional ocorrerá. Este limite é determinado por dois fatores:
+[ULI]Adequação do planeta para a população: maior adequação aumenta o nível máximo de população[/ULI]
+[ULI]Tamanho do mundo: mundos maiores permitem níveis máximos de população mais altos[/ULI]
 
-The population level will also influence growth rate. Small colonies have faster population growth: when a colony has less than a quarter of it's maximum population, then population growth is doubled.
+[H3]Crescimento da População[/H3]
+A taxa geral de crescimento de uma colônia está fortemente relacionada à adequação geral do planeta para a população que vive lá. Colônias mais adequadas crescerão muito mais rápido.
 
-Between 25% and 75% of it's maximum population, colony population grows at the normal rate.
+O nível de população também influenciará a taxa de crescimento. Colônias pequenas têm crescimento populacional mais rápido: quando uma colônia tem menos de um quarto de sua população máxima, o crescimento populacional é dobrado.
 
-Once a colony reaches 75% of it's maximum population, then population growth is halved.
+Entre 25% e 75% de sua população máxima, a população da colônia cresce na taxa normal.
 
-[H3]Migration[/H3]
-Migration of your citizens from large colonies to smaller ones is a major factor in achieving fast growth of new colonies. Citizens will be naturally attracted to nearby colonies with low taxes and good development levels. They will board passenger ships and migrate to those new colonies, boosting the population there.
+Uma vez que a colônia atinge 75% de sua população máxima, o crescimento populacional é reduzido pela metade.
 
-[H3]Colony Growth Funding[/H3]
-You can further accelerate colony growth by directing your empire's excess income to Colony Growth Funding. 
+[H3]Migração[/H3]
+A migração de seus cidadãos de colônias grandes para menores é um fator importante para alcançar um crescimento rápido de novas colônias. Os cidadãos serão naturalmente atraídos para colônias próximas com baixos impostos e bons níveis de desenvolvimento. Eles embarcarão em naves de passageiros e migrarão para essas novas colônias, aumentando a população lá.
 
-You can set the Colony Growth Funding level in the Empire Funding Levels screen (shift-F2). This is a good way to use excess income to grow your empire faster.
+[H3]Financiamento do Crescimento das Colônias[/H3]
+Você pode acelerar ainda mais o crescimento das colônias direcionando a renda excedente do seu império para o Financiamento do Crescimento das Colônias.
 
-Of course you also need to balance how you use your income in other areas. You need to have sufficient money to buy new ships and bases, recruit troops, build new facilities and perform research. You also need adequate funds to pay the maintenance costs for your ships, troops and facilities.
+Você pode definir o nível de Financiamento do Crescimento das Colônias na tela de Níveis de Financiamento do Império (shift-F2). Esta é uma boa maneira de usar a renda excedente para crescer seu império mais rápido.
 
-[H3]Benefits of Researching Colonization Techs[/H3]
-As outlined elsewhere in this topic, colony suitability is very important for the following reasons:
-[ULI]increases maximum population[/ULI]
-[ULI]increases population growth rate[/ULI]
-[ULI]increases happiness, and thus effectively increases income[/ULI]
+Claro que você também precisa equilibrar como usa sua renda em outras áreas. Você precisa ter dinheiro suficiente para comprar novas naves e bases, recrutar tropas, construir novas instalações e realizar pesquisas. Você também precisa de fundos adequados para pagar os custos de manutenção de suas naves, tropas e instalações.
 
-So increasing colony suitability is highly beneficial for your colonies.
+[H3]Benefícios de Pesquisar Tecnologias de Colonização[/H3]
+Conforme descrito em outros pontos deste tópico, a adequação das colônias é muito importante pelas seguintes razões:
+[ULI]aumenta a população máxima[/ULI]
+[ULI]aumenta a taxa de crescimento populacional[/ULI]
+[ULI]aumenta a felicidade e, assim, aumenta efetivamente a renda[/ULI]
 
-One simple way to increase suitability is through researching the colonization projects in the Research screen.
+Portanto, aumentar a adequação das colônias é altamente benéfico para suas colônias.
 
-The colonization techs reduce the threshold at which an empire can colonize specific planet types. This improves the suitability formula for these planets, even when they are already colonized.
+Uma maneira simples de aumentar a adequação é pesquisando os projetos de colonização na tela de Pesquisa.
 
-So be sure to research these projects, especially for the planet type of your homeworld and other large colonies.
+As tecnologias de colonização reduzem o limite em que um império pode colonizar tipos específicos de planetas. Isso melhora a fórmula de adequação para esses planetas, mesmo quando já estão colonizados.
 
-[H3]Colony Revenue[/H3]
-To achieve maximum revenue from your colonies you must help them develop to their fullest potential.
+Portanto, certifique-se de pesquisar esses projetos, especialmente para o tipo de planeta de seu mundo natal e outras grandes colônias.
 
-Colony income is calculated as follows:
+[H3]Renda das Colônias[/H3]
+Para alcançar a máxima renda de suas colônias, você deve ajudá-las a se desenvolver ao máximo.
 
-Colony Income = Total Population x Development Level
+A renda das colônias é calculada da seguinte forma:
 
-Thus to maximize revenue you must maximize both the population and development of each colony.
+Renda da Colônia = População Total x Nível de Desenvolvimento
 
-Fast population growth and high colony development level are both achieved via the same methods:
-[ULI]Keep taxes at a reasonable level[/ULI]
-[ULI]Ensure a good supply of luxury resources[/ULI]
+Assim, para maximizar a renda, você deve maximizar tanto a população quanto o desenvolvimento de cada colônia.
 
-[H3]Colony Development Level: Population + Luxury Resources[/H3]
-As explained further below, colony development level is comprised of two parts: up to 50% from population + remainder from luxury resources
+O rápido crescimento populacional e o alto nível de desenvolvimento da colônia são alcançados pelos mesmos métodos:
+[ULI]Mantenha os impostos em um nível razoável[/ULI]
+[ULI]Garanta um bom suprimento de recursos de luxo[/ULI]
 
-[H3]Development from Population[/H3]
-When a colony has a population of 5 billion, it's population development reaches the maximum level of 50%. Smaller populations have proportionally less population development. For example a new colony of 30 million has a population development level of approximately 14%.
+[H3]Nível de Desenvolvimento da Colônia: População + Recursos de Luxo[/H3]
+Conforme explicado mais adiante, o nível de desenvolvimento da colônia é composto por duas partes: até 50% da população + o restante dos recursos de luxo.
 
-[H3]Development from Luxury Resources[/H3]
-Luxury resources are the high-end goods that your population consumes. They come in various forms: food, beverages, textiles, exotic minerals and timbers, and many others. They directly increase development, because each of these resources has a Colony Development bonus of a specific amount.
+[H3]Desenvolvimento pela População[/H3]
+Quando uma colônia tem uma população de 5 bilhões, seu desenvolvimento populacional atinge o nível máximo de 50%. Populações menores têm desenvolvimento populacional proporcionalmente menor. Por exemplo, uma nova colônia de 30 milhões tem um nível de desenvolvimento populacional de aproximadamente 14%.
 
-Luxury resources are consumed by colonies. Having access to many luxury resources raises a colony�s luxury development level, producing more income. Each luxury resource raises the development level by a specific amount (typically 3-6%, but each resource differs), thus when a colony has consistent access to many luxury resources its luxury development level will slowly rise.
+[H3]Desenvolvimento pelos Recursos de Luxo[/H3]
+Recursos de luxo são os produtos de alta qualidade que sua população consome. Eles vêm em várias formas: alimentos, bebidas, têxteis, minerais e madeiras exóticas, entre outros. Eles aumentam diretamente o desenvolvimento, pois cada um desses recursos tem um bônus de Desenvolvimento de Colônia de um valor específico.
 
-So a key consideration when growing your colonies is to maintain and expand a steady supply of luxury resources.
+Recursos de luxo são consumidos pelas colônias. Ter acesso a muitos recursos de luxo aumenta o nível de desenvolvimento de luxo de uma colônia, produzindo mais renda. Cada recurso de luxo aumenta o nível de desenvolvimento por uma quantia específica (tipicamente 3-6%, mas cada recurso difere), portanto, quando uma colônia tem acesso consistente a muitos recursos de luxo, seu nível de desenvolvimento de luxo aumentará lentamente.
 
-[H3]Overall Development Level[/H3]
-Combining both population development and luxury development gives the total colony development level.
+Portanto, uma consideração chave ao crescer suas colônias é manter e expandir um fornecimento constante de recursos de luxo.
 
-Once total colony development reaches 120%, further increases taper off. So additional luxury resources beyond 120% only add a portion of their development bonus. Even so, when a colony is supplied with many luxury resources it can reach very high development levels, well beyond 100%.
+[H3]Nível Geral de Desenvolvimento[/H3]
+Combinando o desenvolvimento populacional e o desenvolvimento de luxo, obtém-se o nível de desenvolvimento total da colônia.
 
-[H3]Revenue slowdown[/H3]
-Once a colony reaches 50% of its maximum population, additional revenue reduces. Population over 50% of maximum produces revenue at half the rate of population below that level.
+Uma vez que o desenvolvimento total da colônia atinge 120%, aumentos adicionais diminuem. Assim, recursos de luxo adicionais além de 120% apenas adicionam uma parte de seu bônus de desenvolvimento. Mesmo assim, quando uma colônia é abastecida com muitos recursos de luxo, ela pode alcançar níveis de desenvolvimento muito altos, bem acima de 100%.
 
-This means that while very large colonies can produce a lot of money, the increase is not strictly linear.
+[H3]Redução da Renda[/H3]
+Uma vez que uma colônia atinge 50% de sua população máxima, a renda adicional diminui. A população acima de 50% do máximo produz renda a metade da taxa da população abaixo desse nível.
+
+Isso significa que, enquanto colônias muito grandes podem produzir muito dinheiro, o aumento não é estritamente linear.

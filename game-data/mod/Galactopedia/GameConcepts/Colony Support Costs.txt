@@ -1,20 +1,20 @@
-﻿All colonies cost money to support. When colonies are small and undeveloped they are a net drain on your economy, because their support costs are high and typically eclipse their revenue.
+﻿Todas as colônias custam dinheiro para serem mantidas. Quando as colônias são pequenas e não desenvolvidas, elas são um dreno líquido na sua economia, porque seus custos de manutenção são altos e normalmente superam suas receitas.
 
-[H3]Reduction as Colony Grows[/H3]
-Support costs drop as the population of a colony grows.
+[H3]Redução com o Crescimento da Colônia[/H3]
+Os custos de manutenção diminuem à medida que a população de uma colônia cresce.
 
-As colonies grow their tax revenue will also eventually exceed their support costs. At this point the colony becomes revenue positive: their income exceeds their costs.
+À medida que as colônias crescem, sua receita de impostos eventualmente excederá seus custos de manutenção. Nesse ponto, a colônia se torna positiva em termos de receita: sua renda excede seus custos.
 
-These well-developed colonies can then provide funding for your empire.
+Essas colônias bem desenvolvidas podem então fornecer financiamento para o seu império.
 
-[H3]Very Large Colonies[/H3]
-As colonies grow even larger (above 50% maximum population) their support costs again begin to rise.
+[H3]Colônias Muito Grandes[/H3]
+À medida que as colônias crescem ainda mais (acima de 50% da população máxima), seus custos de manutenção começam a aumentar novamente.
 
-However at this point the revenue from these large colonies is usually very high, offsetting these losses.
+No entanto, nesse ponto, a receita dessas grandes colônias geralmente é muito alta, compensando essas perdas.
 
-[H3]Support Cost Factors[/H3]
-In summary, the following factors increase colony support costs:
-[ULI]population less than 100 million[/ULI]
-[ULI]suitability for population less than 20[/ULI]
-[ULI]unassimilated population[/ULI]
-[ULI]population above 50% of maximum[/ULI]
+[H3]Fatores de Custo de Manutenção[/H3]
+Resumindo, os seguintes fatores aumentam os custos de manutenção das colônias:
+[ULI]população inferior a 100 milhões[/ULI]
+[ULI]adequação para a população inferior a 20[/ULI]
+[ULI]população não assimilada[/ULI]
+[ULI]população acima de 50% do máximo[/ULI]

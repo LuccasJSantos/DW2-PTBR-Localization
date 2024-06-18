@@ -1,22 +1,22 @@
-Construction of ships and bases is a core aspect of Distant Worlds. Understanding the details of construction will help you to expand your empire more effectively.
+A construção de naves e bases é um aspecto central de Distant Worlds. Compreender os detalhes da construção ajudará você a expandir seu império de maneira mais eficaz.
 
-All construction costs money � you must have sufficient funds to buy new ships and bases.
+Toda construção requer dinheiro - você deve ter fundos suficientes para comprar novas naves e bases.
 
-As your technology level increases your construction abilities grow. Research unlocks new, larger Hulls that can be used to design and build new ships and bases.
+À medida que seu nível de tecnologia aumenta, suas habilidades de construção também crescem. A pesquisa desbloqueia novos cascos maiores que podem ser usados para projetar e construir novas naves e bases.
 
-Construction of ships for your private economy happens automatically � your private citizens purchase and build freighters and mining ships as needed.
+A construção de naves para sua economia privada acontece automaticamente - seus cidadãos privados compram e constroem cargueiros e naves mineradoras conforme necessário.
 
-[H3]Where construction happens[/H3]
-Ship or base building takes place at three types of locations:
-[ULI]Colonies: can build any kind of ship, but at a relatively slow rate compared to spaceports[/ULI]
-[ULI]Spaceports: the key location for building most ships (military ships, exploration ships, freighters, mining ships)[/ULI]
-[ULI]Construction Ships: for building mining stations, research stations and other bases at non-colony locations[/ULI]
+[H3]Onde a construção acontece[/H3]
+A construção de naves ou bases ocorre em três tipos de locais:
+[ULI]Colônias: podem construir qualquer tipo de nave, mas em uma taxa relativamente mais lenta em comparação com os portos espaciais[/ULI]
+[ULI]Portos Espaciais: o local principal para construir a maioria das naves (naves militares, naves de exploração, cargueiros, naves mineradoras)[/ULI]
+[ULI]Naves de Construção: para construir estações de mineração, estações de pesquisa e outras bases em locais não colonizados[/ULI]
 
-[H3]How to initiate construction[/H3]
-To initiate state construction you have four options:
-[ULI]select a colony or spaceport and click the yellow button 'Build new ship or base' under the Selection Panel. The buttons will change to show all buildable items for that construction yard. Hover each button to see the type and cost for each new ship. Click a button to build an item[/ULI]
-[ULI]select a construction ship, find a build location for a new base, and right-click to show a pop-up menu with a 'Build' menu option for the bases that can be built at this location. Click the desired 'Build Base' menu option[/ULI]
-[ULI]open the Build Order screen (in Construction section of Control Center) and select the designs and amounts for each ship role, then click the Purchase button[/ULI]
-[ULI]use the 'Queue New Base' buttons in any of the New Location lists, e.g. New Mining Locations (shift-F7) or New Research Locations (shift-F9)[/ULI]
+[H3]Como iniciar a construção[/H3]
+Para iniciar a construção estatal, você tem quatro opções:
+[ULI]selecione uma colônia ou um porto espacial e clique no botão amarelo 'Construir nova nave ou base' sob o Painel de Seleção. Os botões mudarão para mostrar todos os itens construíveis para aquele estaleiro. Passe o mouse sobre cada botão para ver o tipo e o custo de cada nova nave. Clique em um botão para construir um item[/ULI]
+[ULI]selecione uma nave de construção, encontre um local de construção para uma nova base e clique com o botão direito para mostrar um menu pop-up com a opção de menu 'Construir' para as bases que podem ser construídas neste local. Clique na opção de menu 'Construir Base' desejada[/ULI]
+[ULI]abra a tela de Pedidos de Construção (na seção de Construção do Centro de Controle) e selecione os projetos e quantidades para cada papel de nave, em seguida, clique no botão Comprar[/ULI]
+[ULI]use os botões 'Enfileirar Nova Base' em qualquer uma das listas de Novos Locais, por exemplo, Novos Locais de Mineração (shift-F7) ou Novos Locais de Pesquisa (shift-F9)[/ULI]
 
-Note that after construction, ships start off fully automated. To take control of one of your state-owned ships simply assign a mission to it.
+Note que após a construção, as naves começam totalmente automatizadas. Para assumir o controle de uma de suas naves estatais, simplesmente atribua uma missão a ela.

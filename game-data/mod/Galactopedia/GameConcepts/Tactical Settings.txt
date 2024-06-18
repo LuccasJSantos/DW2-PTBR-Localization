@@ -1,97 +1,97 @@
-Ships and Fleets have tactical settings that determine how they respond to threats and how they engage in battle.
+Naves e Frotas possuem configurações táticas que determinam como respondem às ameaças e se engajam em batalha.
 
-The tactical settings can be accessed from the 'Set Tactics' button at the far-right under the Selection Panel (must have one of your own ships or fleets selected).
+As configurações táticas podem ser acessadas pelo botão 'Definir Táticas' no canto direito abaixo do Painel de Seleção (é necessário ter uma das suas próprias naves ou frotas selecionadas).
 
-The meaning of each of these settings are outlined below, first for ships, and then fleet-specific settings.
+O significado de cada uma dessas configurações é detalhado abaixo, primeiro para naves e depois para configurações específicas de frotas.
 
-[H2]Ship Tactical Settings[/H2]
-[H3]Position Within Fleet[/H3]
-Position Within Fleet specifies how the ship operates within a fleet.
-[ULI][B]Core:[/B] Core ships are the most important ships in the fleet, and are escorted by the other fleet ships (Close Escort and Picket). Usually a fleet will have only one or two Core ships[/ULI]
-[ULI][B]Close Escort:[/B] these ships escort the Core ships in a close defensive perimeter. When there are no enemies present or enemies are on all sides, then they will form a circular defensive perimeter around the Core ships. When enemy forces predominantly come from one direction then they form an arc defensive formation between the Core ships and the enemy ships.[/ULI]
-[ULI][B]Picket:[/B] these ships escort the Core ships in a more distant defensive perimeter. When there are no enemies present or enemies are on all sides, then they will form a circular defensive perimeter around the Core ships. When enemy forces predominantly come from one direction then they form an arc defensive formation between the Core ships and the enemy ships.[/ULI]
+[H2]Configurações Táticas da Nave[/H2]
+[H3]Posição Dentro da Frota[/H3]
+Posição Dentro da Frota especifica como a nave opera dentro de uma frota.
+[ULI][B]Núcleo:[/B] Naves de núcleo são as mais importantes na frota e são escoltadas pelas outras naves da frota (Escolta Próxima e Sentinelas). Geralmente uma frota terá apenas uma ou duas naves de núcleo[/ULI]
+[ULI][B]Escolta Próxima:[/B] estas naves escoltam as naves de núcleo em um perímetro defensivo próximo. Quando não há inimigos presentes ou quando os inimigos estão de todos os lados, elas formam um perímetro defensivo circular ao redor das naves de núcleo. Quando as forças inimigas predominantemente vêm de uma direção, elas formam uma formação defensiva em arco entre as naves de núcleo e as naves inimigas.[/ULI]
+[ULI][B]Sentinela:[/B] estas naves escoltam as naves de núcleo em um perímetro defensivo mais distante. Quando não há inimigos presentes ou quando os inimigos estão de todos os lados, elas formam um perímetro defensivo circular ao redor das naves de núcleo. Quando as forças inimigas predominantemente vêm de uma direção, elas formam uma formação defensiva em arco entre as naves de núcleo e as naves inimigas.[/ULI]
 
-[H3]Engagement Range[/H3]
-Engagement Range specifies when a ship will engage enemy targets.
-[ULI][B]Do Not Engage:[/B] the ship will never engage enemies[/ULI]
-[ULI][B]Engage When Attacked:[/B] will engage enemies only when directly attacked by them[/ULI]
-[ULI][B]Nearby:[/B] will engage enemy targets that are nearby[/ULI]
-[ULI][B]Same Location:[/B] will engage enemy targets that are at the same location (planet and moons)[/ULI]
-[ULI][B]Same System:[/B] will engage enemy targets that are in the same star system[/ULI]
+[H3]Alcance de Engajamento[/H3]
+Alcance de Engajamento especifica quando uma nave vai engajar alvos inimigos.
+[ULI][B]Não Engajar:[/B] a nave nunca vai engajar inimigos[/ULI]
+[ULI][B]Engajar Quando Atacado:[/B] vai engajar inimigos apenas quando diretamente atacada por eles[/ULI]
+[ULI][B]Próximos:[/B] vai engajar alvos inimigos que estão próximos[/ULI]
+[ULI][B]Mesma Localização:[/B] vai engajar alvos inimigos que estão na mesma localização (planetas e luas)[/ULI]
+[ULI][B]Mesmo Sistema:[/B] vai engajar alvos inimigos que estão no mesmo sistema estelar[/ULI]
 
-Note that when a ship is part of a fleet, then the Fleet Engagement Range overrides the ship engagement range. In other words, when a ship is part of a fleet it uses the fleet engagement range instead of its own.
+Note que quando uma nave faz parte de uma frota, o Alcance de Engajamento da Frota sobrepõe o alcance de engajamento da nave. Em outras palavras, quando uma nave faz parte de uma frota, ela utiliza o alcance de engajamento da frota em vez do seu próprio.
 
-[H3]Attack Stance - Weaker Targets[/H3]
-This determines how a ship will engage a target that is weaker than itself, including how it determines the optimal range to use.
-[ULI][B]Evade:[/B] the ship will attempt to remain out of weapons range of the enemy target[/ULI]
-[ULI][B]Cautious:[/B] the ship will select an attack range that inflicts some damage on the enemy while minimizing damage to itself from the enemy[/ULI]
-[ULI][B]Neutral:[/B] the ship will select an attack range that inflicts the maximum damage on the enemy while avoiding excessive damage to itself from the enemy[/ULI]
-[ULI][B]Aggressive:[/B] the ship will select an attack range that inflicts maximum damage on the enemy with little consideration for enemy damage against itself[/ULI]
+[H3]Postura de Ataque - Alvos Mais Fracos[/H3]
+Isso determina como uma nave vai engajar um alvo que é mais fraco do que ela, incluindo como ela determina o alcance ótimo a ser usado.
+[ULI][B]Evasiva:[/B] a nave tentará permanecer fora do alcance das armas do alvo inimigo[/ULI]
+[ULI][B]Cautelosa:[/B] a nave selecionará um alcance de ataque que causa algum dano ao inimigo enquanto minimiza o dano recebido dela própria pelo inimigo[/ULI]
+[ULI][B]Neutra:[/B] a nave selecionará um alcance de ataque que causa o dano máximo ao inimigo enquanto evita danos excessivos a si própria pelo inimigo[/ULI]
+[ULI][B]Agressiva:[/B] a nave selecionará um alcance de ataque que causa o dano máximo ao inimigo com pouca consideração pelo dano inimigo recebido por ela própria[/ULI]
 
-[H3]Attack Stance - Stronger Targets[/H3]
-This determines how a ship will engage a target that is stronger than itself, including how it determines the optimal range to use.
-[ULI][B]Evade:[/B] the ship will attempt to remain out of weapons range of the enemy target[/ULI]
-[ULI][B]Cautious:[/B] the ship will select an attack range that inflicts some damage on the enemy while minimizing damage to itself from the enemy[/ULI]
-[ULI][B]Neutral:[/B] the ship will select an attack range that inflicts the maximum damage on the enemy while avoiding excessive damage to itself from the enemy[/ULI]
-[ULI][B]Aggressive:[/B] the ship will select an attack range that inflicts maximum damage on the enemy with little consideration for enemy damage against itself[/ULI]
+[H3]Postura de Ataque - Alvos Mais Fortes[/H3]
+Isso determina como uma nave vai engajar um alvo que é mais forte do que ela, incluindo como ela determina o alcance ótimo a ser usado.
+[ULI][B]Evasiva:[/B] a nave tentará permanecer fora do alcance das armas do alvo inimigo[/ULI]
+[ULI][B]Cautelosa:[/B] a nave selecionará um alcance de ataque que causa algum dano ao inimigo enquanto minimiza o dano recebido dela própria pelo inimigo[/ULI]
+[ULI][B]Neutra:[/B] a nave selecionará um alcance de ataque que causa o dano máximo ao inimigo enquanto evita danos excessivos a si própria pelo inimigo[/ULI]
+[ULI][B]Agressiva:[/B] a nave selecionará um alcance de ataque que causa o dano máximo ao inimigo com pouca consideração pelo dano inimigo recebido por ela própria[/ULI]
 
-[H3]Retreat When[/H3]
-This specifies when a ship will flee a battle location.
-[ULI][B]Enemy in same System:[/B] will flee at the first sight of an enemy in the same star system[/ULI]
-[ULI][B]Enemy at same Location:[/B] will flee at the first sight of an enemy in the same location[/ULI]
-[ULI][B]Enemy Nearby:[/B] will flee when an enemy is nearby at the same location[/ULI]
-[ULI][B]When Attacked:[/B] will flee when directly attacked by an enemy[/ULI]
-[ULI][B]Shields below 50% or any Armor damage:[/B] will flee when shields drop below 50% or any armor has been damaged[/ULI]
-[ULI][B]Shields below 20% or Armor below 50%:[/B] will flee when shields drop below 20% or armor is below 50%[/ULI]
-[ULI][B]Any non-defense component damaged:[/B] will flee when any non-defense component is damaged, i.e. components other than shields or armor[/ULI]
-[ULI][B]20% of non-defense components damaged:[/B] will flee when 20% of non-defense components are damaged[/ULI]
-[ULI][B]50% of non-defense components damaged:[/B] will flee when 50% of non-defense components are damaged[/ULI]
-[ULI][B]Never:[/B] this ship will never flee battle[/ULI]
+[H3]Retirada Quando[/H3]
+Isso especifica quando uma nave vai fugir de um local de batalha.
+[ULI][B]Inimigo no Mesmo Sistema:[/B] vai fugir ao primeiro avistamento de um inimigo no mesmo sistema estelar[/ULI]
+[ULI][B]Inimigo na Mesma Localização:[/B] vai fugir ao primeiro avistamento de um inimigo na mesma localização[/ULI]
+[ULI][B]Inimigo Próximo:[/B] vai fugir quando um inimigo está próximo na mesma localização[/ULI]
+[ULI][B]Quando Atacado:[/B] vai fugir quando diretamente atacado por um inimigo[/ULI]
+[ULI][B]Escudos abaixo de 50% ou qualquer dano à Armadura:[/B] vai fugir quando os escudos caírem abaixo de 50% ou qualquer armadura for danificada[/ULI]
+[ULI][B]Escudos abaixo de 20% ou Armadura abaixo de 50%:[/B] vai fugir quando os escudos caírem abaixo de 20% ou a armadura estiver abaixo de 50%[/ULI]
+[ULI][B]Qualquer componente não defensivo danificado:[/B] vai fugir quando qualquer componente não defensivo for danificado, ou seja, componentes além de escudos ou armadura[/ULI]
+[ULI][B]20% dos componentes não defensivos danificados:[/B] vai fugir quando 20% dos componentes não defensivos estiverem danificados[/ULI]
+[ULI][B]50% dos componentes não defensivos danificados:[/B] vai fugir quando 50% dos componentes não defensivos estiverem danificados[/ULI]
+[ULI][B]Nunca:[/B] esta nave nunca vai fugir da batalha[/ULI]
 
-[H3]Invade Colonies[/H3]
-This determines how a ship will land troops during a colony invasion.
-[ULI][B]Immediately:[/B] the ship will attempt to immediately land troops at the colony[/ULI]
-[ULI][B]When Clear:[/B] the ship will wait until all static defenses at the colony have been cleared before invading. This includes all defending bases in orbit around the colony[/ULI]
-[ULI][B]Never:[/B] the ship will never invade enemy colonies[/ULI]
+[H3]Invasão de Colônias[/H3]
+Isso determina como uma nave vai desembarcar tropas durante uma invasão de colônia.
+[ULI][B]Imediatamente:[/B] a nave tentará imediatamente desembarcar tropas na colônia[/ULI]
+[ULI][B]Quando Limpo:[/B] a nave aguardará até que todas as defesas estáticas da colônia tenham sido eliminadas antes de invadir. Isso inclui todas as bases defensivas em órbita ao redor da colônia[/ULI]
+[ULI][B]Nunca:[/B] a nave nunca vai invadir colônias inimigas[/ULI]
 
-[H2]Fleet Tactical Settings[/H2]
-[H3]Fleet Engagement Range[/H3]
-Fleet Engagement Range specifies when a fleet will engage targets.
-[ULI][B]Do Not Engage:[/B] the fleet will never engage enemies[/ULI]
-[ULI][B]Engage When Attacked:[/B] will engage enemies only when directly attacked by them[/ULI]
-[ULI][B]Nearby:[/B] will engage enemy targets that are nearby (within 5000 units)[/ULI]
-[ULI][B]Same Location:[/B] will engage enemy targets that are at the same location (planet and moons)[/ULI]
-[ULI][B]Same System:[/B] will engage enemy targets that are in the same star system[/ULI]
-[ULI][B]50M range:[/B] will engage enemy targets that are within 50 million units[/ULI]
-[ULI][B]100M range:[/B] will engage enemy targets that are within 100 million units[/ULI]
-[ULI][B]200M range:[/B] will engage enemy targets that are within 200 million units[/ULI]
-[ULI][B]300M range:[/B] will engage enemy targets that are within 300 million units[/ULI]
-[ULI][B]33% of Fuel Range:[/B] will engage enemy targets that are within 33% of fleet fuel range[/ULI]
-[ULI][B]50% of Fuel Range:[/B] will engage enemy targets that are within 50% of fleet fuel range[/ULI]
+[H2]Configurações Táticas da Frota[/H2]
+[H3]Alcance de Engajamento da Frota[/H3]
+O Alcance de Engajamento da Frota especifica quando uma nave irá engajar alvos.
+[ULI][B]Não Engajar:[/B] a frota nunca irá engajar inimigos[/ULI]
+[ULI][B]Engajar ao Ser Atacado:[/B] irá engajar inimigos apenas quando atacada diretamente por eles[/ULI]
+[ULI][B]Próximos:[/B] irá engajar alvos inimigos que estejam próximos (dentro de 5000 unidades)[/ULI]
+[ULI][B]Mesmo Local:[/B] irá engajar alvos inimigos que estejam no mesmo local (planeta e luas)[/ULI]
+[ULI][B]Mesmo Sistema:[/B] irá engajar alvos inimigos que estejam no mesmo sistema estelar[/ULI]
+[ULI][B]Alcance de 50M:[/B] irá engajar alvos inimigos que estejam dentro de 50 milhões de unidades[/ULI]
+[ULI][B]Alcance de 100M:[/B] irá engajar alvos inimigos que estejam dentro de 100 milhões de unidades[/ULI]
+[ULI][B]Alcance de 200M:[/B] irá engajar alvos inimigos que estejam dentro de 200 milhões de unidades[/ULI]
+[ULI][B]Alcance de 300M:[/B] irá engajar alvos inimigos que estejam dentro de 300 milhões de unidades[/ULI]
+[ULI][B]33% do Alcance de Combustível:[/B] irá engajar alvos inimigos que estejam dentro de 33% do alcance de combustível da frota[/ULI]
+[ULI][B]50% do Alcance de Combustível:[/B] irá engajar alvos inimigos que estejam dentro de 50% do alcance de combustível da frota[/ULI]
 
-Note that fleet engagement range overrides the engagement ranges of individual ships in the fleet. When a ship is part of a fleet it uses the fleet engagement range instead of its own engagement range.
+Note que o alcance de engajamento da frota substitui os alcances de engajamento das naves individuais na frota. Quando uma nave faz parte de uma frota, ela utiliza o alcance de engajamento da frota em vez do seu próprio alcance de engajamento.
 
-Manually-controlled fleets will not automatically respond to threats outside their current star system. This is indicated by yellow text for this setting when the fleet is manually-controlled. To enable fleet engagement range beyond the current star system you should use an automated fleet role (Defend, Attack, Raid, Invade).
+Frotas controladas manualmente não responderão automaticamente a ameaças fora do seu sistema estelar atual. Isso é indicado por texto amarelo para essa configuração quando a frota é controlada manualmente. Para habilitar o alcance de engajamento da frota além do sistema estelar atual, você deve utilizar um papel automatizado da frota (Defender, Atacar, Saquear, Invadir).
 
-Fleets will also not automatically engage threats outside their current star system when Military Attacks are manually-controlled (see Military section in Empire Policy settings). This is indicated by orange text for this setting when Military Attacks are manually-controlled. Thus for fleets to automatically respond to threats outside their current star system you should enable Military Attack automation (Fully Automated or Suggest). In addition you should use automated fleets (not Manual fleet role) if you want them to automatically engage threats beyond their current system.
+As frotas também não irão automaticamente engajar ameaças fora do seu sistema estelar atual quando os Ataques Militares são controlados manualmente (ver seção Militar nas configurações de Política do Império). Isso é indicado por texto laranja para essa configuração quando os Ataques Militares são controlados manualmente. Assim, para as frotas responderem automaticamente a ameaças fora do seu sistema estelar atual, você deve habilitar a automação de Ataques Militares (Totalmente Automático ou Sugerir). Além disso, você deve usar frotas automatizadas (não o papel Manual da frota) se desejar que elas engajem automaticamente ameaças além do sistema atual.
 
-[H3]Formation[/H3]
-Specfies the proximity of Close Escort and Picket ships to their escorted Core ships in the fleet.
-[ULI]Very Tight[/ULI]
-[ULI]Tight[/ULI]
+[H3]Formação[/H3]
+Especifica a proximidade das naves de Escolta Próxima e Piquete em relação às naves Núcleo que estão sendo escoltadas na frota.
+[ULI]Muito Próximo[/ULI]
+[ULI]Próximo[/ULI]
 [ULI]Normal[/ULI]
-[ULI]Loose[/ULI]
-[ULI]Very Loose[/ULI]
+[ULI]Solto[/ULI]
+[ULI]Muito Solto[/ULI]
 
-[H3]Allow Ship Role Reassignment[/H3]
-This determines whether ships can have their 'Role Within Fleet' automatically reassigned or not. This means that whenever a new fleet lead ship is selected (e.g. when a better ship joins fleet or when the old lead ship is lost) then the Core, Close Escort and Picket ships can change.
-[ULI]Ships reassign roles within fleet as needed[/ULI]
-[ULI]Ships retain current role within fleet[/ULI]
+[H3]Permitir Reatribuição de Papel das Naves[/H3]
+Isso determina se as naves podem ter seu 'Papel na Frota' automaticamente reatribuído ou não. Isso significa que sempre que uma nova nave líder da frota for selecionada (por exemplo, quando uma nave melhor se junta à frota ou quando a antiga nave líder é perdida), as naves Núcleo, de Escolta Próxima e Piquete podem mudar.
+[ULI]Naves reatribuem papéis dentro da frota conforme necessário[/ULI]
+[ULI]Naves mantêm o papel atual dentro da frota[/ULI]
 
-[H3]Retreat When[/H3]
-Determines when the entire fleet will decide to retreat from a battle.
-[ULI]Enemy Strength 50% greater[/ULI]
-[ULI]Enemy Strength 100% greater[/ULI]
-[ULI]Enemy Strength 200% greater[/ULI]
-[ULI]Never[/ULI]
-[ULI]Enemy Strength greater[/ULI]
+[H3]Retirada Quando[/H3]
+Determina quando a frota inteira decidirá se retirar de uma batalha.
+[ULI]Força Inimiga 50% maior[/ULI]
+[ULI]Força Inimiga 100% maior[/ULI]
+[ULI]Força Inimiga 200% maior[/ULI]
+[ULI]Nunca[/ULI]
+[ULI]Força Inimiga maior[/ULI]

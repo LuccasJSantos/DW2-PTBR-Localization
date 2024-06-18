@@ -1,22 +1,22 @@
-Not all alien life is part of a formal empire. Many alien populations operate independently. These populations are located on worlds spread across the galaxy.
+Não toda vida alienígena faz parte de um império formal. Muitas populações alienígenas operam de forma independente. Essas populações estão localizadas em mundos espalhados pela galáxia.
 
-These independent colonies mine the resources on their worlds and offer these in trade to others. In this case you can benefit from these resources without having to build a mining station at the world.
+Essas colônias independentes exploram os recursos de seus mundos e oferecem-nos em troca a outros. Nesse caso, você pode se beneficiar desses recursos sem precisar construir uma estação de mineração no mundo.
 
-While independent populations start off not belonging to an empire, they can be absorbed into an empire through colonization.
+Embora as populações independentes comecem não pertencendo a um império, elas podem ser absorvidas por um império através da colonização.
 
-[H3]Colonizing Independent Worlds[/H3]
-Most independent colonies will not welcome colonization unless you have first built up a friendship with them.
+[H3]Colonizando Mundos Independentes[/H3]
+A maioria das colônias independentes não aceitará a colonização a menos que você tenha primeiro construído uma amizade com elas.
 
-You can improve relations with independent colonies by forming trade treaties and offering gifts. Eventually they may warm up to you enough that they extend an invitation to colonize. At that point you can send a Colony Ship to the planet and colonize, integrating the world into your empire.
+Você pode melhorar as relações com colônias independentes formando tratados comerciais e oferecendo presentes. Eventualmente, elas podem se aquecer o suficiente para estender um convite para colonizar. Nesse ponto, você pode enviar uma Nave Colonizadora para o planeta e colonizá-lo, integrando o mundo ao seu império.
 
-[H3]Invading Independent Worlds[/H3]
-Unfortunately some species may be so hostile that they never warm up to your diplomacy.
+[H3]Invadindo Mundos Independentes[/H3]
+Infelizmente, algumas espécies podem ser tão hostis que nunca se aquecerão com sua diplomacia.
 
-So you can also choose to invade independent colonies, landing troops to conquer them and take the planet by force.
+Portanto, você também pode optar por invadir colônias independentes, desembarcando tropas para conquistá-las e tomar o planeta à força.
 
-But note that invading independent colonies will harm your diplomatic reputation with other factions. It will also result in a highly unhappy newly-conquered colony that will require a strong troop garrison to quell any rebellious elements.
+Mas observe que invadir colônias independentes prejudicará sua reputação diplomática com outras facções. Além disso, resultará em uma colônia recém-conquistada muito infeliz que exigirá uma forte guarnição de tropas para conter elementos rebeldes.
 
-[H3]Independent Traders[/H3]
-Independent traders are usually present along with independent colonies. These traders operate freighters which work at transporting cargo across the galaxy. They can often be found waiting at an independent world, ready to transport a cargo order to its buyer.
+[H3]Comerciantes Independentes[/H3]
+Comerciantes independentes geralmente estão presentes junto com colônias independentes. Esses comerciantes operam cargueiros que transportam carga pela galáxia. Eles frequentemente podem ser encontrados esperando em um mundo independente, prontos para transportar um pedido de carga para seu comprador.
 
-The identifying color for independent colonies and traders is light gray.
+A cor identificadora para colônias e comerciantes independentes é cinza claro.

@@ -1,47 +1,47 @@
-﻿Nebula Clouds are a major feature of the galaxy. Vast clouds of gas and dust spread across the expanse of the galaxy.
+﻿Nuvens Nebulosas são um grande destaque da galáxia. Vastas nuvens de gás e poeira espalham-se pela extensão da galáxia.
 
-[H3]Effect on Hyperspace Travel[/H3]
-Nebula clouds inhibit hyperspace travel, greatly slowing the jump speed of ships when inside them.
+[H3]Efeito sobre Viagens Hiperespaciais[/H3]
+Nuvens Nebulosas inibem viagens hiperespaciais, reduzindo significativamente a velocidade de salto das naves quando dentro delas.
 
-For this reason ships typically plot jump paths around nebulae instead of travelling directly through them.
+Por essa razão, as naves geralmente traçam rotas de salto ao redor das nebulosas em vez de viajar diretamente através delas.
 
-Thus nebulae form natural barriers that shape the galaxy.
+Assim, as nebulosas formam barreiras naturais que moldam a galáxia.
 
-[H3]Effect on Long Range Scanners[/H3]
-Long range scanners are inhibited by nebulae. Their scan range is greatly reduced when inside a nebulae.
+[H3]Efeito sobre Scanners de Longo Alcance[/H3]
+Scanners de longo alcance são inibidos por nebulosas. Seu alcance de varredura é grandemente reduzido quando dentro de uma nebulosa.
 
-Nebulae also act as a barrier that blocks scanning of objects on the other side. So you cannot see ships or bases on the other side of a nebula cloud. In other words, you cannot 'scan through' nebulae.
+Nebulosas também atuam como uma barreira que bloqueia a varredura de objetos do outro lado. Ou seja, você não pode 'varrer através' das nebulosas.
 
-[H2]Other Nebulae Effects[/H2]
-All nebula clouds slow hyperspace travel and inhibit sensors. However some nebulae also have other effects, as outlined below:
+[H2]Outros Efeitos das Nebulosas[/H2]
+Todas as nuvens nebular diminuem a velocidade das viagens hiperespaciais e inibem sensores. No entanto, algumas nebulosas também têm outros efeitos, conforme descrito abaixo:
 
-[H3]Galactic Storm[/H3]
-Galactic Storms are dangerous nebulae regions with periodic charged lightning strikes. They can inflict the following types of damage on ships or bases:
-[ULI]Standard Damage: 7 max (mitigate with Reactive Armor)[/ULI]
+[H3]Tempestade Galáctica[/H3]
+Tempestades Galácticas são regiões perigosas de nebulosas com raios carregados periodicamente. Elas podem infligir os seguintes tipos de danos em naves ou bases:
+[ULI]Dano Padrão: 7 máx. (mitigar com Armadura Reativa)[/ULI]
 
-[H3]Ion Storm[/H3]
-Ion Storms emit damaging ion radiation that can disable the components of unprotected ships or bases. They also have a constant energy drain, causing ships to expend more reactor power and thus more fuel.
-[ULI]Ion Damage: 4 max (mitigate with Ion Defense)[/ULI]
-[ULI]Energy Drain: -1/sec[/ULI]
+[H3]Tempestade de Íons[/H3]
+Tempestades de Íons emitem radiação íon danosa que pode desativar os componentes de naves ou bases desprotegidas. Elas também têm um dreno de energia constante, fazendo com que as naves consumam mais energia do reator e, portanto, mais combustível.
+[ULI]Dano de Íons: 4 máx. (mitigar com Defesa de Íons)[/ULI]
+[ULI]Dreno de Energia: -1/seg[/ULI]
 
-[H3]Gravitic Storm[/H3]
-Gravitic Storms emit intense bursts of gravitic energy that can damage or disable unprotected ships or bases. They also slow the speed of sub-light travel for any ships inside them. They have the following effects:
-[ULI]Ion Damage: 8 max (mitigate with Ion Defense)[/ULI]
-[ULI]Standard Damage: 5 max (mitigate with Reactive Armor)[/ULI]
-[ULI]Speed Modifier: -50%[/ULI]
+[H3]Tempestade Gravitacional[/H3]
+Tempestades Gravitacionais emitem intensas explosões de energia gravítica que podem danificar ou desativar naves ou bases desprotegidas. Elas também reduzem a velocidade de viagem subluz dentro delas. Elas têm os seguintes efeitos:
+[ULI]Dano de Íons: 8 máx. (mitigar com Defesa de Íons)[/ULI]
+[ULI]Dano Padrão: 5 máx. (mitigar com Armadura Reativa)[/ULI]
+[ULI]Modificador de Velocidade: -50%[/ULI]
 
-[H3]Radiation Zone[/H3]
-Radiation Zones are areas of intense radiation that drains energy and shields. They also greatly reduce the effectiveness of sensors.
-[ULI]Energy Drain: -15/sec[/ULI]
-[ULI]Sensors Disabled: -30[/ULI]
-[ULI]Shields Reduced: -6/sec[/ULI]
+[H3]Zona de Radiação[/H3]
+Zonas de Radiação são áreas de radiação intensa que drenam energia e escudos. Elas também reduzem significativamente a eficácia dos sensores.
+[ULI]Dreno de Energia: -15/seg[/ULI]
+[ULI]Sensores Desativados: -30[/ULI]
+[ULI]Escudos Reduzidos: -6/seg[/ULI]
 
-[H2]Nebulae Map Overlay[/H2]
-You can see the precise boundaries of nebula clouds by turning on the Nebulae map overlay. This overlay shows the outlines of all known nebulae.
+[H2]Sobreposição de Mapa de Nebulosas[/H2]
+Você pode ver os limites precisos das nuvens nebular ao ativar a sobreposição de mapa de Nebulosas. Esta sobreposição mostra os contornos de todas as nebulosas conhecidas.
 
-The nebulae markers are colored according to the type of nebulae:
-[ULI]Standard Nebulae: Grey[/ULI]
-[ULI]Galactic Storm: Orange[/ULI]
-[ULI]Ion Storm: Purple[/ULI]
-[ULI]Gravitic Storm: Green[/ULI]
-[ULI]Radiation Zone: Yellow[/ULI]
+Os marcadores de nebulosas são coloridos de acordo com o tipo de nebulosa:
+[ULI]Nebulosas Padrão: Cinza[/ULI]
+[ULI]Tempestade Galáctica: Laranja[/ULI]
+[ULI]Tempestade de Íons: Roxo[/ULI]
+[ULI]Tempestade Gravitacional: Verde[/ULI]
+[ULI]Zona de Radiação: Amarelo[/ULI]

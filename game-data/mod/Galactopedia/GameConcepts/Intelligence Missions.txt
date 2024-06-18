@@ -1,76 +1,76 @@
-Intelligence missions enable you to secretly infiltrate other empires and steal or destroy their assets.
+Missões de inteligência permitem que você infiltre secretamente outros impérios e roube ou destrua seus ativos.
 
-[H3]Spies[/H3]
-Spies are the highly-trained and skilled specialists that you use to accomplish these missions.
+[H3]Espiões[/H3]
+Espiões são especialistas altamente treinados e habilidosos que você usa para realizar essas missões.
 
-Spies become more skilled with each successful mission. The more skilled a spy is, the more difficult a mission they can take on.
+Os espiões se tornam mais habilidosos a cada missão bem-sucedida. Quanto mais habilidoso um espião é, mais difícil é a missão que ele pode executar.
 
-Conversely, it only takes one failed mission to get your spy killed or captured, so choose your missions wisely.
+Por outro lado, basta uma missão fracassada para que seu espião seja morto ou capturado, então escolha suas missões com sabedoria.
 
-[H3]Counter Intelligence[/H3]
-Counter-intelligence is also critical to protect your empire. You can assign spies to prevent enemy intelligence missions – they will actively seek out spies and saboteurs and report any discoveries to you. Counter-intelligence uses the Counter Espionage skill.
+[H3]Contra-Inteligência[/H3]
+A contra-inteligência também é crucial para proteger seu império. Você pode designar espiões para impedir missões de inteligência inimigas – eles procurarão ativamente por espiões e sabotadores e relatarão quaisquer descobertas a você. A contra-inteligência usa a habilidade de Contra-Espionagem.
 
-[H3]Diplomatic fallout[/H3]
-Beware of the negative fallout from botched intelligence missions – if another empire discovers your actions against them it will dramatically lower their estimation of your empire, and could even lead to war.
+[H3]Consequências Diplomáticas[/H3]
+Cuidado com as repercussões negativas de missões de inteligência fracassadas – se outro império descobrir suas ações contra eles, isso diminuirá drasticamente a estimativa deles em relação ao seu império, podendo até levar à guerra.
 
-[H2]Standard Mission Types[/H2]
-The following types of intelligence missions are available to all races and governments.
+[H2]Tipos de Missões Padrão[/H2]
+Os seguintes tipos de missões de inteligência estão disponíveis para todas as raças e governos.
 
-[H3]Sabotage Construction[/H3]
-Damages ships under construction at a spaceport or colony. Skills Used: Sabotage
+[H3]Sabotar Construção[/H3]
+Danifica naves em construção em um espaçoporto ou colônia. Habilidades Usadas: Sabotagem
 
-[H3]Destroy Base[/H3]
-Blow up a specific enemy base. The target base must be known to your empire.
+[H3]Destruir Base[/H3]
+Destrua uma base específica do inimigo. A base alvo deve ser conhecida por seu império.
 
-Larger bases are more difficult to destroy. Skills Used: Sabotage
+Bases maiores são mais difíceis de destruir. Habilidades Usadas: Sabotagem
 
-[H3]Steal Territory Map[/H3]
-Steal the territory map of another empire, revealing all of the colonized systems of that empire. Skills Used: Espionage
+[H3]Roubar Mapa de Território[/H3]
+Roubar o mapa de território de outro império, revelando todos os sistemas colonizados desse império. Habilidades Usadas: Espionagem
 
-[H3]Steal Operations Map[/H3]
-Display the locations of all ships and bases of another empire for a short time (approximately 30 seconds). Skills Used: Espionage
+[H3]Roubar Mapa de Operações[/H3]
+Exibir as localizações de todas as naves e bases de outro império por um curto período (aproximadamente 30 segundos). Habilidades Usadas: Espionagem
 
-[H3]Steal Research[/H3]
-Steal research information from another empire, giving you better tech for your ships and bases. Skills Used: Espionage
+[H3]Roubar Pesquisa[/H3]
+Roubar informações de pesquisa de outro império, proporcionando tecnologia melhorada para suas naves e bases. Habilidades Usadas: Espionagem
 
-[H3]Steal Galaxy Map[/H3]
-Steal the galaxy map of another empire, revealing all of the exploration of that empire. Skills Used: Espionage
+[H3]Roubar Mapa da Galáxia[/H3]
+Roubar o mapa da galáxia de outro império, revelando toda a exploração desse império. Habilidades Usadas: Espionagem
 
-[H3]Sabotage Colony[/H3]
-Cause a colony to lose some of its population and lower its development level. Skills Used: Sabotage
+[H3]Sabotar Colônia[/H3]
+Causar uma colônia a perder parte de sua população e reduzir seu nível de desenvolvimento. Habilidades Usadas: Sabotagem
 
-[H3]Incite Rebellion[/H3]
-Cause an empire to experience a revolution and change of government type. The new government type is difficult to predict – it may or may not be favorable to you. Skills Used: PsyOps
+[H3]Incitar Rebelião[/H3]
+Causar um império a experimentar uma revolução e mudança de tipo de governo. O novo tipo de governo é difícil de prever - pode ou não ser favorável a você. Habilidades Usadas: Operações Psicológicas
 
-[H3]Assassinate Character[/H3]
-Kill a character of another empire. The location of the target character must be known to your empire.
+[H3]Assassinar Personagem[/H3]
+Matar um personagem de outro império. A localização do personagem alvo deve ser conhecida por seu império.
 
-Enemy intelligence agents cannot be targeted by Assassination missions.
+Agentes de inteligência inimigos não podem ser alvo de missões de Assassinato.
 
-Leaders are especially difficult to assassinate. Ambassadors and Colony Governors are also more difficult to assassinate. Skills Used: Assassination
+Líderes são especialmente difíceis de assassinar. Embaixadores e Governadores de Colônia também são mais difíceis de assassinar. Habilidades Usadas: Assassinato
 
-[H3]Deep Cover[/H3]
-Infiltrate an empire, providing ongoing intelligence on their Galaxy Map and Operations Map, i.e. you can see all of their ships, bases and colonies.
+[H3]Cobertura Profunda[/H3]
+Infiltrar-se em um império, fornecendo inteligência contínua em seu Mapa da Galáxia e Mapa de Operações, ou seja, você pode ver todas as suas naves, bases e colônias.
 
-This mission type is ongoing – i.e. if successful, your agent remains in deep cover in the target empire until either you cancel their mission or your agent is detected by the other empire. Skills Used: Concealment
- 
-[H2]Other Mission Types[/H2]
-Most races and governments have access to the standard mission types above. However some races or governments may also provide access to the following additional missions.
+Este tipo de missão é contínuo - ou seja, se bem-sucedido, seu agente permanece em cobertura profunda no império alvo até que você cancele sua missão ou seu agente seja detectado pelo outro império. Habilidades Usadas: Ocultação
 
-[H3]Influence Empire Positively[/H3]
-Influence another faction's evaluation of a 3rd-party faction, making the target faction like the 3rd-party more. Skills Used: PsyOps
+[H2]Outros Tipos de Missões[/H2]
+A maioria das raças e governos tem acesso aos tipos de missões padrão acima. No entanto, algumas raças ou governos também podem fornecer acesso às seguintes missões adicionais.
 
-[H3]Influence Empire Negatively[/H3]
-Influence another faction's evaluation of a 3rd-party faction, making the target faction like the 3rd-party less. Skills Used: PsyOps
+[H3]Influenciar Império Positivamente[/H3]
+Influenciar a avaliação de outra facção de uma facção terceira, fazendo com que a facção alvo goste mais da terceira. Habilidades Usadas: Operações Psicológicas
 
-[H3]Capture Base[/H3]
-Capture a specific base of another empire.
+[H3]Influenciar Império Negativamente[/H3]
+Influenciar a avaliação de outra facção de uma facção terceira, fazendo com que a facção alvo goste menos da terceira. Habilidades Usadas: Operações Psicológicas
 
-The target base must be known to your empire. It must also either be in your territory or in unclaimed territory. Thus the base cannot be inside the target empire's territory (e.g. a spaceport at a colony).
+[H3]Capturar Base[/H3]
+Capturar uma base específica de outro império.
 
-Larger bases are more difficult to capture. Skills Used: Sabotage
+A base alvo deve ser conhecida por seu império. Também deve estar em seu território ou em território não reclamado. Portanto, a base não pode estar dentro do território do império alvo (por exemplo, um espaçoporto em uma colônia).
 
-[H3]Internal Stabilization[/H3]
-Reduces internal unrest from dissidents within your own empire. This is particularly useful in wartime, when your war weariness is getting high.
+Bases maiores são mais difíceis de capturar. Habilidades Usadas: Sabotagem
 
-When successful your empire will have reduced war weariness and corruption for 2 years. Skills Used: CounterEspionage
+[H3]Estabilização Interna[/H3]
+Reduz o descontentamento interno de dissidentes dentro de seu próprio império. Isso é particularmente útil em tempos de guerra, quando seu desgaste de guerra está alto.
+
+Quando bem-sucedida, seu império terá desgaste de guerra e corrupção reduzidos por 2 anos. Habilidades Usadas: ContraEspionagem

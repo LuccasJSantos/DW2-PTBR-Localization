@@ -1,21 +1,21 @@
-Galactic Wonders are great projects that you construct at your colonies. They provide unique bonuses to the colony, or even to your entire empire.
+Maravilhas Galácticas são grandes projetos que você constrói em suas colônias. Elas fornecem bônus únicos para a colônia ou até mesmo para todo o seu império.
 
-[H3]Wonders are Unique[/H3]
-For some wonders, only one of them can be built in the galaxy. The first empire to complete the wonder obtains its benefits - any other incomplete wonders of the same type are cancelled.
+[H3]As Maravilhas são Únicas[/H3]
+Para algumas maravilhas, apenas uma delas pode ser construída na galáxia. O primeiro império a completar a maravilha obtém seus benefícios - quaisquer outras maravilhas incompletas do mesmo tipo são canceladas.
 
-Other wonders can only be built once in each empire.
+Outras maravilhas só podem ser construídas uma vez em cada império.
 
-Wonders are a special type of planetary facility, and so they work in a similar way to facilities.
+Maravilhas são um tipo especial de instalação planetária, então funcionam de maneira semelhante às instalações.
 
-Before you can build a wonder you must first research it. Wonders cost money to build, and they also have ongoing maintenance costs.
+Antes de construir uma maravilha, você primeiro precisa pesquisá-la. As maravilhas têm custos para serem construídas e também têm custos contínuos de manutenção.
 
-Some wonders are unique to a particular alien race - it can only be built by them. These wonders may also be related to race-specific game victory conditions.
+Algumas maravilhas são exclusivas de uma raça alienígena específica - só podem ser construídas por eles. Essas maravilhas também podem estar relacionadas às condições de vitória específicas da raça.
 
-Some wonders are also considered to be scenic locations, and thus will attract tourism to any colony that has them.
+Algumas maravilhas também são consideradas locais cênicos e, portanto, atrairão turismo para qualquer colônia que as possua.
 
-[H3]Building and viewing Wonders[/H3]
-You can build wonders at a colony by selecting the colony in the Selection Panel and then clicking the green 'Build facilities' button. This will open a set of buttons with all of the planetary facilities that can be built at the colony, including any wonders.
+[H3]Construção e Visualização de Maravilhas[/H3]
+Você pode construir maravilhas em uma colônia selecionando a colônia no Painel de Seleção e clicando no botão verde 'Construir instalações'. Isso abrirá um conjunto de botões com todas as instalações planetárias que podem ser construídas na colônia, incluindo quaisquer maravilhas.
 
-You can see all of the facilities in your empire, including any wonders, in the Planetary Facilities list (Colonies section).
+Você pode ver todas as instalações em seu império, incluindo quaisquer maravilhas, na lista de Instalações Planetárias (seção de Colônias).
 
-For details on each wonder refer to the individual topics in the Planetary Facilities section.
+Para detalhes sobre cada maravilha, consulte os tópicos individuais na seção de Instalações Planetárias.

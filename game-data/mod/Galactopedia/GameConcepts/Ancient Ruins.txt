@@ -1,14 +1,14 @@
-As you explore the galaxy you may discover remnants of civilizations long past. These ruins are well worth investigating - they often contain useful information that can help your empire. If you are the first to encounter the ruins then your empire receives these benefits.
+À medida que você explora a galáxia, pode descobrir vestígios de civilizações há muito desaparecidas. Essas ruínas valem a pena serem investigadas - elas frequentemente contêm informações úteis que podem ajudar seu império. Se você for o primeiro a encontrar as ruínas, então seu império recebe esses benefícios.
 
-Ruins may also reveal secret knowledge, uncovering details about the galaxy�s history. At the very least they can point you in the right direction as you learn the truth about the past.
+As ruínas também podem revelar conhecimento secreto, desvendando detalhes sobre a história da galáxia. Pelo menos, elas podem apontar a direção certa enquanto você aprende a verdade sobre o passado.
 
-[H3]Bonuses from Ruins[/H3]
-Ancient ruins also often provide bonuses, such as research or scenery bonuses.
+[H3]Bônus das Ruínas[/H3]
+Ruínas antigas também costumam fornecer bônus, como bônus de pesquisa ou paisagem.
 
-Research bonuses can be obtained by building a Research Station at the planet. 
+Bônus de pesquisa podem ser obtidos construindo uma Estação de Pesquisa no planeta.
 
-Ruins sometimes have scenery bonuses, and thus will attract tourism to any colony that has them. If ruins are at an uninhabited planet or moon, then you can build a resort base there to allow tourism to the ruins.
+Ruínas às vezes têm bônus de paisagem e, portanto, atrairão turismo para qualquer colônia que as possua. Se as ruínas estiverem em um planeta ou lua desabitada, você pode construir uma base de resort lá para permitir o turismo às ruínas.
 
-To obtain any other types of bonus you must colonize the planet, if that is possible with your current tech.
+Para obter qualquer outro tipo de bônus, você deve colonizar o planeta, se isso for possível com sua tecnologia atual.
 
-Finally, remember that you may choose not to investigate all ruins that you encounter. Rumour has it that some ruins conceal items that are better left undisturbed...
+Por fim, lembre-se de que você pode optar por não investigar todas as ruínas que encontrar. Há rumores de que algumas ruínas escondem itens que é melhor deixar intocados...

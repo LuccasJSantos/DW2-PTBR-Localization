@@ -1,61 +1,61 @@
-Fleets allow you to group a number of military ships together and assign missions to the entire group. This is useful for coordinating large attacks on enemy targets.
+As frotas permitem agrupar um número de naves militares juntas e atribuir missões para todo o grupo. Isso é útil para coordenar grandes ataques a alvos inimigos.
 
-They have a home base that defines their center of operations. They also have an engagement range that defines the area they will engage enemy targets, in a radius out from their home base.
+Elas têm uma base principal que define seu centro de operações. Também têm um alcance de engajamento que define a área na qual irão atacar alvos inimigos, em um raio a partir de sua base principal.
 
-Your automated fleets will respond to intercept enemy attacks when there are insufficient forces to defend the target. The nearest available automated fleet will travel to the attack location and defend the target.
+Suas frotas automatizadas responderão interceptando ataques inimigos quando houver forças insuficientes para defender o alvo. A frota automatizada mais próxima disponível viajará até o local do ataque e defenderá o alvo.
 
-There are five types of fleets:
-[ULI]Attack: large fleets for major assaults against enemy targets like colonies or spaceports[/ULI]
-[ULI]Defense: used to guard important locations, and respond to enemy attacks within range[/ULI]
-[ULI]Raid: smaller fleets used to attack smaller targets like bases and other small fleets[/ULI]
-[ULI]Invasion: used to land lots of troops when invading enemy colonies[/ULI]
-[ULI]Manual: manually controlled fleet[/ULI]
+Existem cinco tipos de frotas:
+[ULI]Ataque: grandes frotas para assaltos principais contra alvos inimigos como colônias ou portos espaciais[/ULI]
+[ULI]Defesa: usadas para proteger locais importantes e responder a ataques inimigos dentro do alcance[/ULI]
+[ULI]Raid: frotas menores usadas para atacar alvos menores como bases e outras pequenas frotas[/ULI]
+[ULI]Invasão: usadas para desembarcar muitas tropas ao invadir colônias inimigas[/ULI]
+[ULI]Manual: frota controlada manualmente[/ULI]
 
-[H3]Creating New Fleets[/H3]
-You can create a new fleet in a number of different ways:
-[ULI]select multiple military ships in the main view by drag-selecting with the left mouse button held down or by ctrl-clicking each ship. Then click the 'Create New Fleet' button under the Selection Panel[/ULI]
-[ULI]select multiple ships in the Military Ships list by ctrl- and shift-clicking ships in the list. Then click the 'Create New Fleet' button under the Selection Panel[/ULI]
-[ULI]in the Fleet Templates screen, select the desired template and then click either the 'Form new fleet' or 'Build new fleet' buttons at the right[/ULI]
+[H3]Criando Novas Frotas[/H3]
+Você pode criar uma nova frota de várias maneiras diferentes:
+[ULI]selecione várias naves militares na visualização principal arrastando com o botão esquerdo do mouse pressionado ou clicando com Ctrl em cada nave. Em seguida, clique no botão 'Criar Nova Frota' abaixo do Painel de Seleção[/ULI]
+[ULI]selecione vários naves na lista de Naves Militares clicando com Ctrl e Shift nas naves da lista. Em seguida, clique no botão 'Criar Nova Frota' abaixo do Painel de Seleção[/ULI]
+[ULI]na tela de Modelos de Frota, selecione o modelo desejado e clique nos botões 'Formar nova frota' ou 'Construir nova frota' à direita[/ULI]
 
-You can also add individual ships to an existing fleet by selecting the ship and clicking the 'Join ship to fleet' button under the Selection Panel. This will popup a list of all fleets that can be joined. Select the fleet you want the ship to join by clicking on it from the list.
+Você também pode adicionar naves individuais a uma frota existente selecionando a nave e clicando no botão 'Juntar nave à frota' abaixo do Painel de Seleção. Isso abrirá uma lista de todas as frotas que podem ser unidas. Selecione a frota à qual deseja que a nave se una clicando nela na lista.
 
-[H3]Tactical Settings[/H3]
-Fleets have a full array of tactical settings that fine-tune how they operate. Open the tactical settings screen by selecting the fleet and clicking the 'Set Tactics' button at the far-right under the Selection Panel.
+[H3]Configurações Táticas[/H3]
+As frotas têm uma série completa de configurações táticas que ajustam como elas operam. Abra a tela de configurações táticas selecionando a frota e clicando no botão 'Definir Táticas' no canto direito sob o Painel de Seleção.
 
-Note that individual ships within a fleet also have their own tactical settings. You can tweak how the fleet and ship tactics interact in the section 'Fleet Ships - Tactical Overrides'.
+Note que as naves individuais dentro de uma frota também têm suas próprias configurações táticas. Você pode ajustar como as táticas da frota e da nave interagem na seção 'Naves da Frota - Anulações Táticas'.
 
-[H3]Fleet Engagement Range[/H3]
-Engagement Range is a very important fleet tactical setting. Using this you can control how far fleets will respond to threats.
+[H3]Alcance de Engajamento da Frota[/H3]
+O Alcance de Engajamento é uma configuração tática muito importante para as frotas. Usando isso, você pode controlar até que distância as frotas responderão às ameaças.
 
-Defense fleets will defend their home base and also respond to enemy attacks against any of our colonies or bases within its Engagement Range.
+Frotas de Defesa defenderão sua base principal e também responderão a ataques inimigos contra quaisquer de nossas colônias ou bases dentro de seu Alcance de Engajamento.
 
-Attack, Raid and Invasion fleets will attack their attack point and then any other enemy target within their Engagement Range. They will also respond to any threats or dangerous locations within the Engagement Range from their home base.
+Frotas de Ataque, Raid e Invasão atacarão seu ponto de ataque e então qualquer outro alvo inimigo dentro de seu Alcance de Engajamento. Elas também responderão a quaisquer ameaças ou locais perigosos dentro do Alcance de Engajamento a partir de sua base principal.
 
-[H3]Selecting fleets[/H3]
-There are four ways to select a fleet:
-[ULI]when zoomed out to system-level or greater your fleets appear as an large triangular icon with striped edges. Click the fleet icon to select it[/ULI]
-[ULI]when zoomed in to location-level, you can double-click any ship in the fleet to select the entire fleet[/ULI]
-[ULI]using the Control Center, open the Fleets list (shift-F11) and click the desired fleet[/ULI]
-[ULI]cycle all of your fleets by repeatedly pressing the F key[/ULI]
+[H3]Selecionando Frotas[/H3]
+Existem quatro maneiras de selecionar uma frota:
+[ULI]quando ampliado para o nível do sistema ou maior, suas frotas aparecem como um ícone triangular grande com bordas listradas. Clique no ícone da frota para selecioná-la[/ULI]
+[ULI]quando ampliado para o nível de localização, você pode dar um clique duplo em qualquer nave da frota para selecionar toda a frota[/ULI]
+[ULI]usando o Centro de Controle, abra a lista de Frotas (Shift-F11) e clique na frota desejada[/ULI]
+[ULI]ciclar todas as suas frotas pressionando repetidamente a tecla F[/ULI]
 
-When a fleet is selected you can assign missions to it in the same way you would assign missions to a single ship.
+Quando uma frota é selecionada, você pode atribuir missões a ela da mesma forma que atribuiria missões a uma única nave.
 
-[H3]Setting a Home Base[/H3]
-A fleet's home base is their center of operations. They will return here when they are not carrying out a mission.
+[H3]Definindo uma Base Principal[/H3]
+A base principal de uma frota é seu centro de operações. Elas retornarão aqui quando não estiverem realizando uma missão.
 
-The home base should have sufficient fuel for the entire fleet. Good candidates are spaceports, large colonies, or a fuel mining station. When you select a new fleet home base, stock levels will automatically order more fuel at the location.
+A base principal deve ter combustível suficiente para toda a frota. Bons candidatos são portos espaciais, colônias grandes ou uma estação de mineração de combustível. Quando você seleciona uma nova base principal para a frota, os níveis de estoque automaticamente ordenarão mais combustível no local.
 
-To set a fleet�s home base:
-[OLI]select the fleet[/OLI]
-[OLI]right-click and hold on the location of the new home base, which will popup a menu[/OLI]
-[OLI]click the menu option 'Set home base for (Fleet Name) to (Location)'[/OLI]
+Para definir a base principal de uma frota:
+[OLI]selecione a frota[/OLI]
+[OLI]clique com o botão direito e mantenha pressionado na localização da nova base principal, o que abrirá um menu[/OLI]
+[OLI]clique na opção de menu 'Definir base principal para (Nome da Frota) para (Localização)'[/OLI]
 
-[H3]Setting an Attack Point[/H3]
-Fleet attack points are the initial attack targets when a war begins with another empire.
+[H3]Definindo um Ponto de Ataque[/H3]
+Os pontos de ataque da frota são os alvos de ataque inicial quando uma guerra começa com outro império.
 
-This allows you to predefine your war attack plan, pre-positioning your fleets prior to the commencement of hostilities. When the war begins, your fleets will automatically head towards their attack points.
+Isso permite que você pré-defina seu plano de ataque de guerra, posicionando suas frotas antes do início das hostilidades. Quando a guerra começar, suas frotas automaticamente seguirão em direção aos seus pontos de ataque.
 
-To set a fleet attack point:
-[OLI]select the fleet[/OLI]
-[OLI]right-click and hold on the location for the attack point (should be a foreign base or colony), which will popup a menu[/OLI]
-[OLI]click the menu option 'Set attack point for (Fleet Name) to (Location)'[/OLI]
+Para definir um ponto de ataque para uma frota:
+[OLI]selecione a frota[/OLI]
+[OLI]clique com o botão direito e mantenha pressionado na localização do ponto de ataque (deve ser uma base estrangeira ou colônia), o que abrirá um menu[/OLI]
+[OLI]clique na opção de menu 'Definir ponto de ataque para (Nome da Frota) para (Localização)'[/OLI]

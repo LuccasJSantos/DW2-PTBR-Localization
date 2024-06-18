@@ -1,89 +1,89 @@
-Your relationship with other empires can take a number of forms, beginning with no contact, and progressing all the way through to defense treaties and operations map sharing.
+Seu relacionamento com outros impérios pode assumir várias formas, começando por nenhum contato, e avançando até tratados de defesa e compartilhamento de mapas de operações.
 
-You can have any number of treaties at the same time. For example, you can have a Non Aggression treaty, Free Trade agreement and Migration treaty at the same time.
+Você pode ter qualquer número de tratados ao mesmo tempo. Por exemplo, você pode ter um Non Aggression treaty, um Free Trade agreement e um Migration treaty ao mesmo tempo.
 
-However when war is declared all current treaties are cancelled.
+No entanto quando a guerra é declarada todos os tratados atuais são cancelados.
 
-The different treaty types are listed below:
+Os diferentes tipos de tratados estão listados abaixo:
 
 [H3]No relationship[/H3]
-This means that there is no special relationship between the two empires.
+Isso significa que não há um relacionamento especial entre os dois impérios.
  
 [H3]Non Aggression[/H3]
-The empires agree not to attack each others ships or bases.
+Os impérios concordam em não atacar as naves ou bases um do outro.
 
 [H3]Pirate Protection[/H3]
-Pirate factions may offer Pirate Protection treaties to empires. This means that the empire pays the pirates a monthly fee to avoid being attacked by them.
+Fações piratas podem oferecer tratados de Proteção Pirata aos impérios. Isso significa que o império paga aos piratas uma taxa mensal para evitar ser atacado por eles.
 
 [H3]Trade Agreements[/H3]
-The empires agree to trade resources between each other. Without a trade agreement there is no resource trading at all between the two empires.
+Os impérios concordam em negociar recursos entre si. Sem um acordo comercial não há negociação de recursos entre os dois impérios.
 
-There are 3 levels of trade agreement:
-[ULI][B]Restricted Trade:[/B] 50% trade fees. Gradually increasing bonus income on all trade up to maximum of 10%[/ULI]
-[ULI][B]Limited Trade:[/B] 20% trade fees. Gradually increasing bonus income on all trade up to maximum of 20%[/ULI]
-[ULI][B]Free Trade:[/B] no trade fees. Gradually increasing bonus income on all trade up to maximum of 30%[/ULI]
+Existem 3 níveis de acordo comercial:
+[ULI][B]Restricted Trade:[/B] 50% de taxas comerciais. Aumento gradual da renda de bônus em todas as negociações até um máximo de 10%[/ULI]
+[ULI][B]Limited Trade:[/B] 20% de taxas comerciais. Aumento gradual da renda de bônus em todas as negociações até um máximo de 20%[/ULI]
+[ULI][B]Free Trade:[/B] sem taxas comerciais. Aumento gradual da renda de bônus em todas as negociações até um máximo de 30%[/ULI]
 
 [H3]Territory Map Sharing[/H3]
-The two empires regularly swap territory maps, revealing the location of their colonized systems.
+Os dois impérios regularmente trocam mapas de território, revelando a localização de seus sistemas colonizados.
 
 [H3]Migration[/H3]
-The two empires agree to accept migrants between their colonies from each other.
+Os dois impérios concordam em aceitar migrantes entre suas colônias um do outro.
 
-Initiating a migration treaty requires the offerer to have an [WARN]ambassador assigned[/WARN] to the recipient's capital.
+Iniciar um tratado de migração requer que o ofertante tenha um [WARN]embaixador designado[/WARN] à capital do recipiente.
 
 [H3]Exploration[/H3]
-The two empires agree to allow exploration ships to operate freely within each others territory.
+Os dois impérios concordam em permitir que naves de exploração operem livremente dentro do território um do outro.
 
 [H3]Mining Rights[/H3]
-The two empires agree to allow the building on mining stations anywhere within each others territory.
+Os dois impérios concordam em permitir a construção de estações de mineração em qualquer lugar dentro do território um do outro.
 
-Initiating mining rights requires the offerer to have an [WARN]ambassador assigned[/WARN] to the recipient's capital.
+Iniciar direitos de mineração requer que o ofertante tenha um [WARN]embaixador designado[/WARN] à capital do recipiente.
 
 [H3]Galaxy Map Sharing[/H3]
-The two empires regularly swap galaxy maps, revealing all of their exploration data.
+Os dois impérios regularmente trocam mapas da galáxia, revelando todos os seus dados de exploração.
 
 [H3]Military Refuelling[/H3]
-The two empires agree to allow their fleets and military ships to refuel at each others bases and colonies.
+Os dois impérios concordam em permitir que suas frotas e naves militares se reabasteçam nas bases e colônias um do outro.
 
-Initiating military refuelling requires the offerer to have an [WARN]ambassador assigned[/WARN] to the recipient's capital.
+Iniciar o reabastecimento militar requer que o ofertante tenha um [WARN]embaixador designado[/WARN] à capital do recipiente.
 
 [H3]Research[/H3]
-The two empires agree to share a portion of their research output.
+Os dois impérios concordam em compartilhar uma parte de sua produção de pesquisa.
 
-This means that each empire gets 20% of the other empire's research output added to their own output when researching projects, enabling them to access new techs faster.
+Isso significa que cada império recebe 20% da produção de pesquisa do outro império adicionada à sua própria produção ao pesquisar projetos, permitindo-lhes acessar novas tecnologias mais rapidamente.
 
-Initiating a research treaty requires the offerer to have an [WARN]ambassador assigned[/WARN] to the recipient's capital.
+Iniciar um tratado de pesquisa requer que o ofertante tenha um [WARN]embaixador designado[/WARN] à capital do recipiente.
 
-[H3]Intelligence Sharing[/H3]
-The two empires agree to share intelligence data with each other. This means that the results of the following espionage missions are shared with the other empire:
-[ULI]Stealing Territory Map[/ULI]
-[ULI]Stealing Galaxy Map[/ULI]
-[ULI]Stealing Operations Map[/ULI]
+[H3]Compartilhamento de Inteligência[/H3]
+Os dois impérios concordam em compartilhar dados de inteligência um com o outro. Isso significa que os resultados das seguintes missões de espionagem são compartilhados com o outro império:
+[ULI]Roubo de Mapa de Território[/ULI]
+[ULI]Roubo de Mapa da Galáxia[/ULI]
+[ULI]Roubo de Mapa de Operações[/ULI]
 
-Initiating intelligence sharing requires the offerer to have an [WARN]ambassador assigned[/WARN] to the recipient's capital.
+Iniciar o compartilhamento de inteligência requer que o ofertante tenha um [WARN]embaixador designado[/WARN] à capital do recipiente.
 
-[H3]Defense[/H3]
-The two empires agree to defend each other in the event that another empire declares war on either party.
+[H3]Defesa[/H3]
+Os dois impérios concordam em se defender mutuamente no caso de outro império declarar guerra a qualquer das partes.
 
-Initiating a defense treaty requires the offerer to have an [WARN]ambassador assigned[/WARN] to the recipient's capital.
+Iniciar um tratado de defesa requer que o ofertante tenha um [WARN]embaixador designado[/WARN] à capital do recipiente.
 
-[H3]Operations Map Sharing[/H3]
-The two empires agree to share the location of all their units throughout the galaxy. This provides better shared visibility of enemy units and allows better coordination.
+[H3]Compartilhamento de Mapas de Operações[/H3]
+Os dois impérios concordam em compartilhar a localização de todas as suas unidades por toda a galáxia. Isso proporciona uma melhor visibilidade compartilhada das unidades inimigas e permite uma melhor coordenação.
 
-Initiating operations map sharing requires the offerer to have an [WARN]ambassador assigned[/WARN] to the recipient's capital.
+Iniciar o compartilhamento de mapas de operações requer que o ofertante tenha um [WARN]embaixador designado[/WARN] à capital do recipiente.
 
-[H3]War[/H3]
-Open warfare between two empires. Expect opportunistic attacks on outlying mining stations as well as coordinated attacks on your colonies along with ground invasions.
+[H3]Guerra[/H3]
+Guerra aberta entre dois impérios. Espere por ataques oportunistas em estações de mineração distantes, assim como ataques coordenados às suas colônias junto com invasões terrestres.
 
-War continues until both sides agree to end it. Empires will typically agree to end a war when they are pressed with heavy losses. Alternatively an empire’s populace may become weary of a long war and force an end to the fighting.
+A guerra continua até que ambos os lados concordem em terminá-la. Normalmente, os impérios concordam em encerrar uma guerra quando estão sofrendo pesadas perdas. Alternativamente, a população de um império pode ficar cansada de uma guerra prolongada e forçar o fim dos combates.
 
-[H3]Subjugated Vassal[/H3]
-When a war ends in a decisive victory the winner can demand that the loser become their subjugated vassal. Alternatively the loser can offer to become a vassal of the winner.
+[H3]Vassalo Subjugado[/H3]
+Quando uma guerra termina em uma vitória decisiva, o vencedor pode exigir que o perdedor se torne seu vassalo subjugado. Alternativamente, o perdedor pode oferecer-se para se tornar vassalo do vencedor.
 
-Subjugated vassals pay monthly tribute to their parent empire. They are also prohibited from engaging in their own independent diplomacy. Thus they cannot form treaties with any other faction.
+Vassalos subjugados pagam tributo mensal ao seu império dominante. Eles também são proibidos de realizar sua própria diplomacia independente. Portanto, eles não podem formar tratados com nenhuma outra facção.
 
-When an empire becomes a vassal it also automatically includes the following treaty types: Non Aggression, Free Trade, Galaxy Map Sharing, Military Refuelling, Defense.
+Quando um império se torna vassalo, ele automaticamente inclui os seguintes tipos de tratados: Non Aggression, Free Trade, Galaxy Map Sharing, Military Refuelling, Defense.
 
-When a vassal undertakes risky actions that could lead to war (attacking another empire, intelligence missions against another empire) they anger their parent empire and their tribute payments may increase.
+Quando um vassalo realiza ações arriscadas que poderiam levar à guerra (atacar outro império, missões de inteligência contra outro império), eles irritam seu império dominante e seus pagamentos de tributo podem aumentar.
 
-The only way for a vassal to free themselves from their parent is to declare war against their parent.
+A única maneira para um vassalo se libertar de seu império dominante é declarando guerra contra ele.

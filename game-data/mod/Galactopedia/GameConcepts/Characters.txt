@@ -1,57 +1,57 @@
-Characters are the people in the galaxy that rule empires, conduct diplomacy, command fleets, lead troops in battle, perform scientific research, design new technology and carry out espionage missions.
+Os personagens são as pessoas na galáxia que governam impérios, conduzem diplomacia, comandam frotas, lideram tropas em batalha, realizam pesquisas científicas, projetam novas tecnologias e realizam missões de espionagem.
 
-Each character has skills and traits that determine their strengths and weaknesses. Through their experiences and actions characters can acquire new skills and traits (both positive and negative), and also increase the level of their skills.
+Cada personagem possui habilidades e traços que determinam suas forças e fraquezas. Através de suas experiências e ações, os personagens podem adquirir novas habilidades e traços (tanto positivos quanto negativos) e também aumentar o nível de suas habilidades.
 
-Some characters initially have their traits and skill levels hidden. These will not be revealed until they are actually given a mission or other responsibility that uses those skills. These characters are considered �Untested�.
+Alguns personagens inicialmente têm seus traços e níveis de habilidade ocultos. Estes não serão revelados até que sejam realmente atribuídos a uma missão ou outra responsabilidade que use essas habilidades. Esses personagens são considerados "Não Testados".
 
-Character skills provide bonuses specific to the character�s role. Some examples:
-[ULI]Your empire Leader provides bonuses to your entire empire[/ULI]
-[ULI]Ambassadors provide bonuses to diplomatic relations with the foreign empire where they serve as ambassador[/ULI]
-[ULI]Fleet Admirals provide bonuses to all the ships in their fleet[/ULI]
-[ULI]Troop Generals provide bonuses to the troops they lead in battle at a colony[/ULI]
-[ULI]Scientists provide bonuses to the research station where they are[/ULI]
-[ULI]Spies use their various espionage-related skills to perform different types of intelligence missions[/ULI]
+As habilidades dos personagens fornecem bônus específicos para o papel do personagem. Alguns exemplos:
+[ULI]O Líder do seu império fornece bônus para todo o seu império[/ULI]
+[ULI]Embaixadores fornecem bônus para as relações diplomáticas com o império estrangeiro onde atuam como embaixadores[/ULI]
+[ULI]Almirantes da Frota fornecem bônus para todas as naves em sua frota[/ULI]
+[ULI]Generais de Tropas fornecem bônus para as tropas que lideram em batalha em uma colônia[/ULI]
+[ULI]Cientistas fornecem bônus para a estação de pesquisa onde estão[/ULI]
+[ULI]Espiões usam suas várias habilidades relacionadas à espionagem para realizar diferentes tipos de missões de inteligência[/ULI]
 
-[H3]How character skills apply to a Location[/H3]
-As outlined above, some characters provide bonuses to their current location, e.g. admirals provide ship bonuses to their fleet, scientists provide research bonuses to their research station.
+[H3]Como as habilidades dos personagens se aplicam a uma localização[/H3]
+Conforme delineado acima, alguns personagens fornecem bônus para sua localização atual, por exemplo, almirantes fornecem bônus de naves para sua frota, cientistas fornecem bônus de pesquisa para sua estação de pesquisa.
 
-When there are multiple characters at the same location (colony, ship, base or fleet) then their skills do not stack linearly. Instead subsequent characters apply their skills in a diminishing manner.
+Quando há vários personagens na mesma localização (colônia, nave, base ou frota), suas habilidades não se acumulam linearmente. Em vez disso, personagens subsequentes aplicam suas habilidades de maneira decrescente.
 
-Thus the best character skill for an area applies at 100% of it's value, but the next strongest character for that skill only applies 50% of their skill level for that area. The third strongest character then applies only 25% of their skill level for that area. Each subsequent character at the location halves the amount of their skill that is added to the total for that skill area.
+Assim, a melhor habilidade de um personagem para uma área se aplica a 100% do seu valor, mas o próximo personagem mais forte para essa habilidade aplica apenas 50% do seu nível de habilidade para essa área. O terceiro personagem mais forte aplica apenas 25% do seu nível de habilidade para essa área. Cada personagem subsequente na localização reduz pela metade a quantidade de sua habilidade que é adicionada ao total para essa área de habilidade.
 
-This means that is is often better to spread characters across multiple locations instead of concentrating them at a single location, e.g. have admirals and generals in multiple fleets, have scientists at multiple research stations, etc.
+Isso significa que muitas vezes é melhor distribuir personagens por várias localizações em vez de concentrá-los em uma única localização, por exemplo, ter almirantes e generais em várias frotas, ter cientistas em várias estações de pesquisa, etc.
 
-[H2]Character Types[/H2]
-[H3]Leaders[/H3]
-Your empire always has a leader. Your leaders skills and traits affect your entire empire.
+[H2]Tipos de Personagens[/H2]
+[H3]Líderes[/H3]
+Seu império sempre tem um líder. As habilidades e traços dos seus líderes afetam todo o seu império.
 
-Different government types have different ways of replacing leaders. Elected governments will generally hold elections and replace leaders peacefully.  Unelected governments replace leaders less often, but when change happens it can be quite disruptive.
+Diferentes tipos de governo têm diferentes maneiras de substituir líderes. Governos eleitos geralmente realizam eleições e substituem líderes pacificamente. Governos não eleitos substituem líderes com menos frequência, mas quando a mudança ocorre, pode ser bastante disruptiva.
 
-The bonuses generated by Leaders apply to your entire empire. Leaders are assigned to your Homeworld and are much less effective if not stationed at your capital.
+Os bônus gerados por Líderes se aplicam a todo o seu império. Líderes são designados para seu Mundo Natal e são muito menos eficazes se não estiverem estacionados em sua capital.
 
-Pirate factions have special Pirate Leaders. These characters combine the skills and traits of both Leaders and Fleet Admirals. Some Pirate Leaders will be better at leadership while others may be better as admirals. Pirate Leaders are usually based at the faction's pirate base.
+Facções piratas têm Líderes Piratas especiais. Esses personagens combinam as habilidades e traços de ambos Líderes e Almirantes de Frota. Alguns Líderes Piratas serão melhores em liderança, enquanto outros podem ser melhores como almirantes. Líderes Piratas geralmente estão baseados na base pirata da facção.
 
-[H3]Ambassadors[/H3]
-Ambassadors are skilled Diplomats that can help you keep your enemies calm and develop friends into full allies.
+[H3]Embaixadores[/H3]
+Embaixadores são diplomatas habilidosos que podem ajudá-lo a manter seus inimigos calmos e desenvolver amigos em aliados completos.
 
-In order to influence an alien faction with an Ambassador, you must discover the home world of that faction and then assign the Ambassador to that location.
+Para influenciar uma facção alienígena com um Embaixador, você deve descobrir o mundo natal dessa facção e então designar o Embaixador para essa localização.
 
-[H3]Scientists[/H3]
-These characters can boost your Research output at a single Spaceport or Research Station. Assign them to a Spaceport or Research Station to see their effects.
+[H3]Cientistas[/H3]
+Esses personagens podem aumentar sua produção de Pesquisa em um único Porto Espacial ou Estação de Pesquisa. Atribua-os a um Porto Espacial ou Estação de Pesquisa para ver seus efeitos.
 
-[H3]Fleet Admirals[/H3]
-These characters affect all the ships in a single fleet. Assign them to a Fleet to see their effects.
+[H3]Almirantes de Frota[/H3]
+Esses personagens afetam todos os naves em uma única frota. Atribua-os a uma Frota para ver seus efeitos.
 
-[H3]Troop Generals[/H3]
-These characters affect all troops at a colony or loaded onto a fleet. Assign them to a Fleet or a colony to see their effects.
+[H3]Generais de Tropas[/H3]
+Esses personagens afetam todas as tropas em uma colônia ou carregadas em uma frota. Atribua-os a uma Frota ou a uma colônia para ver seus efeitos.
 
-[H3]Spies[/H3]
-These characters have a variety of special missions. By default, they are assigned to Counter-Intelligence, which helps protect your empire against enemy spy missions. See the topic 'Intelligence Missions' for more information.
+[H3]Espiões[/H3]
+Esses personagens têm uma variedade de missões especiais. Por padrão, eles são atribuídos à Contrainteligência, o que ajuda a proteger seu império contra missões de espiões inimigos. Veja o tópico 'Missões de Inteligência' para mais informações.
 
-[H3]Character Survival[/H3]
-Characters can retire or perish due to a variety of causes. Keep your most valuable characters safe by making sure that they and the locations where they are assigned are protected from harm.
+[H3]Sobrevivência dos Personagens[/H3]
+Os personagens podem se aposentar ou perecer devido a uma variedade de causas. Mantenha seus personagens mais valiosos seguros, certificando-se de que eles e os locais onde estão designados estejam protegidos de danos.
 
-Characters may also be dismissed by using the Dismiss button on the Character Screen, but it may be some time before another character of the same type is generated. In most cases, it�s worth trying to develop the characters rather than dismissing them and hoping a more exceptional character comes along.
+Os personagens também podem ser dispensados usando o botão Dispensar na Tela de Personagens, mas pode demorar algum tempo antes que outro personagem do mesmo tipo seja gerado. Na maioria dos casos, vale a pena tentar desenvolver os personagens em vez de dispensá-los e esperar que apareça um personagem mais excepcional.
 
-[H3]New Character Generation[/H3]
-The player's actions influence what kind of new characters are most likely to be generated. Embarking on a major expansion of military ships is likely to generate a new Admiral. Similarly, convincing alien factions to sign new treaties may generate an Ambassador and a critical Research breakthrough may reveal a new Scientist.
+[H3]Geração de Novos Personagens[/H3]
+As ações do jogador influenciam o tipo de novos personagens que provavelmente serão gerados. Embarcar em uma grande expansão de naves militares provavelmente gerará um novo Almirante. Da mesma forma, convencer facções alienígenas a assinarem novos tratados pode gerar um Embaixador e uma descoberta de pesquisa crítica pode revelar um novo Cientista.

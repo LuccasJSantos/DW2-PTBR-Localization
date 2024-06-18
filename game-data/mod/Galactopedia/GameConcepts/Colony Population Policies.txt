@@ -1,36 +1,36 @@
-Population Policies provide control over which alien races you allow at your colonies.
+As Políticas de População fornecem controle sobre quais raças alienígenas você permite em suas colônias.
 
-These can be set in the Population Policy screen which pops out from the Selection Panel when one of your colonies is selected. Hover over the population policy icon at the far-right of the population row for the selected colony. Click the icon or the screen to lock it open.
+Elas podem ser configuradas na tela de Políticas de População, que aparece no Painel de Seleção quando uma de suas colônias é selecionada. Passe o mouse sobre o ícone de política de população na extremidade direita da linha de população da colônia selecionada. Clique no ícone ou na tela para mantê-la aberta.
 
-Each race you have met is listed, allowing you to set specific policies for every alien race at each colony.
+Cada raça que você encontrou está listada, permitindo que você defina políticas específicas para cada raça alienígena em cada colônia.
 
-You can apply the settings for the current colony to all colonies in your empire by clicking the button 'Apply this policy to all colonies'.
+Você pode aplicar as configurações da colônia atual a todas as colônias do seu império clicando no botão 'Aplicar esta política a todas as colônias'.
 
-The five different population policy settings are described below.
+As cinco diferentes configurações de políticas de população são descritas abaixo.
 
-[H3]Assimilate[/H3]
-Assimilate means to accept this race into your empire. This is the default setting.
+[H3]Assimilar[/H3]
+Assimilar significa aceitar essa raça em seu império. Esta é a configuração padrão.
 
-[H3]Do Not Accept[/H3]
-Do not allow migration of this race to the colony. This will prevent passenger ships from dropping off migrants from this race at the colony.
+[H3]Não Aceitar[/H3]
+Não permita a migração dessa raça para a colônia. Isso impedirá que naves de passageiros deixem migrantes dessa raça na colônia.
 
-[H3]Resettle[/H3]
-Actively migrate this race away from the colony to other colonies that will accept them. Passenger ships will pick up this race from the colony.
+[H3]Reassentar[/H3]
+Migre ativamente essa raça para fora da colônia para outras colônias que as aceitarão. As naves de passageiros recolherão essa raça da colônia.
 
-[H3]Enslave[/H3]
-Enslaves this race, forcing them into hard labor. When a race is enslaved at a colony it�s growth rate will be zero.
+[H3]Escravizar[/H3]
+Escraviza essa raça, forçando-a ao trabalho árduo. Quando uma raça é escravizada em uma colônia, sua taxa de crescimento será zero.
 
-For each race that you enslave, the corresponding empires of those races will take offense at your actions. The amount of offense is directly related to the population amount that you enslave.
+Para cada raça que você escravizar, os impérios correspondentes dessas raças se ofenderão com suas ações. A quantidade de ofensa está diretamente relacionada à quantidade de população que você escraviza.
 
-Enslavement also provides a bonus to the colony's economy. The amount of the bonus depends on the proportion of the total population that is enslaved, up to a maximum of 50% if all of the population is enslaved.
+A escravidão também fornece um bônus para a economia da colônia. O valor do bônus depende da proporção da população total que é escravizada, até um máximo de 50% se toda a população for escravizada.
 
-Note that when a race is enslaved it will never be used to establish a new colony, even if it is the most suitable race in your empire for the planet.
+Observe que, quando uma raça é escravizada, ela nunca será usada para estabelecer uma nova colônia, mesmo que seja a raça mais adequada do seu império para o planeta.
 
-[H3]Exterminate[/H3]
-Steadily eliminates this race at the colony, reducing their population until it reaches zero. When a race is being exterminated at a colony it�s growth rate will be zero.
+[H3]Exterminar[/H3]
+Elimina gradualmente essa raça na colônia, reduzindo sua população até que chegue a zero. Quando uma raça está sendo exterminada em uma colônia, sua taxa de crescimento será zero.
 
-For each race that you are exterminating, the corresponding empires of those races will take deep offense at your actions. The amount of offense is directly related to the population amount that you exterminate.
+Para cada raça que você está exterminando, os impérios correspondentes dessas raças se ofenderão profundamente com suas ações. A quantidade de ofensa está diretamente relacionada à quantidade de população que você extermina.
 
-Exterminating races will also negatively impact your empire's reputation � all other empire�s will be offended by your harsh actions.
+Exterminar raças também impactará negativamente a reputação do seu império - todos os outros impérios se ofenderão com suas ações severas.
 
-Note that when a race is being exterminated it will never be used to establish a new colony, even if it is the most suitable race in your empire for the planet.
+Observe que, quando uma raça está sendo exterminada, ela nunca será usada para estabelecer uma nova colônia, mesmo que seja a raça mais adequada do seu império para o planeta.

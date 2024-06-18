@@ -1,19 +1,19 @@
-A key objective of any war is to take and hold territory from your opponent. In this case your opponents territory primarily consists of their colonies.
+Um objetivo chave de qualquer guerra é tomar e manter território do seu oponente. Neste caso, o território do seu oponente consiste principalmente de suas colônias.
 
-Invading an enemy colony involves landing ground troops from your ships. Once landed your troops then battle it out with any defending troops of the other empire.
+Invasão de uma colônia inimiga envolve o desembarque de tropas terrestres de suas naves. Uma vez desembarcadas suas tropas então batalham com quaisquer tropas defensoras do outro império.
 
-Note that you can display a detailed animated view of ground battles by opening the Ground Report screen. To open this screen first select the colony in the Selection Panel, then click the Troops area in the Selection Panel.
+Observe que você pode exibir uma visão detalhada e animada das batalhas terrestres abrindo a tela de Relatório Terrestre. Para abrir esta tela primeiro selecione a colônia no Painel de Seleção, depois clique na área de Tropas no Painel de Seleção.
 
-[H3]Initiating an invasion[/H3]
-To initiate an invasion of an enemy colony, select one of your troop-carrying ships, or even an entire fleet. Then right-click on an enemy colony to attack it.
+[H3]Iniciando uma invasão[/H3]
+Para iniciar uma invasão de uma colônia inimiga, selecione uma de suas naves de transporte de tropas, ou até mesmo toda uma frota. Então clique com o botão direito em uma colônia inimiga para atacá-la.
 
-When ordering a fleet to invade, the fleet will check whether there are enough attacking troops at the location. The invasion will commence once enough troops (onboard transports) have arrived at the location.
+Ao ordenar uma frota para invadir, a frota verificará se há tropas de ataque suficientes na localização. A invasão começará assim que tropas suficientes (em transportes a bordo) chegarem ao local.
 
-Any ships carrying troops will then attempt to deploy them in an invasion.
+Qualquer nave transportando tropas tentará então desembarcá-las em uma invasão.
 
-[H3]Landing Process[/H3]
-To land your invasion troops requires your ships to get close to the colony. When they are within range the ships will launch troops on Assault Pods, which will then travel to the planetary surface.
+[H3]Processo de Aterrissagem[/H3]
+Para desembarcar suas tropas de invasão é necessário que suas naves se aproximem da colônia. Quando estiverem dentro do alcance, as naves lançarão tropas em Cápsulas de Assalto, que então viajarão até a superfície planetária.
 
-While they are travelling to the planet surface, Assault Pods are vulnerable to intercepting fire from enemy weapons and defending Planetary Defense troops. Any Planetary Shield at the colony will also damage the invading troops.
+Enquanto viajam até a superfície do planeta, as Cápsulas de Assalto são vulneráveis ao fogo interceptador de armas inimigas e tropas defensoras de Defesa Planetária. Qualquer Escudo Planetário na colônia também causará danos às tropas invasoras.
 
-Once your troops have landed on the planet the ground battle will commence.
+Assim que suas tropas pousarem no planeta, a batalha terrestre terá início.

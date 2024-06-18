@@ -1,20 +1,20 @@
-All ships require fuel to move around the galaxy. Fuel is a critical resource that allows your empire to expand.
+Todas as aves requerem combustível para se movimentar pela galáxia. O combustível é um recurso crítico que permite a expansão do seu império.
 
-The universal fuel resource is Caslon. This is a light blue gas found mainly at Gas Giant planets.
+O recurso universal de combustível é o Caslon. Trata-se de um gás azul claro encontrado principalmente em planetas Gas Giant.
 
-[H3]How fuel is used[/H3]
-Fuel is consumed by reactor components to generate raw energy. This energy is then used by all of the components on a ship or base that require it. This includes energy for engines and hyperdrives to move a ship. Other components that consume energy include: shields (when recharging), weapons, construction yards, and many others.
+[H3]Como o combustível é utilizado[/H3]
+O combustível é consumido pelos componentes do reator para gerar energia bruta. Essa energia é então utilizada por todos os componentes em uma nave ou base que a requerem. Isso inclui energia para motores e hyperdrives para mover uma nave. Outros componentes que consomem energia incluem: escudos (durante o recarregamento), armas, estaleiros de construção e muitos outros.
 
-[H3]Refuelling[/H3]
-Refuelling points are locations that are willing to sell fuel to the ships in your empire. This includes all friendly spaceports, colonies and fuel mining stations. This also includes independent colonies. The location of refuelling points are indicated by a blue circular icon next to the system name when zoomed out to the galaxy level.
+[H3]Abastecimento de Combustível[/H3]
+Os pontos de abastecimento são locais que estão dispostos a vender combustível para as naves do seu império. Isso inclui todos os portos espaciais amigáveis, colônias e estações de mineração de combustível. Isso também inclui colônias independentes. A localização dos pontos de abastecimento é indicada por um ícone circular azul ao lado do nome do sistema quando ampliado para o nível da galáxia.
 
-The current movement range of the selected ship is shown by a dashed yellow range circle that can be seen when zoomed out to the galaxy level. This helps you to visually gauge how far a ship can travel before it requires refuelling.
+O alcance atual de movimento da nave selecionada é mostrado por um círculo de alcance amarelo tracejado que pode ser visto quando ampliado para o nível da galáxia. Isso ajuda a visualizar visualmente até onde uma nave pode viajar antes de precisar de reabastecimento.
 
-The current jump range range of the selected ship is shown by a dashed orange range circle that can be seen when zoomed out to the galaxy level. This helps you to visually gauge how far a ship can travel in a single jump before it needs to exit hyperspace and initiate a new jump on the path to its destination.
+O alcance atual de salto da nave selecionada é mostrada por um círculo de alcance laranja tracejado que pode ser visto quando ampliado para o nível da galáxia. Isso ajuda a visualizar visualmente até onde uma nave pode viajar em um único salto antes de precisar sair do hiperespaço e iniciar um novo salto em direção ao seu destino.
 
-When a ship runs out of fuel it will automatically switch to using it�s emergency fuel supply. When using the emergency fuel supply the ship will move at one third of normal speed. The emergency fuel supply will last indefinitely, but you should refuel the ship to regain normal movement speeds.
+Quando uma ave fica sem combustível, ele automaticamente passará a utilizar seu suprimento de emergência de combustível. Ao usar o suprimento de emergência de combustível, a nave se moverá a um terço da velocidade normal. O suprimento de emergência de combustível durará indefinidamente, mas você deve reabastecer a ave para recuperar velocidades de movimento normais.
 
-[H3]Energy Collectors[/H3]
-Bases can typically supply most of their energy needs by using energy collector components. Energy collectors generate energy from the radiation of a nearby star, reducing the need for fuel.
+[H3]Coletores de Energia[/H3]
+Bases normalmente podem suprir a maioria de suas necessidades energéticas usando componentes de coleta de energia. Coletores de energia geram energia a partir da radiação de uma estrela próxima, reduzindo a necessidade de combustível.
 
-However energy collectors only operate while stationary, so they are typically only of use on immobile bases, or when a ship is idle.
+No entanto, coletores de energia só operam quando estacionários, então normalmente são úteis apenas em bases imóveis ou quando uma ave está ociosa.

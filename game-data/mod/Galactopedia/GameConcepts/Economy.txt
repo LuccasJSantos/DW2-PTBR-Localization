@@ -1,68 +1,68 @@
-Your empire consists of your colonies � worlds where you have a loyal population.
+Seu império consiste em suas colônias - mundos onde você possui uma população leal.
 
-[H3]State vs Private[/H3]
-The citizens of your colonies act independently from you and form your Private economy. They actively seek to improve their colonies and increase their wealth.
+[H3]Estado vs Privado[/H3]
+Os cidadãos de suas colônias agem de forma independente de você e formam sua economia Privada. Eles buscam ativamente melhorar suas colônias e aumentar sua riqueza.
 
-Thus these citizens seek out business opportunities trading in-demand goods between your colonies. When you have trade treaties with independent colonies and other empires, your citizens will also expand their trade activities to include these new opportunities.
+Assim, esses cidadãos procuram oportunidades de negócios negociando bens demandados entre suas colônias. Quando você tem tratados comerciais com colônias independentes e outros impérios, seus cidadãos também expandem suas atividades comerciais para incluir essas novas oportunidades.
 
-Hardy citizens will also form mining expeditions � using mining ships to extract valuable resources all over the explored galaxy and returning them to your spaceports for use.
+Cidadãos robustos também formam expedições de mineração - usando naves de mineração para extrair recursos valiosos por toda a galáxia explorada e trazê-los de volta para seus portos espaciais para uso.
 
-The population on each of your colonies will grow over time, eventually reaching a natural limit on each type of world. As the population grows it produces more income, providing a larger tax base to fund your empire.
+A população em cada uma de suas colônias crescerá ao longo do tempo, eventualmente atingindo um limite natural em cada tipo de mundo. Conforme a população cresce, ela produz mais renda, proporcionando uma base tributária maior para financiar seu império.
 
-A summary of your empire�s State and Private economies are displayed in the Empire Economy Screen (F2).
+Um resumo das economias Estatal e Privada de seu império é exibido na tela de Economia do Império (F2).
 
-The various types of Income and Expenses are explained in detail below:
+As várias formas de Renda e Despesas são explicadas detalhadamente abaixo:
 
-[H2]State Income[/H2]
-Your State economy is funded by several main sources of income outlined below:
+[H2]Renda Estatal[/H2]
+Sua economia Estatal é financiada por várias fontes principais de renda listadas abaixo:
 
-[H3]Colony Tax Revenue[/H3]
-You can directly adjust colony tax rates. This allows you to collect more revenue from each colony. However, the higher you raise taxes, the more evasion there will be � some of your citizens will find ways to avoid paying. Also, higher taxes lower colony happiness and wealth production.
+[H3]Receita de Impostos das Colônias[/H3]
+Você pode ajustar diretamente as taxas de imposto das colônias. Isso permite que você colete mais receita de cada colônia. No entanto, quanto mais alto você aumenta os impostos, maior será a evasão - alguns de seus cidadãos encontrarão maneiras de evitar o pagamento. Além disso, impostos mais altos reduzem a felicidade e a produção de riqueza das colônias.
 
-[H3]Ship Construction[/H3]
-Expanding your empire with new colonies stimulates demand for new freighters and mining ships from your private citizens. These ship purchases at your construction yards add more money to your state economy.
+[H3]Construção de Naves[/H3]
+Expandir seu império com novas colônias estimula a demanda por novos cargueiros e naves de mineração de seus cidadãos privados. Essas compras de naves em seus estaleiros adicionam mais dinheiro à sua economia estatal.
 
-[H3]Trade Transaction Fees[/H3]
-Fees are charged on each transaction at your spaceports and mining stations, earning income for your empire. Thus it is important to ensure free and safe trade to these locations. You should patrol your space ports and mining stations and chase away any threats such as pirates, aggressive space creatures or enemy empires.
+[H3]Taxas de Transação Comercial[/H3]
+Taxas são cobradas em cada transação em seus portos espaciais e estações de mineração, gerando renda para seu império. Portanto, é importante garantir um comércio livre e seguro para esses locais. Você deve patrulhar seus portos espaciais e estações de mineração e afastar quaisquer ameaças como piratas, criaturas espaciais agressivas ou impérios inimigos.
 
-[H3]Trade Bonus Income[/H3]
-When your empire has trade bonuses then you earn extra income on each transaction at your spaceports, colonies and mining stations.
+[H3]Renda de Bônus Comercial[/H3]
+Quando seu império tem bônus comerciais, você ganha renda extra em cada transação em seus portos espaciais, colônias e estações de mineração.
 
-Trade Income bonuses can come from certain government types. Some alien races also have natural trade bonuses. Some planetary facilities and wonders also provide trade bonuses.
+Bônus de renda comercial podem vir de certos tipos de governo. Algumas raças alienígenas também têm bônus naturais de comércio. Algumas instalações planetárias e maravilhas também fornecem bônus comerciais.
 
-[H3]Trade Agreements[/H3]
-You gain income when you form Trade Agreements with other empires. In this situation a percentage of the entire trade volume between the two empires is earned as bonus income by each empire. Over time the bonus percentage grows until it reaches a maximum limit.
+[H3]Acordos Comerciais[/H3]
+Você ganha renda ao formar Acordos Comerciais com outros impérios. Nessa situação, um percentual do volume total de comércio entre os dois impérios é obtido como renda de bônus por cada império. Ao longo do tempo, a porcentagem de bônus cresce até atingir um limite máximo.
 
-[H3]Tourism at Resorts[/H3]
-Your empires Resort Bases earn income when tourists travel to them.
+[H3]Turismo nos Resorts[/H3]
+Suas Bases de Resorts no império geram renda quando turistas viajam para elas.
 
-[H3]Economic Strategy[/H3]
-Thus your strategy for boosting state income should include the following:
-[ULI]Keep expanding your empire with new colonies � this stimulates trade and causes your private citizens to purchase more freighters and other ships[/ULI]
-[ULI]Ensure safe trade routes for freighters transporting goods to your colonies � higher level development at colonies means more tax income[/ULI]
-[ULI]Seek trade agreements with friendly empires to supplement your income. You reap bonus income from the total trade volume between your two empires[/ULI]
-[ULI]Build Resort Bases at locations with Scenery bonuses[/ULI]
+[H3]Estratégia Econômica[/H3]
+Portanto, sua estratégia para aumentar a renda estatal deve incluir o seguinte:
+[ULI]Continue expandindo seu império com novas colônias - isso estimula o comércio e faz com que seus cidadãos privados comprem mais cargueiros e outras naves[/ULI]
+[ULI]Garanta rotas comerciais seguras para cargueiros que transportam mercadorias para suas colônias - desenvolvimento de alto nível nas colônias significa mais receita tributária[/ULI]
+[ULI]Busque acordos comerciais com impérios amigáveis para complementar sua renda. Você obtém renda de bônus com o volume total de comércio entre seus dois impérios[/ULI]
+[ULI]Construa Bases de Resorts em locais com bônus de Cenário[/ULI]
 
-[H3]Regular Expenses[/H3]
-The state economy of your empire has three major regular expenses:
-[ULI]Maintenance costs for ships and bases[/ULI]
-[ULI]Maintenance costs for troops[/ULI]
-[ULI]Maintenance costs for planetary facilities[/ULI]
+[H3]Despesas Regulares[/H3]
+A economia estatal de seu império tem três grandes despesas regulares:
+[ULI]Custos de manutenção para naves e bases[/ULI]
+[ULI]Custos de manutenção para tropas[/ULI]
+[ULI]Custos de manutenção para instalações planetárias[/ULI]
 
-Maintenance costs can be controlled by carefully balancing the number of ships, troops and facilities in your empire. Only build ships that you need. Only recruit troops that you need. Only build facilities that you need.
+Os custos de manutenção podem ser controlados equilibrando cuidadosamente o número de naves, tropas e instalações em seu império. Construa apenas as naves que você precisa. Recrute apenas as tropas de que você precisa. Construa apenas as instalações de que você precisa.
 
-[H3]Excess Income and Funding Levels[/H3]
-It is also possible to allocate excess income to be spent in two important areas:
-[ULI]Colony Growth Funding: spend a portion of excess income to accelerate growth at your colonies[/ULI]
-[ULI]Research: spend a portion of excess income to accelerate Research speed[/ULI]
+[H3]Excesso de Renda e Níveis de Financiamento[/H3]
+Também é possível alocar o excesso de renda para ser gasto em duas áreas importantes:
+[ULI]Financiamento do Crescimento da Colônia: gaste uma parte do excesso de renda para acelerar o crescimento em suas colônias[/ULI]
+[ULI]Pesquisa: gaste uma parte do excesso de renda para acelerar a velocidade da pesquisa[/ULI]
 
-Examine the Empire Funding Levels screen for more details (shift-F2).
+Examine a tela de Níveis de Financiamento do Império para mais detalhes (shift-F2).
 
-[H3]Irregular Expenses[/H3]
-Other expenses are irregular and non-recurring:
-[ULI]State Ship Building: cost to build new state-owned ships and bases[/ULI]
-[ULI]Troop Recruitment: cost to recruit new troop units[/ULI]
-[ULI]Facility Construction: cost to build new planetary facilities and wonders[/ULI]
-[ULI]Resource Purchase from Other Empires: costs of buying resources from other empires[/ULI]
-[ULI]Tribute: this includes gifts to other empires and Pirate Protection fees[/ULI]
-[ULI]Fuel: fuel costs for you state-owned ships and bases[/ULI]
+[H3]Despesas Irregulares[/H3]
+Outras despesas são irregulares e não recorrentes:
+[ULI]Construção de Naves Estatais: custo para construir novas naves e bases estatais[/ULI]
+[ULI]Recrutamento de Tropas: custo para recrutar novas unidades de tropas[/ULI]
+[ULI]Construção de Instalações: custo para construir novas instalações planetárias e maravilhas[/ULI]
+[ULI]Compra de Recursos de Outros Impérios: custos para comprar recursos de outros impérios[/ULI]
+[ULI]Tributo: inclui presentes a outros impérios e taxas de Proteção Pirata[/ULI]
+[ULI]Combustível: custos de combustível para suas naves e bases estatais[/ULI]

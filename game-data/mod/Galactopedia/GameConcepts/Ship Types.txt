@@ -1,197 +1,197 @@
-﻿[H2]Military Ships[/H2]
-There are various types of military ships, as outlined below. Military ships often work well when formed together into fleets.
+﻿[H2]Naves Militares[/H2]
+Existem vários tipos de naves militares, conforme detalhado abaixo. As naves militares frequentemente funcionam bem quando formadas em frotas.
 
-[H3]Escort[/H3]
-Escorts are the first type of military ship you can build. They are the smallest type of military ship, and are lightly armed.
+[H3]Escolta[/H3]
+Escoltas são o primeiro tipo de nave militar que você pode construir. Elas são o menor tipo de nave militar e possuem armamento leve.
 
-Escorts can be used in early fleets, when no other types of military ship are available. But they are better suited to escorting civilian ships.
+Escoltas podem ser usadas em frotas iniciais, quando nenhum outro tipo de nave militar está disponível. No entanto, são mais adequadas para escoltar naves civis.
 
-[H3]Frigate[/H3]
-Frigates are fast and maneuverable military ships. They are often the most numerous type of military ship for an empire.
+[H3]Fragata[/H3]
+Fragatas são naves militares rápidas e manobráveis. Frequentemente são o tipo mais numeroso de nave militar para um império.
 
-They are the smallest ship that is well-suited to fleet operations. As part of a fleet they typically serve as pickets, providing the first line of defence against enemy attackers.
+Elas são as menores naves bem adaptadas para operações em frota. Como parte de uma frota, geralmente servem como sentinelas, proporcionando a primeira linha de defesa contra ataques inimigos.
 
-[H3]Destroyer[/H3]
-Destroyers are versatile military ships that can perform a number of tasks.
+[H3]Destróier[/H3]
+Destróieres são naves militares versáteis que podem desempenhar várias tarefas.
 
-Destroyers often serve as long-range missile or torpedo attackers that stand-off from targets, firing deadly salvoes.
+Destróieres frequentemente atuam como atacantes de mísseis ou torpedos de longo alcance que se mantêm à distância dos alvos, disparando salvas mortais.
 
-Some Destroyer hulls have hangar bays, allowing them to serve as small fighter carriers.
+Alguns cascos de destróieres possuem hangares, permitindo que sirvam como pequenos porta-caças.
 
-In large fleets Destroyers typically serve as close escorts, screening the larger capital ships from enemy attackers.
+Em frotas grandes, destróieres normalmente atuam como escoltas próximas, protegendo as grandes naves capitais contra ataques inimigos.
 
-[H3]Cruiser[/H3]
-Cruisers are large, well-armed warships.
+[H3]Cruzador[/H3]
+Cruzadores são naves de guerra grandes e bem armadas.
 
-With many weapon bays they have enough space to add extra weapon types, like Ion weapons and Bombard weapons.
+Com muitos compartimentos de armas, têm espaço suficiente para adicionar tipos adicionais de armas, como armas de íons e armas de bombardeio.
 
-Cruisers typically have multiple sensor bays, allowing long range scanners and other sensors.
+Cruzadores geralmente têm múltiplos compartimentos de sensores, permitindo scanners de longo alcance e outros sensores.
 
-They are thus able to serve as effective fleet flagships when there are no Battleships or Carriers available. 
+Portanto, são capazes de servir como eficazes naves capitais de frota quando não há Encouraçados ou Porta-Aviões disponíveis.
 
-Cruisers may also use hangar bays, allowing them to serve as small fighter carriers.
+Cruzadores também podem utilizar hangares, permitindo que sirvam como pequenos porta-caças.
 
-[H3]Battleship[/H3]
-Battleships are the largest type of military ship. They are heavily armed and defended.
+[H3]Encouraçado[/H3]
+Encouraçados são o maior tipo de nave militar. São pesadamente armados e defendidos.
 
-With many weapon bays they have enough space to add any weapon type, including Ion weapons, Bombard weapons, Area weapons and Tractor beams.
+Com muitos compartimentos de armas, têm espaço suficiente para adicionar qualquer tipo de arma, incluindo armas de íons, armas de bombardeio, armas de área e feixes de tração.
 
-They may also utilize HyperDeny components to prevent escape of fleeing enemy ships.
+Eles também podem utilizar componentes HyperDeny para impedir a fuga de naves inimigas em fuga.
 
-Their multiple sensor bays are typically filled with long range scanners, fleet targeting, fleet countermeasures and jump tracking sensors.
+Seus múltiplos compartimentos de sensores são tipicamente preenchidos com scanners de longo alcance, direcionamento de frota, contramedidas de frota e sensores de rastreamento de saltos.
 
-They are thus the prime choice to serve as fleet flagships.
+Portanto, são a escolha principal para servir como naves capitais de frota.
 
-Battleships may also choose to have fighter bays, thus serving as a carrier.
+Encouraçados também podem optar por ter hangares de caças, servindo assim como um porta-aviões.
 
-[H3]Carrier[/H3]
-Carriers are large warships designed to deploy large numbers of fighters. They may have weak weaponry, but compensate for this with their many fighter bays.
+[H3]Porta-Aviões[/H3]
+Porta-Aviões são grandes naves de guerra projetadas para implantar grandes números de caças. Podem ter armamento fraco, mas compensam isso com seus muitos hangares de caças.
 
-They work best in a fleet, being escorted by other military ships that can provide extra defense.
+Eles funcionam melhor em uma frota, sendo escoltados por outras naves militares que podem fornecer defesa adicional.
 
-Carriers may also utilize HyperDeny components to prevent escape of fleeing enemy ships.
+Porta-Aviões também podem utilizar componentes HyperDeny para impedir a fuga de naves inimigas em fuga.
 
-Their multiple sensor bays are typically filled with long range scanners, fleet targeting, fleet countermeasures and jump tracking sensors.
+Seus múltiplos compartimentos de sensores são tipicamente preenchidos com scanners de longo alcance, direcionamento de frota, contramedidas de frota e sensores de rastreamento de saltos.
 
-Carriers are thus a good choice to serve as fleet flagships.
+Portanto, os Porta-Aviões são uma boa escolha para servir como naves capitais de frota.
 
-[H3]Troop Transport[/H3]
-Troop Transports are specialized ships that move troops between your colonies. They also deploy troops for invasion of enemy colonies.
+[H3]Transportador de Tropas[/H3]
+Transportadores de Tropas são naves especializadas que movem tropas entre suas colônias. Também implantam tropas para invasão de colônias inimigas.
 
-They are heavily shielded and armored, but often carry only light weapons.
+Eles são fortemente blindados e armados, mas frequentemente carregam apenas armas leves.
 
-Troop Transports have 2 key components:
-[ULI]Troop Compartments that house troops while onboard the ship[/ULI]
-[ULI]Assault Pods that land the troops at the enemy colony[/ULI]
+Transportadores de Tropas têm 2 componentes principais:
+[ULI]Compartimentos de Tropas que abrigam tropas enquanto estão a bordo da nave[/ULI]
+[ULI]Cápsulas de Assalto que desembarcam as tropas na colônia inimiga[/ULI]
 
-Troop Transports are usually part of a full invasion fleet that includes other ships to attack enemy defensive installations at target colonies.
+Transportadores de Tropas geralmente fazem parte de uma frota de invasão completa que inclui outras naves para atacar instalações defensivas inimigas em colônias alvo.
 
-[H3]Fuel Tanker[/H3]
-Fuel Tankers replenish the fuel supplies of other ships.
+[H3]Nave Tanque de Combustível[/H3]
+Naves Tanque de Combustível reabastecem os suprimentos de combustível de outras naves.
 
-They can mine fuel from a natural source or load fuel from a spaceport or colony. They then seek out ships that need refuelling and transfer fuel to them.
+Elas podem extrair combustível de uma fonte natural ou carregar combustível de um espaçoporto ou colônia. Em seguida, procuram naves que precisam de reabastecimento e transferem o combustível para elas.
 
-Fuel Tankers do not need to dock with other ships to resupply them. Instead their Remote Fuel Transfer component allows them to refuel any ship once they get close to it.
+Naves Tanque de Combustível não precisam atracar com outras naves para reabastecê-las. Em vez disso, seu componente de Transferência Remota de Combustível permite que reabasteçam qualquer nave assim que se aproximarem dela.
 
-When Fuel Tankers are assigned to a fleet, they will focus their efforts on refuelling ships in their fleet.
+Quando Naves Tanque de Combustível são atribuídas a uma frota, elas focam seus esforços em reabastecer as naves de sua frota.
 
-This allows the fleet to have greater endurance, operating more effectively even when far from a friendly refuelling point.
+Isso permite que a frota tenha maior resistência, operando de forma mais eficaz mesmo quando longe de um ponto de reabastecimento amigável.
 
-[H2]Non-Military State-Owned Ships[/H2]
-There are 3 types of non-military state-owned ships, as outlined below.
+[H2]Naves Estatais Não-Militares[/H2]
+Existem 3 tipos de naves estatais não-militares, conforme detalhado abaixo.
 
-[H3]Exploration Ship[/H3]
-Exploration ships chart unknown areas of the galaxy. As they explore they reveal colonizable planets, uncover valuable resources and make contact with other empires.
+[H3]Nave de Exploração[/H3]
+Naves de Exploração mapeiam áreas desconhecidas da galáxia. Conforme exploram, revelam planetas colonizáveis, descobrem recursos valiosos e entram em contato com outros impérios.
 
-Early Exploration Ships may utilize Survey Modules that allow sending a survey party to unexplored locations. Surveying can be slow, but quite detailed.
+Naves de Exploração iniciais podem utilizar Módulos de Pesquisa que permitem enviar uma equipe de pesquisa para locais inexplorados. A pesquisa pode ser lenta, mas bastante detalhada.
 
-Later tech allows Exploration Ships to be equipped with powerful resource detection sensors for discovering valuable minerals.
+Tecnologias posteriores permitem que Naves de Exploração sejam equipadas com sensores potentes de detecção de recursos para descobrir minerais valiosos.
 
-These resource scanners are faster than surveying. However surveying may still be useful to explore deeper when you detect locations with hidden items.
+Esses scanners de recursos são mais rápidos que a pesquisa. No entanto, a pesquisa ainda pode ser útil para explorar mais profundamente quando você detecta locais com itens escondidos.
 
-Cycle through all of your Exploration ships using the X key, or Shift-X to cycle backwards.
+Para percorrer todas as suas naves de exploração, use a tecla X, ou Shift-X para percorrer para trás.
 
-[H3]Construction Ship[/H3]
-Construction Ships are mobile construction yards.
+[H3]Nave de Construção[/H3]
+Naves de Construção são estaleiros móveis.
 
-These large ships spend most of their time building bases at uninhabited planets and moons. These bases can include mining stations, research stations, resort bases and monitoring stations.
+Essas grandes naves passam a maior parte do tempo construindo bases em planetas e luas não habitados. Essas bases podem incluir estações de mineração, estações de pesquisa, bases de resort e estações de monitoramento.
 
-They can also be used to repair any abandoned ships or bases that you encounter.
+Elas também podem ser usadas para reparar quaisquer naves ou bases abandonadas que você encontrar.
 
-Before building a new base, Construction Ships must first load the resources required to build the base. So they will first travel to a spaceport to load the resources before heading to their build location.
+Antes de construir uma nova base, as Naves de Construção devem primeiro carregar os recursos necessários para construir a base. Assim, primeiro viajarão para um espaçoporto para carregar os recursos antes de seguir para o local de construção.
 
-[H3]Colony Ship[/H3]
-Colony ships allow you to colonize other planets, founding new worlds for your empire.
+[H3]Nave de Colonização[/H3]
+Naves de colonização permitem que você colonize outros planetas, fundando novos mundos para seu império.
 
-The ship is consumed when a new colony is established. The resources from the ship are used to give the colony a kickstart.
+A nave é consumida quando uma nova colônia é estabelecida. Os recursos da nave são utilizados para dar um pontapé inicial à colônia.
 
-Once a Colony Ship is built, it will load population from a nearby colony. These will serve as the colonists of the new world founded by the Colony Ship.
+Uma vez construída uma Nave de Colonização, ela carregará população de uma colônia próxima. Estes servirão como colonos do novo mundo fundado pela Nave de Colonização.
 
-At the start of the game you can only colonize planets that are very suitable, usually the native planet type for your race.
+No início do jogo, você só pode colonizar planetas que são muito adequados, geralmente o tipo de planeta nativo para sua raça.
 
-But as your research uncovers new technology you can progressively colonize more planets that were previously unsuitable.
+Mas conforme sua pesquisa descobre novas tecnologias, você pode colonizar progressivamente mais planetas que anteriormente eram inadequados.
 
-You can always colonize planets where there is an existing independent alien population, regardless of the type or suitability of the planet.
+Você sempre pode colonizar planetas onde há uma população alienígena independente existente, independentemente do tipo ou adequação do planeta.
 
-However in these situations the preexisting population will likely resist your colonization attempt, with the loss of your colony ship, and a black mark on your diplomatic reputation.
+No entanto, nessas situações, é provável que a população pré-existente resista à sua tentativa de colonização, resultando na perda de sua nave de colonização e em uma marca negativa em sua reputação diplomática.
 
-So before attempting to colonize an independent world you should first establish good relations with them by diplomatic gifts and trade treaties. Once they like you, your chance of colonization success will rise, and they may even invite you to colonize.
+Portanto, antes de tentar colonizar um mundo independente, você deve primeiro estabelecer boas relações com eles através de presentes diplomáticos e tratados comerciais. Uma vez que gostem de você, suas chances de sucesso na colonização aumentarão e eles podem até mesmo convidá-lo para colonizar.
 
-[H2]Civilian Ships[/H2]
-Civilian ships belong to the private citizens in your empire. They automatically go about their work without any input from you.
+[H2]Naves Civis[/H2]
+Naves civis pertencem aos cidadãos privados de seu império. Elas trabalham automaticamente sem qualquer intervenção sua.
 
-[H3]Mining Ship[/H3]
-Mining Ships are mobile resource extraction ships. They mine resources that are in high demand, returning them to your nearest space port.
+[H3]Nave de Mineração[/H3]
+Naves de Mineração são naves de extração de recursos móveis. Elas mineram recursos que estão em alta demanda, retornando-os ao seu porto espacial mais próximo.
 
-Mining ships work for your empire, but they are not yours. They belong to the private citizens in your empire.
+Naves de mineração trabalham para seu império, mas não são suas. Elas pertencem aos cidadãos privados de seu império.
 
-Thus you cannot assign missions to Mining ships.
+Portanto, você não pode atribuir missões às naves de mineração.
 
-[H3]Freighter[/H3]
-Freighters transport cargo between colonies, mining stations and space ports. They come in small, medium and large sizes.
+[H3]Cargueiro[/H3]
+Cargueiros transportam carga entre colônias, estações de mineração e portos espaciais. Eles vêm em tamanhos pequeno, médio e grande.
 
-Freighters work for your empire, but they are not yours. They belong to the private citizens in your empire. All transportation of goods in your empire is performed by private citizens.
+Cargueiros trabalham para seu império, mas não são seus. Eles pertencem aos cidadãos privados de seu império. Todo transporte de mercadorias em seu império é realizado por cidadãos privados.
 
-Thus you cannot assign missions to Freighters.
+Portanto, você não pode atribuir missões aos cargueiros.
 
-[H3]Passenger Ship[/H3]
-Passenger Ships transport migrants or tourists across the galaxy. They pick up passengers from colonies and transport them either to a new colony (for migration) or to a resort base (for tourism).
+[H3]Nave de Passageiros[/H3]
+Naves de Passageiros transportam migrantes ou turistas através da galáxia. Elas pegam passageiros das colônias e os transportam para uma nova colônia (para migração) ou para uma base de resort (para turismo).
 
-Passenger ships are privately owned and go about their business automatically.
+Naves de passageiros são de propriedade privada e conduzem seus negócios automaticamente.
 
-[H2]State-Owned Bases[/H2]
-[H3]Spaceport[/H3]
-Spaceports are bases that provide many important services for your empire. Spaceports must be built at a colony.
+[H2]Bases Estatais[/H2]
+[H3]Porto Espacial[/H3]
+Portos Espaciais são bases que fornecem muitos serviços importantes para seu império. Portos Espaciais devem ser construídos em uma colônia.
 
-They serve as a central point of trade for your empire. Mined resources are brought here by freighters and mining ships.
+Eles servem como um ponto central de comércio para seu império. Recursos minerados são trazidos aqui por cargueiros e naves de mineração.
 
-Spaceports also provide construction facilities for your empire. Both state and private ships are built here. When private citizens purchase freighters or other ships, your empire earns income.
+Portos Espaciais também fornecem instalações de construção para seu império. Tanto naves estatais quanto privadas são construídas aqui. Quando cidadãos privados compram cargueiros ou outras naves, seu império ganha renda.
 
-Spaceports also provide other vital functions:
-[ULI]Heavy weapons provide strong defense for the colony[/ULI]
-[ULI]Research facilities for your scientists and engineers[/ULI]
-[ULI]Bonuses that help keep the colony population happy: medical facilities and recreation centres[/ULI]
+Portos Espaciais também fornecem outras funções vitais:
+[ULI]Armas pesadas fornecem forte defesa para a colônia[/ULI]
+[ULI]Instalações de pesquisa para seus cientistas e engenheiros[/ULI]
+[ULI]Bônus que ajudam a manter a população da colônia feliz: instalações médicas e centros de recreação[/ULI]
 
-You should typically have a spaceport in most systems where you have colonies. Resources collected by mining ships, as well as excess resources at mining stations, are brought to your nearest spaceport. Thus having spaceports strategically spread throughout your empire decreases travel time for your freighters and improves efficiency.
+Você deve ter tipicamente um porto espacial na maioria dos sistemas onde você tem colônias. Recursos coletados por naves de mineração, bem como recursos excedentes em estações de mineração, são levados para seu porto espacial mais próximo. Assim, ter portos espaciais estrategicamente espalhados por todo o seu império diminui o tempo de viagem para seus cargueiros e melhora a eficiência.
 
-To cycle through all of your Spaceports use the Y key.
+Para percorrer todos os seus portos espaciais, use a tecla Y.
 
-[H3]Research Station[/H3]
-Research stations provide dedicated research facilities that unlock new technology for use by your empire.
+[H3]Estação de Pesquisa[/H3]
+Estações de pesquisa fornecem instalações dedicadas à pesquisa que desbloqueiam novas tecnologias para uso por seu império.
 
-They are usually built at special locations that provide research bonuses in a specific area. These research bonus locations are discovered through exploration.
+Elas são geralmente construídas em locais especiais que fornecem bônus de pesquisa em uma área específica. Esses locais de bônus de pesquisa são descobertos através da exploração.
 
-[H3]Resort Base[/H3]
-Resort Bases are specialized state-owned bases built at scenic locations throughout the galaxy. These are favored vacation destinations for tourists.
+[H3]Base de Resort[/H3]
+Bases de Resort são bases estatais especializadas construídas em locais cênicos por toda a galáxia. Estes são destinos de férias favoritos para turistas.
 
-Construction Ships build Resort Bases at any location deemed scenic enough. These locations could be ringed planets, black holes, neutron stars, or planets with unusual ruins or ancient monuments.
+Naves de Construção constroem Bases de Resort em qualquer local considerado suficientemente cênico. Esses locais podem ser planetas anelados, buracos negros, estrelas de nêutrons ou planetas com ruínas incomuns ou monumentos antigos.
 
-Passenger Ships transport tourists from wealthy colonies to Resort Bases. As tourists arrive at the resort, the empire that owns the resort earns income. Tourists will only choose to visit resorts where the scenery is sufficiently appealing. They also don’t like to travel too far. So build your resort bases at the most scenic locations that are reasonably close to large, wealthy colonies.
+Naves de Passageiros transportam turistas de colônias ricas para Bases de Resort. Conforme os turistas chegam ao resort, o império que possui o resort ganha renda. Os turistas só escolherão visitar resorts onde a paisagem seja suficientemente atraente. Eles também não gostam de viajar muito longe. Portanto, construa suas bases de resort nos locais mais cênicos que sejam razoavelmente próximos de colônias grandes e ricas.
 
-Resort Bases are typically lightly armed and defended, with enough firepower to fend off any marauding pirates or stray space creatures.
+Bases de Resort são tipicamente levemente armadas e defendidas, com poder de fogo suficiente para repelir piratas saqueadores ou criaturas espaciais errantes.
 
-[H3]Defensive Base[/H3]
-Defensive Bases are stationed in orbit around important colonies, providing powerful defense from any attackers.
+[H3]Base Defensiva[/H3]
+Bases Defensivas estão estacionadas na órbita de colônias importantes, proporcionando defesa poderosa contra quaisquer atacantes.
 
-They have a wide array of weapons and are strongly shielded and armored. They may also support star fighters for further defensive power.
+Elas têm uma ampla variedade de armas e são fortemente blindadas e armadas. Elas também podem apoiar caças estelares para mais poder defensivo.
 
-You may build multiple defensive bases at a single colony, turning it into a virtual fortress.
+Você pode construir várias bases defensivas em uma única colônia, transformando-a em uma fortaleza virtual.
 
-[H3]Monitoring Station[/H3]
-Monitoring Stations are bases that include long range scanner components for monitoring a wide area.
+[H3]Estação de Monitoramento[/H3]
+Estações de Monitoramento são bases que incluem componentes de scanner de longo alcance para monitorar uma ampla área.
 
-They can be used to spy on other empires systems, or to give you better visibility of enemy movements towards your territory.
+Elas podem ser usadas para espionar os sistemas de outros impérios ou para lhe dar melhor visibilidade dos movimentos inimigos em direção ao seu território.
 
-These bases are typically built in quiet systems that provide visibility of an enemy location.
+Essas bases são tipicamente construídas em sistemas tranquilos que fornecem visibilidade da localização de um inimigo.
 
-[H2]Civilian Bases[/H2]
-[H3]Mining Station[/H3]
-Mining Stations are fixed mining platforms built at resource-rich planets and moons. These stations extract resources at their location.
+[H2]Bases Civis[/H2]
+[H3]Estação de Mineração[/H3]
+Estações de Mineração são plataformas de mineração fixas construídas em planetas e luas ricas em recursos. Estas estações extraem recursos em sua localização.
 
-Freighters pick up extracted resources from mining stations, transporting their cargo to the appropriate destination.
+Cargueiros pegam os recursos extraídos das estações de mineração, transportando sua carga para o destino apropriado.
 
-Mining Stations are built by Construction Ships at resource-rich planets. Because they are purpose-built for their location, mining stations extract resources much faster than mobile mining ships.
+Estações de Mineração são construídas por Naves de Construção em planetas ricos em recursos. Por serem construídas para sua localização específica, as estações de mineração extraem recursos muito mais rapidamente do que naves de mineração móveis.
 
-Mining Stations should usually be patrolled by military ships to defend against pirate raids or aggressive space creatures.
+Estações de Mineração devem ser geralmente patrulhadas por naves militares para se defender contra ataques de piratas ou criaturas espaciais agressivas.
 
-Once the first mining station has been built at a planet or moon no others can be built there. However, if the planet or moon is subsequently colonized then the mining station will be removed. Colonies extract resources by themselves, without the need for mining stations or mining ships.
+Uma vez que a primeira estação de mineração tenha sido construída em um planeta ou lua, nenhuma outra pode ser construída lá. No entanto, se o planeta ou lua for subsequentemente colonizado, a estação de mineração será removida. As colônias extraem recursos por si mesmas, sem a necessidade de estações de mineração ou naves de mineração.
