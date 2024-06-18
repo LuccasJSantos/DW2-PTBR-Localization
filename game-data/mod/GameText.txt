@@ -10,7 +10,7 @@ Hive Raider		;Assaltante de Colmeia
 None		;Nenhum
 Escort		;Escolta
 Frigate		;Fragata
-Destroyer	;Destroyer
+Destroyer	;Destróier
 Cruiser		;Cruzador
 Capital Ship		;Nave Capital
 Planet Destroyer		;Destruidor de Planetas
