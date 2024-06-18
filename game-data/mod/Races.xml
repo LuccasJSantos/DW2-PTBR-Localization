@@ -1164,21 +1164,21 @@ Além das cidades subaquáticas, os Ackdarianos também habitam pequenas ilhas e
     </CharacterLastNames>
     <DefaultInfantryId>7</DefaultInfantryId>
     <Name>Teekan</Name>
-    <Description>Os Teekans são uma raça pequena, peluda e semelhante a roedores, com três olhos.
+    <Description>Os Teekanos são uma raça pequena, peluda e semelhante a roedores, com três olhos.
 
 Eles não veem valor em se lavar regularmente e, portanto, tendem a ter um odor.
 
-Os Teekans têm um interesse especial em acumular todo tipo de sucata mecânica, desmontando e reparando os itens que coletam. Eles têm pouca tecnologia que seja verdadeiramente original, mas ocasionalmente conseguem progredir ao ponto de se tornarem capazes de viajar pelo espaço.
+Os Teekanos têm um interesse especial em acumular todo tipo de sucata mecânica, desmontando e reparando os itens que coletam. Eles têm pouca tecnologia que seja verdadeiramente original, mas ocasionalmente conseguem progredir ao ponto de se tornarem capazes de viajar pelo espaço.
 
-Os Teekans são nascidos comerciantes, vendendo seus produtos com lucro em lugares distantes. Eles também são excelentes mineiros, explorando rapidamente quaisquer recursos naturais que descubram.
+Os Teekanos são nascidos comerciantes, vendendo seus produtos com lucro em lugares distantes. Eles também são excelentes mineiros, explorando rapidamente quaisquer recursos naturais que descubram.
 
 Apesar de serem bastante insulares, são muito pacíficos e fazem aliados muito leais caso você queira se tornar amigo deles.
 
-Os Teekans são semi-nômades; enquanto alguns vivem em assentamentos permanentes, muitos preferem viver em acampamentos temporários, migrando periodicamente para novos locais.
+Os Teekanos são semi-nômades; enquanto alguns vivem em assentamentos permanentes, muitos preferem viver em acampamentos temporários, migrando periodicamente para novos locais.
 
 As tribos nômades Teekan são obcecadas pela caça do Bakdur, também conhecido como a Lesma da Areia. À medida que os rebanhos de Bakdurs migram através dos desertos arenosos, os acampamentos Teekanos os seguem.
 
-Os Teekans habitam os vastos desertos dos planetas Deserto Arenoso, Deserto Rochoso e Savana Desértica.</Description>
+Os Teekanos habitam os vastos desertos dos planetas Deserto Arenoso, Deserto Rochoso e Savana Desértica.</Description>
     <ImageFilename>UserInterface/Races/Teekan</ImageFilename>
   </Race>
   <Race>
@@ -3018,7 +3018,7 @@ Os Zenox têm um interesse particular em registrar e preservar a história galá
 
 Eles também são excelentes contadores de histórias épicas. Eles utilizam seu vasto acervo de mitos e lendas antigas para criar histórias únicas e cativantes. Os Zenox afirmam ser guardiões de conhecimentos secretos da história galáctica, alguns dos quais revelam em suas histórias.
 
-Na verdade, algumas de suas pesquisas históricas levaram a afirmações não convencionais sobre o passado da galáxia. Uma dessas histórias afirma que todas as raças insetoides uma vez traíram o resto da galáxia para um invasor externo. No entanto, a maioria das outras raças alienígenas descarta essas conclusões como contos de fadas não comprovados.
+Na verdade, algumas de suas pesquisas históricas levaram a afirmações não convencionais sobre o passado da galáxia. Uma dessas histórias afirma que todas as raças insetóides uma vez traíram o resto da galáxia para um invasor externo. No entanto, a maioria das outras raças alienígenas descarta essas conclusões como contos de fadas não comprovados.
 
 A tecnologia dos Zenox inclui um componente de escudo avançado, o Megatron. Esses escudos poderosos proporcionam uma defesa potente às naves estelares e bases Zenox.
 
@@ -3736,15 +3736,15 @@ Os habitats naturais dos Dhayuts são retiros rochosos em planetas como Savana D
     <DefaultInfantryId>45</DefaultInfantryId>
     <Name>Gizurean</Name>
     <ImageFilename>UserInterface/Races/Gizurean</ImageFilename>
-    <Description>Os Gizureans são uma raça insetoide com quatro braços. Eles também podem voar curtas distâncias com suas pequenas asas.
+    <Description>Os Gizureanos são uma raça insetóide com quatro braços. Eles também podem voar curtas distâncias com suas pequenas asas.
 
-Eles são agressivos e antipáticos, embora não sejam muito inteligentes. Os Gizureans tendem a ser altamente beligerantes. Eles frequentemente fazem alegações inflamatórias sobre a superioridade de sua tribo, zombando e insultando ferozmente outras tribos. Isso leva a frequentes batalhas intertribais.
+Eles são agressivos e antipáticos, embora não sejam muito inteligentes. Os Gizureanos tendem a ser altamente beligerantes. Eles frequentemente fazem alegações inflamatórias sobre a superioridade de sua tribo, zombando e insultando ferozmente outras tribos. Isso leva a frequentes batalhas intertribais.
 
-Os Gizureans têm uma intensa aversão por outras raças alienígenas, especialmente as não insetoides. Esse traço torna muito difícil assimilar pacificamente os Gizureans em um império.
+Os Gizureanos têm uma intensa aversão por outras raças alienígenas, especialmente as não insetóides. Esse traço torna muito difícil assimilar pacificamente os Gizureanos em um império.
 
 Eles têm uma taxa de reprodução muito alta, e por isso seus impérios podem crescer e expandir rapidamente.
 
-Os Gizureans geralmente constroem suas cavernosas casas subterrâneas em áreas rochosas de planetas como Deserto Rochoso ou Deserto Arenoso, mas às vezes também podem ser encontrados em planetas como Savana Desértica ou Volcânicos.</Description>
+Os Gizureanos geralmente constroem suas cavernosas casas subterrâneas em áreas rochosas de planetas como Deserto Rochoso ou Deserto Arenoso, mas às vezes também podem ser encontrados em planetas como Savana Desértica ou Volcânicos.</Description>
   </Race>
   <Race>
     <RaceId>12</RaceId>
@@ -4097,19 +4097,19 @@ Os Ketarovs são geralmente encontrados em grandes comunidades que habitam as pl
     </StartingArtifactIds>
     <Name>Kiadian</Name>
     <ImageFilename>UserInterface/Races/Kiadian</ImageFilename>
-    <Description>Os Kiadians são uma raça humanoides altamente inteligente com crânios expandidos.
+    <Description>Os Kiadianos são uma raça humanoides altamente inteligente com crânios expandidos.
 
-Os Kiadians são astutos e sensatos. Eles avaliam cuidadosamente e planejam as repercussões potenciais de qualquer curso de ação que empreendem. Além disso, são conhecidos por serem aliados extremamente leais.
+Os Kiadianos são astutos e sensatos. Eles avaliam cuidadosamente e planejam as repercussões potenciais de qualquer curso de ação que empreendem. Além disso, são conhecidos por serem aliados extremamente leais.
 
-Os Kiadians são pensadores profundos com uma cultura de grande sutileza. Eles adoram ponderar as complexidades abstratas da matemática avançada. Além disso, são muito práticos: aplicam seu intelecto afiado para desenvolver tecnologia sofisticada.
+Os Kiadianos são pensadores profundos com uma cultura de grande sutileza. Eles adoram ponderar as complexidades abstratas da matemática avançada. Além disso, são muito práticos: aplicam seu intelecto afiado para desenvolver tecnologia sofisticada.
 
 Sua tecnologia avançada inclui o ECM ShadowGhost, um componente de contramedidas excepcionalmente capaz. Essas contramedidas poderosas tornam as naves estelares Kiadianas muito difíceis de serem alvejadas pelos inimigos, permitindo que evitem muitos disparos de armas inimigas.
 
 O código de honra Kiadiano é lendário: eles preferem morrer a quebrar sua palavra. Uma vez que um Kiadiano se compromete com um acordo, eles nunca o quebrarão.
 
-Eles também são uma raça muito orgulhosa e se regozijam em assumir missões impossíveis que geralmente terminam em derrota honrosa. Essa abordagem aparentemente irracional às vezes pode levar a realizações surpreendentes - os Kiadians lutam tenazmente em situações que outros considerariam sem esperança.
+Eles também são uma raça muito orgulhosa e se regozijam em assumir missões impossíveis que geralmente terminam em derrota honrosa. Essa abordagem aparentemente irracional às vezes pode levar a realizações surpreendentes - os Kiadianos lutam tenazmente em situações que outros considerariam sem esperança.
 
-Os habitats típicos dos Kiadians são as montanhas e planícies baixas de planetas Continentais ou de Floresta.</Description>
+Os habitats típicos dos Kiadianos são as montanhas e planícies baixas de planetas Continentais ou de Floresta.</Description>
   </Race>
   <Race>
     <RaceId>14</RaceId>
@@ -4655,21 +4655,21 @@ As comunidades Quamenos geralmente vivem em biodomos semissubmersos de alta tecn
     </StartingArtifactIds>
     <Name>Securan</Name>
     <ImageFilename>UserInterface/Races/Securan</ImageFilename>
-    <Description>Os Securans são uma raça humanoides de pele verde, notavelmente atraentes.
+    <Description>Os Securanos são uma raça humanoides de pele verde, notavelmente atraentes.
 
 Eles são amigáveis e também são aliados muito leais.
 
-Os Securans têm uma alta taxa de reprodução, o que permite que suas populações cresçam rapidamente.
+Os Securanos têm uma alta taxa de reprodução, o que permite que suas populações cresçam rapidamente.
 
 Eles se destacam nas artes cênicas, especialmente canto e dança. Também são músicos e compositores especializados.
 
-Os Securans têm uma tradição teatral altamente desenvolvida. Suas peças são repletas de drama e suspense. Atores e atrizes Securans são muito procurados por toda a galáxia, ocupando papéis principais em produções dramáticas. Grandes companhias de teatro Securanas atravessam a galáxia para se apresentar em várias localizações.
+Os Securanos têm uma tradição teatral altamente desenvolvida. Suas peças são repletas de drama e suspense. Atores e atrizes Securanos são muito procurados por toda a galáxia, ocupando papéis principais em produções dramáticas. Grandes companhias de teatro Securanas atravessam a galáxia para se apresentar em várias localizações.
 
 Eles também têm um interesse apaixonado pela culinária e pelo prazer de comer. Apreciar boa comida e o excelente vinho Securan é uma parte central de sua cultura.
 
-Os Securans são muito hospitaleiros e sempre recebem visitantes de outros mundos com grandes banquetes que apresentam toda a sua excelente culinária.
+Os Securanos são muito hospitaleiros e sempre recebem visitantes de outros mundos com grandes banquetes que apresentam toda a sua excelente culinária.
 
-Os Securans habitam as vastas planícies abertas de planetas de Desert Savanna, Sandy Desert ou Rocky Desert.</Description>
+Os Securanos habitam as vastas planícies abertas de planetas de Desert Savanna, Sandy Desert ou Rocky Desert.</Description>
   </Race>
   <Race>
     <RaceId>17</RaceId>
@@ -4995,7 +4995,7 @@ Embora frequentemente se dediquem à mineração de gemas, geralmente têm pouco
     </CharacterLastNames>
     <Name>Sluken</Name>
     <ImageFilename>UserInterface/Races/Sluken</ImageFilename>
-    <Description>Os Sluken são uma raça insetoide curta com um espesso exoesqueleto marrom cobrindo seus corpos. Eles possuem vários pequenos antebraços que lhes permitem realizar múltiplas ações simultaneamente.
+    <Description>Os Sluken são uma raça insetóide curta com um espesso exoesqueleto marrom cobrindo seus corpos. Eles possuem vários pequenos antebraços que lhes permitem realizar múltiplas ações simultaneamente.
 
 Os Sluken são muito agressivos e inteligentes. Um tema central em seus costumes envolve uma reverência mórbida pela morte.
 
