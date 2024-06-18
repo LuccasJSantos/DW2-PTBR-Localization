@@ -10,30 +10,30 @@ Hive Raider		;Assaltante de Colmeia
 None		;Nenhum
 Escort		;Escolta
 Frigate		;Fragata
-Destroyer	;Destruidor
+Destroyer	;Destroyer
 Cruiser		;Cruzador
 Capital Ship		;Nave Capital
 Planet Destroyer		;Destruidor de Planetas
-Carrier		;Porta-aviões
-Troop Transport		;Transporte de Tropas
+Carrier		;Porta-naves
+Troop Transport		;Transporte Tropas
 Freighter		;Cargueiro
 Small Freighter		;Cargueiro Pequeno
 Medium Freighter		;Cargueiro Médio
 Large Freighter		;Cargueiro Grande
 Mining Ship		;Nave de Mineração
-Fuel Tanker		;Nave Tanque de Combustível
+Fuel Tanker		;Nave Tanker
 Construction Ship		;Nave de Construção
 Exploration Ship		;Nave de Exploração
 Passenger Ship		;Nave de Passageiros
-Colony Ship		;Nave Colonizadora
+Colony Ship		;Nave de Colônia
 Spaceport		;Porto Espacial
-Small Spaceport		;Porto Espacial Pequeno
-Medium Spaceport		;Porto Espacial Médio
-Large Spaceport		;Porto Espacial Grande
-Mining Station		;Estação de Mineração
+Small Spaceport		;Porto Esp. Pequeno
+Medium Spaceport		;Porto Esp. Médio
+Large Spaceport		;Porto Esp. Grande
+Mining Station		;Estação Mineração
 Defensive Base		;Base Defensiva
 Research Station		;Estação de Pesquisa
-Monitoring Station		;Estação de Monitoramento
+Monitoring Station		;Estação de Vigia
 Resort Base		;Base de Resort
 Interceptor		;Interceptor
 Bomber		;Bombardeiro
@@ -827,53 +827,53 @@ EngineMainMaximumThrustEnergyUsage		;Uso Máximo de Energia do Empuxo do Motor P
 EngineVectoringEnergyUsage		;Uso de Energia do Vetor do Motor
 EngineVectoringThrust		;Empuxo do Vetor do Motor
 ExtractionRate		;Taxa de Extração
-ExtractionRangeAsteroid		;Alcance de Extração para Asteroides
-RemoteFuelTransferRate		;Taxa de Transferência de Combustível Remoto
-RemoteFuelTransferRange		;Alcance de Transferência de Combustível Remoto
+ExtractionRangeAsteroid		;Alcance de Mineração
+RemoteFuelTransferRate		;Taxa de Transf. de Combustível
+RemoteFuelTransferRange		;Alcance de Transf. de Combustível
 FighterBayBuildRate		;Taxa de Construção de Caças
-FighterBayCapacity		;Capacidade do Hangar de Caças
+FighterBayCapacity		;Espaço do Hangar de Caças
 FighterBayRepairRate		;Taxa de Reparo do Hangar de Caças
-FuelStorageCapacity		;Capacidade de Armazenamento de Combustível
+FuelStorageCapacity		;Espaço de Armazenamento de Combustível
 HyperDenyEnergyUsage		;Uso de Energia do HyperDeny
 HyperDenyRange		;Alcance do HyperDeny
 HyperDenyStrength		;Força do HyperDeny
-HyperDriveBlockingInsulation		;Isolamento de Bloqueio do HyperDrive
+HyperDriveBlockingInsulation		;Isolamento de Bloqueio
 HyperDriveEnergyUsage		;Uso de Energia do HyperDrive
-HyperDriveJumpInitiationTime		;Tempo de Iniciação do Salto do HyperDrive
-HyperDriveJumpRange		;Alcance de Salto do HyperDrive
-HyperDriveJumpAccuracy		;Precisão do Salto do HyperDrive
-HyperDriveRechargeTime		;Tempo de Recarga do HyperDrive
+HyperDriveJumpInitiationTime		;Tempo de Início do Salto
+HyperDriveJumpRange		;Alcance de Salto
+HyperDriveJumpAccuracy		;Precisão do Salto
+HyperDriveRechargeTime		;Tempo de Recarga
 HyperDriveSpeed		;Velocidade do HyperDrive
 HyperStopRange		;Alcance do HyperStop
 HyperStopStrength		;Força do HyperStop
 IonDamageDefense		;Defesa Contra Danos de Íons
 MedicalRating		;Classificação Médica
 PassengerCapacity		;Capacidade de Passageiros
-ReactorEnergyOutputPerSecond		;Saída de Energia do Reator por Segundo
-ReactorEnergyStorageCapacity		;Capacidade de Armazenamento de Energia do Reator
+ReactorEnergyOutputPerSecond		;Saída de Energia do Reator
+ReactorEnergyStorageCapacity		;Capacidade do Reator
 ReactorFuelResourceId		;Recurso de Combustível do Reator
 ReactorFuelUnitsForFullCharge		;Unidades de Combustível para Carga Completa
 ReactorFuelEnergyRatio		;Proporção de Combustível para Energia
 RecreationRating		;Classificação de Recreação
-ResearchLabOutput		;Produção do Laboratório de Pesquisa
-ScannerEmpireMaskingPower		;Poder de Camuflagem do Império do Scanner
-ScannerExplorationPower		;Poder de Exploração do Scanner
-ScannerExplorationSurveyAmount		;Quantidade de Levantamento de Exploração do Scanner
-ScannerExplorationSurveyMaximumLevel		;Nível Máximo de Levantamento de Exploração do Scanner
-ScannerExplorationSurveyTime		;Tempo de Levantamento de Exploração do Scanner
-ScannerExplorationTime		;Tempo de Exploração do Scanner
-ScannerExplorationRange		;Alcance de Exploração do Scanner
-ScannerJammingPower		;Poder de Interferência do Scanner
-ScannerJumpTrackingChance		;Chance de Rastreamento de Salto do Scanner
+ResearchLabOutput		;Produção do Lab. de Pesquisa
+ScannerEmpireMaskingPower		;Poder de Camuflagem do Império
+ScannerExplorationPower		;Poder de Exploração
+ScannerExplorationSurveyAmount		;Quantidade de Busca
+ScannerExplorationSurveyMaximumLevel		;Nível Máximo de Busca
+ScannerExplorationSurveyTime		;Tempo de Busca
+ScannerExplorationTime		;Tempo de Exploração
+ScannerExplorationRange		;Alcance de Exploração
+ScannerJammingPower		;Poder de Interferência (Scanner)
+ScannerJumpTrackingChance		;Rastreamento de Salto
 ScannerLongRange		;Alcance Longo do Scanner
-ScannerLongRangePower		;Poder de Alcance Longo do Scanner
-ScannerRoleMaskingPower		;Poder de Camuflagem do Papel do Scanner
-ScannerTracePower		;Poder de Rastreamento do Scanner
-ScannerTraceRange		;Alcance de Rastreamento do Scanner
+ScannerLongRangePower		;Poder de Alcance Longo
+ScannerRoleMaskingPower		;Poder de Camuflagem de Função
+ScannerTracePower		;Poder de Rastreamento
+ScannerTraceRange		;Alcance de Rastreamento
 ShieldPenetrationChance		;Chance de Penetração de Escudo
 ShieldPenetrationRatio		;Proporção de Penetração de Escudo
 ShieldRechargeRate		;Taxa de Recarga de Escudo
-ShieldRechargeEnergyUsage		;Uso de Energia na Recarga de Escudo
+ShieldRechargeEnergyUsage		;Energia p/ Recarga do Escudo
 ShieldResistance		;Resistência de Escudo
 ShieldStrength		;Força do Escudo
 StaticEnergyUsed		;Energia Estática Utilizada
@@ -1032,7 +1032,7 @@ BonusType TroopGroundDefense		;Força de Defesa Terrestre de Tropas
 BonusType TroopMaintenance		;Economia de Manutenção de Tropas
 BonusType TroopRecoveryRate		;Taxa de Recuperação de Tropas
 BonusType TroopRecruitment		;Taxa de Recrutamento de Tropas
-BonusType WarWearinessReduction		;Redução do Cansaço de Guerra
+BonusType WarWearinessReduction		;Redução da Fadiga de guerra
 BonusType WeaponsDamage		;Aumento de Dano de Armas
 BonusType WeaponsRange		;Aumento de Alcance de Armas
 BonusType BoardingAssault		;Força de Abordagem
@@ -1255,58 +1255,58 @@ Are you sure you want to pay these costs to initiate crash research for this pro
 Initiate Crash Research		;Iniciar Pesquisa de Emergência
 Click to explore the Research Tree		;Clique para explorar a Árvore de Pesquisa
 
-ComponentCategory AreaShieldRecharge Short		;Recarga de Escudo de Área (SRC)
-ComponentCategory Armor Short		;Armadura (ARM)
-ComponentCategory AssaultPod Short		;Cápsula de Assalto (ASP)
-ComponentCategory CargoBay Short		;Baía de Carga (CRG)
-ComponentCategory Colonization Short		;Colonização (CLN)
-ComponentCategory CommandCenter Short		;Centro de Comando (CMD)
-ComponentCategory CommerceCenter Short		;Centro de Comércio (CMC)
-ComponentCategory Construction Short		;Construção (CST)
-ComponentCategory Countermeasures Short		;Contramedidas (CMS)
-ComponentCategory CountermeasuresFleet Short		;Contramedidas de Frota (CMF)
-ComponentCategory CrewQuarters Short		;Alojamento da Tripulação (CRW)
-ComponentCategory DamageControl Short		;Controle de Danos (DMG)
-ComponentCategory DockingBay Short		;Baía de Aterrissagem (DCK)
-ComponentCategory EnergyCollector Short		;Coletor de Energia (ECL)
-ComponentCategory EnergyToFuel Short		;Energia para Combustível (E2F)
-ComponentCategory Engine Short		;Motor (ENG)
-ComponentCategory EngineVectoring Short		;Vectorização de Motor (VCT)
-ComponentCategory Extractor Short		;Extrator (MNG)
-ComponentCategory RemoteFuelTransfer Short		;Transferência Remota de Combustível (RFT)
-ComponentCategory FighterBay Short		;Baía de Caças (FTR)
-ComponentCategory FuelStorage Short		;Armazenamento de Combustível (FUE)
-ComponentCategory HyperBlock Short		;Bloqueio Hiperespacial (HYB)
-ComponentCategory HyperDeny Short		;Negador Hiperespacial (HYD)
-ComponentCategory HyperDrive Short		;Hiperpropulsor (HDV)
-ComponentCategory IonDefense Short		;Defesa Iônica (ION)
-ComponentCategory MedicalCenter Short		;Centro Médico (MED)
-ComponentCategory PassengerCompartment Short		;Compartimento de Passageiros (PAS)
-ComponentCategory Reactor Short		;Reator (RCT)
-ComponentCategory RecreationCenter Short		;Centro de Recreação (REC)
-ComponentCategory ResearchLab Short		;Laboratório de Pesquisa (RSR)
-ComponentCategory ScannerEmpireMasking Short		;Mascaramento de Império por Scanner (EMK)
-ComponentCategory ScannerExploration Short		;Exploração por Scanner (EXP)
-ComponentCategory ScannerExplorationSurvey Short		;Levantamento de Exploração por Scanner (SRV)
-ComponentCategory ScannerJammer Short		;Interferidor de Scanner (SJM)
-ComponentCategory ScannerJumpTracking Short		;Rastreamento de Salto por Scanner (JMP)
-ComponentCategory ScannerLongRange Short		;Alcance Longo por Scanner (LRS)
-ComponentCategory ScannerShortRange Short		;Alcance Curto por Scanner (SRS)
-ComponentCategory ScannerRoleMasking Short		;Mascaramento de Função por Scanner (RMK)
-ComponentCategory ScannerTrace Short		;Rastreamento por Scanner (TRS)
-ComponentCategory Shields Short		;Escudos (SHD)
-ComponentCategory ShieldEnhancement Short		;Aprimoramento de Escudos (SHE)
-ComponentCategory Stealth Short		;Furtividade (STL)
-ComponentCategory TargetingComputer Short		;Computador de Mira (TRG)
-ComponentCategory TargetingComputerFleet Short		;Computador de Mira de Frota (TRF)
-ComponentCategory TractorBeam Short		;Raio Trator (TRC)
-ComponentCategory TroopCompartment Short		;Compartimento de Tropas (TRP)
-ComponentCategory WeaponArea Short		;Arma de Área (WAR)
-ComponentCategory WeaponBombard Short		;Bombardeio (WBB)
-ComponentCategory WeaponCloseIn Short		;Combate Próximo (WCL)
-ComponentCategory WeaponIntercept Short		;Interceptação (WIN)
-ComponentCategory WeaponIon Short		;Arma Iônica (WIO)
-ComponentCategory WeaponStandoff Short		;Combate de Longo Alcance (WST)
+ComponentCategory AreaShieldRecharge Short		;SRC
+ComponentCategory Armor Short		;ARM
+ComponentCategory AssaultPod Short		;ASP
+ComponentCategory CargoBay Short		;CRG
+ComponentCategory Colonization Short		;CLN
+ComponentCategory CommandCenter Short		;CMD
+ComponentCategory CommerceCenter Short		;CMC
+ComponentCategory Construction Short		;CST
+ComponentCategory Countermeasures Short		;CMS
+ComponentCategory CountermeasuresFleet Short		;CMF
+ComponentCategory CrewQuarters Short		;CRW
+ComponentCategory DamageControl Short		;DMG
+ComponentCategory DockingBay Short		;DCK
+ComponentCategory EnergyCollector Short		;ECL
+ComponentCategory EnergyToFuel Short		;E2F
+ComponentCategory Engine Short		;ENG
+ComponentCategory EngineVectoring Short		;VCT
+ComponentCategory Extractor Short		;MNG
+ComponentCategory RemoteFuelTransfer Short		;RFT
+ComponentCategory FighterBay Short		;FTR
+ComponentCategory FuelStorage Short		;FUE
+ComponentCategory HyperBlock Short		;HYB
+ComponentCategory HyperDeny Short		;HYD
+ComponentCategory HyperDrive Short		;HDV
+ComponentCategory IonDefense Short		;ION
+ComponentCategory MedicalCenter Short		;MED
+ComponentCategory PassengerCompartment Short		;PAS
+ComponentCategory Reactor Short		;RCT
+ComponentCategory RecreationCenter Short		;REC
+ComponentCategory ResearchLab Short		;RSR
+ComponentCategory ScannerEmpireMasking Short		;EMK
+ComponentCategory ScannerExploration Short		;EXP
+ComponentCategory ScannerExplorationSurvey Short		;SRV
+ComponentCategory ScannerJammer Short		;SJM
+ComponentCategory ScannerJumpTracking Short		;JMP
+ComponentCategory ScannerLongRange Short		;LRS
+ComponentCategory ScannerShortRange Short		;SRS
+ComponentCategory ScannerRoleMasking Short		;RMK
+ComponentCategory ScannerTrace Short		;TRS
+ComponentCategory Shields Short		;SHD
+ComponentCategory ShieldEnhancement Short		;SHE
+ComponentCategory Stealth Short		;STL
+ComponentCategory TargetingComputer Short		;TRG
+ComponentCategory TargetingComputerFleet Short		;TRF
+ComponentCategory TractorBeam Short		;TRC
+ComponentCategory TroopCompartment Short		;TRP
+ComponentCategory WeaponArea Short		;WAR
+ComponentCategory WeaponBombard Short		;WBB
+ComponentCategory WeaponCloseIn Short		;WCL
+ComponentCategory WeaponIntercept Short		;WIN
+ComponentCategory WeaponIon Short		;WIO
+ComponentCategory WeaponStandoff Short		;WST
 
 Filter		;Filtro
 Sorting		;Ordenação
@@ -1387,9 +1387,9 @@ Peak		;Pico
 Sustained		;Sustentado
 Peak DPS		;DPS Pico
 Sustained DPS		;DPS Sustentado
-Point Blank		;Ponto em Branco
-Maximum Range		;Alcance Máximo
-Max Energy		;Energia Máxima
+Point Blank		;Queima-poupa
+Maximum Range		;Alcance Máx.
+Max Energy		;Energia Máx.
 VALUE per second		;{0} por segundo
 
 Point Blank Accuracy		;Precisão em Ponta em Branco
@@ -1461,8 +1461,8 @@ Image		;Imagem
 Role		;Função
 Date Created		;Data de Criação
 Amount		;Quantidade
-Auto Design		;Atualização de Casco
-Status		;Estado
+Auto Design		;Design Automático
+Status		;Status
 Edit		;Editar
 
 All Designs		;Todos os Projetos
@@ -1509,7 +1509,7 @@ X Strike Force		;Força de Ataque {0}
 X Defense Force		;Força de Defesa {0}
 X Invasion Fleet		;Frota de Invasão {0}
 
-Retrofit		;Modernização
+Retrofit		;Atualização
 Tech Level X		;Nível de Tecnologia {0}
 Regenerate Tech Tree - Visible		;Regenerar Árvore de Tecnologia - Visível
 Regenerate Tech Tree - Blind		;Regenerar Árvore de Tecnologia - Oculta
@@ -1666,11 +1666,11 @@ Economy		;Economia
 Cash		;Dinheiro
 Cashflow		;Fluxo de Caixa
 Bonus Income		;Renda Extra
-Colony Approval		;Aprovação da Colônia
-War Weariness		;Cansaço de Guerra
+Colony Approval		;Aceite da Colônia
+War Weariness		;Fadiga de Guerra
 
 Private Cash		;Dinheiro Privado
-Private Cashflow		;Fluxo de Caixa Privado
+Private Cashflow		;Fluxo Caixa Privado
 Cash Explanation		;Dinheiro disponível
 Private Cash Explanation		;Dinheiro na parte privada do seu império
 Cash Explanation Detailed		;Dinheiro disponível. Pode ser gasto em novas unidades, compra de recursos, financiamento de crescimento em suas colônias, financiamento de pesquisa, ou muitas outras coisas. O dinheiro é aumentado garantindo que o Fluxo de Caixa seja maior que zero, ou seja, garantindo que suas despesas sejam menores que sua receita.
@@ -1693,7 +1693,7 @@ IncomeType ShipBuilding		;Construção de Naves
 IncomeType Discoveries		;Descobertas
 IncomeType TradeBonuses		;Bônus de Comércio
 IncomeType TradeIncome		;Renda do Comércio
-IncomeType PrivateColonyRevenue		;Receita Privada da Colônia
+IncomeType PrivateColonyRevenue		;Receita Priv. da Colônia
 
 IncomeType ColonyTax Explanation		;As taxas de imposto são definidas para colônias individuais. A receita do imposto é coletada da renda privada da colônia na taxa definida. Altas taxas de imposto reduzem a felicidade e retardam o crescimento da colônia. Baixas taxas de imposto aumentam a felicidade e incentivam o crescimento
 IncomeType ResourceTrading Explanation		;Seu império automaticamente venderá recursos excedentes para outros impérios quando você tiver um Acordo de Comércio Restrito, Limitado ou Livre com eles. Colônias independentes e comerciantes também comprarão recursos excedentes de você
@@ -1710,12 +1710,12 @@ IncomeType TradeBonuses Explanation		;Renda extra do volume total de comércio c
 IncomeType TradeIncome Explanation		;Renda adicional de tratados de comércio com outros impérios. Esta renda está disponível apenas com alguns tipos de governo. Fornece uma quantia fixa de renda anual para cada tratado de comércio (Livre, Limitado, Restrito)
 IncomeType PrivateColonyRevenue Explanation		;Renda privada de suas colônias. Esta renda privada da colônia é tributada para fornecer renda de Imposto da Colônia para seu império
 
-ExpenseType ColonyGrowthFunding		;Crescimento da Colônia
+ExpenseType ColonyGrowthFunding		;Cresc. da Colônia
 ExpenseType Research		;Pesquisa
-ExpenseType ShipMaintenance		;Manutenção de Naves e Bases
-ExpenseType ShipMaintenance Short		;Manutenção de Naves
-ExpenseType TroopMaintenance		;Manutenção de Tropas
-ExpenseType FacilityMaintenance		;Manutenção de Instalações
+ExpenseType ShipMaintenance		;Manut. de Naves e Bases
+ExpenseType ShipMaintenance Short		;Manut. de Naves
+ExpenseType TroopMaintenance		;Manut. de Tropas
+ExpenseType FacilityMaintenance		;Manut. de Instalações
 ExpenseType ShipBuilding		;Construção de Naves
 ExpenseType TroopRecruitment		;Recrutamento de Tropas
 ExpenseType FacilityBuilding		;Construção de Instalações
@@ -1726,8 +1726,8 @@ ExpenseType Tribute		;Tributo Pago
 ExpenseType Missions		;Missões
 ExpenseType EnemyRaids		;Raiders Inimigos
 ExpenseType PrivateGeneralExpenditure		;Despesas Gerais Privadas
-ExpenseType PrivateColonyTax		;Impostos das Colônias Privadas
-ExpenseType PrivateShipMaintenance		;Manutenção de Naves Privadas
+ExpenseType PrivateColonyTax		;Impostos Colônias Privadas
+ExpenseType PrivateShipMaintenance		;Manut. Naves Privadas
 ExpenseType PrivateTourism		;Turismo Privado
 ExpenseType PrivateShipBuilding		;Construção de Naves Privadas
 ExpenseType PrivateFuel		;Combustível Privado
@@ -1813,7 +1813,7 @@ New Research Locations		;Novos locais de pesquisa
 Research Screen		;Tela de pesquisa
 All Research Bonuses		;Todos os bônus de pesquisa
 Research		;Pesquisa
-Maximum Potential Research		;Potencial máximo de pesquisa
+Maximum Potential Research		;Potencial máx. de pesquisa
 Actual Research Output		;Produção real de pesquisa
 Maximum Potential Research Explanation		;Potencial máximo de pontos de pesquisa do seu império a partir da população em suas colônias e dos laboratórios em suas Estações de Pesquisa. Isso inclui todos os bônus de pesquisa dos locais de pesquisa.\n\nNote que esse valor pode ser maior para alguns projetos de pesquisa onde se aplicam bônus de pesquisa mais específicos.
 Actual Research Output Explanation		;Pontos de pesquisa reais disponíveis para projetos de pesquisa do seu império. Este é o potencial máximo de pesquisa modificado pelo nível de financiamento da sua pesquisa. Aumentar o financiamento da pesquisa utilizará mais do seu potencial máximo de pesquisa.\n\nNote que apenas as estações de pesquisa requerem financiamento. A produção de pesquisa das suas colônias é gratuita.\n\nSe você tiver tratados de pesquisa com outras facções, a produção compartilhada delas também será mostrada aqui.
@@ -2315,8 +2315,8 @@ Nebula Density Explanation		;A quantidade de nuvens de nebulosa na galáxia.\n\n
 Galaxy Size Explanation		;As dimensões físicas da galáxia.\n\nTamanhos maiores também devem ter maior quantidade de sistemas estelares para que as naves possam encontrar caminhos entre nebulosas.
 Expansion Explanation		;O quão antiga e desenvolvida é toda a galáxia.\n\nEssa configuração influencia os seguintes itens: tamanho e nível de desenvolvimento de impérios gerados automaticamente, tamanho das populações alienígenas independentes.\n\nQuando a Expansão é maior do que 'Início', então o Nível de Tecnologia deve ser pelo menos nível 1.
 Your Empire Expansion Explanation		;Quantas colônias você tem e quão bem estabelecido é seu império.\n\nIsso inclui os seguintes fatores: número de colônias, níveis populacionais em suas colônias, quanto da galáxia você explorou, número de naves e bases que seu império possui.\n\nQuando a Expansão é maior do que 'Início', então o Nível de Tecnologia deve ser pelo menos nível 1.
-Aggression Explanation		;Quão agressivos são os jogadores computadorizados no jogo.\n\nExistem outros fatores específicos para cada império que também determinam os níveis de agressão, mas essa configuração é um valor de toda a galáxia que influencia todos os impérios.
-Difficulty Explanation		;Dificuldade do jogo. Isso altera as taxas de império para vários fatores no jogo em relação ao jogador.\n\nOs fatores afetados incluem: renda da colônia, corrupção, velocidade de pesquisa, taxa de mineração, crescimento populacional, cansaço de guerra, mira de armas e contramedidas.
+Aggression Explanation		;Quão agressivos são as IA's no jogo.\n\nExistem outros fatores específicos para cada império que também determinam os níveis de agressão, mas essa configuração é um valor de toda a galáxia que influencia todos os impérios.
+Difficulty Explanation		;Dificuldade do jogo. Isso altera as taxas de império para vários fatores no jogo em relação ao jogador.\n\nOs fatores afetados incluem: renda da colônia, corrupção, velocidade de pesquisa, taxa de mineração, crescimento populacional, fadiga de guerra, mira de armas e contramedidas.
 Research Speed Explanation		;Quão rapidamente ocorre a pesquisa na galáxia, e assim quão rapidamente novos componentes se tornam disponíveis para uso em naves e bases.\n\nExistem outros fatores específicos para cada império que também determinam a velocidade de pesquisa, mas essa configuração é um valor de toda a galáxia que influencia todos os impérios.
 Research Visibility Explanation		;Quando os projetos de pesquisa se tornam visíveis: seja no início do jogo ou após pesquisar projetos pais.
 Research Pathing Explanation		;Se os caminhos entre projetos de pesquisa são fixos ou aleatórios.
@@ -3141,7 +3141,7 @@ Scanners Explanation		;Inclui os seguintes fatores:\nSensores de Longo Alcance\n
 Engine Bay Design Explanation		;Os motores serão automaticamente reatribuídos para a melhor baía para garantir simetria dos motores
 Industrial		;Industrial
 Command, Crew and Medical Systems		;Sistemas de Comando, Tripulação e Médicos
-Targeting and Countermeasures		;Miragem e Contramedidas
+Targeting and Countermeasures		;Miras/Alvos e Contramedidas
 Hyperspace Tech		;Tecnologia de Hiperespaço
 HighTech		;Alta Tecnologia
 Reactors and Energy		;Reatores e Energia
@@ -3356,7 +3356,7 @@ Design Overview		;Visão Geral do Design
 Reactor Output		;Saída do Reator
 Output		;Saída
 Rating		;Classificação
-EnergyPerFuelExplanation		;Reatores geram {0} de energia por unidade de combustível
+EnergyPerFuelExplanation		;Reatores geram {0} de energia por un. de combustível
 Available Components		;Componentes Disponíveis
 Design Bays		;Baías de Design
 Large		;Grande
@@ -3376,7 +3376,7 @@ Wonders		;Maravilhas
 
 Graphics Adapter		;Adaptador Gráfico
 Display		;Display
-Display Mode		;Modo de Display
+Display Mode		;Resolução da Tela
 Display Mode Description		;{0}x{1} {2} @ {3}Hz
 Display Mode Description Short		;{0}x{1} @ {2}Hz
 Display Mode Description Short No Hz		;{0}x{1}
@@ -3411,7 +3411,7 @@ Unknown Location		;Local Desconhecido
 Not Explored		;Não Explorado
 Unexplored System		;Sistema Não Explorado
 
-Scroll Speed		;Velocidade de Rolagem
+Scroll Speed		;Velocidade do Scroll
 Zoom Speed		;Velocidade de Zoom
 Auto Save		;Salvar Automaticamente
 Auto Save Minutes		;Minutos para o Auto Salvamento
@@ -4173,9 +4173,9 @@ Basic		;Básico
 Detailed		;Detalhado
 Mouse Click-Drag Function		;Função de Arrastar e Clicar do Mouse
 Mouse Drag Selects Ships Description		;Arrastar o mouse seleciona descrição de Naves
-Mouse Drag Moves View Description		;Move a Visualização Principal\n(Ctrl-clique para selecionar)
+Mouse Drag Moves View Description		;Mover Visão Principal\n(Ctrl-M1)
 Rotate Camera Mouse Button		;Botão do Mouse para Rotacionar a Câmera
-Rotate Camera Mouse Button Middle		;Botão Central do Mouse\n(ou Shift-clique-direito)
+Rotate Camera Mouse Button Middle		;Botão Central do Mouse\n(ou Shift-M2)
 Rotate Camera Mouse Button Right		;Botão Direito
 Screen Edge Panning		;Panorâmica pela Borda da Tela
 DiplomacyAutoMoveToFaction		;Auto-mover visualização para a Facção Diplomática Selecionada
@@ -4721,8 +4721,8 @@ Related		;Relacionado
 
 MAX		;MÁX
 
-War Weariness Positive Explanation		;Declarações de guerra injustificadas contra nós aumentaram a determinação de nossa população, resultando em um nível positivo de cansaço de guerra
-War Weariness Positive Explanation OTHER		;Declarações de guerra injustificadas contra {0} aumentaram a determinação de sua população, resultando em um nível positivo de cansaço de guerra
+War Weariness Positive Explanation		;Declarações de guerra injustificadas contra nós aumentaram a determinação de nossa população, resultando em um nível positivo de fadiga de guerra
+War Weariness Positive Explanation OTHER		;Declarações de guerra injustificadas contra {0} aumentaram a determinação de sua população, resultando em um nível positivo de fadiga de guerra
 High Morale		;Alta Moral
 Unjustifed wars against us increase our resolve		;Guerras injustificadas contra nós aumentam nossa determinação
 
@@ -4821,15 +4821,15 @@ At Colonies		;Nas Colônias
 This location is in enemy territory		;Este local está em território inimigo
 
 Let's get started		;Vamos começar
-Disable All Tours		;Desabilitar Todos os Passeios
+Disable All Tours		;Desabilitar Todos os Tutoriais
 Disable All		;Desabilitar Tudo
-You are disabling all further tours Explanation		;Você está desabilitando todos os passeios futuros. Você pode reabilitá-los novamente nas Configurações do Jogo.\n\nTem certeza de que deseja desabilitar todos os passeios?
-You are reenabling all tours Explanation		;Você está reabilitando todos os passeios.\n\nVocê pode desabilitar todos os passeios novamente na tela de Passeios que aparece quando você inicia um passeio.\n\nTem certeza de que deseja reabilitar todos os passeios?
+You are disabling all further tours Explanation		;Você está desabilitando todos os tutoriais futuros. Você pode reabilitá-los novamente nas Configurações do Jogo.\n\nTem certeza de que deseja desabilitar todos os tutoriais?
+You are reenabling all tours Explanation		;Você está reabilitando todos os tutoriais.\n\nVocê pode desabilitar todos os tutoriais novamente na tela de Tutoriais que aparece quando você inicia um tutorial.\n\nTem certeza de que deseja reabilitar todos os tutoriais?
 Tips		;Dicas
-Reset Tours		;Redefinir Passeios
-Reenable All Tours		;Reabilitar Todos os Passeios
+Reset Tours		;Redefinir Tutoriais
+Reenable All Tours		;Reabilitar Todos os Tutoriais
 Reenable All		;Reabilitar Tudo
-Launch Basic Tour		;Iniciar Passeio Básico
+Launch Basic Tour		;Iniciar Tutorial Básico
 
 No fleet with adequate attack strength to take on defending forces at location		;Nenhuma Frota de Ataque ou Saque com força de ataque adequada para enfrentar as forças defensivas no local
 No fleet with adequate troop attack strength to invade this colony		;Nenhuma Frota de Invasão com força de tropas adequada para invadir esta colônia
@@ -4851,7 +4851,7 @@ We might be willing to end our war for the right price		;Podemos estar dispostos
 We do not wish to end this war Subjugation		;Recusamos sua oferta de subjugação como nosso vassalo. Esta guerra ainda não acabou
 We might be willing to end our war for the right price Subjugation		;Podemos estar dispostos a aceitar sua rendição e subjugação como nosso vassalo pelo preço certo...
 
-Resume disabled during tour		;Continuação desabilitada durante o passeio
+Resume disabled during tour		;Continuação desabilitada durante o tutorial
 
 Pirate Targets		;Alvos de Piratas
 All Colonies		;Todas as Colônias
@@ -5003,17 +5003,17 @@ You have conquered an independent colony in our territory		;Você conquistou uma
 
 Character ROLE Dismissed		;{0} Demitido
 
-A tour is available for X		;Um passeio está disponível para {0}.\nClique no botão para iniciar o passeio
-Click to launch a tour of X		;Clique para iniciar um passeio de {0}
-Launch Tour		;Iniciar Passeio
-Tour already in progress		;Passeio já em andamento
+A tour is available for X		;Um tutorial está disponível para {0}.\nClique no botão para iniciar o tutorial
+Click to launch a tour of X		;Clique para iniciar um tutorial de {0}
+Launch Tour		;Iniciar Tutorial
+Tour already in progress		;Tutorial já em andamento
 Resources and Mining		;Recursos e Mineração
-Launch Tour of Ship Design		;Iniciar um passeio pelo Design de Naves
-Launch Tour of Research Screen		;Iniciar um passeio pela Tela de Pesquisa
-Tours		;Passeios
+Launch Tour of Ship Design		;Iniciar um tutorial pelo Design de Naves
+Launch Tour of Research Screen		;Iniciar um tutorial pela Tela de Pesquisa
+Tours		;Tutoriais
 to poor skills and general incompetence		;[CHARACTER]{0} {1}[/CHARACTER] foi demitido devido a habilidades deficientes e incompetência geral
 Shield Recharge		;Recarga de Escudo
-Shield Recharge Energy Usage		;Uso de Energia na Recarga de Escudo
+Shield Recharge Energy Usage		;Energia p/ Recarga de Escudo
 
 Getting Started		;Primeiros Passos
 
@@ -5166,7 +5166,7 @@ Settings Explanation ResetTours		;Clique para reativar os tours de todas as áre
 Settings Explanation GraphicsAdapterDescription		;Selecione o adaptador gráfico a ser usado. Geralmente é melhor usar um adaptador gráfico dedicado (NVidia, AMD) em vez de adaptadores gráficos integrados (Intel).
 Settings Explanation GraphicsDisplayMode		;Selecione o modo de exibição a ser usado. Isso inclui a resolução gráfica e a taxa de atualização. Tente corresponder à resolução nativa do seu monitor.
 Settings Explanation GraphicsResolutionFullScreen		;Se deve exibir a janela do jogo em modo janela ou tela cheia (janela sem bordas). Selecione tela cheia para uma melhor experiência de interface do usuário que suporta melhor o panning pela borda da tela e outras funcionalidades.
-Settings Explanation GraphicsResolutionFormat		;O formato do buffer de trás para usar ao renderizar. Para melhor qualidade, selecione renderização de Alto Alcance Dinâmico, que deve estar disponível na maioria dos hardwares. Alguns cartões de vídeo e drivers podem precisar usar renderização de Faixa Padrão.\n\n[AVISO] Ao usar a renderização DXVK, você provavelmente precisará também ajustar o Gamma para cerca de 2,2 para evitar uma exibição excessivamente escura. [/AVISO]
+Settings Explanation GraphicsResolutionFormat		;O formato do buffer de trás para usar ao renderizar. Para melhor qualidade, selecione renderização de Alto Alcance Dinâmico (HDR), que deve estar disponível na maioria dos hardwares. Alguns cartões de vídeo e drivers podem precisar usar renderização de Faixa Padrão.\n\n[AVISO] Ao usar a renderização DXVK, você provavelmente precisará também ajustar o Gamma para cerca de 2,2 para evitar uma exibição excessivamente escura. [/AVISO]
 Settings Explanation UserInterfaceSize		;Selecione o tamanho desejado da interface do usuário. Tamanhos maiores aumentam a escala de fontes e janelas, permitindo melhor legibilidade em configurações de alta resolução. Alguns tamanhos de interface do usuário podem não estar disponíveis dependendo da resolução da sua tela (por exemplo, não é possível usar tamanhos muito grandes em telas de baixa resolução).
 Settings Explanation UserInterfaceSizeLists		;Permitir uma leve redução no tamanho dos itens da lista no Centro de Controle do seu império. Isso significa que mais itens podem ser vistos na lista com menos rolagem.
 Settings Explanation ColorScheme		;Selecione seu esquema de cores preferido para a interface do usuário.
@@ -5192,7 +5192,7 @@ Editor Explanation Empire Name		;Digite aqui para alterar o nome desta facção
 Editor Explanation Empire Government		;Selecione um governo para esta facção
 Editor Explanation Empire Money		;Ajuste a quantidade de dinheiro (em caixa) para esta facção
 Editor Explanation Empire Private Money		;Ajuste a quantidade de dinheiro na economia privada para esta facção
-Editor Explanation Empire WarWeariness		;Ajuste o nível de cansaço de guerra para esta facção
+Editor Explanation Empire WarWeariness		;Ajuste o nível de fadiga de guerra para esta facção
 Editor Explanation Creature Name		;Digite aqui para alterar o nome desta criatura espacial
 Editor Explanation Creature Size		;Ajuste o tamanho desta criatura espacial
 Editor Explanation Creature Health		;Ajuste o nível de saúde desta criatura espacial
@@ -5219,8 +5219,8 @@ Resource stock levels at NAME is automated		;Os níveis de estoque de recursos e
 Resource stock levels at NAME is manual		;Os níveis de estoque de recursos em {0} são controlados manualmente
 NOTE: Bases at colonies share the resources stock levels from the colony		;NOTA: Bases em colônias compartilham os níveis de estoque de recursos da colônia
 Rendering Format		;Formato de Renderização
-Standard Range rendering		;Renderização de Alcance Padrão
-High Dynamic Range rendering		;Renderização de Alto Alcance Dinâmico
+Standard Range rendering		;Renderização Padrão
+High Dynamic Range rendering		;Renderização HDR
 Extended		;Extendido
 Error while saving game. Check that you have enough storage space		;Erro ao salvar o jogo. Verifique se você tem espaço de armazenamento suficiente. Veja a pasta data/logs para detalhes do erro.
 Warning - Low Storage Space		;Aviso - Espaço de Armazenamento Baixo
@@ -5344,7 +5344,7 @@ We currently have a Non Aggression treaty with this faction		;Atualmente temos u
 We currently have a Defense treaty with this faction		;Atualmente temos um tratado de [BAD]Defesa[/BAD] com esta facção. Sofreremos um [BAD]impacto negativo na reputação[/BAD] ao declarar guerra agora.
 
 Galaxy Star Amount Warning Prefix Template		;Seu sistema tem {0} núcleos de CPU e {1}GB de RAM.
-Galaxy Star Amount Warning Template		;[WARN]Aviso:[/WARN] {2} estrelas podem causar problemas de desempenho no final do jogo em seu sistema.\nRecomendado: [WARN]{3} núcleos de CPU[/WARN] e [WARN]{4}GB de RAM[/WARN].
+Galaxy Star Amount Warning Template		;[WARN]Aviso:[/WARN] {2} estrelas podem causar problemas de desempenho no endgame em seu sistema.\nRecomendado: [WARN]{3} núcleos de CPU[/WARN] e [WARN]{4}GB de RAM[/WARN].
 
 No Ambassador assigned to our capital		;Você deve designar um Embaixador para nossa capital.
 
@@ -5365,7 +5365,7 @@ Modifications ;Modificações
 ModsListInstruction ;Você pode organizar a ordem das modificações aqui, bem como se estão habilitadas ou não. As alterações são salvas imediatamente.\n\nVocê também pode salvar uma coleção de mods como um perfil nomeado, que você pode então recarregar usando a lista suspensa à direita.
 ModNoDescription ;Nenhuma descrição fornecida
 
-Latest Design for Role		;Último Design para a Função
+Latest Design for Role		;Último Design da Função
 Latest Design for SHIPHULL		;Último Design para o casco '{0}'
 Add Item		;Adicionar Item
 
@@ -5378,8 +5378,8 @@ Currently researching		;Atualmente pesquisando
 
 Retrofit Path		;Caminho de Retrofit
 Latest Design for Hull		;Último Design para Casco
-Latest Design for Largest Hull for Role		;Último Design para o Maior Casco para a Função
-View		;Visualizar
+Latest Design for Largest Hull for Role		;Último Design para o Maior Casco da Função
+View		;Ver
 Other Designs That Upgrade To This Design		;Outros Designs que Atualizam para Este Design
 Upgrades To		;Este Design Atualiza Para
 Upgrades to DESIGN because latest for hull		;Atualiza para '{0}' por ser o mais recente para o casco
@@ -5409,8 +5409,8 @@ Leader Change Replaced Title		;Líder Substituído
 Leader Change Replaced		;Nosso líder {0} foi destituído como incompetente!\n\n{1} foi nomeado como o novo líder e assumiu o controle imediato.\n\nNo entanto, esta mudança não ocorrerá sem perturbações - espere um período de agitação enquanto nosso império se ajusta a esta nova liderança...
 Leader Change Replaced From Existing		;Nosso líder {0} foi destituído como incompetente!\n\n{1}, um {2} existente, foi nomeado como o novo líder e assumiu o controle imediato.\n\nNo entanto, esta mudança não ocorrerá sem perturbações - espere um período de agitação enquanto nosso império se ajusta a esta nova liderança...
 Leader Change Election Title		;Novo Líder Eleito
-Leader Change Election		;Nosso líder {0} foi substituído em uma eleição em todo o império\n\n{1} foi eleito como o novo líder.\n\nEsta nova liderança enviou uma onda de entusiasmo por todo o nosso império, melhorando a felicidade e diminuindo o cansaço de guerra em todas as nossas colônias
-Leader Change Election From Existing		;Nosso líder {0} foi substituído em uma eleição em todo o império\n\n{1}, um {2} existente, foi eleito como o novo líder.\n\nEsta nova liderança enviou uma onda de entusiasmo por todo o nosso império, melhorando a felicidade e diminuindo o cansaço de guerra em todas as nossas colônias
+Leader Change Election		;Nosso líder {0} foi substituído em uma eleição em todo o império\n\n{1} foi eleito como o novo líder.\n\nEsta nova liderança enviou uma onda de entusiasmo por todo o nosso império, melhorando a felicidade e diminuindo a fadiga de guerra em todas as nossas colônias
+Leader Change Election From Existing		;Nosso líder {0} foi substituído em uma eleição em todo o império\n\n{1}, um {2} existente, foi eleito como o novo líder.\n\nEsta nova liderança enviou uma onda de entusiasmo por todo o nosso império, melhorando a felicidade e diminuindo a fadiga de guerra em todas as nossas colônias
 Leader New Title		;Novo Líder Assume o Poder
 Leader New		;{0} assumiu o poder como nosso novo líder e assumiu o controle imediato
 Leader New From Existing		;{0}, um {1} existente, assumiu o poder como nosso novo líder e assumiu o controle imediato
@@ -5442,8 +5442,8 @@ Mild Boost		;Aumento Moderado
 No effect		;Sem efeito
 Disruptive		;Disruptivo
 Highly Disruptive		;Altamente Disruptivo
-Leader Change Disruption Explanation		;Vários meses de redução na felicidade da colônia e aumento do cansaço de guerra. Possibilidade de rebeliões nas colônias e até mesmo outra mudança de líder.
-Leader Change Boost Explanation		;Vários meses de aumento na felicidade da colônia e redução no cansaço de guerra.
+Leader Change Disruption Explanation		;Vários meses de redução na felicidade da colônia e aumento da fadiga de guerra. Possibilidade de rebeliões nas colônias e até mesmo outra mudança de líder.
+Leader Change Boost Explanation		;Vários meses de aumento na felicidade da colônia e redução na fadiga de guerra.
 Typical Leader Change Method		;Método Típico de Mudança de Líder
 Leader Replaced From		;Líder Substituído Por
 
@@ -5485,10 +5485,10 @@ ResearchCrashProgress Complete Explanation SOURCEPROJECT PROJECT		;Nosso recente
 
 Character Mission Explanation InfluenceEmpirePositively		;Influenciar a avaliação de outra facção sobre uma facção terceira, fazendo com que a facção alvo goste mais da terceira
 Character Mission Explanation InfluenceEmpireNegatively		;Influenciar a avaliação de outra facção sobre uma facção terceira, fazendo com que a facção alvo goste menos da terceira
-Character Mission Explanation InternalStabilization		;Reduz a agitação interna de dissidentes dentro de seu próprio império. Isso é especialmente útil em tempos de guerra, quando o cansaço de guerra está alto. Quando bem-sucedida, seu império terá menos cansaço de guerra e corrupção por 2 anos.
+Character Mission Explanation InternalStabilization		;Reduz a agitação interna de dissidentes dentro de seu próprio império. Isso é especialmente útil em tempos de guerra, quando a fadiga de guerra está alta. Quando bem-sucedida, seu império terá menos fadiga de guerra e corrupção por 2 anos.
 Character Mission Explanation CaptureBase		;Capturar uma base específica de outro império. A base-alvo deve ser conhecida por seu império. Também deve estar em seu território ou em território não reivindicado. Portanto, a base não pode estar dentro do território do império-alvo (por exemplo, um porto espacial em uma colônia).
 
-Character Mission Explanation Success InternalStabilization		;Como resultado, nosso império terá menos cansaço de guerra e corrupção nos próximos 2 anos.
+Character Mission Explanation Success InternalStabilization		;Como resultado, nosso império terá menos fadiga de guerra e corrupção nos próximos 2 anos.
 
 Migration Factor Explanation		;Aumenta ou reduz a migração para as colônias de um império, tornando-as mais ou menos atraentes para imigração de cidadãos de impérios estrangeiros
 
@@ -5821,7 +5821,7 @@ ShieldFocus Strength		;Força
 
 HyperdriveFocus Neutral     ;Neutro
 HyperdriveFocus Efficiency		;Eficiência Energética
-HyperdriveFocus JumpInitiationTime		;Tempo de Iniciação do Salto
+HyperdriveFocus JumpInitiationTime		;Tempo de Início do Salto
 HyperdriveFocus Speed		;Velocidade
 
 EngineFocus Neutral     ;Neutro
