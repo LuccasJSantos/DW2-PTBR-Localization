@@ -1,17 +1,17 @@
-This screen lists potential new resort locations that you can target. These locations are where you should build new resort bases. Resorts are destinations for tourism. Passenger ships will transport tourists to resorts, earning income for your empire.
+Esta tela lista novas localizações potenciais para resorts que você pode alvejar. Estas localizações são onde você deve construir novas bases de resorts. Resorts são destinos para turismo. Navios de passageiros transportarão turistas para os resorts, gerando renda para seu império.
 
-Resorts are built at scenic locations in the galaxy. These locations usually have some natural scenic feature. Ancient ruins can also provide scenery bonuses that can be exploited by building a Resort Base there.
+Resorts são construídos em locais cênicos na galáxia. Esses locais geralmente possuem algum recurso natural cênico. Ruínas antigas também podem fornecer bônus de cenário que podem ser explorados construindo uma Base de Resort lá.
 
-When zoomed out to the galaxy- or system-level the new resort locations are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível da galáxia ou do sistema, as novas localizações de resorts são destacadas no mapa. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecioná-lo. Duplo-clique no item moverá a visualização para essa localização.
 
-Each list item shows the known scenery bonuses at the location. Hover over the scenery bonus description for a full summary, including the natural feature that provides the bonus.
+Cada item da lista mostra os bônus de cenário conhecidos na localização. Passe o mouse sobre a descrição do bônus de cenário para um resumo completo, incluindo o recurso natural que fornece o bônus.
 
-[H3]Queuing New Resort Bases[/H3]
-The button at the right allows you to queue construction of a new resort base at the location. When the next construction ship becomes available it will build a resort base here. You can click the button again to cancel construction.
+[H3]Enfileirando Novas Bases de Resorts[/H3]
+O botão à direita permite que você enfileire a construção de uma nova base de resort na localização. Quando o próximo navio de construção estiver disponível, ele construirá uma base de resort aqui. Você pode clicar no botão novamente para cancelar a construção.
 
-If you cannot build at the location the Queue button will be disabled. A tooltip on the button will explain why you cannot build there.
+Se você não puder construir na localização, o botão de fila será desativado. Uma dica sobre o botão explicará por que você não pode construir lá.
 
-[H3]Dangerous Locations[/H3]
-A red lightning bolt symbol will be shown next to the location name if the location is considered dangerous. A location is dangerous when there are uncleared threats present, like pirates or deadly space creatures.
+[H3]Localizações Perigosas[/H3]
+Um símbolo de raio vermelho será mostrado ao lado do nome da localização se ela for considerada perigosa. Uma localização é perigosa quando existem ameaças não eliminadas presentes, como piratas ou criaturas espaciais mortais.
 
-Non-military ships will not travel to a dangerous location. The threats must first be cleared by military ships or a fleet. This means that while you can queue construction of new resort base at a dangerous location, construction ships will not go there to build the new base until the threats are cleared.
+Navios não militares não viajarão para uma localização perigosa. As ameaças devem primeiro ser eliminadas por navios militares ou uma frota. Isso significa que, enquanto você pode enfileirar a construção de uma nova base de resort em uma localização perigosa, os navios de construção não irão lá para construir a nova base até que as ameaças sejam eliminadas.

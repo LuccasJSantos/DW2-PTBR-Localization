@@ -1,27 +1,27 @@
-The Design Bays list shows all of the component bays in the hull.
+A lista de Compartimentos de Projeto mostra todos os compartimentos de componentes no casco.
 
-The components added to the Design Bays list is the core of the design. The components added here define the capabilities and behavior of the design.
+Os componentes adicionados à lista de Compartimentos de Projeto são o núcleo do design. Os componentes adicionados aqui definem as capacidades e o comportamento do design.
 
-Each bay has a type and size. You can only place components in a bay when it is a matching type and when the component size fits within the bay.
+Cada compartimento possui um tipo e tamanho. Você só pode colocar componentes em um compartimento quando é do tipo correspondente e quando o tamanho do componente se encaixa no compartimento.
 
-There are 6 component bay types. Each bay type only allows certain types of components:
-[ULI]General: command centers, crew quarters, fuel cells, reactors, hyperdrives, cargo bays, passenger compartments, troop compartments, mining engines, energy collectors and all others[/ULI]
-[ULI]Weapons: weapons or tractor beams[/ULI]
-[ULI]Engines: engines and vectoring engines[/ULI]
-[ULI]Defense: armor, shields or damage control[/ULI]
-[ULI]Hangars: docking bays, construction yards or fighter bays[/ULI]
-[ULI]Sensors: scanners, countermeasures, targeting computers, survey modules, scanner jammers[/ULI]
+Existem 6 tipos de compartimentos de bay. Cada tipo de compartimento permite apenas certos tipos de componentes:
+[ULI]Geral: centros de comando, alojamentos da tripulação, células de combustível, reatores, hiperdrives, porões de carga, compartimentos de passageiros, compartimentos de tropas, motores de mineração, coletores de energia e outros[/ULI]
+[ULI]Armas: armas ou feixes tratores[/ULI]
+[ULI]Motores: motores e motores vetoriais[/ULI]
+[ULI]Defesa: armadura, escudos ou controle de danos[/ULI]
+[ULI]Hangares: docas, estaleiros ou hangares de caça[/ULI]
+[ULI]Sensores: scanners, contramedidas, computadores de mira, módulos de pesquisa, interferidores de scanner[/ULI]
 
-To add a component to a bay:
-[OLI]select the desired component from the Available Components list[/OLI]
-[OLI]find a bay of the matching type and adequate size in the Design Bays list[/OLI]
-[OLI]left-click in the bay to place the component[/OLI]
+Para adicionar um componente a um compartimento:
+[OLI]selecione o componente desejado na lista de Componentes Disponíveis[/OLI]
+[OLI]encontre um compartimento do tipo correspondente e tamanho adequado na lista de Compartimentos de Projeto[/OLI]
+[OLI]clique com o botão esquerdo no compartimento para colocar o componente[/OLI]
 
-You can also do the following:
-[ULI]when you hover over a bay that already contains a component, a popup comparison window will be displayed. This allows you to quickly see the differences between them[/ULI]
-[ULI]right-click a bay to remove an existing component[/ULI]
+Você também pode fazer o seguinte:
+[ULI]quando você passa o mouse sobre um compartimento que já contém um componente, uma janela pop-up de comparação será exibida. Isso permite que você veja rapidamente as diferenças entre eles[/ULI]
+[ULI]clique com o botão direito em um compartimento para remover um componente existente[/ULI]
 
-[H3]External Bays[/H3]
-Note that some component bays are external on the preview model. In other words, they can be seen on the exterior of the ship or base.
+[H3]Compartimentos Externos[/H3]
+Observe que alguns compartimentos de componentes são externos no modelo de visualização. Em outras palavras, eles podem ser vistos no exterior da nave ou base.
 
-External bays are shown in the Design Bays list by a 'view' icon at the left. You can click the view icon to rotate the preview to show the external bay.
+Os compartimentos externos são mostrados na lista de Compartimentos de Projeto por um ícone de 'visualização' à esquerda. Você pode clicar no ícone de visualização para girar a pré-visualização e mostrar o compartimento externo.

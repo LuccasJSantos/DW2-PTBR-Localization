@@ -1,22 +1,22 @@
-Any spy characters in your empire are shown in this list.
+Quaisquer personagens espiões em seu império são mostrados nesta lista.
 
-You can see the details of each spy by hovering over the list entry and clicking to lock open the panel at the right.
+Você pode ver os detalhes de cada espião passando o mouse sobre a entrada da lista e clicando para travar o painel à direita aberto.
 
-You can change a spy's name by clicking on their name under the portrait and typing a new one.
+Você pode mudar o nome de um espião clicando em seu nome sob o retrato e digitando um novo.
 
-[H3]Intelligence Missions[/H3]
-Spies carry out intelligence missions against other factions, stealing maps and tech or sabotaging another faction in various ways.
+[H3]Missões de Inteligência[/H3]
+Os espiões realizam missões de inteligência contra outras facções, roubando mapas e tecnologia ou sabotando outra facção de várias maneiras.
 
-They can also perform counter-intelligence, protecting your empire from enemy spy missions.
+Eles também podem realizar contra-inteligência, protegendo seu império de missões de espionagem inimigas.
 
-Each spy's skills strongly determine which types of missions they are best at.
+As habilidades de cada espião determinam fortemente quais tipos de missões eles são melhores.
 
-[H3]Assigning Missions[/H3]
-To assign a mission to a spy select the target empire, mission type, any specific mission target and the time to complete from the dropdown lists in the mission section, then click the 'Assign Mission' button.
+[H3]Atribuindo Missões[/H3]
+Para atribuir uma missão a um espião, selecione o império alvo, o tipo de missão, qualquer alvo específico da missão e o tempo para completar nas listas suspensas na seção de missão, e então clique no botão 'Atribuir Missão'.
 
-As you select different options the mission success chance is shown at the right. Be careful not to assign missions that are too difficult. Otherwise your spy could be intercepted and even captured, leading to serious diplomatic repercussions.
+Conforme você seleciona diferentes opções, a chance de sucesso da missão é mostrada à direita. Tenha cuidado para não atribuir missões muito difíceis. Caso contrário, seu espião poderá ser interceptado e até capturado, levando a sérias repercussões diplomáticas.
 
-If you want to completely automate which missions are assigned to a spy you can automate the spy using the 'Automate' button under the spy portrait at the right.
+Se você deseja automatizar completamente quais missões são atribuídas a um espião, você pode automatizar o espião usando o botão 'Automatizar' sob o retrato do espião à direita.
 
-[H3]Events[/H3]
-At the very bottom of the detail panel is a list of all the events that the spy has been involved with. Various events can improve or decrease their skills, or provide new character traits. Successfully completing intelligence missions can especially increase the skills of your spy.
+[H3]Eventos[/H3]
+Na parte inferior do painel de detalhes está listado todos os eventos em que o espião esteve envolvido. Vários eventos podem aumentar ou diminuir suas habilidades, ou fornecer novos traços de personagem. Completar com sucesso missões de inteligência pode especialmente aumentar as habilidades de seu espião.

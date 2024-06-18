@@ -1,21 +1,21 @@
-The center of the screen shows a preview of the design.
+O centro da tela mostra uma prévia do design.
 
-You can rotate the view by holding down the right-mouse-button and moving the mouse left/right and up/down.
+Você pode rotacionar a visualização segurando o botão direito do mouse e movendo o mouse para esquerda/direita e para cima/baixo.
 
-Use the mouse scroll wheel to zoom in or out of the preview.
+Use a roda do mouse para dar zoom dentro ou fora da prévia.
 
-[H3]External Bay Markers[/H3]
-The external bays are shown on the preview by a spherical marker. The color of the marker matches the type of the bay.
+[H3]Marcadores de Baías Externas[/H3]
+As baías externas são mostradas na prévia por um marcador esférico. A cor do marcador corresponde ao tipo da baía.
 
-You can toggle the external bay markers on or off using the button at the right of the tactical settings area.
+Você pode alternar os marcadores de baías externas ligando ou desligando usando o botão à direita da área de configurações táticas.
 
-You can place selected components directly into the external bays on the preview:
-[OLI]select a component in the Available Components list[/OLI]
-[OLI]the valid bays are then highlighted on the preview[/OLI]
-[OLI]left-click on a valid bay where you want to add the component[/OLI]
+Você pode colocar componentes selecionados diretamente nas baías externas na prévia:
+[OLI]selecione um componente na lista de Componentes Disponíveis[/OLI]
+[OLI]as baías válidas serão destacadas na prévia[/OLI]
+[OLI]clique com o botão esquerdo em uma baía válida onde deseja adicionar o componente[/OLI]
 
-You can also do the following:
-[ULI]right-click a bay position in the preview to remove an existing component from the external bay[/ULI]
+Você também pode fazer o seguinte:
+[ULI]clique com o botão direito em uma posição de baía na prévia para remover um componente existente da baía externa[/ULI]
 
-[H3]Engine Placement[/H3]
-Note that when you add engines to a ship design, the actual bay where the engine is added may be different to the bay you selected. This is because engines must remain symmetrical, and thus will always be added on alternating sides of the design.
+[H3]Posicionamento dos Motores[/H3]
+Observe que ao adicionar motores a um design de nave, a baía real onde o motor é adicionado pode ser diferente da baía que você selecionou. Isso ocorre porque os motores devem permanecer simétricos e, portanto, serão sempre adicionados em lados alternados do design.

@@ -1,7 +1,7 @@
-This screen lists all of the research bonuses in your empire split out by type. Research bonuses are important in two ways:
-[ULI]research speed is increased for projects with the matching bonus type, e.g. researching new Ship Hulls is accelerated when you have construction research bonuses[/ULI]
-[ULI]some research projects have extra requirements where they can only be initiated when you have sufficient research bonuses of a particular type, e.g. some high-end Shield projects require you to have a certain threshold of Shield research bonuses[/ULI]
+Esta tela lista todos os bônus de pesquisa em seu império divididos por tipo. Os bônus de pesquisa são importantes de duas maneiras:
+[ULI]a velocidade de pesquisa é aumentada para projetos com o tipo de bônus correspondente, por exemplo, pesquisar novos cascos de nave é acelerado quando você possui bônus de pesquisa de construção[/ULI]
+[ULI]alguns projetos de pesquisa têm requisitos adicionais onde só podem ser iniciados quando você possui bônus de pesquisa suficientes de um tipo específico, por exemplo, alguns projetos avançados de escudo exigem que você tenha um certo limite de bônus de pesquisa de escudo[/ULI]
 
-Hovering over each research bonus type displays a complete breakdown of all the sources for the bonus in a panel at the right.
+Passar o mouse sobre cada tipo de bônus de pesquisa exibe uma quebra completa de todas as fontes para o bônus em um painel à direita.
 
-These sources can include locations where you have built a research station. They can also include scientists and other characters. Other sources might be race or government bonuses.
+Essas fontes podem incluir locais onde você construiu uma estação de pesquisa. Elas também podem incluir cientistas e outros personagens. Outras fontes podem ser bônus de raça ou de governo.

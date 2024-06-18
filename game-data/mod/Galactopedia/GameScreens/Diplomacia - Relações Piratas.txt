@@ -1,23 +1,22 @@
-Pirates are outlaw factions that live entirely in space, on ships or bases. They have no colonies. Pirates are generally unfriendly and hostile. They raid and pillage, taking what they want.
+Os Piratas são facções fora da lei que vivem inteiramente no espaço, em naves ou bases. Eles não possuem colônias. Os Piratas geralmente são hostis e agressivos. Eles realizam saques e pilhagens, pegando o que desejam.
 
-However you can improve relations with pirates by accepting 'protection' agreements or offering them gifts. Alternatively you can simply build up your forces and wipe them out.
+No entanto, você pode melhorar as relações com os Piratas aceitando acordos de 'proteção' ou oferecendo presentes. Alternativamente, você pode simplesmente fortalecer suas forças e eliminá-los.
 
-[H3]Pirate Faction List[/H3]
-This screen lists all your relations with pirate factions. Check the various sort and filter options at the top of the panel.
+[H3]Lista de Facções Piratas[/H3]
+Esta tela lista todas as suas relações com as facções piratas. Verifique as várias opções de classificação e filtro no topo do painel.
 
-Each list item shows how the pirate faction feels towards you along with the trend of your relationship.
+Cada item da lista mostra como a facção pirata se sente em relação a você, juntamente com a tendência do seu relacionamento.
 
-Clicking a relation item in the list will select the faction pirate base, if known.
+Clicar em um item da relação na lista irá selecionar a base da facção pirata, se conhecida.
 
-[H3]Relation Detail Panel[/H3]
-Hovering over a list item shows the Relation detail panel to the right. Clicking the list item or the detail panel will lock it open.
+[H3]Painel Detalhe da Relação[/H3]
+Passando o mouse sobre um item da lista mostra o painel de detalhes da relação à direita. Clicar no item da lista ou no painel de detalhes irá mantê-lo aberto.
 
-The detail panel provides a complete summary of your relationship with the selected pirate faction, with similar information to what you would see when interacting with another empire.
+O painel de detalhes fornece um resumo completo de sua relação com a facção pirata selecionada, com informações semelhantes às que você veria ao interagir com outro império.
 
-[H3]Speaking with Pirates[/H3]
-You can converse with the pirates by clicking the 'Speak' button underneath their name in the detail panel. Discussions with pirates provides options like offering treaties and gifts, and negotiating detailed trade deals.
+[H3]Conversando com os Piratas[/H3]
+Você pode conversar com os piratas clicando no botão 'Falar' abaixo do nome deles no painel de detalhes. As discussões com os piratas oferecem opções como oferecer tratados e presentes, e negociar acordos comerciais detalhados.
 
-Pirates often have much secret information about the galaxy which they may be willing to sell to you if relations are friendly enough.
+Os piratas frequentemente têm muitas informações secretas sobre a galáxia que podem estar dispostos a vender para você se as relações forem amigáveis o suficiente.
 
-Click 'Goodbye' or the close button at top-right to end the conversation.
-
+Clique em 'Adeus' ou no botão de fechar no canto superior direito para encerrar a conversa.

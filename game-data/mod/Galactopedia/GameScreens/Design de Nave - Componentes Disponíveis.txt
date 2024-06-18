@@ -1,10 +1,10 @@
-The Available Components list shows all of the researched components that are available to add to the design.
+A lista de Componentes Disponíveis mostra todos os componentes pesquisados que estão disponíveis para adicionar ao projeto.
 
-Only components that are valid for the role are shown. Thus fighters do not see any ship components, and vice versa. Components will also be excluded if they are too large for any bays in the hull.
+Apenas os componentes válidos para o papel são mostrados. Assim, caças não veem nenhum componente de nave, e vice-versa. Os componentes também serão excluídos se forem muito grandes para qualquer baia no casco.
 
-You can further filter the components using the dropdown list at the top-left of the panel. This allows you to filter by bay type, or to just show the latest component per category.
+Você pode filtrar ainda mais os componentes usando a lista suspensa no canto superior esquerdo do painel. Isso permite filtrar por tipo de baia ou mostrar apenas o componente mais recente por categoria.
 
-You can sort the components using the dropdown list at the top-right of the panel. This allows you to sort by name, category, tech level or size.
+Você pode ordenar os componentes usando a lista suspensa no canto superior direito do painel. Isso permite ordenar por nome, categoria, nível tecnológico ou tamanho.
 
-[H3]Component Summary[/H3]
-As you hover over each component a popup summary will appear at the right, outlining the component specs.
+[H3]Resumo do Componente[/H3]
+Ao passar o mouse sobre cada componente, um resumo emergente aparecerá à direita, detalhando as especificações do componente.

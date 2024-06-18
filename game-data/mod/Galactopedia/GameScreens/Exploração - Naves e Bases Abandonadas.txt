@@ -1,8 +1,8 @@
-Exploration may occasionally reveal abandoned ships or bases. These may hold important information that you can obtain when you board and investigate. They can usually also be salvaged by sending a construction ship to repair them.
+A exploração ocasionalmente pode revelar naves ou bases abandonadas. Estas podem conter informações importantes que você pode obter ao abordá-las e investigá-las. Geralmente também podem ser recuperadas enviando uma nave de construção para repará-las.
 
-[H3]Abandoned Ships and Bases List[/H3]
-This screen lists all of the known abandoned ships and bases that you have encountered while exploring the galaxy.
+[H3]Lista de Naves e Bases Abandonadas[/H3]
+Esta tela lista todas as naves e bases abandonadas conhecidas que você encontrou durante a exploração da galáxia.
 
-When zoomed out to the galaxy- or system-level the abandoned ship or base locations are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select the abandoned ship or base. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível galáctico ou do sistema, as localizações das naves ou bases abandonadas são destacadas no mapa. Passar o mouse sobre um item na lista mostrará a localização no mapa. Clicar no item irá selecionar a nave ou base abandonada. Clicar duas vezes no item moverá a visualização para essa localização.
 
-The button at the right allows you to queue repair and investigation of the abandoned ship or base. This will send a construction ship to repair the item.
+O botão no canto direito permite que você coloque na fila a reparação e investigação da nave ou base abandonada. Isso enviará uma nave de construção para reparar o item.

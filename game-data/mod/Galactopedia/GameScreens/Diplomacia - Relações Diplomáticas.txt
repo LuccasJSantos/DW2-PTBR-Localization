@@ -1,56 +1,54 @@
-As you encounter other factions you can engage in diplomacy with them. Diplomacy involves establishing treaties, giving gifts and trade deals. When things don't go well it can also include war and conquest.
+À medida que você encontra outras facções, pode se envolver em diplomacia com elas. A diplomacia envolve estabelecer tratados, dar presentes e negociar acordos comerciais. Quando as coisas não vão bem, pode incluir guerra e conquista.
 
-[H3]Relation List[/H3]
-This screen lists all your relations with other empires. Note that by default this excludes pirate factions and independent colonies. Check the various sort and filter options at the top of the panel.
+[H3]Lista de Relações[/H3]
+Esta tela lista todas as suas relações com outras impérios. Note que por padrão isso exclui facções piratas e colônias independentes. Verifique as várias opções de classificação e filtro no topo do painel.
 
-Each list item shows how the other empire feels towards you along with the trend of your relationship.
+Cada item da lista mostra como o outro império se sente em relação a você, juntamente com a tendência do seu relacionamento.
 
-Clicking a relation item in the list will select the faction capital, if known.
+Clicar em um item da relação na lista irá selecionar a capital da facção, se conhecida.
 
-[H3]Relation Detail Panel[/H3]
-Hovering over a list item shows the Relation detail panel to the right. Clicking the list item or the detail panel will lock it open.
+[H3]Painel Detalhe da Relação[/H3]
+Passando o mouse sobre um item da lista mostra o painel de detalhes da relação à direita. Clicar no item da lista ou no painel de detalhes irá mantê-lo aberto.
 
-The detail panel provides a complete summary of your relationship with the selected empire. At the top are shown the empire flag and all of the races in the empire. Hover over each race for the total population in the empire and a summary of their characteristics.
+O painel de detalhes fornece um resumo completo de sua relação com o império selecionado. No topo são mostradas a bandeira do império e todas as raças no império. Passe o mouse sobre cada raça para ver a população total no império e um resumo de suas características.
 
-The style of government is shown underneath the empire name.
+O estilo de governo é mostrado abaixo do nome do império.
 
-Below this is the 'Speak' button that allows you to initiate a conversation with the other faction.
+Abaixo disso está o botão 'Falar', que permite iniciar uma conversa com a outra facção.
 
-[H3]Speaking with another Faction[/H3]
-Speaking with the other faction provides a number of options including offering treaties and gifts, and negotiating detailed trade deals. Click 'Goodbye' or the close button at top-right to end the conversation.
+[H3]Conversando com outra Facção[/H3]
+Conversar com a outra facção oferece várias opções, incluindo oferecer tratados e presentes, e negociar acordos comerciais detalhados. Clique em 'Adeus' ou no botão de fechar no canto superior direito para encerrar a conversa.
 
-[H3]Reputation[/H3]
-The empire's current Reputation indicates how others generally view this empire. An empire's reputation comes from its actions. Hover over the value for a list of the factors contributing to the empire's reputation.
+[H3]Reputação[/H3]
+A Reputação atual do império indica como os outros geralmente veem este império. A reputação de um império vem de suas ações. Passe o mouse sobre o valor para ver uma lista dos fatores que contribuem para a reputação do império.
 
+[H3]Cansaço de Guerra[/H3]
+O Cansaço de Guerra aumenta ao longo do tempo sempre que um império está em guerra com outra facção. Aumenta significativamente quando o império sofre perdas significativas em batalha. Um cansaço de guerra alto leva a infelicidade e instabilidade nas colônias. Portanto, um império geralmente busca a paz quando seu cansaço de guerra é alto.
 
-[H3]War Weariness[/H3]
-War Weariness grows over time whenever an empire is at war with another faction. It greatly increases when the empire suffers significant losses in battle. High war weariness leads to unhappiness and unrest at colonies. Thus an empire will typically seek peace when their war weariness is high.
+No entanto, às vezes o valor de cansaço de guerra de um império pode ser positivo se eles forem vítimas de uma declaração de guerra injustificada por outra facção. Nesse caso, eles têm motivação adicional para lutar contra os agressores.
 
-However, sometimes an empire's war weariness value can actually be positive if they are the victims of an unjustified declaration of war by another faction. In this case they have additional motivation to fight against the aggressors.
+[H3]Estratégia[/H3]
+A seção Estratégia mostra como seu império planeja lidar com a outra facção. Você pode automatizar essa configuração e deixar seus conselheiros selecionarem uma estratégia apropriada.
 
+Alternativamente, você pode controlar manualmente a estratégia desligando a automação usando o botão à esquerda e selecionando sua estratégia desejada na lista suspensa à direita. Passe o mouse sobre a estratégia atual para uma explicação do que significa ao lidar com a outra facção.
 
-[H3]Strategy[/H3]
-The Strategy section shows how your empire plans to deal with the other faction. You can automate this setting, and thus let your advisors select an appropriate strategy.
+[H3]Status e Tratados[/H3]
+Todos os tratados atuais são listados no topo da seção de Status.
 
-Alternatively you can manually control the strategy by turning off automation using the button at the left, and then selecting your desired strategy from the dropdown list at the right. Hover over the current strategy for an explanation of what it means when dealing with the other faction.
+A próxima parte da seção de Status mostra como a outra facção se sente em relação a você. O valor à esquerda é o valor geral que define como eles se sentem em relação a você. Um valor positivo mostra que eles gostam de você, um valor negativo mostra que eles não gostam.
 
-[H3]Status and Treaties[/H3]
-Any current treaties are listed at the top of the Status section.
+Este sentimento é descrito pelo texto no meio. Passe o mouse sobre este texto para ver como seus conselheiros se sentem em relação à outra facção. A tendência atual do relacionamento é mostrada à direita.
 
-The next part of the Status section shows the other factions feeling towards you. The value at the left is the overall value defining how they feel about you. A positive value shows they like you, a negative value shows they dislike you.
+Abaixo do total resumido está uma lista completa de todos os fatores que contribuem para a avaliação da outra facção sobre você. Alguns desses fatores podem ser estáticos e imutáveis, enquanto outros podem mudar ao longo do tempo, aumentando ou diminuindo de valor. Qualquer tendência para cada fator é mostrada à direita.
 
-This feeling is described by the text in the middle. Hovering over this text shows how your advisors feel about the other faction. The current relationship trend is shown at the right.
+[H3]Outras Informações[/H3]
+A seção Informações do Império exibe informações-chave que você conhece sobre a outra facção. Note que algumas informações aqui podem ser incompletas, por exemplo, a Força Militar Conhecida mostra apenas a força das naves militares que você viu.
 
-Under the summarized total is a complete list of all the factors that contribute to the other factions evaluation of you. Some of these factors may be static and non-changing, whereas others may change over time, increasing or decreasing in value. Any trend for each factor is shown at the right.
+A seção de Fornecimento de Recursos mostra qualquer renda comercial com a outra facção. Isso significa os recursos que você comprou e vendeu com eles.
 
-[H3]Other Info[/H3]
-The Empire Info section displays key information that you know about the other faction. Note that seom of the information here may be incomplete, e.g. Known Military Strength only shows strength from the military ships that you have seen.
+Esta seção também mostra os recursos exclusivos que a outra facção pode fornecer a você (uma vez que você tenha um acordo comercial). Estes são recursos dos quais você tem escassez, mas o outro império pode negociar com você.
 
-The Resource Supply section shows any trade income with the other faction. This means the resources that you have bought and sold with them.
+[H3]Relações com outras facções[/H3]
+A seção Relação com Outros mostra as relações da outra facção com todos os outros impérios que você encontrou, incluindo quaisquer tratados e seus sentimentos um pelo outro.
 
-This section also shows the unique resources that the other faction can supply you with (once you have a trade agreement). These are resources that you have shortage of, but the other empire can trade with you.
-
-[H3]Their relations with other factions[/H3]
-The Relationship With Others section shows the other faction's relations with all other empires that you have met, including any treaties and their feelings towards each other.
-
-Hover over the feeling description for details on how both sides feel towards each other.
+Passe o mouse sobre a descrição do sentimento para obter detalhes sobre como ambos os lados se sentem um pelo outro.

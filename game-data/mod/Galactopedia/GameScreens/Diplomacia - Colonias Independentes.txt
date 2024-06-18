@@ -1,29 +1,29 @@
-Independent Colonies are populated worlds that do not belong to any faction. They are neutral worlds, and are largely undeveloped.
+Colonies independentes são mundos habitados que não pertencem a nenhuma facção. São mundos neutros e em grande parte subdesenvolvidos.
 
-You can befriend them by establishing trade treaties and offering them gifts. If they like you enough they may ask you to colonize them and join your empire. The large, already established populations of independent colonies can provide a big boost to your empire when it is still growing.
+Você pode conquistá-los estabelecendo tratados comerciais e oferecendo presentes. Se eles gostarem o suficiente de você, podem pedir para serem colonizados e se juntar ao seu império. As populações grandes e já estabelecidas das colônias independentes podem fornecer um grande impulso ao seu império quando ainda está crescendo.
 
-Another strategy for dealing with independent colonies is to simply build up your troops and invade them. However doing this will harm your reputation with other factions.
+Outra estratégia para lidar com colônias independentes é simplesmente construir suas tropas e invadi-las. No entanto, fazer isso prejudicará sua reputação com outras facções.
 
-[H3]Independent Colony List[/H3]
-This screen lists all your relations with independent colonies. Check the various sort and filter options at the top of the panel.
+[H3]Lista de Colônias Independentes[/H3]
+Esta tela lista todas as suas relações com colônias independentes. Verifique as diversas opções de classificação e filtro no topo do painel.
 
-Independent colonies do not belong to any faction. You can trade with them for resources. You can also integrate them into your empire, either by force or through diplomacy.
+Colônias independentes não pertencem a nenhuma facção. Você pode negociar com elas por recursos. Você também pode integrá-las ao seu império, seja pela força ou através da diplomacia.
 
-Each list item shows how the independent colony feels towards you along with the trend of your relationship.
+Cada item da lista mostra como a colônia independente se sente em relação a você, junto com a tendência do seu relacionamento.
 
-Clicking a relation item in the list will select the independent colony, if known.
+Ao clicar em um item da lista, a colônia independente é selecionada, se conhecida.
 
-[H3]Relation Detail Panel[/H3]
-Hovering over a list item shows the Relation detail panel to the right. Clicking the list item or the detail panel will lock it open.
+[H3]Painel de Detalhes da Relação[/H3]
+Ao passar o mouse sobre um item da lista, o painel de detalhes da relação é exibido à direita. Clicar no item da lista ou no painel de detalhes o manterá aberto.
 
-The detail panel provides a complete summary of your relationship with the selected independent colony, with similar information to what you would see when interacting with another empire.
+O painel de detalhes fornece um resumo completo do seu relacionamento com a colônia independente selecionada, com informações semelhantes às que você veria ao interagir com outro império.
 
-[H3]Strategy[/H3]
-The Strategy section allows you to specify how you will interact with the colony. You can attempt to integrate them via gifts and diplomacy, eventually leading to an invitation to colonize. Or you can choose to invade and take the colony by force.
+[H3]Estratégia[/H3]
+A seção Estratégia permite especificar como você irá interagir com a colônia. Você pode tentar integrá-la através de presentes e diplomacia, eventualmente levando a um convite para colonizá-la. Ou você pode escolher invadir e tomar a colônia pela força.
 
-[H3]Speaking with an Independent Colony[/H3]
-You can converse with the independent colony by clicking the 'Speak' button underneath their name in the detail panel. Discussions with independent colonies provides options like offering treaties and gifts, or even negotiating detailed trade deals.
+[H3]Conversando com uma Colônia Independente[/H3]
+Você pode conversar com a colônia independente clicando no botão 'Falar' abaixo do nome dela no painel de detalhes. As discussões com colônias independentes oferecem opções como oferecer tratados e presentes, ou até negociar acordos comerciais detalhados.
 
-Independent colonies can often have knowledge about secret locations throughout the galaxy which they may be willing to sell to you if relations are friendly enough.
+Colônias independentes muitas vezes têm conhecimento sobre locais secretos por toda a galáxia, que podem estar dispostas a vender para você se as relações forem amigáveis o suficiente.
 
-Click 'Goodbye' or the close button at top-right to end the conversation.
+Clique em 'Adeus' ou no botão de fechar no canto superior direito para encerrar a conversa.

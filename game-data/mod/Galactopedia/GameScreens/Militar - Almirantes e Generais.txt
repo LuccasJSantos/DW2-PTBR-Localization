@@ -1,21 +1,22 @@
-Any Admiral or General characters in your empire are shown in this list.
+[H3]Lista de Almirantes e Generais[/H3]
+Todos os personagens Almirante ou General em seu império são mostrados nesta lista.
 
-You can see the details of each character by hovering over the list entry and clicking to lock open the panel at the right.
+Você pode ver os detalhes de cada personagem passando o mouse sobre a entrada na lista e clicando para travar o painel à direita.
 
-You can change a character's name by clicking on their name under the portrait and typing a new one.
+Você pode alterar o nome de um personagem clicando em seu nome abaixo do retrato e digitando um novo.
 
-[H3]Admiral and General Locations[/H3]
-Admirals apply their combat bonuses when they are onboard a military ship, and especially when they are in a fleet. You should use the location dropdown list and the 'Transfer' button to assign them to a particular fleet or other location.
+[H3]Localizações de Almirantes e Generais[/H3]
+Almirantes aplicam seus bônus de combate quando estão a bordo de uma nave militar, especialmente quando estão em uma frota. Você deve usar a lista suspensa de localização e o botão 'Transferir' para atribuí-los a uma frota específica ou outro local.
 
-Admirals can also provide non-combat bonuses when stationed at spaceports, e.g. ship construction speed.
+Almirantes também podem fornecer bônus não combativos quando estacionados em portos espaciais, por exemplo, velocidade de construção de naves.
 
-Generals apply their ground combat bonuses when they are at a colony: either defending one of your own colonies or invading an enemy colony. You should use the location dropdown list and the 'Transfer' button to assign them to a particular fleet or colony.
+Generais aplicam seus bônus de combate terrestre quando estão em uma colônia: defendendo uma de suas próprias colônias ou invadindo a colônia inimiga. Você deve usar a lista suspensa de localização e o botão 'Transferir' para atribuí-los a uma frota específica ou colônia.
 
-To use a General defensively you should place them at one of your colonies. To use them for attacking you should place them in one of your Invasion fleets.
+Para usar um General defensivamente, você deve colocá-lo em uma de suas colônias. Para usá-lo em ataques, você deve colocá-lo em uma de suas frotas de invasão.
 
-Generals can also provide non-combat bonuses when stationed at colonies, e.g. troop recruitment rate.
+Generais também podem fornecer bônus não combativos quando estacionados em colônias, como taxa de recrutamento de tropas.
 
-Alternatively you can automate the admiral or general so that your military advisors will select the best location for them. Use the 'Automate' button under the character portrait at the right.
+Alternativamente, você pode automatizar o almirante ou general para que seus conselheiros militares selecionem a melhor localização para eles. Use o botão 'Automatizar' abaixo do retrato do personagem à direita.
 
-[H3]Events[/H3]
-At the very bottom of the detail panel is a list of all the events that the admiral or general has been involved with. Various events can improve or decrease their skills, or provide new character traits.
+[H3]Eventos[/H3]
+Na parte inferior do painel de detalhes, há uma lista de todos os eventos em que o almirante ou general esteve envolvido. Vários eventos podem melhorar ou diminuir suas habilidades, ou fornecer novos traços de caráter.

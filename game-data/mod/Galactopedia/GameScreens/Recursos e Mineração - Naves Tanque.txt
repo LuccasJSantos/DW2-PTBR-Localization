@@ -1,10 +1,10 @@
-Fuel Tankers travel around refuelling ships that are low on fuel. When you assign Fuel Tankers to a fleet they will give priority to refuelling ships in their fleet.
+Os Transportadores de Combustível viajam pelo espaço reabastecendo naves que estão com baixo nível de combustível. Quando você atribui Transportadores de Combustível a uma frota, eles dão prioridade ao reabastecimento das naves dentro dessa frota.
 
-They can mine fuel from any location with a fuel resource. But they prefer to load fuel from a spaceport or colony, because this is usually a quicker way to obtain fuel.
+Eles podem extrair combustível de qualquer local com recurso de combustível. No entanto, eles preferem carregar combustível de um porto espacial ou colônia, pois geralmente é uma forma mais rápida de obter combustível.
 
-[H3]Fuel Tanker List[/H3]
-This screen lists all of the Fuel Tankers in your empire.
+[H3]Lista de Transportadores de Combustível[/H3]
+Esta tela lista todos os Transportadores de Combustível no seu império.
 
-When zoomed out to the galaxy- or system-level the Fuel Tankers are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando o zoom está afastado para o nível de galáxia ou sistema, os Transportadores de Combustível são destacados no mapa. Passar o mouse sobre um item na lista irá pingar a localização no mapa. Clicar no item irá selecioná-lo. Dar um duplo-clique no item moverá a visão para essa localização.
 
-Each list item shows the current cargo and mission of the Fuel Tanker.
+Cada item da lista mostra a carga atual e a missão atual do Transportador de Combustível.

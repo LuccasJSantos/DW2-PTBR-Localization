@@ -1,7 +1,7 @@
-This screen lists all of the artifacts owned by your empire.
+Esta tela lista todos os artefatos possuídos pelo seu império.
 
-Artifacts are objects that you can acquire through exploration. They typically provide bonuses to your empire or to their location. Sometimes artifacts must be at a colony or at your capital to provide their benefits.
+Artefatos são objetos que você pode adquirir através da exploração. Eles geralmente fornecem bônus para seu império ou para sua localização. Às vezes, artefatos precisam estar em uma colônia ou em sua capital para fornecer seus benefícios.
 
-When zoomed out to the galaxy- or system-level the artifact locations are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível da galáxia ou do sistema, as localizações dos artefatos são destacadas no mapa. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecioná-lo. Duplo-clique no item moverá a visualização para essa localização.
 
-Hovering over an artifact in the list will also show a detailed summary panel at the right.
+Passar o mouse sobre um artefato na lista também mostrará um painel de resumo detalhado à direita.

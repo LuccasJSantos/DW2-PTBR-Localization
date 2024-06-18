@@ -1,17 +1,17 @@
-This screen shows you locations you have explored that have special research bonuses. These locations are where you should build new research stations. Check the sort and filter options at the top of the panel. You can filter by specific research bonuses to quickly identify new locations for a particular research area.
+Esta tela mostra os locais que você explorou que possuem bônus especiais de pesquisa. Estes são os locais onde você deve construir novas estações de pesquisa. Verifique as opções de ordenação e filtragem na parte superior do painel. Você pode filtrar por bônus de pesquisa específicos para identificar rapidamente novos locais para uma área de pesquisa particular.
 
-When zoomed out to the galaxy- or system-level the new research locations are highlighted on the map. Hovering over an item in the list will ping the location on the map. This helps you to easily see where a location is in relation to others.
+Quando ampliado para o nível de galáxia ou sistema, os novos locais de pesquisa são destacados no mapa. Passar o mouse sobre um item na lista pingará a localização no mapa. Isso ajuda você a visualizar facilmente onde está o local em relação aos outros.
 
-Clicking a list item will select it. Double-clicking an item will move the view to that location.
+Clicar em um item da lista o selecionará. Duplo-clique em um item moverá a visualização para essa localização.
 
-Each list item shows the research bonuses at the location. Hover over the bonus description for a complete summary of all research bonuses at the location, including where they come from. 
+Cada item da lista mostra os bônus de pesquisa no local. Passe o mouse sobre a descrição do bônus para um resumo completo de todos os bônus de pesquisa no local, incluindo sua origem.
 
-[H3]Queuing New Research Stations[/H3]
-The button at the right allows you to queue construction of a new research station at the location. When the next construction ship becomes available it will build a research station here. You can click the button again to cancel construction.
+[H3]Enfileirando Novas Estações de Pesquisa[/H3]
+O botão à direita permite enfileirar a construção de uma nova estação de pesquisa no local. Quando o próximo navio de construção estiver disponível, ele construirá uma estação de pesquisa aqui. Você pode clicar novamente no botão para cancelar a construção.
 
-If you cannot build at the location the Queue button will be disabled. A tooltip on the button will explain why you cannot build there.
+Se você não puder construir no local, o botão de Enfileiramento será desabilitado. Uma dica sobre o botão explicará o motivo pelo qual você não pode construir lá.
 
-[H3]Dangerous Locations[/H3]
-A red lightning bolt symbol will be shown next to the location name if the location is considered dangerous. A location is dangerous when there are uncleared threats present, like pirates or deadly space creatures.
+[H3]Locais Perigosos[/H3]
+Um símbolo de raio vermelho será mostrado ao lado do nome do local se o local for considerado perigoso. Um local é perigoso quando há ameaças não eliminadas, como piratas ou criaturas espaciais mortais.
 
-Non-military ships will not travel to a dangerous location. The threats must first be cleared by military ships or a fleet. This means that while you can queue construction of new research stations at a dangerous location, construction ships will not go there to build the new station until the threats are cleared.
+Navios não militares não viajarão para um local perigoso. As ameaças devem ser eliminadas primeiro por navios militares ou uma frota. Isso significa que, embora você possa enfileirar a construção de novas estações de pesquisa em um local perigoso, os navios de construção não irão até lá para construir a nova estação até que as ameaças sejam eliminadas.

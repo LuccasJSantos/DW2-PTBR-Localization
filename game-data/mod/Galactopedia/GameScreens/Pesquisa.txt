@@ -1,23 +1,23 @@
-Research unlocks new tech that you can use to improve your empire in various ways:
-[ULI]new ship hulls and components allow you to build bigger and better ships and bases[/ULI]
-[ULI]new planetary facilities help improve your colonies[/ULI]
-[ULI]improve your ability to colonize new worlds[/ULI]
-[ULI]improve your ground troops[/ULI]
-[ULI]provide various bonuses, including improving your diplomatic relations with other factions[/ULI]
+A pesquisa desbloqueia novas tecnologias que você pode usar para melhorar seu império de várias maneiras:
+[ULI]novos cascos e componentes de nave permitem que você construa naves e bases maiores e melhores[/ULI]
+[ULI]novas instalações planetárias ajudam a melhorar suas colônias[/ULI]
+[ULI]melhoram sua capacidade de colonizar novos mundos[/ULI]
+[ULI]melhoram suas tropas terrestres[/ULI]
+[ULI]fornecem vários bônus, incluindo melhorar suas relações diplomáticas com outras facções[/ULI]
 
-[H3]Research Screen[/H3]
-In the Research Screen you can view the entire tech tree and select new projects to research.
+[H3]Tela de Pesquisa[/H3]
+Na Tela de Pesquisa, você pode visualizar todo o árvore tecnológica e selecionar novos projetos para pesquisar.
 
-You can also accelerate research progress by paying to 'crash-research' a project.
+Você também pode acelerar o progresso da pesquisa pagando para 'crash-research' um projeto.
 
-[H3]Concurrent Projects[/H3]
-When you have multiple research stations you can research more than one project at a time.
+[H3]Projetos Concorrentes[/H3]
+Quando você tem múltiplas estações de pesquisa, você pode pesquisar mais de um projeto ao mesmo tempo.
 
-You set the upper limit to how many projects to concurrently research using this value.
+Você define o limite máximo de quantos projetos pesquisar simultaneamente usando esse valor.
 
-[H3]Sources and Output[/H3]
-Research output comes from both the populations at your colonies and research stations that you build.
+[H3]Fontes e Produção[/H3]
+A produção de pesquisa vem tanto das populações de suas colônias quanto das estações de pesquisa que você constrói.
 
-To fully exploit your research output you should also spend excess funding on research. Fully-funded research means faster access to new technologies.
+Para aproveitar totalmente sua produção de pesquisa, você também deve gastar fundos excedentes em pesquisa. Pesquisa totalmente financiada significa acesso mais rápido a novas tecnologias.
 
-You can allocate research funding in the Funding Levels screen (shift-F2) in the Empire section.
+Você pode alocar financiamento para pesquisa na tela Níveis de Financiamento (Shift-F2) na seção Império.

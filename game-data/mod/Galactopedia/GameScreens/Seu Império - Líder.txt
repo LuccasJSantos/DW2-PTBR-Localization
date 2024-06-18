@@ -1,14 +1,14 @@
-Your empire's leader is shown here. Your Leader is a very important character for your empire. Their skills apply across your entire empire, providing benefits or penalties in various areas.
+O líder do seu império é mostrado aqui. Seu Líder é um personagem muito importante para o seu império. Suas habilidades se aplicam por todo o seu império, proporcionando benefícios ou penalidades em várias áreas.
 
-You can see the details of your leader by hovering over the list entry and clicking to lock open the panel at the right.
+Você pode ver os detalhes do seu líder passando o mouse sobre a entrada da lista e clicando para travar o painel à direita aberto.
 
-You can change your Leader's name by clicking on their name under the portrait and typing a new one.
+Você pode mudar o nome do seu líder clicando em seu nome abaixo do retrato e digitando um novo.
 
-[H3]Leader Location[/H3]
-Your leader should be located at the capital of your empire. But if you wish you can transfer him to another location using the dropdown list and the Transfer button below.
+[H3]Localização do Líder[/H3]
+Seu líder deve estar localizado na capital do seu império. Mas se desejar, você pode transferi-lo para outra localização usando a lista suspensa e o botão Transferir abaixo.
 
-[H3]Events[/H3]
-At the very bottom of the detail panel is a list of all the events that your leader has been involved with. Various events can improve or decrease your Leader's skills, or provide new character traits.
+[H3]Eventos[/H3]
+No painel de detalhes, na parte inferior, há uma lista de todos os eventos em que seu líder esteve envolvido. Diferentes eventos podem melhorar ou diminuir as habilidades do seu Líder, ou fornecer novos traços de personagem.
 
-[H3]Dismissing your Leader[/H3]
-If your leader has very poor skills you may decide to dismiss him using the button under his portrait. A new leader will eventually be selected to replace them.
+[H3]Dispensando seu Líder[/H3]
+Se seu líder tiver habilidades muito fracas, você pode decidir dispensá-lo usando o botão abaixo de seu retrato. Um novo líder eventualmente será selecionado para substituí-lo.

@@ -1,26 +1,26 @@
-Hovering over a project will present a summary of the project, including the benefits it unlocks. As you hover longer, a more detailed summary is displayed, with comprehensive data on the project benefits.
+Passar o mouse sobre um projeto apresentará um resumo do projeto, incluindo os benefícios que desbloqueia. Conforme você mantém o cursor sobre o projeto por mais tempo, um resumo mais detalhado é exibido, com dados abrangentes sobre os benefícios do projeto.
 
-Note that you can also hover over projects in the research queue, and the 'Queue Suggested Project' button.
+Observe que você também pode passar o mouse sobre os projetos na fila de pesquisa e sobre o botão 'Adicionar Projeto Sugerido à Fila'.
 
-[H3]Queuing a Project for Research[/H3]
-Left-click a project to queue it for research.
+[H3]Adicionar um Projeto à Fila de Pesquisa[/H3]
+Clique com o botão esquerdo em um projeto para adicioná-lo à fila de pesquisa.
 
-Right-click a project to remove it from the research queue.
+Clique com o botão direito em um projeto para removê-lo da fila de pesquisa.
 
-[H3]Initiation Costs[/H3]
-Some projects require an initiation cost to be paid before research can begin. The cost may include money and resources.
+[H3]Custos de Iniciação[/H3]
+Alguns projetos requerem um custo de iniciação a ser pago antes que a pesquisa possa começar. O custo pode incluir dinheiro e recursos.
 
-When you left-click to queue a project that has initiation costs, a prompt window will popup asking you to approve payment of the costs.
+Quando você clica com o botão esquerdo para adicionar à fila um projeto que possui custos de iniciação, uma janela de prompt aparecerá pedindo sua aprovação para o pagamento dos custos.
 
-[H3]Extra Requirements[/H3]
-Some projects have extra research bonus requirements before you can begin researching them. This means that they can only be initiated when you have sufficient research bonuses of a particular type, e.g. some high-end Shield projects require you to have a certain threshold of Shield research bonuses.
+[H3]Requisitos Extras[/H3]
+Alguns projetos têm requisitos extras de bônus de pesquisa antes que você possa começar a pesquisá-los. Isso significa que eles só podem ser iniciados quando você tem bônus de pesquisa suficientes de um tipo específico, por exemplo, alguns projetos avançados de escudo exigem que você tenha um certo limite de bônus de pesquisa de escudo.
 
-You can obtain research bonuses in specific areas by seeking out these locations through exploration. When you find an area with special research bonuses you can then build a research station there to obtain those bonuses for your empire.
+Você pode obter bônus de pesquisa em áreas específicas procurando por esses locais através da exploração. Quando encontrar uma área com bônus de pesquisa especiais, você pode então construir uma estação de pesquisa lá para obter esses bônus para seu império.
 
-[H3]Crash Research[/H3]
-You can accelerate research of an important project by 'crash-researching' it. This means spending money to double the research rate for that project.
+[H3]Pesquisa Acelerada[/H3]
+Você pode acelerar a pesquisa de um projeto importante através da 'pesquisa acelerada'. Isso significa gastar dinheiro para dobrar a taxa de pesquisa desse projeto.
 
-To crash research a project:
-[ULI]ensure the project is currently being researched, i.e. is the top project in the queue[/ULI]
-[ULI]click the project in the view[/ULI]
-[ULI]a prompt window will appear asking you to approve payment to crash research the project[/ULI]
+Para pesquisar aceleradamente um projeto:
+[ULI]certifique-se de que o projeto está sendo atualmente pesquisado, ou seja, é o projeto principal na fila[/ULI]
+[ULI]clique no projeto na visualização[/ULI]
+[ULI]uma janela de prompt aparecerá pedindo sua aprovação para o pagamento para pesquisa acelerada do projeto[/ULI]

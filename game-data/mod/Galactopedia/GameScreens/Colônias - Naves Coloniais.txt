@@ -1,13 +1,13 @@
-Colony Ships are special transport ships that can load huge numbers of colonists that are sent to a colonize a new world for your empire.
+Naves Coloniais são naves especiais de transporte que podem carregar grandes números de colonos enviados para colonizar um novo mundo para o seu império.
 
-When colony ships reach their destination they are disassembled and the raw resources used in establishing the new colony. Thus colony ships can only be used to colonize a single world. You must build a new colony ship for each world you want to colonize.
+Quando as naves coloniais alcançam seu destino, elas são desmontadas e os recursos brutos são utilizados para estabelecer a nova colônia. Portanto, as naves coloniais só podem ser usadas para colonizar um único mundo. Você deve construir uma nova nave colonial para cada mundo que deseja colonizar.
 
-[H3]Colony Ship List[/H3]
-This screen lists all of the colony ships in your empire. Check the sort and filter options at the top of the panel.
+[H3]Lista de Naves Coloniais[/H3]
+Esta tela lista todas as naves coloniais em seu império. Verifique as opções de classificação e filtro no topo do painel.
 
-When zoomed out to the galaxy- or system-level the colony ship locations are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível da galáxia ou do sistema, as localizações das naves coloniais são destacadas no mapa. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecioná-lo. Duplo-clique no item moverá a visualização para essa localização.
 
-Each list item shows the construction level, current mission and any loaded colonists onboard.
+Cada item da lista mostra o nível de construção, missão atual e qualquer colono carregado a bordo.
 
-[H3]Automation Status[/H3]
-You change the automation status of the colony ship using the button at the far-right of the list item.
+[H3]Status de Automação[/H3]
+Você pode alterar o status de automação da nave colonial usando o botão à extrema direita do item da lista.

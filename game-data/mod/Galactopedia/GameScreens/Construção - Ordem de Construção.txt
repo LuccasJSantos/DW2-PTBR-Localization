@@ -1,8 +1,8 @@
-The Build Order screen provides a quick way to build a large number of ships. Each row lists a single ship role along with an amount field. Change the amount to build in the numeric field. You can also select the specific design to build for each role from the dropdown list in the center of each row.
+A tela de Ordem de Construção fornece uma maneira rápida de construir um grande número de naves. Cada linha lista um único papel de nave junto com um campo de quantidade. Altere a quantidade a ser construída no campo numérico. Você também pode selecionar o design específico para construir para cada papel a partir da lista suspensa no centro de cada linha.
 
-Once you have set the amount and design you want to build for each role, click the Purchase button at the top of the panel to buy the new ships and begin construction. The new ships will be built at the best available construction yard in your empire. Often this means using multiple construction yards spread throughout your empire.
+Depois de definir a quantidade e o design que deseja construir para cada papel, clique no botão Comprar no topo do painel para comprar as novas naves e iniciar a construção. As novas naves serão construídas no melhor estaleiro disponível em seu império. Frequentemente, isso significa usar vários estaleiros de construção espalhados por todo o seu império.
 
-[H3]Per Role Map Overlay[/H3]
-If you click on a role row you can then specify the amount and build location of each new ship by left-clicking on the yellow construction yard badges shown at the galaxy level.
+[H3]Sobreposição de Mapa por Papel[/H3]
+Se você clicar em uma linha de papel, poderá especificar a quantidade e o local de construção de cada nova nave clicando com o botão esquerdo nos distintivos amarelos de estaleiro de construção mostrados no nível da galáxia.
 
-Left-clicking once on a construction yard badge will queue construction of a single ship for that role at that location. Right-clicking on the badge will remove construction of a single ship for that role at that location.
+Clicar uma vez em um distintivo de estaleiro de construção enfileirará a construção de uma única nave para esse papel naquele local. Clicar com o botão direito no distintivo removerá a construção de uma única nave para esse papel naquele local.

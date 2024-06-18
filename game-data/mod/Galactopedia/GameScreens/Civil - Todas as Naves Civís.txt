@@ -1,7 +1,7 @@
-This screen lists all of the civilian ships in your empire. This includes freighters, passenger ships and mining ships.
+Esta tela lista todas as naves civis em seu império. Isso inclui cargueiros, naves de passageiros e naves de mineração.
 
-Civilian ships are part of your civilian economy, so you cannot normally assign missions to them. Instead they seek out their own missions: moving cargo, transporting tourists and migrants, and mining resources.
+Naves civis fazem parte de sua economia civil, então normalmente você não pode atribuir missões a elas. Em vez disso, elas procuram suas próprias missões: movendo carga, transportando turistas e migrantes, e minerando recursos.
 
-When zoomed out to the galaxy- or system-level the civilian ships are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível da galáxia ou do sistema, as naves civis são destacadas no mapa. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecioná-lo. Duplo-clique no item moverá a visualização para essa localização.
 
-Each list item shows the ship's current mission. It also shows any cargo or passengers that the ship is carrying.
+Cada item da lista mostra a missão atual da nave. Também mostra qualquer carga ou passageiros que a nave está transportando.

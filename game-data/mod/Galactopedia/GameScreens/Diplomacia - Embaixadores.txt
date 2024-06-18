@@ -1,15 +1,15 @@
-Any ambassador characters in your empire are shown in this list.
+Qualquer personagem embaixador em seu império é mostrado nesta lista.
 
-You can see the details of each ambassador by hovering over the list entry and clicking to lock open the panel at the right.
+Você pode ver os detalhes de cada embaixador passando o mouse sobre a entrada da lista e clicando para manter aberto o painel à direita.
 
-You can change an ambassador's name by clicking on their name under the portrait and typing a new one.
+Você pode mudar o nome de um embaixador clicando em seu nome sob o retrato e digitando um novo.
 
-[H3]Ambassador Location[/H3]
-Ambassadors apply diplomatic and espionage benefits to your relationship with another faction. To assign an ambassador to a particular faction you should send them to the faction's capital.
+[H3]Localização do Embaixador[/H3]
+Embaixadores aplicam benefícios diplomáticos e de espionagem à sua relação com outra facção. Para atribuir um embaixador a uma facção específica, você deve enviá-los para a capital da facção.
 
-Use the location dropdown list and the 'Transfer' button to assign them to the desired faction.
+Use a lista suspensa de localização e o botão 'Transferir' para atribuí-los à facção desejada.
 
-Alternatively you can automate the ambassador so that your diplomatic advisors will select the best location for them. Use the 'Automate' button under the ambassador portrait at the right.
+Alternativamente, você pode automatizar o embaixador para que seus conselheiros diplomáticos selecionem a melhor localização para eles. Use o botão 'Automatizar' sob o retrato do embaixador à direita.
 
-[H3]Events[/H3]
-At the very bottom of the detail panel is a list of all the events that the ambassador has been involved with. Various events can improve or decrease their skills, or provide new character traits.
+[H3]Eventos[/H3]
+Na parte inferior do painel de detalhes está uma lista de todos os eventos em que o embaixador esteve envolvido. Vários eventos podem melhorar ou diminuir suas habilidades, ou fornecer novos traços de caráter.

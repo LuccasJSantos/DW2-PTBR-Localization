@@ -1,9 +1,9 @@
-This screen lists all of the passenger ships in your empire.
+Esta tela lista todos os navios de passageiros em seu império.
 
-Passenger ships are part of your civilian economy, so you cannot assign missions to them. Instead they seek out their own missions, transporting tourists and migrants between locations.
+Navios de passageiros fazem parte da sua economia civil, então você não pode atribuir missões a eles. Em vez disso, eles procuram suas próprias missões, transportando turistas e migrantes entre localizações.
 
-Check the sort and filter options at the top of the panel. You can filter by the type of passengers being transported: tourists or migrants.
+Verifique as opções de ordenação e filtro no topo do painel. Você pode filtrar pelo tipo de passageiros sendo transportados: turistas ou migrantes.
 
-When zoomed out to the galaxy- or system-level the passenger ships are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível da galáxia ou do sistema, os navios de passageiros são destacados no mapa. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecioná-lo. Duplo-clique no item moverá a visualização para essa localização.
 
-Each list item shows the ship's current mission. It also shows any passengers that the ship is carrying.
+Cada item da lista mostra a missão atual da nave. Também mostra qualquer passageiro que a nave esteja transportando.

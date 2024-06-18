@@ -1,32 +1,32 @@
-Fleets are groupings of military ships that act together to carry out missions.
+As Frotas são agrupamentos de naves militares que atuam juntas para realizar missões.
 
-They have a home base that defines their center of operations. They also have an engagement range that defines the area they will engage enemy targets, in a radius out from their home base.
+Elas têm uma base principal que define seu centro de operações. Também possuem um alcance de engajamento que define a área em que irão enfrentar alvos inimigos, em um raio a partir de sua base principal.
 
-[H3]Fleets List[/H3]
-This screen lists all of the Fleets in your empire. Check the sort and filter options at the top of the panel.
+[H3]Lista de Frotas[/H3]
+Esta tela lista todas as Frotas em seu império. Verifique as opções de ordenação e filtro no topo do painel.
 
-When zoomed out to the galaxy- or system-level the fleets are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível de galáxia ou sistema, as frotas são destacadas no mapa. Passar o mouse sobre um item na lista marcará a localização no mapa. Clicar no item selecionará a frota. Duplo-clique no item moverá a visualização para essa localização.
 
-Each list item shows the current mission for the fleet. Also shown are the number of ships in the fleet, the combat strength of the fleet and the attack strength of any troops in the fleet. The fleet role icon is shown at the far-right. Any characters in the fleet are shown at the right, next to the mission description.
+Cada item da lista mostra a missão atual da frota. Também são mostrados o número de naves na frota, a força de combate da frota e a força de ataque de quaisquer tropas na frota. O ícone do papel da frota é mostrado no extremo direito. Quaisquer personagens na frota são mostrados à direita, ao lado da descrição da missão.
 
-Hovering over a list item displays a detailed summary in a panel at the right. This summary panel shows a complete breakdown of all ships in the fleet by ship role, damage level and fuel level. It also provides details on any admirals or generals in the fleet.
+Passar o mouse sobre um item da lista exibe um resumo detalhado em um painel à direita. Este painel de resumo mostra uma quebra completa de todas as naves na frota por papel da nave, nível de dano e nível de combustível. Ele também fornece detalhes sobre quaisquer almirantes ou generais na frota.
 
-[H3]Templates and Fleet Roles[/H3]
-As explained previously, fleets are based on a template. Fleets can have a specific role such as: Attack, Raid, Defend, or Invade. These fleets will select missions appropriate to their fleet role. 
+[H3]Modelos e Papéis de Frotas[/H3]
+Como explicado anteriormente, as frotas são baseadas em um modelo. Frotas podem ter um papel específico como: Ataque, Saque, Defesa ou Invasão. Essas frotas selecionarão missões apropriadas para seu papel de frota.
 
-You can also choose to control a fleet manually by setting it's role to Manual (Fleet Role button under Selection Panel) or by simply assigning a mission to the fleet (thus automatically changing it to a Manual fleet).
+Você também pode optar por controlar uma frota manualmente definindo seu papel como Manual (botão de Papel da Frota sob o Painel de Seleção) ou simplesmente atribuindo uma missão à frota (alterando automaticamente para uma frota Manual).
 
-[H3]Creating New Fleets[/H3]
-You can create a new fleet in a number of different ways:
-[ULI]select multiple military ships in the main view by drag-selecting with the left mouse button held down or by ctrl-clicking each ship. Then click the 'Create New Fleet' button under the Selection Panel[/ULI]
-[ULI]select multiple ships in the Military Ships list by ctrl- and shift-clicking ships in the list. Then click the 'Create New Fleet' button under the Selection Panel[/ULI]
-[ULI]in the Fleet Templates screen, select the desired template and then click either the 'Form new fleet' or 'Build new fleet' buttons at the right[/ULI]
+[H3]Criando Novas Frotas[/H3]
+Você pode criar uma nova frota de várias maneiras diferentes:
+[ULI]selecione várias naves militares na visualização principal arrastando para selecionar com o botão esquerdo do mouse pressionado ou clicando com ctrl em cada nave. Em seguida, clique no botão 'Criar Nova Frota' sob o Painel de Seleção[/ULI]
+[ULI]selecione várias naves na lista de Naves Militares clicando com ctrl e shift nas naves da lista. Em seguida, clique no botão 'Criar Nova Frota' sob o Painel de Seleção[/ULI]
+[ULI]na tela de Modelos de Frota, selecione o modelo desejado e depois clique nos botões 'Formar nova frota' ou 'Construir nova frota' à direita[/ULI]
 
-You can also add individual ships to an existing fleet by selecting the ship and clicking the 'Join ship to fleet' button under the Selection Panel. This will popup a list of all fleets that can be joined. Select the fleet you want the ship to join by clicking on it from the list.
+Você também pode adicionar naves individuais a uma frota existente selecionando a nave e clicando no botão 'Unir nave à frota' sob o Painel de Seleção. Isso abrirá uma lista de todas as frotas que podem ser unidas. Selecione a frota à qual deseja que a nave se una clicando nela na lista.
 
-[H3]Tactical Settings[/H3]
-Fleets have a full array of tactical settings that fine-tune how they operate. Open the tactical settings screen by selecting the fleet and clicking the 'Set Tactics' button at the far-right under the Selection Panel.
+[H3]Configurações Táticas[/H3]
+As frotas têm uma gama completa de configurações táticas que ajustam como elas operam. Abra a tela de configurações táticas selecionando a frota e clicando no botão 'Configurar Táticas' no extremo direito sob o Painel de Seleção.
 
-You can control how fleets will respond to threats by setting the Engagement Range. For further details hover over each setting in the Tactical Settings screen.
+Você pode controlar como as frotas responderão às ameaças definindo o Alcance de Engajamento. Para mais detalhes, passe o mouse sobre cada configuração na tela de Configurações Táticas.
 
-Note that individual ships within a fleet also have their own tactical settings. You can tweak how the fleet and ship tactics interact in the section 'Fleet Ships - Tactical Overrides'.
+Observe que as naves individuais dentro de uma frota também têm suas próprias configurações táticas. Você pode ajustar como as táticas da frota e da nave interagem na seção 'Naves da Frota - Substituições Táticas'.

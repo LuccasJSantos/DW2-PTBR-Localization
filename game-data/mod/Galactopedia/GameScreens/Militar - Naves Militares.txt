@@ -1,31 +1,31 @@
-Military Ships
+Naves Militares
 
-Military Ships defend your empire against enemy attacks. They can also be used to expand your empire through conquest, attacking enemy fleets and invading enemy colonies. Military Ships can also protect against marauding pirates and dangerous space creatures.
+As Naves Militares defendem seu império contra ataques inimigos. Elas também podem ser usadas para expandir seu império por meio de conquistas, atacando frotas inimigas e invadindo colônias inimigas. Naves Militares também protegem contra piratas saqueadores e criaturas perigosas do espaço.
 
-Military Ships come in various sizes and roles. As your tech progresses you can research new military Ship Hulls that allow you to design and construct larger military ships.
+Naves Militares vêm em diversos tamanhos e papéis. Conforme sua tecnologia avança, você pode pesquisar novos Casco de Naves Militares que permitem o projeto e construção de naves maiores.
 
-[H3]Assigning Missions[/H3]
-To assign missions to a military ship first select it by left-clicking in the list or directly in the main view. Then right-click over the target to assign the default mission.
+[H3]Atribuindo Missões[/H3]
+Para atribuir uma missão a uma nave militar, primeiro selecione-a clicando nela na lista ou diretamente na visualização principal. Em seguida, clique com o botão direito sobre o alvo para atribuir a missão padrão.
 
-Holding down the right-click button will provide a list of all valid missions for the target. Select the desired mission type from the list.
+Mantenha pressionado o botão direito para ver uma lista de todas as missões válidas para o alvo. Selecione o tipo de missão desejado na lista.
 
-[H3]Military Ship List[/H3]
-This screen lists all of the Military Ships in your empire. Check the extensive sort and filter options at the top of the panel. You can sort by strength, size, fleet, role and troop attack strength. You can filter by role, fleet status, automation status and damage level.
+[H3]Lista de Naves Militares[/H3]
+Esta tela lista todas as Naves Militares em seu império. Verifique as extensas opções de ordenação e filtragem no topo do painel. Você pode ordenar por força, tamanho, frota, papel e força de ataque das tropas. Você pode filtrar por papel, status da frota, status de automação e nível de dano.
 
-When zoomed out to the galaxy- or system-level the military ships are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando estiver ampliado para o nível de galáxia ou sistema, as naves militares são destacadas no mapa. Ao passar o mouse sobre um item na lista, a localização no mapa será sinalizada. Clicar no item o selecionará. Duplo-clique no item moverá a visão para aquela localização.
 
-Each list item shows the current mission for the ship. If the ship is part of a fleet the fleet name is shown in brackets after the ship name. Also shown are the combat strength of the ship and the attack strength of any troops onboard. Any characters onboard the ship are shown at the right, next to the mission description.
+Cada item da lista mostra a missão atual da nave. Se a nave fizer parte de uma frota, o nome da frota é mostrado entre colchetes após o nome da nave. Também são mostradas a força de combate da nave e a força de ataque de quaisquer tropas a bordo. Quaisquer personagens a bordo da nave são mostrados à direita, ao lado da descrição da missão.
 
-Ships that are damaged or under construction have a red or orange background behind their image. Hover over the ship image to show the health level.
+Naves que estão danificadas ou em construção têm um fundo vermelho ou laranja atrás de sua imagem. Passe o mouse sobre a imagem da nave para ver o nível de saúde.
 
-Hovering over a list item displays a detailed summary in a panel at the right.
+Ao passar o mouse sobre um item da lista, um resumo detalhado é exibido em um painel à direita.
 
-[H3]Automation Status[/H3]
-The small button at the right allows you to change the automation status of the ship. Thus you can manually control the ship or fully automate it, allowing it to select it's own missions.
+[H3]Status de Automação[/H3]
+O pequeno botão à direita permite que você altere o status de automação da nave. Assim, você pode controlar manualmente a nave ou automatizá-la completamente, permitindo que ela escolha suas próprias missões.
 
-Or you can have more specific automation, where the ship will only assign missions for escort, guard, patrol or raid.
+Ou você pode ter uma automação mais específica, onde a nave só atribuirá missões de escolta, guarda, patrulha ou raid.
 
-[H3]Tactical Settings[/H3]
-Each ship has a full array of tactical settings that fine-tune how they operate. Open the tactical settings screen by selecting the ship and clicking the 'Set Tactics' button at the far-right under the Selection Panel.
+[H3]Configurações Táticas[/H3]
+Cada nave possui uma série completa de configurações táticas que ajustam como elas operam. Abra a tela de configurações táticas selecionando a nave e clicando no botão 'Definir Táticas' no canto direito inferior, abaixo do Painel de Seleção.
 
-You can control how ships will respond to threats by setting the Engagement Range. For further details hover over each setting in the Tactical Settings screen.
+Você pode controlar como as naves responderão às ameaças configurando o Alcance de Engajamento. Para mais detalhes, passe o mouse sobre cada configuração na tela de Configurações Táticas.

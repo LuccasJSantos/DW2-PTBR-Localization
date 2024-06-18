@@ -1,17 +1,17 @@
-This screen lists potential new mining locations that you can target. These locations are where you should build new mining stations.
+Esta tela lista potenciais novas localizações de mineração que você pode visar. Estas são as áreas onde você deve construir novas estações de mineração.
 
-Check the sort and filter options at the top of the panel. The filter options allow you to target specific resources. Yellow-colored filter items are construction resources used to build new ships and bases. Light blue filter items are luxury resources used to develop your colonies.
+Verifique as opções de ordenação e filtro no topo do painel. As opções de filtro permitem direcionar recursos específicos. Itens de filtro amarelo são recursos de construção usados para construir novas naves e bases. Itens de filtro azul claro são recursos de luxo usados para desenvolver suas colônias.
 
-When zoomed out to the galaxy- or system-level the new mining locations are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando você está com o zoom afastado para o nível de galáxia ou sistema, as novas localizações de mineração são destacadas no mapa. Passar o mouse sobre um item na lista irá pingar a localização no mapa. Clicar no item irá selecioná-lo. Dar um duplo-clique no item moverá a visão para essa localização.
 
-Each list item shows the known resources and abundance levels at the location. If your empire has a shortage of the resource it will be surrounded by a dashed red border. Hover over each resource for a full summary, including any bonuses it provides.
+Cada item da lista mostra os recursos conhecidos e os níveis de abundância na localização. Se o seu império tiver escassez do recurso, ele será cercado por uma borda vermelha tracejada. Passe o mouse sobre cada recurso para um resumo completo, incluindo quaisquer bônus que ele forneça.
 
-[H3]Queuing New Mining Stations[/H3]
-The button at the right allows you to queue construction of a new mining station at the location. When the next construction ship becomes available it will build a mining station here. You can click the button again to cancel construction.
+[H3]Enfileirar Novas Estações de Mineração[/H3]
+O botão à direita permite enfileirar a construção de uma nova estação de mineração na localização. Quando a próxima nave de construção estiver disponível, ela construirá uma estação de mineração aqui. Você pode clicar no botão novamente para cancelar a construção.
 
-If you cannot build at the location the Queue button will be disabled. A tooltip on the button will explain why you cannot build there.
+Se você não puder construir na localização, o botão de Enfileiramento será desativado. Uma dica de ferramenta no botão explicará o motivo pelo qual você não pode construir lá.
 
-[H3]Dangerous Locations[/H3]
-A red lightning bolt symbol will be shown next to the location name if the location is considered dangerous. A location is dangerous when there are uncleared threats present, like pirates or deadly space creatures.
+[H3]Localizações Perigosas[/H3]
+Um símbolo de raio vermelho será mostrado ao lado do nome da localização se ela for considerada perigosa. Uma localização é perigosa quando há ameaças não eliminadas presentes, como piratas ou criaturas espaciais letais.
 
-Non-military ships will not travel to a dangerous location. The threats must first be cleared by military ships or a fleet. This means that while you can queue construction of new mining stations at a dangerous location, construction ships will not go there to build the new station until the threats are cleared.
+Naves não militares não viajarão para uma localização perigosa. As ameaças devem primeiro ser eliminadas por naves militares ou uma frota. Isso significa que, embora você possa enfileirar a construção de novas estações de mineração em uma localização perigosa, as naves de construção não irão lá construir a nova estação até que as ameaças sejam eliminadas.

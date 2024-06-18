@@ -1,15 +1,15 @@
-Army Templates allow you to define the relative composition of troop types. Army Templates are used by fleets and colonies to specify how many of each type of troop they should have.
+Os Modelos de Exército permitem que você defina a composição relativa dos tipos de tropas. Os Modelos de Exército são utilizados por frotas e colônias para especificar quantos de cada tipo de tropa devem ter.
 
-[H3]Army Template Types[/H3]
-There are 4 basic types of Army Template:
-[ULI]Invasion: assigned to fleets to define which troops should be used when invading enemy colonies. These would typically include lots of Armor, some Special Forces, some Infantry and Titans (if available)[/ULI]
-[ULI]Major Colony Defense: assigned to major colonies (like your capital) to define which troops should be used to defend the colony from invading enemy troops. These would typically include all troops types, but especially lots of infantry and planetary defense units.[/ULI]
-[ULI]Border Colony Defense: assigned to vulnerable border colonies to define which troops should be used to defend the colony from invading enemy troops. These would typically include lots of infantry and some planetary defense units.[/ULI]
-[ULI]Standard Colony Defense: assigned to all other colonies to define which troops should be used to defend the colony from invading enemy troops. These would typically include lots of infantry.[/ULI]
+[H3]Tipos de Modelo de Exército[/H3]
+Existem 4 tipos básicos de Modelo de Exército:
+[ULI]Invasão: atribuído a frotas para definir quais tropas devem ser usadas ao invadir colônias inimigas. Tipicamente incluem muito Armadura, algumas Forças Especiais, alguma Infantaria e Titãs (se disponíveis)[/ULI]
+[ULI]Defesa Major de Colônia: atribuído a colônias principais (como sua capital) para definir quais tropas devem ser usadas para defender a colônia de tropas inimigas invasoras. Tipicamente incluem todos os tipos de tropas, especialmente muita infantaria e unidades de defesa planetária.[/ULI]
+[ULI]Defesa de Colônia de Fronteira: atribuído a colônias vulneráveis na fronteira para definir quais tropas devem ser usadas para defender a colônia de tropas inimigas invasoras. Tipicamente incluem muita infantaria e algumas unidades de defesa planetária.[/ULI]
+[ULI]Defesa Padrão de Colônia: atribuído a todas as outras colônias para definir quais tropas devem ser usadas para defender a colônia de tropas inimigas invasoras. Tipicamente incluem muita infantaria.[/ULI]
 
-There is a default template for each type, but you can modify these, or create additional templates that match your needs.
+Existe um modelo padrão para cada tipo, mas você pode modificá-los ou criar modelos adicionais que atendam às suas necessidades.
 
-[H3]Assigning Army Templates[/H3]
-You can select an Army Template for a colony by selecting the colony and using the 'Set Colony Automation' > 'Army Template' buttons under the Selection Panel. This will popup a list of all Army Templates that can be used. Select the template you want to use for the colony by clicking on it from the list. The colony will then attempt to recruit defensive troops in the ratio outlined by the template.
+[H3]Atribuindo Modelos de Exército[/H3]
+Você pode selecionar um Modelo de Exército para uma colônia selecionando a colônia e usando os botões 'Automatizar Colônia' > 'Modelo de Exército' sob o Painel de Seleção. Isso abrirá uma lista de todos os Modelos de Exército que podem ser usados. Selecione o modelo que deseja usar para a colônia clicando nele na lista. A colônia então tentará recrutar tropas defensivas na proporção estabelecida pelo modelo.
 
-You can select an Army Template for a fleet by selecting the fleet and using the 'Army Template' button under the Selection Panel. This will popup a list of all Army Templates that can be used. Select the template you want to use for the fleet by clicking on it from the list. The fleet will then attempt to load troops in the ratio outlined by the template.
+Você pode selecionar um Modelo de Exército para uma frota selecionando a frota e usando o botão 'Modelo de Exército' sob o Painel de Seleção. Isso abrirá uma lista de todos os Modelos de Exército que podem ser usados. Selecione o modelo que deseja usar para a frota clicando nele na lista. A frota então tentará carregar tropas na proporção estabelecida pelo modelo.

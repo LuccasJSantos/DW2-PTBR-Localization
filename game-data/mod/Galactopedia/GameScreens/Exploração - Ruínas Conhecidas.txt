@@ -1,10 +1,10 @@
-Exploration may occasionally reveal ancient ruins at some locations. These ruins can hold secrets and other items of value.
+A exploração ocasionalmente pode revelar ruínas antigas em algumas localizações. Essas ruínas podem conter segredos e outros itens de valor.
 
-[H3]Known Ruins List[/H3]
-This screen lists all of the ruins you have encountered while exploring the galaxy.
+[H3]Lista de Ruínas Conhecidas[/H3]
+Esta tela lista todas as ruínas que você encontrou durante a exploração da galáxia.
 
-When zoomed out to the galaxy- or system-level the ruin locations are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it's location. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível galáctico ou do sistema, as localizações das ruínas são destacadas no mapa. Passar o mouse sobre um item na lista mostrará a localização no mapa. Clicar no item selecionará sua localização. Clicar duas vezes no item moverá a visualização para essa localização.
 
-Each list item shows any relevant bonuses provided by the ruins. You can gain these bonuses for your empire by colonizing the planet where the ruins are. You can acquire research bonuses by building a research station at the location. You can acquire scenery bonuses by building a resort base at the location.
+Cada item da lista mostra quaisquer bônus relevantes fornecidos pelas ruínas. Você pode obter esses bônus para seu império colonizando o planeta onde as ruínas estão localizadas. Você pode adquirir bônus de pesquisa construindo uma estação de pesquisa na localização. Você pode adquirir bônus de paisagem construindo uma base resort na localização.
 
-Hovering over a ruin in the list will also show a detailed summary panel at the right.
+Ao passar o mouse sobre uma ruína na lista, um painel detalhado será exibido à direita.

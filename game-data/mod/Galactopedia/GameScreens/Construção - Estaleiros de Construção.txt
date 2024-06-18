@@ -1,13 +1,13 @@
-Construction Yards are where you build new ships for your empire. This includes spaceports, which are usually the fastest way to build new ships. Your colonies can also build ships and bases.
+Os Estaleiros de Construção são onde você constrói novas naves para o seu império. Isso inclui os portos espaciais, que geralmente são a maneira mais rápida de construir novas naves. Suas colônias também podem construir naves e bases.
 
-[H3]Construction Yard List[/H3]
-This screen lists all of the current construction yards in your empire. Check the sort and filter options at the top of the panel. You can sort by construction speed or current construction wait time.
+[H3]Lista de Estaleiros de Construção[/H3]
+Esta tela lista todos os estaleiros de construção atuais em seu império. Verifique as opções de classificação e filtro no topo do painel. Você pode ordenar por velocidade de construção ou tempo de espera atual da construção.
 
-When zoomed out to the galaxy- or system-level the construction yards are highlighted on the map. System and Location badges also indicate spaceports using the yellow construction icon. Hovering over an item in the list will ping the location on the map. Clicking the item will select it's location. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível da galáxia ou do sistema, os estaleiros de construção são destacados no mapa. Distintivos de sistema e localização também indicam portos espaciais usando o ícone de construção amarelo. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecionar sua localização. Duplo-clique no item moverá a visualização para essa localização.
 
-[H3]Construction Queue and Wait Time[/H3]
-Each list item shows the current construction wait time. This is the time before any new construction will commence.
+[H3]Fila de Construção e Tempo de Espera[/H3]
+Cada item da lista mostra o tempo de espera atual da construção. Este é o tempo antes que qualquer nova construção seja iniciada.
 
-Also shown are the ships or bases in the construction queue, including any ships incoming for repair or retrofit (not yet arrived). Hover over each ship or base for more details, including the construction progress percentage.
+Também são mostradas as naves ou bases na fila de construção, incluindo quaisquer naves entrando para reparo ou retrofit (ainda não chegadas). Passe o mouse sobre cada nave ou base para mais detalhes, incluindo a porcentagem de progresso da construção.
 
-Hovering a list item will also display a summary panel at the right. This summary shows how many individual construction yards the location has. It also shows the current wait time and the build and repair speeds.
+Passar o mouse sobre um item da lista também exibirá um painel resumo à direita. Este resumo mostra quantos estaleiros individuais de construção a localização possui. Ele também mostra o tempo de espera atual e as velocidades de construção e reparo.

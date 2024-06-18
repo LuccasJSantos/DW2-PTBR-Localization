@@ -1,15 +1,15 @@
-You can fine-tune how your income is spent in the Bonus Funding Levels screen. Hover over each value for a detailed explanation.
+Você pode ajustar como sua renda é gasta na tela de Níveis de Financiamento de Bônus. Passe o mouse sobre cada valor para uma explicação detalhada.
 
-[H3]Allocating Maintenance Funding[/H3]
-In this screen you can set percentage values for each of your main regular expense areas: Ship and Base Maintenance, Troop Maintenance and Facility Maintenance. These percentages will limit how much your advisors are willing to spend in each area.
+[H3]Alocando Financiamento de Manutenção[/H3]
+Nesta tela, você pode definir valores percentuais para cada uma das principais áreas de despesa regular: Manutenção de Naves e Bases, Manutenção de Tropas e Manutenção de Instalações. Esses percentuais limitarão o quanto seus conselheiros estarão dispostos a gastar em cada área.
 
-Thus if you allocate 50% of your income to Ship Maintenance, then your advisors will be willing to build ships and bases up to a maintenance limit of 50% of your economy. But they will not recommend new ships once you reach the specified limit.
+Assim, se você alocar 50% da sua renda para a Manutenção de Naves, seus conselheiros estarão dispostos a construir naves e bases até o limite de manutenção de 50% da sua economia. No entanto, eles não recomendarão novas naves uma vez que o limite especificado seja alcançado.
 
-Limiting spending in each area allows more even apportionment of your income to all the areas of your economy, preventing overspending in one area.
+Limitar os gastos em cada área permite uma distribuição mais equitativa da sua renda para todas as áreas da sua economia, evitando gastos excessivos em uma área específica.
 
-You can also specify a percentage of your income that is left unspent, thus building up a cash stockpile that can be used for purchases and other expenses.
+Você também pode especificar um percentual da sua renda que será deixado não gasto, acumulando um estoque de caixa que pode ser usado para compras e outras despesas.
 
-[H3]Excess Funding for Colony Growth and Research[/H3]
-Any Excess income can be directed to either Colony Growth or Research. Allocating funding for these 2 areas will increase the rate of Colony Growth or the speed of Research your empire can perform.
+[H3]Financiamento Excedente para Crescimento de Colônias e Pesquisa[/H3]
+Qualquer renda excedente pode ser direcionada para Crescimento de Colônias ou Pesquisa. Alocar financiamento para estas duas áreas aumentará a taxa de Crescimento de Colônias ou a velocidade de Pesquisa que seu império pode realizar.
 
-If you automate Funding Levels then your economic advisors will use any excess income to maintain full Research speed while directing the remainder to Colony Growth rates.
+Se você automatizar os Níveis de Financiamento, seus conselheiros econômicos usarão qualquer renda excedente para manter a velocidade completa de Pesquisa enquanto direcionam o restante para as taxas de Crescimento de Colônias.

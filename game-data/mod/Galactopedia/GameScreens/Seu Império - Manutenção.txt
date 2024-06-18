@@ -1,7 +1,7 @@
-This screen shows the Ship Maintenance costs for all ships and bases in your empire, whether state- or privately-owned.
+Esta tela mostra os custos de manutenção de Naves para todas as naves e bases em seu império, sejam elas de propriedade estatal ou privada.
 
-The Military section shows the number and total maintenance of military ships for each role.
+A seção Militar mostra o número e a manutenção total das naves militares para cada papel.
 
-The Other State section shows the number and total maintenance of other state ships and bases for each role.
+A seção Outras Estatais mostra o número e a manutenção total de outras naves e bases estatais para cada papel.
 
-The Private section shows the number and total maintenance of private ships and bases for each role.
+A seção Privada mostra o número e a manutenção total de naves e bases privadas para cada papel.

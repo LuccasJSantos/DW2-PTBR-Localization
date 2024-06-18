@@ -1,15 +1,13 @@
-Construction Ships are mobile construction yards. They build bases of various types: mining stations, research stations, resort bases, monitoring stations. They can also repair immobile damaged ships. They can even repair abandoned ships and bases encountered through exploration.
+Naves de Construção são estaleiros móveis. Elas constroem bases de vários tipos: estações de mineração, estações de pesquisa, bases de resorts, estações de monitoramento. Elas também podem reparar naves danificadas e imóveis. Podem até mesmo reparar naves e bases abandonadas encontradas através da exploração.
 
-Building a new base requires construction resources. So the first action a Construction Ships takes when assigned a construction mission is to travel to the nearest spaceport to load the required construction resources.
+[H3]Lista de Naves de Construção[/H3]
+Esta tela lista todas as Naves de Construção em seu império.
 
-[H3]Construction Ship List[/H3]
-This screen lists all of the Construction Ships in your empire.
+Quando ampliado para o nível de galáxia ou sistema, as Naves de Construção são destacadas no mapa. Ao passar o mouse sobre um item na lista, será marcada a localização no mapa. Clicar no item irá selecioná-lo. Duplo clique no item moverá a visualização para aquela localização.
 
-When zoomed out to the galaxy- or system-level the Construction Ships are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Cada item da lista mostra a missão atual da Nave de Construção.
 
-Each list item shows the current mission of the Construction Ship.
+[H3]Status de Automação[/H3]
+O pequeno botão à direita permite alterar o status de automação da nave. Assim, você pode controlar manualmente a nave de construção ou automatizá-la completamente, permitindo que ela selecione suas próprias missões.
 
-[H3]Automation Status[/H3]
-The small button at the right allows you to change the automation status of the ship. Thus you can manually control the construction ship or fully automate it, allowing it to select it's own missions.
-
-Or you can have more specific automation, where the construction ship will only build mining stations, research stations, monitoring stations, resort bases or salvage abandoned ships and bases.
+Ou você pode ter automação mais específica, onde a nave de construção apenas construirá estações de mineração, estações de pesquisa, estações de monitoramento, bases de resorts ou salvaguardará naves e bases abandonadas.

@@ -1,8 +1,8 @@
-Sometimes exploration can reveal unusual locations. These may include fields of ship debris from ancient battles or other even stranger phenomenon.
+Às vezes, a exploração pode revelar locais incomuns. Estes podem incluir campos de destroços de naves de batalhas antigas ou outros fenômenos ainda mais estranhos.
 
-[H3]Special Locations List[/H3]
-This screen lists all of the known special locations that you have encountered while exploring the galaxy.
+[H3]Lista de Locais Especiais[/H3]
+Esta tela lista todos os locais especiais conhecidos que você encontrou durante a exploração da galáxia.
 
-When zoomed out to the galaxy- or system-level the special locations are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select the location.
+Quando ampliado para o nível galáctico ou do sistema, os locais especiais são destacados no mapa. Passar o mouse sobre um item na lista irá mostrar a localização no mapa. Clicar no item irá selecionar o local.
 
-Hovering over a special location in the list will also show a detailed summary panel at the right.
+Passar o mouse sobre um local especial na lista também mostrará um painel detalhado de resumo à direita.

@@ -1,15 +1,15 @@
-Some locations are dangerous because they have known hostile threats. These threats usually include mobile targets like pirate ships and deadly space creatures. These threats often move between locations, so this information is transitory and is updated often.
+Algumas localizações são perigosas porque possuem ameaças hostis conhecidas. Essas ameaças geralmente incluem alvos móveis como naves piratas e criaturas espaciais letais. Essas ameaças frequentemente se movem entre localizações, então essas informações são transitórias e são atualizadas com frequência.
 
-Civilian ships will not travel to a location which has hostile threats present. This means that construction ships will not build bases there. Exploration ships will not explore further there. It also means that mining ships will not mine there, nor will freighters pick up or deliver cargo from there.
+Naves civis não viajarão para uma localização que possui ameaças hostis presentes. Isso significa que naves de construção não construirão bases lá. Naves de exploração não continuarão a explorar nessa área. Isso também significa que naves mineradoras não minerarão lá, nem transportadores pegarão ou entregarão carga de lá.
 
-[H3]Dangerous Locations List[/H3]
-This screen lists dangerous locations that have known hostile threats. Check the sort and filter options at the top of the panel. You can filter by each threat type, including specific types of space creature.
+[H3]Lista de Localizações Perigosas[/H3]
+Esta tela lista localizações perigosas que possuem ameaças hostis conhecidas. Verifique as opções de ordenação e filtro no topo do painel. Você pode filtrar por cada tipo de ameaça, incluindo tipos específicos de criaturas espaciais.
 
-When zoomed out to the galaxy- or system-level the dangerous locations are highlighted on the map. System and Location badges also indicate dangerous location using the red lightning bolt icon. Hovering over an item in the list will ping the location on the map. Clicking the item will select it's location. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível de galáxia ou sistema, as localizações perigosas são destacadas no mapa. Distintivos de Sistema e Local também indicam localizações perigosas usando o ícone de raio vermelho. Passar o mouse sobre um item na lista marcará a localização no mapa. Clicar no item selecionará a localização. Duplo-clique no item moverá a visualização para essa localização.
 
-Each list item shows the major threat at the location along with the total hostile strength. It also indicates when this information was last updated, and thus how accurate it is.
+Cada item da lista mostra a principal ameaça na localização junto com a força total hostil. Também indica quando essas informações foram atualizadas pela última vez, e portanto, sua precisão.
 
-[H3]Queuing Investigation[/H3]
-The button at the right allows you to queue an investigation and clearance of the dangerous location. When the next appropriate fleet becomes available it will move to the location and clear out any threats it finds there. You can click the button again to cancel the investigation.
+[H3]Enfileirando Investigação[/H3]
+O botão à direita permite que você enfileire uma investigação e limpeza da localização perigosa. Quando a próxima frota apropriada estiver disponível, ela se deslocará para a localização e eliminará quaisquer ameaças encontradas lá. Você pode clicar no botão novamente para cancelar a investigação.
 
-If you cannot investigate the location the Queue button will be disabled. A tooltip on the button will explain why you cannot investigate.
+Se você não puder investigar a localização, o botão de Enfileirar será desabilitado. Uma dica de ferramenta no botão explicará por que você não pode investigar.

@@ -1,9 +1,9 @@
-This screen lists all of the freighters in your empire.
+Esta tela lista todos os cargueiros em seu império.
 
-Freighters are part of your civilian economy, so you cannot assign missions to them. Instead they seek out their own missions, transporting cargo between locations.
+Cargueiros fazem parte da sua economia civil, então você não pode atribuir missões a eles. Em vez disso, eles procuram suas próprias missões, transportando carga entre localizações.
 
-Check the sort and filter options at the top of the panel. You can filter by the type of resources being transported: fuel, construction or luxury resources.
+Verifique as opções de ordenação e filtro no topo do painel. Você pode filtrar pelo tipo de recursos sendo transportados: combustível, recursos de construção ou recursos de luxo.
 
-When zoomed out to the galaxy- or system-level the freighters are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível da galáxia ou do sistema, os cargueiros são destacados no mapa. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecioná-lo. Duplo-clique no item moverá a visualização para essa localização.
 
-Each list item shows the ship's current mission. It also shows any cargo that the ship is carrying.
+Cada item da lista mostra a missão atual da nave. Também mostra qualquer carga que a nave esteja transportando.

@@ -1,26 +1,26 @@
-Troops are used to invade enemy colonies and to defend your colonies against invasion.
+Tropas são usadas para invadir colônias inimigas e para defender suas próprias colônias contra invasões.
 
-Troop units are recruited at your colonies and take time to reach operational readiness. Larger colonies can train and recover troops faster than smaller colonies.
+Unidades de tropa são recrutadas em suas colônias e levam tempo para atingir prontidão operacional. Colônias maiores podem treinar e recuperar tropas mais rapidamente do que colônias menores.
 
-New troop units can be unlocked through research. Higher level troop units can only be recruited when the required planetary facility is built at a colony.
+Novas unidades de tropa podem ser desbloqueadas através de pesquisa. Unidades de tropa de nível superior só podem ser recrutadas quando a instalação planetária necessária é construída em uma colônia.
 
-Troops can be garrisoned at colonies. This means that they are permanently stationed at the colony to defend it, and thus will not be picked up by Troop Transport ships.
+Tropas podem ser guarnecidas em colônias. Isso significa que elas estão permanentemente estacionadas na colônia para defendê-la, e assim não serão transportadas por navios transportadores de tropas.
 
-Troop units have a one-off monetary cost to recruit. They also have ongoing annual maintenance costs.
+Unidades de tropa têm um custo monetário único para recrutamento. Elas também têm custos contínuos de manutenção anual.
 
-Each troop also has a size: some are small (Infantry) whereas others are larger (Armored, Planetary Defense). Size is important when considering troop carrying capacity for Troop Transport ships and Invasion fleets.
+Cada tropa também possui um tamanho: algumas são pequenas (Infantaria) enquanto outras são maiores (Blindadas, Defesa Planetária). O tamanho é importante ao considerar a capacidade de transporte de tropas para navios transportadores de tropas e frotas de invasão.
 
-[H3]Troop Unit Types[/H3]
-There are 5 types of Troop units:
-[ULI]Infantry: the basic defensive troop unit. Infantry are available from the start of the game. Each race has it's own unique infantry unit with various strengths and weaknesses[/ULI]
-[ULI]Armored: the primary attack troop unit. Requires an Armor Barracks facility to recruit[/ULI]
-[ULI]Planetary Defense: specialized defensive troop units that can intercept enemy troops as they travel from their landing ships to the planetary surface. Requires a Planetary Defense Center facility to recruit[/ULI]
-[ULI]Special Forces: highly-trained infantry units that specialize in taking out colony defenses during an invasion (ground facilities, defending planetary defense units, enemy generals). Defending Special Forces focus on eliminating invading Special Forces unitsRequires a Special Operations Barracks facility to recruit[/ULI]
-[ULI]Titans: very strong high-end attack units. Requires a Titan Manufacturing Center facility to recruit[/ULI]
+[H3]Tipos de Unidades de Tropa[/H3]
+Existem 5 tipos de unidades de tropa:
+[ULI]Infantaria: a unidade básica de tropa defensiva. A infantaria está disponível desde o início do jogo. Cada raça possui sua própria unidade de infantaria única com várias forças e fraquezas[/ULI]
+[ULI]Blindadas: a principal unidade de tropa de ataque. Requer uma instalação de Barracas de Blindadas para recrutamento[/ULI]
+[ULI]Defesa Planetária: unidades de tropa defensiva especializadas que podem interceptar tropas inimigas enquanto viajam de seus navios de pouso para a superfície planetária. Requer uma instalação de Centro de Defesa Planetária para recrutamento[/ULI]
+[ULI]Forças Especiais: unidades de infantaria altamente treinadas que se especializam em eliminar defesas de colônias durante uma invasão (instalações terrestres, unidades de defesa planetária defensoras, generais inimigos). As Forças Especiais defensoras focam na eliminação das unidades de Forças Especiais invasoras. Requer uma instalação de Barracas de Operações Especiais para recrutamento[/ULI]
+[ULI]Titãs: unidades de ataque de alto nível e muito fortes. Requer uma instalação de Centro de Manufatura de Titãs para recrutamento[/ULI]
 
-[H3]Troops List[/H3]
-This screen lists all of the troop units in your empire. Check the extensive sort and filter options at the top of the panel. You can sort by attack and defend strength, maintenance cost and location. You can filter by troop type, garrison status and location (colonies vs transports).
+[H3]Lista de Tropas[/H3]
+Esta tela lista todas as unidades de tropa em seu império. Verifique as extensas opções de classificação e filtro no topo do painel. Você pode ordenar por força de ataque e defesa, custo de manutenção e localização. Você pode filtrar por tipo de tropa, status de guarnição e localização (colônias vs transportes).
 
-When zoomed out to the galaxy- or system-level the troops are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível de galáxia ou sistema, as tropas são destacadas no mapa. Ao passar o mouse sobre um item na lista, a localização no mapa será sinalizada. Clicar no item o selecionará. Duplo-clique no item moverá a visão para aquela localização.
 
-Each list item shows the attack strength, defend strength and maintenance cost for the troop unit. Hovering over a list item displays a detailed summary in a panel at the right. Garrisoned troops are indicated by a blue line underneath their image.
+Cada item da lista mostra a força de ataque, a força de defesa e o custo de manutenção da unidade de tropa. Passar o mouse sobre um item da lista exibe um resumo detalhado em um painel à direita. As tropas guarnecidas são indicadas por uma linha azul sob sua imagem.

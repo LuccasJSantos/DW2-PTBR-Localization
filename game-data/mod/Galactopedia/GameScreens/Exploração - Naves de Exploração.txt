@@ -1,15 +1,15 @@
-Exploration involves sending out exploration ships to visit unknown worlds, revealing their resources, colonization suitability, and any special bonuses. They may also encounter ancient ruins or abandoned ships or bases that can be investigated.
+A exploração envolve enviar naves de exploração para visitar mundos desconhecidos, revelando seus recursos, adequação para colonização e quaisquer bônus especiais. Elas também podem encontrar ruínas antigas ou naves e bases abandonadas que podem ser investigadas.
 
-At each location the exploration ship sends out survey teams to inspect the planet. Surveying is slow and time-consuming.
+Em cada localização, a nave de exploração envia equipes de pesquisa para inspecionar o planeta. O processo de pesquisa é lento e consome tempo.
 
-Higher tech levels unlock exploration scanner components that allow faster exploration. However slower survey teams can still be useful to explore a location more thoroughly and thus uncover deeply hidden items.
+Níveis de tecnologia mais altos desbloqueiam componentes de scanner de exploração que permitem uma exploração mais rápida. No entanto, equipes de pesquisa mais lentas ainda podem ser úteis para explorar um local mais minuciosamente e assim descobrir itens profundamente escondidos.
 
-[H3]Exploration Ship List[/H3]
-This screen lists all of the exploration ships in your empire. Check the sort and filter options at the top of the panel.
+[H3]Lista de Naves de Exploração[/H3]
+Esta tela lista todas as naves de exploração em seu império. Verifique as opções de ordenação e filtro na parte superior do painel.
 
-When zoomed out to the galaxy- or system-level the exploration ship locations are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível galáctico ou do sistema, as localizações das naves de exploração são destacadas no mapa. Passar o mouse sobre um item na lista mostrará a localização no mapa. Clicar no item irá selecioná-lo. Clicar duas vezes no item moverá a visualização para essa localização.
 
-You change the automation status of the exploration ship using the button at the far-right of the list item.
+Você pode alterar o status de automação da nave de exploração usando o botão no canto direito do item da lista.
 
-[H3]Exploration Map Overlay[/H3]
-When the Exploration Ships list is open, the exploration galaxy map overlay is auto-enabled, showing the exploration status for each system. Green systems are fully explored, while yellow systems are partially explored.
+[H3]Sobreposição do Mapa de Exploração[/H3]
+Quando a lista de Naves de Exploração está aberta, a sobreposição de mapa de exploração galáctica é automaticamente ativada, mostrando o status de exploração para cada sistema. Sistemas verdes estão completamente explorados, enquanto sistemas amarelos estão parcialmente explorados.

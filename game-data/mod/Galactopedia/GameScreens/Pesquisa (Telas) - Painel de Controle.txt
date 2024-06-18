@@ -1,28 +1,28 @@
-At the right of the screen is the research Control Panel. This panel provides a number of functions helpful for navigating the tech tree.
+À direita da tela está o Painel de Controle de Pesquisa. Este painel oferece várias funções úteis para navegar na árvore tecnológica.
 
-[H3]Exiting Research[/H3]
-At the top is the Exit Research button. Click this button to close the Research screen and return to the game.
+[H3]Sair da Pesquisa[/H3]
+No topo está o botão Sair da Pesquisa. Clique neste botão para fechar a tela de Pesquisa e retornar ao jogo.
 
-[H3]Maximum Concurrent Projects[/H3]
-Below this is an explanation of the maximum number of concurrent research projects. Hover this explanation for further details.
+[H3]Número Máximo de Projetos Simultâneos[/H3]
+Abaixo disso está uma explicação sobre o número máximo de projetos de pesquisa simultâneos. Passe o mouse sobre essa explicação para obter mais detalhes.
 
 [H3]Zoom In/Out[/H3]
-At the right are the Zoom In and Zoom Out buttons that allow you to see more or less of the available projects.
+À direita estão os botões de Ampliar e Reduzir que permitem ver mais ou menos dos projetos disponíveis.
 
-[H3]Jump Buttons[/H3]
-Next are the Jump buttons. Clicking one of these buttons allows you to immediately move the view to the first row of projects for that category.
+[H3]Botões de Salto[/H3]
+Em seguida estão os botões de Salto. Clicar em um desses botões permite mover imediatamente a visualização para a primeira linha de projetos dessa categoria.
 
-For example, clicking the 'Hyperspace Tech' jump button will immediately move the view to show hyperdrive projects at the top of the screen.
+Por exemplo, clicar no botão de salto 'Tecnologia de Hiperespaço' moverá imediatamente a visualização para mostrar os projetos de hiperpropulsão na parte superior da tela.
 
-[H3]Filtering Projects[/H3]
-Below this is a dropdown list that allows filtering the projects that are shown. This allows you to focus exclusively in one category. Of course it also means that you cannot see the other projects. So be sure to revert back to 'All Projects'.
+[H3]Filtragem de Projetos[/H3]
+Abaixo disso há uma lista suspensa que permite filtrar os projetos exibidos. Isso permite que você se concentre exclusivamente em uma categoria. No entanto, isso também significa que você não verá os outros projetos. Certifique-se de voltar para 'Todos os Projetos'.
 
-[H3]Next Suggested Project[/H3]
-Next is the 'Queue Suggested Project' button. This button suggests the next project that your research advisors think you should research. Click the button to queue the suggested project.
+[H3]Próximo Projeto Sugerido[/H3]
+Em seguida está o botão 'Colocar Projeto Sugerido na Fila'. Este botão sugere o próximo projeto que seus conselheiros de pesquisa acham que você deveria pesquisar. Clique no botão para colocar o projeto sugerido na fila.
 
-Hovering over the button will provide a summary of the suggested project. While hovering the button the project will also be 'pinged' in the view (you may need to zoom out to see where it is).
+Passe o mouse sobre o botão para obter um resumo do projeto sugerido. Enquanto o mouse estiver sobre o botão, o projeto também será destacado na visualização (talvez seja necessário ampliar a visão para ver onde ele está).
 
-[H3]Research Queue[/H3]
-Finally there is the research queue. This is all the projects that are currently queued for research. The top-most projects are currently being actively progressed (the number of concurrent projects), while the subsequent projects are waiting until the top projects are completed.
+[H3]Fila de Pesquisa[/H3]
+Finalmente, há a fila de pesquisa. Estes são todos os projetos que estão atualmente na fila para pesquisa. Os projetos mais no topo estão sendo progressivamente ativos (o número de projetos simultâneos), enquanto os projetos subsequentes estão esperando até que os projetos no topo sejam concluídos.
 
-You can remove projects from the queue by right-clicking them in the queue. You can also move projects up or down the queue using the arrows at the right.
+Você pode remover projetos da fila clicando com o botão direito sobre eles na fila. Você também pode mover projetos para cima ou para baixo na fila usando as setas à direita.

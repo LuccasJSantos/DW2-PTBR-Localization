@@ -1,8 +1,8 @@
-This screen lists colonies where you can build new spaceports. Check the sort and filter options at the top of the panel.
+Esta tela lista colônias onde você pode construir novos portos espaciais. Verifique as opções de classificação e filtro no topo do painel.
 
-When zoomed out to the galaxy- or system-level the new spaceport locations are highlighted on the map. Hovering over an item in the list will ping the location on the map. Clicking the item will select it. Double-clicking the item will move the view to that location.
+Quando ampliado para o nível de galáxia ou sistema, as novas localizações de portos espaciais são destacadas no mapa. Ao passar o mouse sobre um item na lista, será marcada a localização no mapa. Clicar no item irá selecioná-lo. Duplo clique no item moverá a visualização para aquela localização.
 
-[H3]Queuing New Spaceports[/H3]
-The button at the right allows you to queue construction of a new spaceport at the colony. You can click the button again to cancel construction.
+[H3]Enfileiramento de Novos Portos Espaciais[/H3]
+O botão à direita permite enfileirar a construção de um novo porto espacial na colônia. Você pode clicar novamente no botão para cancelar a construção.
 
-If you cannot build at the location the Queue button will be disabled. A tooltip on the button will explain why you cannot build there.
+Se você não puder construir na localização, o botão de Enfileiramento será desabilitado. Uma dica de ferramenta no botão explicará o motivo pelo qual você não pode construir lá.

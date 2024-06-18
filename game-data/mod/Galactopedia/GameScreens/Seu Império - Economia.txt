@@ -1,11 +1,11 @@
-This screen shows a breakdown of both your State and Private economies.
+Esta tela mostra uma análise detalhada das economias Estatal e Privada.
 
-Each type of income and expense is listed for the current and previous year, as well as a projection of the expected amounts for each of these for the current year. You can hover over each amount for more information.
+Cada tipo de receita e despesa é listado para o ano atual e anterior, assim como uma projeção dos valores esperados para cada um deles no ano corrente. Você pode passar o mouse sobre cada valor para mais informações.
 
-[H3]State Economy[/H3]
-The top section of your State Economy shows regular anticipated income and expenses. These amounts change slowly over time as your empire grows.
+[H3]Economia Estatal[/H3]
+A seção superior da sua Economia Estatal mostra receitas e despesas regulares esperadas. Esses valores mudam lentamente ao longo do tempo conforme seu império cresce.
 
-The bottom section of your State Economy shows irregular bonus income. These amounts can vary widely, often being comprised of private ship building income, where the private sector of your empire buys new ships.
+A seção inferior da sua Economia Estatal mostra receitas de bônus irregulares. Esses valores podem variar amplamente, muitas vezes sendo compostos pela receita da construção de naves privadas, onde o setor privado do seu império compra novas naves.
 
-[H3]Private Economy[/H3]
-The Private Economy section shows the income and expenses of the private sector of your empire. You have no direct control over how the private sector earns or spends money.
+[H3]Economia Privada[/H3]
+A seção de Economia Privada mostra a receita e as despesas do setor privado do seu império. Você não tem controle direto sobre como o setor privado ganha ou gasta dinheiro.

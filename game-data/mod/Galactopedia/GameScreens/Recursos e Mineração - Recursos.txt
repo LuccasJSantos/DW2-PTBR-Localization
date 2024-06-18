@@ -1,19 +1,19 @@
-Resources are the raw materials found at planets, moons and asteroids. These can include metallic ores, gases, minerals, textiles, foods, beverages, and many other items.
+Recursos são materiais brutos encontrados em planetas, luas e asteroides. Estes podem incluir minérios metálicos, gases, minerais, têxteis, alimentos, bebidas e muitos outros itens.
 
-You can mine these resources, extracting them for use in your empire.
+Você pode extrair esses recursos para uso em seu império.
 
-Some resources are used in constructing new ships and bases. Other resources are used to raise the development of your colonies - these are luxury resources. And one resource (Caslon) is used as a universal reactor fuel.
+Alguns recursos são utilizados na construção de novas naves e bases. Outros recursos são usados para desenvolver suas colônias - estes são recursos de luxo. E um recurso (Caslon) é usado como combustível universal para reatores.
 
-[H3]Resources List[/H3]
-This screen lists all of the resources in the galaxy.
+[H3]Lista de Recursos[/H3]
+Esta tela lista todos os recursos na galáxia.
 
-By default the resources are filtered to show only the fuel and construction resources that your empire is currently using. The default sort order prioritizes resources where your empire has a production shortage.
+Por padrão, os recursos são filtrados para mostrar apenas os recursos de combustível e construção que seu império está usando atualmente. A ordem de classificação padrão prioriza recursos nos quais seu império tem escassez de produção.
 
-Check the sort and filter settings at the top of the panel for more options. Other filter options include showing luxury resources that add to the development of your colonies. Sort options include mining rates, demand, number of sources, and stockpile levels in your empire.
+Verifique as configurações de ordenação e filtro no topo do painel para mais opções. Outras opções de filtro incluem mostrar recursos de luxo que contribuem para o desenvolvimento de suas colônias. As opções de ordenação incluem taxas de mineração, demanda, número de fontes e níveis de estoque em seu império.
 
-[H3]Resource Flow Map Overlay[/H3]
-When the Resources list is open, the Resource Flow galaxy map overlay is auto-enabled, showing the flow of resources between star systems in your empire. This helps you to visualize the flow of cargo being moved by freighters and mining ships between the colonies and bases in your empire.
+[H3]Overlay do Mapa de Fluxo de Recursos[/H3]
+Quando a lista de Recursos está aberta, o Overlay do Mapa de Fluxo de Recursos é ativado automaticamente, mostrando o fluxo de recursos entre sistemas estelares em seu império. Isso ajuda a visualizar o transporte de carga movida por cargueiros e naves de mineração entre as colônias e bases em seu império.
 
-Clicking on a single resource in the list filters the Resource Flow map overlay to only show the cargo transport for the selected resource. All known source locations for the selected resource are also highlighted on the galaxy map. Clicking the resource again deselects it.
+Clicar em um único recurso na lista filtra o Overlay do Mapa de Fluxo de Recursos para mostrar apenas o transporte de carga para o recurso selecionado. Todas as localizações conhecidas de origem para o recurso selecionado também são destacadas no mapa da galáxia. Clicar novamente no recurso o desseleciona.
 
-Each list item shows the current stockpile, production rate and number of known and exploited sources for the resource.
+Cada item da lista mostra o estoque atual, taxa de produção e número de fontes conhecidas e exploradas para o recurso.

@@ -1,13 +1,14 @@
-Any scientist characters in your empire are shown in this list.
+Os cientistas do seu império são mostrados nesta lista.
 
-You can see the details of each scientist by hovering over the list entry and clicking to lock open the panel at the right.
+Você pode ver os detalhes de cada cientista passando o mouse sobre a entrada da lista e clicando para travar o painel à direita aberto.
 
-You can change a scientist's name by clicking on their name under the portrait and typing a new one.
+Você pode mudar o nome de um cientista clicando no nome dele sob o retrato e digitando um novo.
 
-[H3]Scientist Locations[/H3]
-Scientists apply research benefits when they are onboard a research station. You should use the location dropdown list and the 'Transfer' button to assign them to a particular location.
+[H3]Locais dos Cientistas[/H3]
 
-Alternatively you can automate the scientist so that your research advisors will select the best location for them. Use the 'Automate' button under the scientist portrait at the right.
+Cientistas aplicam benefícios de pesquisa quando estão a bordo de uma estação de pesquisa. Você deve usar a lista suspensa de localização e o botão 'Transferir' para atribuí-los a um local específico.
 
-[H3]Events[/H3]
-At the very bottom of the detail panel is a list of all the events that the scientist has been involved with. Various events can improve or decrease their skills, or provide new character traits.
+Alternativamente, você pode automatizar o cientista para que seus consultores de pesquisa escolham o melhor local para eles. Use o botão 'Automatizar' sob o retrato do cientista à direita.
+
+[H3]Eventos[/H3]
+Na parte inferior do painel de detalhes está uma lista de todos os eventos em que o cientista esteve envolvido. Vários eventos podem melhorar ou diminuir suas habilidades, ou fornecer novos traços de personagem.
