@@ -787,22 +787,22 @@ Move ITEM to top of queue		;Mover {0} para o topo da fila
 AreaShieldRechargeAmount		;Quantidade Máxima de Recarga de Escudo
 AreaShieldRechargeEnergyUsedPerUnitCharged		;Energia Necessária por Unidade Carregada
 AreaShieldRechargeRange		;Alcance de Recarga de Escudo
-ArmorBlastRating		;Classificação de Resistência a Explosões
-ArmorReactiveRating		;Classificação de Resistência Reactiva
+ArmorBlastRating		;Classificação
+ArmorReactiveRating		;Classificação Reactiva
 AssaultDefense		;Defesa de Assalto
-AssaultPodBoardingRange		;Alcance de Abordagem do Pod de Assalto
-AssaultPodEnergyPerLaunch		;Energia Usada por Lançamento do Pod de Assalto
-AssaultPodLaunchRate		;Taxa de Lançamento do Pod de Assalto
-AssaultPodMovementSpeed		;Velocidade de Movimento do Pod de Assalto
-AssaultPodShieldPenetration		;Penetração de Escudo do Pod de Assalto
-AssaultPodStrength		;Força do Pod de Assalto
+AssaultPodBoardingRange		;Alcance de Embarque
+AssaultPodEnergyPerLaunch		;Energia Usada por Lançamento
+AssaultPodLaunchRate		;Taxa de Lançamento
+AssaultPodMovementSpeed		;Velocidade de Movimento
+AssaultPodShieldPenetration		;Penetração de Escudo
+AssaultPodStrength		;Força de Assalto
 CargoCapacity		;Capacidade de Carga
 ColonizationPopulationAmount		;Quantidade de População para Colonização
-CommandMaintenanceSavings		;Economia de Manutenção de Comando
+CommandMaintenanceSavings		;Economia Manut. de Comando
 CommerceTradeBonus		;Bônus de Comércio
 ComponentCountermeasuresBonus		;Bônus de Contramedidas
 ComponentIonDefense		;Defesa de Íons do Componente
-ComponentTargetingBonus		;Bônus de Direcionamento de Armas
+ComponentTargetingBonus		;Bônus de Orientação de Armas
 ConstructionBuildSpeed		;Velocidade de Construção
 ConstructionRepairSpeed		;Velocidade de Reparo
 ConstructionYardCount		;Número de Estaleiros de Construção
@@ -817,15 +817,15 @@ HullRepair		;Reparo do Casco
 CreatureWeaponReduction		;Redução de Força das Armas das Criaturas
 Creatures Affected		;Criaturas Afetadas
 DockingBayShipCount		;Número de Naves no Hangar
-DockingBayThroughput		;Taxa de Transferência do Hangar
+DockingBayThroughput		;Taxa de Transferência
 EnergyCollectionRate		;Taxa de Coleta de Energia
 EnergyFuelProductionRate		;Taxa de Produção de Combustível
-EngineMainCruiseThrust		;Empuxo de Cruzeiro do Motor Principal
-EngineMainCruiseThrustEnergyUsage		;Uso de Energia do Empuxo de Cruzeiro do Motor Principal
-EngineMainMaximumThrust		;Empuxo Máximo do Motor Principal
-EngineMainMaximumThrustEnergyUsage		;Uso Máximo de Energia do Empuxo do Motor Principal
-EngineVectoringEnergyUsage		;Uso de Energia do Vetor do Motor
-EngineVectoringThrust		;Empuxo do Vetor do Motor
+EngineMainCruiseThrust		;Empuxo de Cruzeiro
+EngineMainCruiseThrustEnergyUsage		;Uso de Energia do Empuxo de Cruzeiro
+EngineMainMaximumThrust		;Empuxo Máximo
+EngineMainMaximumThrustEnergyUsage		;Uso Máximo de Energia
+EngineVectoringEnergyUsage		;Uso de Energia do Vetor
+EngineVectoringThrust		;Empuxo do Vetor
 ExtractionRate		;Taxa de Extração
 ExtractionRangeAsteroid		;Alcance de Mineração
 RemoteFuelTransferRate		;Taxa de Transf. de Combustível
@@ -833,7 +833,7 @@ RemoteFuelTransferRange		;Alcance de Transf. de Combustível
 FighterBayBuildRate		;Taxa de Construção de Caças
 FighterBayCapacity		;Espaço do Hangar de Caças
 FighterBayRepairRate		;Taxa de Reparo do Hangar de Caças
-FuelStorageCapacity		;Espaço de Armazenamento de Combustível
+FuelStorageCapacity		;Armazenamento de Combustível
 HyperDenyEnergyUsage		;Uso de Energia do HyperDeny
 HyperDenyRange		;Alcance do HyperDeny
 HyperDenyStrength		;Força do HyperDeny
@@ -849,11 +849,11 @@ HyperStopStrength		;Força do HyperStop
 IonDamageDefense		;Defesa Contra Danos de Íons
 MedicalRating		;Classificação Médica
 PassengerCapacity		;Capacidade de Passageiros
-ReactorEnergyOutputPerSecond		;Saída de Energia do Reator
-ReactorEnergyStorageCapacity		;Capacidade do Reator
-ReactorFuelResourceId		;Recurso de Combustível do Reator
+ReactorEnergyOutputPerSecond		;Saída de Energia
+ReactorEnergyStorageCapacity		;Capacidade
+ReactorFuelResourceId		;Recurso de Combustível
 ReactorFuelUnitsForFullCharge		;Unidades de Combustível para Carga Completa
-ReactorFuelEnergyRatio		;Proporção de Combustível para Energia
+ReactorFuelEnergyRatio		;Taxa de Combustível para Energia
 RecreationRating		;Classificação de Recreação
 ResearchLabOutput		;Produção do Lab. de Pesquisa
 ScannerEmpireMaskingPower		;Poder de Camuflagem do Império
@@ -871,16 +871,16 @@ ScannerRoleMaskingPower		;Poder de Camuflagem de Função
 ScannerTracePower		;Poder de Rastreamento
 ScannerTraceRange		;Alcance de Rastreamento
 ShieldPenetrationChance		;Chance de Penetração de Escudo
-ShieldPenetrationRatio		;Proporção de Penetração de Escudo
+ShieldPenetrationRatio		;Taxa de Penetração de Escudo
 ShieldRechargeRate		;Taxa de Recarga de Escudo
 ShieldRechargeEnergyUsage		;Energia p/ Recarga do Escudo
 ShieldResistance		;Resistência de Escudo
 ShieldStrength		;Força do Escudo
 StaticEnergyUsed		;Energia Estática Utilizada
 StealthRating		;Classificação de Furtividade
-TargetingBonus		;Bônus de Miragem
-TargetingFleetBonus		;Bônus de Miragem para a Frota
-TargetingBonusPerFleetShip		;Miragem Extra por Nave da Frota
+TargetingBonus		;Bônus de Mira
+TargetingFleetBonus		;Bônus de Mira para a Frota
+TargetingBonusPerFleetShip		;Mira Extra por Nave da Frota
 TractorBeamDwellTime		;Tempo de Retenção do Raio Trator
 TractorBeamEnergyPerShot		;Energia Utilizada por Tiro do Raio Trator
 TractorBeamFireRate		;Taxa de Fogo do Raio Trator
@@ -893,16 +893,16 @@ Troops Produced		;Tropas Produzidas
 WeaponAreaEffectRange		;Alcance do Efeito de Área
 WeaponAreaBlastWaveSpeed		;Velocidade da Onda de Explosão de Área
 WeaponArmorBypass		;Desvio de Armadura
-WeaponBombardDamageInfrastructure		;Dano de Bombardeio a Infraestrutura
-WeaponBombardDamageInfrastructureRate		;Taxa de Dano de Bombardeio à Infraestrutura
-WeaponBombardDamageMilitary		;Dano de Bombardeio a Militares
-WeaponBombardDamageMilitaryRate		;Taxa de Dano de Bombardeio a Militares
-WeaponBombardDamagePopulation		;Dano de Bombardeio à População
-WeaponBombardDamagePopulationRate		;Taxa de Dano de Bombardeio à População
-WeaponBombardDamageQuality		;Dano de Bombardeio à Qualidade
-WeaponBombardDamageQualityRate		;Taxa de Dano de Bombardeio à Qualidade
-WeaponDamageAtRange		;Dano no Alcance Máximo
-WeaponDamageAtRangeRate		;Taxa de Dano no Alcance Máximo
+WeaponBombardDamageInfrastructure		;Bombardeio à Infraestrutura
+WeaponBombardDamageInfrastructureRate		;Taxa de Bombardeio à Infraestrutura
+WeaponBombardDamageMilitary		;Bombardeio a Militares
+WeaponBombardDamageMilitaryRate		;Taxa de Bombardeio a Militares
+WeaponBombardDamagePopulation		;Bombardeio à População
+WeaponBombardDamagePopulationRate		;Taxa de Bombardeio à População
+WeaponBombardDamageQuality		;Bombardeio à Qualidade
+WeaponBombardDamageQualityRate		;Taxa de Bombardeio à Qualidade
+WeaponDamageAtRange		;Dano no Alcance Máx.
+WeaponDamageAtRangeRate		;Taxa de Dano no Alcance Máx.
 WeaponDamageFalloffRatio		;Taxa de Queda do Dano
 WeaponDamageRate		;Taxa de Dano
 WeaponDamageType		;Tipo de Dano
@@ -910,8 +910,8 @@ WeaponDwellTime		;Tempo de Retenção
 WeaponEnergyPerShot		;Energia por Tiro
 WeaponFireRate		;Taxa de Fogo
 WeaponFireType		;Tipo de Fogo
-WeaponInterceptComponentTargetingBonus		;Bônus de Miragem para Interceptação de Componentes
-WeaponInterceptDamageDirectFire		;Dano de Interceptação por Tiro Direto
+WeaponInterceptComponentTargetingBonus		;Mira de Interceptação
+WeaponInterceptDamageDirectFire		;Interceptação por Tiro Direto
 WeaponInterceptDamageDirectFireRate		;Taxa de Dano de Interceptação por Tiro Direto
 WeaponInterceptDamageFighter		;Dano de Interceptação a Caças
 WeaponInterceptDamageFighterRate		;Taxa de Dano de Interceptação a Caças
@@ -1023,7 +1023,7 @@ BonusType Sabotage		;Sabotagem
 BonusType ShieldRechargeRate		;Taxa de Recarga de Escudo
 BonusType ShipEnergyUsage		;Economia de Uso de Energia da Nave
 BonusType ShipManeuvering		;Manobrabilidade da Nave
-BonusType Targeting		;Miragem
+BonusType Targeting		;Mira
 BonusType TourismIncome		;Renda do Turismo
 BonusType TradeIncome		;Renda do Comércio
 BonusType TroopExperienceGain		;Ganho de Experiência de Tropas
@@ -1069,7 +1069,7 @@ BonusType PlanetaryFacilityMaintenance		;Economia de Manutenção de Instalaçã
 BonusType PlagueCuring		;Cura de Praga
 BonusType PlagueContainment		;Contenção de Praga
 
-BonusType PsychicTargeting		;Miragem Psíquica
+BonusType PsychicTargeting		;Mira Psíquica
 BonusType PsychicDefense		;Defesa Psíquica
 BonusType PsychicEnergyGenerationRate		;Taxa de Geração de Energia Psíquica
 BonusType PsychicCountermeasures		;Contramedidas Psíquicas
@@ -1122,8 +1122,8 @@ ComponentCategory ScannerTrace		;Rastreador de Scanner
 ComponentCategory Shields		;Escudos
 ComponentCategory ShieldEnhancement		;Aprimoramento de Escudo
 ComponentCategory Stealth		;Furtividade
-ComponentCategory TargetingComputer		;Computador de Miragem
-ComponentCategory TargetingComputerFleet		;Computador de Miragem de Frota
+ComponentCategory TargetingComputer		;Computador de Mira
+ComponentCategory TargetingComputerFleet		;Computador de Mira da Frota
 ComponentCategory TractorBeam		;Raio Trator
 ComponentCategory TroopCompartment		;Compartimento de Tropas
 ComponentCategory WeaponArea		;Arma de área
@@ -1430,7 +1430,7 @@ Top Speed Energy Usage		;Uso de Energia em Velocidade Máxima
 Engines (Sprint)		;Motores (Sprint)
 Engines (Cruise)		;Motores (Cruzeiro)
 Weapons Energy Usage		;Uso de Energia por Armas
-Hyperdrive Energy Usage		;Uso de Energia do Hiperpropulsor
+Hyperdrive Energy Usage		;Uso de Energia
 Energy Overuse		;Excesso de Energia
 Overuse		;Excesso
 Hull		;Casco
@@ -2774,10 +2774,10 @@ Enlist Base		;Recrutar Base
 Upgrade Enlisted Military Ships		;Atualizar Naves Militares Recrutadas
 Upgrade Enlisted Civilian Ships		;Atualizar Naves Civis Recrutadas
 Characters at Conquered Colonies or Bases		;Personagens em Colônias ou Bases Conquistadas
-Military Mission Ratio Escort		;Proporção da Missão Militar: Escolta
-Military Mission Ratio Guard		;Proporção da Missão Militar: Guarda
-Military Mission Ratio Patrol		;Proporção da Missão Militar: Patrulha
-Military Mission Ratio Raid		;Proporção da Missão Militar: Incursão
+Military Mission Ratio Escort		;Taxa da Missão Militar: Escolta
+Military Mission Ratio Guard		;Taxa da Missão Militar: Guarda
+Military Mission Ratio Patrol		;Taxa da Missão Militar: Patrulha
+Military Mission Ratio Raid		;Taxa da Missão Militar: Incursão
 Colony Tax Rates		;Taxas de Imposto da Colônia
 Colonies and Tax Rates		;Colônias e Taxas de Imposto
 Stock Levels at Colonies and Bases		;Níveis de Estoque em Colônias e Bases
