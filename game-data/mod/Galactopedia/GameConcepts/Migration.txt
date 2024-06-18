@@ -1,6 +1,6 @@
 A migração geralmente envolve pessoas migrando de colônias grandes para novas colônias menores. A migração ajuda a aumentar rapidamente a população das novas colônias, permitindo que elas se tornem produtivas mais rapidamente.
 
-Os migrantes são transportados para seus destinos por navios de passageiros de propriedade privada. A migração ocorre inteiramente no setor privado do seu império - você não tem controle direto sobre o movimento de cidadãos entre suas colônias.
+Os migrantes são transportados para seus destinos por naves de passageiros de propriedade privada. A migração ocorre inteiramente no setor privado do seu império - você não tem controle direto sobre o movimento de cidadãos entre suas colônias.
 
 [H3]Fatores de Migração[/H3]
 Fatores que atraem novos migrantes para uma colônia incluem:

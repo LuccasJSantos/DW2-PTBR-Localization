@@ -1,4 +1,4 @@
-Todas as aves requerem combustível para se movimentar pela galáxia. O combustível é um recurso crítico que permite a expansão do seu império.
+Todas as naves requerem combustível para se movimentar pela galáxia. O combustível é um recurso crítico que permite a expansão do seu império.
 
 O recurso universal de combustível é o Caslon. Trata-se de um gás azul claro encontrado principalmente em planetas Gas Giant.
 
