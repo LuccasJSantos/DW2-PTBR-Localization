@@ -8554,7 +8554,7 @@
       <Money>24500</Money>
     </InitiationCost>
     <AdditionalRequirements>
-      <ResearchBonusType>Indefinido</ResearchBonusType>
+      <ResearchBonusType>Undefined</ResearchBonusType>
       <ResearchBonusAmount>0.5</ResearchBonusAmount>
       <GovernmentId>-1</GovernmentId>
     </AdditionalRequirements>
@@ -11310,7 +11310,7 @@
       <Money>32000</Money>
     </InitiationCost>
     <AdditionalRequirements>
-      <ResearchBonusType>Indefinido</ResearchBonusType>
+      <ResearchBonusType>Undefined</ResearchBonusType>
       <ResearchBonusAmount>0.5</ResearchBonusAmount>
       <GovernmentId>-1</GovernmentId>
     </AdditionalRequirements>
@@ -11754,11 +11754,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0.05</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -11956,11 +11956,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>-0.05</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -12158,11 +12158,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -12356,11 +12356,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>-0.05</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -12554,11 +12554,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>-0.05</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -12752,11 +12752,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -12968,11 +12968,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -13118,11 +13118,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -13328,11 +13328,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -13538,11 +13538,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>-0.05</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -13748,11 +13748,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -13958,11 +13958,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -14168,11 +14168,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -14358,11 +14358,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -14548,11 +14548,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -14738,11 +14738,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -14936,11 +14936,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -15086,11 +15086,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -15236,11 +15236,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -15438,11 +15438,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0.05</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0.05</WeaponInterceptDamageFighter>
@@ -15588,11 +15588,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0.05</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0.05</WeaponInterceptDamageFighter>
@@ -15738,11 +15738,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0.05</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0.05</WeaponInterceptDamageFighter>
@@ -15888,11 +15888,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0.05</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0.05</WeaponInterceptDamageFighter>
@@ -16090,11 +16090,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>-0.05</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -16240,11 +16240,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>-0.05</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -16390,11 +16390,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>-0.05</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -16540,11 +16540,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>-0.05</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -16754,11 +16754,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>-0.05</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -16904,11 +16904,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>-0.05</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -17054,11 +17054,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>-0.05</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -17204,11 +17204,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>-0.05</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0</WeaponInterceptDamageFighter>
@@ -17402,11 +17402,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0.05</WeaponInterceptDamageFighter>
@@ -17552,11 +17552,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0.05</WeaponInterceptDamageFighter>
@@ -17702,11 +17702,11 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
-            <WeaponFireType>Indefinido</WeaponFireType>
+            <WeaponFireType>Undefined</WeaponFireType>
             <WeaponInterceptComponentTargetingBonus>0</WeaponInterceptComponentTargetingBonus>
             <WeaponInterceptDamageDirectFire>0</WeaponInterceptDamageDirectFire>
             <WeaponInterceptDamageFighter>0.05</WeaponInterceptDamageFighter>
@@ -17852,7 +17852,7 @@
             <WeaponBombardDamagePopulation>0</WeaponBombardDamagePopulation>
             <WeaponBombardDamageQuality>0</WeaponBombardDamageQuality>
             <WeaponDamageFalloffRatio>0</WeaponDamageFalloffRatio>
-            <WeaponDamageType>Indefinido</WeaponDamageType>
+            <WeaponDamageType>Undefined</WeaponDamageType>
             <WeaponDwellTime>0</WeaponDwellTime>
             <WeaponEnergyPerShot>0</WeaponEnergyPerShot>
             <WeaponFireRate>0</WeaponFireRate>
