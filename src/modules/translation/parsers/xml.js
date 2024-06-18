@@ -4,18 +4,21 @@ import * as u from '../../../utils/index.js'
 // import { translate } from 'free-translate'
 // import puppeteer from 'puppeteer'
 
+const SEPARATOR = ', '
+
 export default function (path) {
     return async function (content) {
         const json = await parser.parseStringPromise(content)
         const data = u.path(path, json)
-        const text = data.join(', ')
+        const [key] = path.slice(-1)
+        const text = data.join(SEPARATOR)
         await fs.writeFile(`src/translation-batch/${path}.xml`, text)
 
         try {
             const itemsTranslated = await fs.readFile('src/translation-batch/translation.data', { encoding: 'utf-8' })
             const textTranslated = itemsTranslated
-                .split(', ')
-                .reduce((acc, item, index) => acc.replace(text.split(', ')[index], item), content)
+                .split(SEPARATOR)
+                .reduce((acc, item, index) => acc.replace(`<${key}>${text.split(SEPARATOR)[index]}</${key}>`, `<${key}>${item.trim()}</${key}>`), content)
             return textTranslated
         } catch (error) { }
 
