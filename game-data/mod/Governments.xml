@@ -2139,10 +2139,10 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
       <string>Grande</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Hive</string>
-      <string>Collective</string>
-      <string>Conformity</string>
-      <string>Consciousness</string>
+      <string>Colmeia</string>
+      <string>Coletivo</string>
+      <string>Conformidade</string>
+      <string>Consciência</string>
     </EmpireNameNouns>
   </Government>
 
