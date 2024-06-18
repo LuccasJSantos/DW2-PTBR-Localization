@@ -1,9 +1,9 @@
-Esta tela lista todos os navios de passageiros em seu império.
+Esta tela lista todas as naves de passageiros em seu império.
 
-Navios de passageiros fazem parte da sua economia civil, então você não pode atribuir missões a eles. Em vez disso, eles procuram suas próprias missões, transportando turistas e migrantes entre localizações.
+Naves de passageiros fazem parte da sua economia civil, então você não pode atribuir missões à elas. Em vez disso, elas procuram suas próprias missões, transportando turistas e migrantes entre localizações.
 
 Verifique as opções de ordenação e filtro no topo do painel. Você pode filtrar pelo tipo de passageiros sendo transportados: turistas ou migrantes.
 
-Quando ampliado para o nível da galáxia ou do sistema, os navios de passageiros são destacados no mapa. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecioná-lo. Duplo-clique no item moverá a visualização para essa localização.
+Quando ampliado para o nível da galáxia ou do sistema, as naves de passageiros são destacadas no mapa. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecioná-lo. Duplo-clique no item moverá a visualização para essa localização.
 
 Cada item da lista mostra a missão atual da nave. Também mostra qualquer passageiro que a nave esteja transportando.

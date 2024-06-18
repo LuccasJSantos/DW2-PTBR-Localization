@@ -4,17 +4,17 @@ Unidades de tropa são recrutadas em suas colônias e levam tempo para atingir p
 
 Novas unidades de tropa podem ser desbloqueadas através de pesquisa. Unidades de tropa de nível superior só podem ser recrutadas quando a instalação planetária necessária é construída em uma colônia.
 
-Tropas podem ser guarnecidas em colônias. Isso significa que elas estão permanentemente estacionadas na colônia para defendê-la, e assim não serão transportadas por navios transportadores de tropas.
+Tropas podem ser guarnecidas em colônias. Isso significa que elas estão permanentemente estacionadas na colônia para defendê-la, e assim não serão transportadas por naves transportadoras de tropas.
 
 Unidades de tropa têm um custo monetário único para recrutamento. Elas também têm custos contínuos de manutenção anual.
 
-Cada tropa também possui um tamanho: algumas são pequenas (Infantaria) enquanto outras são maiores (Blindadas, Defesa Planetária). O tamanho é importante ao considerar a capacidade de transporte de tropas para navios transportadores de tropas e frotas de invasão.
+Cada tropa também possui um tamanho: algumas são pequenas (Infantaria) enquanto outras são maiores (Blindadas, Defesa Planetária). O tamanho é importante ao considerar a capacidade de transporte de tropas para naves transportadoras de tropas e frotas de invasão.
 
 [H3]Tipos de Unidades de Tropa[/H3]
 Existem 5 tipos de unidades de tropa:
 [ULI]Infantaria: a unidade básica de tropa defensiva. A infantaria está disponível desde o início do jogo. Cada raça possui sua própria unidade de infantaria única com várias forças e fraquezas[/ULI]
 [ULI]Blindadas: a principal unidade de tropa de ataque. Requer uma instalação de Barracas de Blindadas para recrutamento[/ULI]
-[ULI]Defesa Planetária: unidades de tropa defensiva especializadas que podem interceptar tropas inimigas enquanto viajam de seus navios de pouso para a superfície planetária. Requer uma instalação de Centro de Defesa Planetária para recrutamento[/ULI]
+[ULI]Defesa Planetária: unidades de tropa defensiva especializadas que podem interceptar tropas inimigas enquanto viajam de suas naves de pouso para a superfície planetária. Requer uma instalação de Centro de Defesa Planetária para recrutamento[/ULI]
 [ULI]Forças Especiais: unidades de infantaria altamente treinadas que se especializam em eliminar defesas de colônias durante uma invasão (instalações terrestres, unidades de defesa planetária defensoras, generais inimigos). As Forças Especiais defensoras focam na eliminação das unidades de Forças Especiais invasoras. Requer uma instalação de Barracas de Operações Especiais para recrutamento[/ULI]
 [ULI]Titãs: unidades de ataque de alto nível e muito fortes. Requer uma instalação de Centro de Manufatura de Titãs para recrutamento[/ULI]
 

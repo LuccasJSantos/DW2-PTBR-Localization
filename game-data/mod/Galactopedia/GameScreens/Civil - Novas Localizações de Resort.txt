@@ -1,4 +1,4 @@
-Esta tela lista novas localizações potenciais para resorts que você pode alvejar. Estas localizações são onde você deve construir novas bases de resorts. Resorts são destinos para turismo. Navios de passageiros transportarão turistas para os resorts, gerando renda para seu império.
+Esta tela lista novas localizações potenciais para resorts que você pode alvejar. Estas localizações são onde você deve construir novas bases de resorts. Resorts são destinos para turismo. Naves de passageiros transportarão turistas para os resorts, gerando renda para seu império.
 
 Resorts são construídos em locais cênicos na galáxia. Esses locais geralmente possuem algum recurso natural cênico. Ruínas antigas também podem fornecer bônus de cenário que podem ser explorados construindo uma Base de Resort lá.
 
@@ -7,11 +7,11 @@ Quando ampliado para o nível da galáxia ou do sistema, as novas localizações
 Cada item da lista mostra os bônus de cenário conhecidos na localização. Passe o mouse sobre a descrição do bônus de cenário para um resumo completo, incluindo o recurso natural que fornece o bônus.
 
 [H3]Enfileirando Novas Bases de Resorts[/H3]
-O botão à direita permite que você enfileire a construção de uma nova base de resort na localização. Quando o próximo navio de construção estiver disponível, ele construirá uma base de resort aqui. Você pode clicar no botão novamente para cancelar a construção.
+O botão à direita permite que você enfileire a construção de uma nova base de resort na localização. Quando a próxima nave de construção estiver disponível, ela construirá uma base de resort aqui. Você pode clicar no botão novamente para cancelar a construção.
 
 Se você não puder construir na localização, o botão de fila será desativado. Uma dica sobre o botão explicará por que você não pode construir lá.
 
 [H3]Localizações Perigosas[/H3]
 Um símbolo de raio vermelho será mostrado ao lado do nome da localização se ela for considerada perigosa. Uma localização é perigosa quando existem ameaças não eliminadas presentes, como piratas ou criaturas espaciais mortais.
 
-Navios não militares não viajarão para uma localização perigosa. As ameaças devem primeiro ser eliminadas por navios militares ou uma frota. Isso significa que, enquanto você pode enfileirar a construção de uma nova base de resort em uma localização perigosa, os navios de construção não irão lá para construir a nova base até que as ameaças sejam eliminadas.
+Naves não militares não viajarão para uma localização perigosa. As ameaças devem primeiro ser eliminadas por naves militares ou uma frota. Isso significa que, enquanto você pode enfileirar a construção de uma nova base de resort em uma localização perigosa, as naves de construção não irão lá para construir a nova base até que as ameaças sejam eliminadas.

@@ -10,7 +10,7 @@ Você pode alterar como a rotação da câmera do mouse funciona na tela de Conf
 Você pode habilitar ou desabilitar o deslocamento da tela pelas bordas na tela de Configurações do Jogo (/ key).
 Para selecionar várias naves, segure a tecla Ctrl enquanto clica nelas ou as seleciona arrastando. Você também pode selecionar várias naves de qualquer lista usando Ctrl e Shift-select (por exemplo, lista de Naves Militares).
 Zoom rapidamente para qualquer sistema estelar explorado na visão da galáxia ao clicar duas vezes na estrela.
-Com um navio ou frota selecionado, mantenha pressionado o botão direito do mouse para ver uma lista completa de missões disponíveis na localização do mouse.
+Com uma nave ou frota selecionada, mantenha pressionado o botão direito do mouse para ver uma lista completa de missões disponíveis na localização do mouse.
 Para zoom rápido para o item selecionado, clique duas vezes na área do cabeçalho do Painel de Seleção ou pressione a tecla Backspace.
-Você pode alterar as configurações de automação para o navio selecionado usando a tecla =.
+Você pode alterar as configurações de automação para a nave selecionada usando a tecla =.
 Navegue para trás e para frente no histórico do Painel de Seleção usando as teclas de seta esquerda e direita.

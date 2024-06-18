@@ -7,11 +7,11 @@ Clicar em um item da lista o selecionará. Duplo-clique em um item moverá a vis
 Cada item da lista mostra os bônus de pesquisa no local. Passe o mouse sobre a descrição do bônus para um resumo completo de todos os bônus de pesquisa no local, incluindo sua origem.
 
 [H3]Enfileirando Novas Estações de Pesquisa[/H3]
-O botão à direita permite enfileirar a construção de uma nova estação de pesquisa no local. Quando o próximo navio de construção estiver disponível, ele construirá uma estação de pesquisa aqui. Você pode clicar novamente no botão para cancelar a construção.
+O botão à direita permite enfileirar a construção de uma nova estação de pesquisa no local. Quando a próxima nave de construção estiver disponível, ela construirá uma estação de pesquisa aqui. Você pode clicar novamente no botão para cancelar a construção.
 
 Se você não puder construir no local, o botão de Enfileiramento será desabilitado. Uma dica sobre o botão explicará o motivo pelo qual você não pode construir lá.
 
 [H3]Locais Perigosos[/H3]
 Um símbolo de raio vermelho será mostrado ao lado do nome do local se o local for considerado perigoso. Um local é perigoso quando há ameaças não eliminadas, como piratas ou criaturas espaciais mortais.
 
-Navios não militares não viajarão para um local perigoso. As ameaças devem ser eliminadas primeiro por navios militares ou uma frota. Isso significa que, embora você possa enfileirar a construção de novas estações de pesquisa em um local perigoso, os navios de construção não irão até lá para construir a nova estação até que as ameaças sejam eliminadas.
+Naves não militares não viajarão para um local perigoso. As ameaças devem ser eliminadas primeiro por naves militares ou uma frota. Isso significa que, embora você possa enfileirar a construção de novas estações de pesquisa em um local perigoso, as naves de construção não irão até lá para construir a nova estação até que as ameaças sejam eliminadas.
