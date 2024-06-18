@@ -6,48 +6,48 @@ No entanto quando a guerra é declarada todos os tratados atuais são cancelados
 
 Os diferentes tipos de tratados estão listados abaixo:
 
-[H3]No relationship[/H3]
+[H3]Sem relacionamento[/H3]
 Isso significa que não há um relacionamento especial entre os dois impérios.
  
-[H3]Non Aggression[/H3]
+[H3]Não Agressão[/H3]
 Os impérios concordam em não atacar as naves ou bases um do outro.
 
-[H3]Pirate Protection[/H3]
+[H3]Proteção Pirata[/H3]
 Fações piratas podem oferecer tratados de Proteção Pirata aos impérios. Isso significa que o império paga aos piratas uma taxa mensal para evitar ser atacado por eles.
 
-[H3]Trade Agreements[/H3]
+[H3]Acordos Comerciais[/H3]
 Os impérios concordam em negociar recursos entre si. Sem um acordo comercial não há negociação de recursos entre os dois impérios.
 
 Existem 3 níveis de acordo comercial:
-[ULI][B]Restricted Trade:[/B] 50% de taxas comerciais. Aumento gradual da renda de bônus em todas as negociações até um máximo de 10%[/ULI]
-[ULI][B]Limited Trade:[/B] 20% de taxas comerciais. Aumento gradual da renda de bônus em todas as negociações até um máximo de 20%[/ULI]
-[ULI][B]Free Trade:[/B] sem taxas comerciais. Aumento gradual da renda de bônus em todas as negociações até um máximo de 30%[/ULI]
+[ULI][B]Comércio Restrito:[/B] 50% de taxas comerciais. Aumento gradual da renda de bônus em todas as negociações até um máximo de 10%[/ULI]
+[ULI][B]Comércio Limitado:[/B] 20% de taxas comerciais. Aumento gradual da renda de bônus em todas as negociações até um máximo de 20%[/ULI]
+[ULI][B]Comércio Livre:[/B] sem taxas comerciais. Aumento gradual da renda de bônus em todas as negociações até um máximo de 30%[/ULI]
 
-[H3]Territory Map Sharing[/H3]
+[H3]Compartilhamento do Mapa Territorial[/H3]
 Os dois impérios regularmente trocam mapas de território, revelando a localização de seus sistemas colonizados.
 
-[H3]Migration[/H3]
+[H3]Migração[/H3]
 Os dois impérios concordam em aceitar migrantes entre suas colônias um do outro.
 
 Iniciar um tratado de migração requer que o ofertante tenha um [WARN]embaixador designado[/WARN] à capital do recipiente.
 
-[H3]Exploration[/H3]
+[H3]Exploração[/H3]
 Os dois impérios concordam em permitir que naves de exploração operem livremente dentro do território um do outro.
 
-[H3]Mining Rights[/H3]
+[H3]Direitos de Mineração[/H3]
 Os dois impérios concordam em permitir a construção de estações de mineração em qualquer lugar dentro do território um do outro.
 
 Iniciar direitos de mineração requer que o ofertante tenha um [WARN]embaixador designado[/WARN] à capital do recipiente.
 
-[H3]Galaxy Map Sharing[/H3]
+[H3]Compartilhamento do Mapa da Galáxia[/H3]
 Os dois impérios regularmente trocam mapas da galáxia, revelando todos os seus dados de exploração.
 
-[H3]Military Refuelling[/H3]
+[H3]Reabastecimento Militar[/H3]
 Os dois impérios concordam em permitir que suas frotas e naves militares se reabasteçam nas bases e colônias um do outro.
 
 Iniciar o reabastecimento militar requer que o ofertante tenha um [WARN]embaixador designado[/WARN] à capital do recipiente.
 
-[H3]Research[/H3]
+[H3]Pesquisa[/H3]
 Os dois impérios concordam em compartilhar uma parte de sua produção de pesquisa.
 
 Isso significa que cada império recebe 20% da produção de pesquisa do outro império adicionada à sua própria produção ao pesquisar projetos, permitindo-lhes acessar novas tecnologias mais rapidamente.
@@ -82,7 +82,7 @@ Quando uma guerra termina em uma vitória decisiva, o vencedor pode exigir que o
 
 Vassalos subjugados pagam tributo mensal ao seu império dominante. Eles também são proibidos de realizar sua própria diplomacia independente. Portanto, eles não podem formar tratados com nenhuma outra facção.
 
-Quando um império se torna vassalo, ele automaticamente inclui os seguintes tipos de tratados: Non Aggression, Free Trade, Galaxy Map Sharing, Military Refuelling, Defense.
+Quando um império se torna vassalo, ele automaticamente inclui os seguintes tipos de tratados: Não Agressivo, Comércio Livre, Compartilhamento do Mapa da Galáxia, Reabastecimento Militar, Defesa.
 
 Quando um vassalo realiza ações arriscadas que poderiam levar à guerra (atacar outro império, missões de inteligência contra outro império), eles irritam seu império dominante e seus pagamentos de tributo podem aumentar.
 
