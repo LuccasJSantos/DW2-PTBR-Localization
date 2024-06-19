@@ -55,6 +55,15 @@ const translateGovernments = async function () {
     await translate.file('game-data/mod/Governments.xml', { parser: empireNounsParser })
 }
 
+const translateResources = async function () {
+    const nameParser = xmlParser(['ArrayOfResource', 'Resource', 'Name'])
+    const descriptionParser = xmlParser(['ArrayOfResource', 'Resource', 'Description'])
+
+    // await translate.file('game-data/original/Resources.xml', { parser: nameParser })
+    await translate.file('game-data/mod/Resources.xml', { parser: descriptionParser })
+}
+
+await translateResources()
 // await translateGovernments()
 // await translateComponentDefinifitions()
 // await translateGameEvents()
