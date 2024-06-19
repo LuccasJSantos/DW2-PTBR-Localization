@@ -988,7 +988,7 @@ BonusType HyperjumpSpeed		;Velocidade de Salto Hiperespacial
 BonusType ShipSpeed		;Velocidade da Nave
 BonusType ArmorStrength		;Força da Armadura
 BonusType MiningRate		;Taxa de Mineração
-BonusType ColonyPopulationGrowthRate		;Taxa de Crescimento da População da Colônia
+BonusType ColonyPopulationGrowthRate		;Crescimento da População
 BonusType PsyOps		;Operações Psíquicas
 BonusType RepairRate		;Taxa de Reparo
 
@@ -1059,7 +1059,7 @@ BonusType RecruitedTroopStrength Armor		;Força de Armadura Recrutada
 BonusType RecruitedTroopStrength Titan		;Força de Titã Recrutada
 BonusType RecruitedTroopStrength SpecialForces		;Força de Forças Especiais Recrutada
 BonusType RecruitedTroopStrength PlanetaryDefense		;Força de Defesa Planetária Recrutada
-BonusType ColonyDevelopment		;Desenvolvimento da Colônia
+BonusType ColonyDevelopment		;Crescimento da Colônia
 BonusType ColonyDefense		;Defesa da Colônia
 BonusType Scenery		;Cenário
 BonusType RaidIncome		;Renda de Incursão

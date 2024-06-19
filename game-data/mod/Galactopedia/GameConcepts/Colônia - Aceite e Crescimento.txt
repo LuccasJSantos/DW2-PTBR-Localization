@@ -75,13 +75,13 @@ O rápido crescimento populacional e o alto nível de desenvolvimento da colôni
 [ULI]Mantenha os impostos em um nível razoável[/ULI]
 [ULI]Garanta um bom suprimento de recursos de luxo[/ULI]
 
-[H3]Nível de Desenvolvimento da Colônia: População + Recursos de Luxo[/H3]
+[H3]Nível de Desenv. da Colônia: População + Recursos de Luxo[/H3]
 Conforme explicado mais adiante, o nível de desenvolvimento da colônia é composto por duas partes: até 50% da população + o restante dos recursos de luxo.
 
-[H3]Desenvolvimento pela População[/H3]
+[H3]Crescimento pela População[/H3]
 Quando uma colônia tem uma população de 5 bilhões, seu desenvolvimento populacional atinge o nível máximo de 50%. Populações menores têm desenvolvimento populacional proporcionalmente menor. Por exemplo, uma nova colônia de 30 milhões tem um nível de desenvolvimento populacional de aproximadamente 14%.
 
-[H3]Desenvolvimento pelos Recursos de Luxo[/H3]
+[H3]Crescimento pelos Recursos de Luxo[/H3]
 Recursos de luxo são os produtos de alta qualidade que sua população consome. Eles vêm em várias formas: alimentos, bebidas, têxteis, minerais e madeiras exóticas, entre outros. Eles aumentam diretamente o desenvolvimento, pois cada um desses recursos tem um bônus de Desenvolvimento de Colônia de um valor específico.
 
 Recursos de luxo são consumidos pelas colônias. Ter acesso a muitos recursos de luxo aumenta o nível de desenvolvimento de luxo de uma colônia, produzindo mais renda. Cada recurso de luxo aumenta o nível de desenvolvimento por uma quantia específica (tipicamente 3-6%, mas cada recurso difere), portanto, quando uma colônia tem acesso consistente a muitos recursos de luxo, seu nível de desenvolvimento de luxo aumentará lentamente.
