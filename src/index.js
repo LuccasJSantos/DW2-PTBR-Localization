@@ -77,7 +77,14 @@ const translatePlanetaryFacilityDefinitions = async function () {
     await translate.file('game-data/original/PlanetaryFacilityDefinitions.xml', { parser: nameParser })
 }
 
-await translatePlanetaryFacilityDefinitions()
+const translateSpaceItemDefinition = async function () {
+    const nameParser = xmlParser(['ArrayOfSpaceItemDefinition', 'SpaceItemDefinition', 'Name'])
+
+    await translate.file('game-data/original/SpaceItemDefinitions.xml', { parser: nameParser })
+}
+
+await translateSpaceItemDefinition()
+// await translatePlanetaryFacilityDefinitions()
 // await translateTourItems()
 // await translateResources()
 // await translateGovernments()
