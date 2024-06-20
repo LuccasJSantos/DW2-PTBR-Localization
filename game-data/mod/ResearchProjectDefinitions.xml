@@ -51503,7 +51503,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>696</ResearchProjectId>
-    <Name>Diplomacia Básica: Linguagem e Expressões Teekan</Name>
+    <Name>Diplomacia Básica: Linguagem e Expressões Teekanas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>75</Size>
     <EnabledByDefault>false</EnabledByDefault>
@@ -51529,7 +51529,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>697</ResearchProjectId>
-    <Name>Diplomacia Eficaz: Cultura e Costumes Teekan</Name>
+    <Name>Diplomacia Eficaz: Cultura e Costumes Teekanas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>800</Size>
     <InitiationCost>
@@ -51565,7 +51565,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>698</ResearchProjectId>
-    <Name>Diplomacia Avançada: História e Tradições Teekan</Name>
+    <Name>Diplomacia Avançada: História e Tradições Teekanas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>2400</Size>
     <InitiationCost>
@@ -51601,7 +51601,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>699</ResearchProjectId>
-    <Name>Diplomacia Completa: Imersão Teekan</Name>
+    <Name>Diplomacia Completa: Imersão Teekana</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>9600</Size>
     <InitiationCost>
@@ -52709,7 +52709,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>732</ResearchProjectId>
-    <Name>Diplomacia Básica: Linguagem e Expressões Gizurean</Name>
+    <Name>Diplomacia Básica: Linguagem e Expressões Gizureanas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>75</Size>
     <EnabledByDefault>false</EnabledByDefault>
@@ -52735,7 +52735,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>733</ResearchProjectId>
-    <Name>Diplomacia Eficaz: Cultura e Costumes Gizurean</Name>
+    <Name>Diplomacia Eficaz: Cultura e Costumes Gizureanas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>800</Size>
     <InitiationCost>
@@ -52771,7 +52771,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>734</ResearchProjectId>
-    <Name>Diplomacia Avançada: História e Tradições Gizurean</Name>
+    <Name>Diplomacia Avançada: História e Tradições Gizureanas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>2400</Size>
     <InitiationCost>
@@ -52807,7 +52807,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>735</ResearchProjectId>
-    <Name>Diplomacia Completa: Imersão Gizurean</Name>
+    <Name>Diplomacia Completa: Imersão Gizureana</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>9600</Size>
     <InitiationCost>
@@ -52977,7 +52977,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>740</ResearchProjectId>
-    <Name>Diplomacia Básica: Linguagem e Expressões Kiadian</Name>
+    <Name>Diplomacia Básica: Linguagem e Expressões Kiadianas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>75</Size>
     <EnabledByDefault>false</EnabledByDefault>
@@ -53003,7 +53003,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>741</ResearchProjectId>
-    <Name>Diplomacia Eficaz: Cultura e Costumes Kiadian</Name>
+    <Name>Diplomacia Eficaz: Cultura e Costumes Kiadianas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>800</Size>
     <InitiationCost>
@@ -53039,7 +53039,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>742</ResearchProjectId>
-    <Name>Diplomacia Avançada: História e Tradições Kiadian</Name>
+    <Name>Diplomacia Avançada: História e Tradições Kiadianas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>2400</Size>
     <InitiationCost>
@@ -53075,7 +53075,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>743</ResearchProjectId>
-    <Name>Diplomacia Completa: Imersão Kiadian</Name>
+    <Name>Diplomacia Completa: Imersão Kiadiana</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>9600</Size>
     <InitiationCost>
@@ -53111,7 +53111,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>744</ResearchProjectId>
-    <Name>Diplomacia Básica: Linguagem e Expressões Naxxilian</Name>
+    <Name>Diplomacia Básica: Linguagem e Expressões Naxxilianas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>75</Size>
     <EnabledByDefault>false</EnabledByDefault>
@@ -53137,7 +53137,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>745</ResearchProjectId>
-    <Name>Diplomacia Eficaz: Cultura e Costumes Naxxilian</Name>
+    <Name>Diplomacia Eficaz: Cultura e Costumes Naxxilianas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>800</Size>
     <InitiationCost>
@@ -53173,7 +53173,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>746</ResearchProjectId>
-    <Name>Diplomacia Avançada: História e Tradições Naxxilian</Name>
+    <Name>Diplomacia Avançada: História e Tradições Naxxilianas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>2400</Size>
     <InitiationCost>
@@ -53209,7 +53209,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>747</ResearchProjectId>
-    <Name>Diplomacia Completa: Imersão Naxxilian</Name>
+    <Name>Diplomacia Completa: Imersão Naxxiliana</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>9600</Size>
     <InitiationCost>
@@ -53379,7 +53379,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>752</ResearchProjectId>
-    <Name>Diplomacia Básica: Linguagem e Expressões Securan</Name>
+    <Name>Diplomacia Básica: Linguagem e Expressões Securanas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>75</Size>
     <EnabledByDefault>false</EnabledByDefault>
@@ -53405,7 +53405,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>753</ResearchProjectId>
-    <Name>Diplomacia Eficaz: Cultura e Costumes Securan</Name>
+    <Name>Diplomacia Eficaz: Cultura e Costumes Securanas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>800</Size>
     <InitiationCost>
@@ -53441,7 +53441,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>754</ResearchProjectId>
-    <Name>Diplomacia Avançada: História e Tradições Securan</Name>
+    <Name>Diplomacia Avançada: História e Tradições Securanas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>2400</Size>
     <InitiationCost>
@@ -53477,7 +53477,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>755</ResearchProjectId>
-    <Name>Diplomacia Completa: Imersão Securan</Name>
+    <Name>Diplomacia Completa: Imersão Securana</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>9600</Size>
     <InitiationCost>

@@ -468,7 +468,7 @@ Vamos completar o trabalho que eles nos propuseram e manter a ciência como noss
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>O Tempo de Peregrinação Chegou Novamente!</MessageTitle>
-        <Description>Nós Teekans nascemos para vagar. Por gerações, viajamos por este mundo, caçando Bakdur, sempre em busca do que é novo e desconhecido, nunca permanecendo por muito tempo em um só lugar. No entanto, este mundo é finito, e nossas lendas nos contam de um tempo, séculos atrás, quando vagamos pelas estrelas, tomando para nós o que pudemos encontrar.
+        <Description>Nós Teekanos nascemos para vagar. Por gerações, viajamos por este mundo, caçando Bakdur, sempre em busca do que é novo e desconhecido, nunca permanecendo por muito tempo em um só lugar. No entanto, este mundo é finito, e nossas lendas nos contam de um tempo, séculos atrás, quando vagamos pelas estrelas, tomando para nós o que pudemos encontrar.
 
 Essas histórias narram um período de grande agitação, quando caçadores poderosos tentaram destruir nossos ancestrais. Em vez de lutar, eles escolheram sabiamente se esconder neste mundo. Aqui eles sobreviveram, embora ao custo de sua riqueza acumulada e da liberdade de viajar além das limitações do solo e da gravidade.
 
@@ -11331,7 +11331,7 @@ Também devemos avisar que alguns membros do Alto Conselho Zenox suspeitam de no
           
 Em seguida, há um esboço das posições atuais e forças da frota da Aliança.
           
-Uma nota também foi adicionada a esta mensagem, aparentemente pelo cônsul diplomático Ackdarian que comanda a Estação de Monitoramento. A nota diz: "Top Secret, Encaminhar urgentemente aos Humanos, não podemos permitir que esta situação perigosa continue"...</Description>
+Uma nota também foi adicionada a esta mensagem, aparentemente pelo cônsul diplomático Ackdariano que comanda a Estação de Monitoramento. A nota diz: "Top Secret, Encaminhar urgentemente aos Humanos, não podemos permitir que esta situação perigosa continue"...</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -11408,7 +11408,7 @@ Uma nota também foi adicionada a esta mensagem, aparentemente pelo cônsul dipl
         <MessageTitle>Mensagens Diplomáticas Antigas Recuperadas</MessageTitle>
         <Description>Nossa investigação de uma base abandonada, {0} no sistema {1}, revelou algumas mensagens interessantes entre facções antigas enquanto enfrentavam uma terrível ameaça conhecida como Shakturi.
 
-Uma das mensagens parece ser uma nota de agradecimento do Alto Conselho Humano à Tecnocracia Ackdarian, que diz o seguinte:
+Uma das mensagens parece ser uma nota de agradecimento do Alto Conselho Humano à Tecnocracia Ackdariana, que diz o seguinte:
 
 "Agradecemos sinceramente pelo seu apoio crucial durante e após o desastre em Rekallios 5. Manter nossas forças da Aliança da Liberdade unidas contra os Shakturi oferece a melhor esperança de sucesso.
 
@@ -11740,7 +11740,7 @@ Uma nota foi adicionada a esta mensagem, aparentemente pelo cônsul diplomático
         <MessageTitle>Mensagens Diplomáticas Antigas Recuperadas</MessageTitle>
         <Description>Nossa investigação de uma base abandonada, {0} no sistema {1}, revelou algumas mensagens interessantes entre facções antigas enquanto enfrentavam uma terrível ameaça conhecida como os Shakturi.
 
-Uma das mensagens parece ser uma comunicação interceptada entre duas frotas Teekan. A mensagem diz o seguinte:
+Uma das mensagens parece ser uma comunicação interceptada entre duas frotas Teekanas. A mensagem diz o seguinte:
 
 "Saudações, irmãos do clã Grande Saqueadores! Estamos seguindo os Besouros Malvados enquanto eles destroem e quebram os mundos. Muito saque bom e tesouro eles deixam para trás! Mas cuidado - não sejam vistos pelos Besouros Malvados, senão eles também o destroem!
 
@@ -15118,7 +15118,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Nosso Lar Antigo</MessageTitle>
-        <Description>Dentro do santuário neste mundo está um tesouro de dados da Antiga República Solar Humana, que levará muitos anos para entendermos completamente.\n\nJá aprendemos o suficiente para entender que nos tempos antigos, a Solar Republic junto com a Tecnocracia Ackdarian fundaram a Aliança da Liberdade, focada na defesa contra o poderoso Eixo Shaktur. O Eixo Shaktur servia aos Shakturi, uma raça alienígena extremamente avançada e poderosa de origens desconhecidas. Eles viajavam pela galáxia rasgando buracos no espaço-tempo usando seus "impulsionadores de buracos de minhoca".\n\nQuando este santuário foi criado, a guerra já estava em andamento há vários anos e muitos mundos e vidas já haviam sido perdidos. A esperança era que as informações aqui pudessem sobreviver, aconteça o que acontecer.\n\nEntre as várias descobertas importantes, também localizamos um mapa estelar que mostra claramente a localização do antigo mundo natal da Solar Republic.\n\nFinalmente, poderemos descobrir o que aconteceu com nossos ancestrais! As coordenadas agora foram adicionadas ao nosso mapa estelar atual.</Description>
+        <Description>Dentro do santuário neste mundo está um tesouro de dados da Antiga República Solar Humana, que levará muitos anos para entendermos completamente.\n\nJá aprendemos o suficiente para entender que nos tempos antigos, a Solar Republic junto com a Tecnocracia Ackdariana fundaram a Aliança da Liberdade, focada na defesa contra o poderoso Eixo Shaktur. O Eixo Shaktur servia aos Shakturi, uma raça alienígena extremamente avançada e poderosa de origens desconhecidas. Eles viajavam pela galáxia rasgando buracos no espaço-tempo usando seus "impulsionadores de buracos de minhoca".\n\nQuando este santuário foi criado, a guerra já estava em andamento há vários anos e muitos mundos e vidas já haviam sido perdidos. A esperança era que as informações aqui pudessem sobreviver, aconteça o que acontecer.\n\nEntre as várias descobertas importantes, também localizamos um mapa estelar que mostra claramente a localização do antigo mundo natal da Solar Republic.\n\nFinalmente, poderemos descobrir o que aconteceu com nossos ancestrais! As coordenadas agora foram adicionadas ao nosso mapa estelar atual.</Description>
         <ImageFilepath />
         <MusicFilepath />
         <ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
@@ -16003,7 +16003,7 @@ Também encontramos as ruínas de um espaçoporto pré-Cataclismo. Conseguimos a
         <MessageTitle>Mensagens Antigas Recuperadas</MessageTitle>
         <Description>Nossa investigação de uma estação de pesquisa abandonada, {0} no sistema {1}, revelou algumas mensagens interessantes entre facções antigas enquanto lutavam contra uma terrível ameaça conhecida como os Shakturi.
 
-Uma das mensagens parece ser um relatório de progresso de um posto avançado de pesquisa Ackdarian para o Conselho Superior Humano e Tecnocracia Ackdarian, parte do qual diz o seguinte:
+Uma das mensagens parece ser um relatório de progresso de um posto avançado de pesquisa Ackdariana para o Conselho Superior Humano e Tecnocracia Ackdariana, parte do qual diz o seguinte:
 
 "Graças aos esforços combinados de nossos cientistas, continuamos avançando em nosso entendimento dos buracos de minhoca e rasgos espaciais. Mas um método confiável para detectar e desativar os impulsionadores de buraco de minhoca dos Shakturi ainda está um pouco distante.
 
@@ -16109,7 +16109,7 @@ Continuaremos nossa pesquisa com toda a pressa possível, sabendo que o resultad
         <MessageTitle>Mensagens Antigas Recuperadas</MessageTitle>
         <Description>Nossa investigação de uma estação de pesquisa abandonada, {0}, no sistema {1}, revelou algumas mensagens interessantes entre facções antigas enquanto lutavam contra uma terrível ameaça conhecida como os Shakturi.
 
-Uma das mensagens parece ser uma atualização de um projeto de pesquisa encaminhada ao Conselho Superior Humano e à Tecnocracia Ackdarian, que diz o seguinte:
+Uma das mensagens parece ser uma atualização de um projeto de pesquisa encaminhada ao Conselho Superior Humano e à Tecnocracia Ackdariana, que diz o seguinte:
 
 "Sucesso! Graças às informações críticas fornecidas por espiões Ugnari, fizemos uma grande descoberta em nosso entendimento dos drives de buraco de minhoca.
 
@@ -16801,7 +16801,7 @@ Embora esperemos que haja outras naves e sobreviventes além deste sistema, não
         <MessageTitle>Mensagens Antigas Recuperadas</MessageTitle>
         <Description>Nossa investigação de uma base abandonada, {0}, no sistema {1}, revelou algumas mensagens interessantes.
 
-Uma das mensagens parece ser entre uma facção de piratas e uma colônia de Ackdarians alguns anos atrás, parte da qual diz o seguinte:
+Uma das mensagens parece ser entre uma facção de piratas e uma colônia de Ackdarianos alguns anos atrás, parte da qual diz o seguinte:
 
 "A qualidade de Osalia que vocês têm negociado tem sido satisfatória, mas a quantidade deve ser aumentada.
 
@@ -16909,7 +16909,7 @@ Ouvimos rumores de que vocês planejam armar algumas de suas naves. Não pensem 
 
 Uma das mensagens parece ser de uma colônia planetária incipiente, muitos séculos atrás, parte da qual diz o seguinte:
 
-"Para o Consórcio da Segunda Via Estelar: nossos sinceros agradecimentos pela ajuda de sua frota em proteger nosso planeta dos atacantes Gizurean desequilibrados. Agradecemos também seus esforços contínuos para exterminar os selvagens Gravillex. Em troca, oferecemos a vocês algum Resina de Hyutil de alta qualidade e Conchas de Ordulos."</Description>
+"Para o Consórcio da Segunda Via Estelar: nossos sinceros agradecimentos pela ajuda de sua frota em proteger nosso planeta dos atacantes Gizureanos desequilibrados. Agradecemos também seus esforços contínuos para exterminar os selvagens Gravillex. Em troca, oferecemos a vocês algum Resina de Hyutil de alta qualidade e Conchas de Ordulos."</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -17147,7 +17147,7 @@ Nosso próprio mundo natal pode nunca mais ser habitável. Minha única consola�
         <MessageTitle>Mensagens Antigas Recuperadas</MessageTitle>
         <Description>Nossa investigação de uma base abandonada, {0}, no sistema {1}, revelou algumas mensagens interessantes.
 
-Uma das mensagens parece ter sido escrita por um oficial Gizurean, parte da qual diz o seguinte:
+Uma das mensagens parece ter sido escrita por um oficial Gizureano, parte da qual diz o seguinte:
 
 "Ninguém sabe o resultado da última batalha ou para onde os Shakturi foram. A Rainha Hikhare morreu subitamente, possivelmente assassinada, e muitos membros da corte estão caindo na loucura.
 
@@ -41599,7 +41599,7 @@ No entanto, apenas começamos a descobrir tudo o que este mundo tem a oferecer. 
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Resultados da Escavação</MessageTitle>
-        <Description>Esta expedição provou ser válida. Você descobriu um antigo dispositivo de armazenamento de dados monolítico, desgastado mas funcional. Os antigos Haakonish parecem ter armazenado uma parte significativa de suas obras culturais sobre os temas de preparação e consumo de alimentos refinados, bem como artifício e subterfúgio. Os Haakonish que escreveram essas obras descobriram que através da interseção dessas duas artes, poderiam encontrar fraquezas exploráveis em outras culturas inferiores através da análise de suas preferências e costumes culinários. Ao longo dessas obras, a superioridade da gastronomia Haakonish, em parte devido à sua biologia superior, é frequentemente afirmada como autoevidente. Talvez o mais interessante, muitos dos pratos mais finos dos Haakonish fazem uso do Spice Korrabian e vários locais antigos onde ele ainda pode ser encontrado estão registrados aqui.</Description>
+        <Description>Esta expedição provou ser válida. Você descobriu um antigo dispositivo de armazenamento de dados monolítico, desgastado mas funcional. Os antigos Haakonish parecem ter armazenado uma parte significativa de suas obras culturais sobre os temas de preparação e consumo de alimentos refinados, bem como artifício e subterfúgio. Os Haakonish que escreveram essas obras descobriram que através da interseção dessas duas artes, poderiam encontrar fraquezas exploráveis em outras culturas inferiores através da análise de suas preferências e costumes culinários. Ao longo dessas obras, a superioridade da gastronomia Haakonish, em parte devido à sua biologia superior, é frequentemente afirmada como autoevidente. Talvez o mais interessante, muitos dos pratos mais finos dos Haakonish fazem uso do Spice Korrabiano e vários locais antigos onde ele ainda pode ser encontrado estão registrados aqui.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -44737,7 +44737,7 @@ Agora, por causa dos erros de alienígenas pequenos, fomos obrigados a reconstru
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Resultados da Reparação</MessageTitle>
-        <Description>As estações de mineração aqui são antigas e degradadas. Vasculhar os destroços dessas operações não foi fácil, mas nossos engenheiros mexeram nos equipamentos antigos, encontrando maneiras de fazer peças desiguais trabalharem juntas em harmonia. É o caminho Teekan, e assim vamos lucrar com nossa engenhosidade ao colher a abundância deste mundo.</Description>
+        <Description>As estações de mineração aqui são antigas e degradadas. Vasculhar os destroços dessas operações não foi fácil, mas nossos engenheiros mexeram nos equipamentos antigos, encontrando maneiras de fazer peças desiguais trabalharem juntas em harmonia. É o caminho Teekano, e assim vamos lucrar com nossa engenhosidade ao colher a abundância deste mundo.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -45023,7 +45023,7 @@ Agora, por causa dos erros de alienígenas pequenos, fomos obrigados a reconstru
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Resultados da Investigação</MessageTitle>
-        <Description>Escondidos em cavernas sob a superfície deste mundo, encontramos enormes câmaras que abrigam armazenamento criogênico. O tamanho pequeno nos levou a suspeitar inicialmente que contivessem alienígenas, mas não. São juvenis Teekan. Será que os antigos Teekans tinham a intenção de colonizar este mundo? Parece improvável, já que os Teekans teriam dificuldades para sobreviver aqui. Será que os adultos chegariam separadamente, ou simplesmente não havia câmaras criogênicas suficientes para todos escaparem do que quer que estivessem fugindo? Pode ser que os adultos tenham se sacrificado em um esforço heróico para salvar sua prole. Mesmo se conseguirmos despertar os dorminhocos, duvido que aprenderemos muito com eles. Eles são jovens demais para terem compreendido o que estava acontecendo. Os bancos de dados são limitados e estão muito danificados. Até onde podemos discernir, eles fazem referência a algo chamado Grande Refúgio Teekan, que pode ter sido o destino original desses dorminhocos. Refúgio de quê, devemos perguntar, e por que esses juvenis não conseguiram chegar ao seu destino?</Description>
+        <Description>Escondidos em cavernas sob a superfície deste mundo, encontramos enormes câmaras que abrigam armazenamento criogênico. O tamanho pequeno nos levou a suspeitar inicialmente que contivessem alienígenas, mas não. São juvenis Teekanos. Será que os antigos Teekanos tinham a intenção de colonizar este mundo? Parece improvável, já que os Teekanos teriam dificuldades para sobreviver aqui. Será que os adultos chegariam separadamente, ou simplesmente não havia câmaras criogênicas suficientes para todos escaparem do que quer que estivessem fugindo? Pode ser que os adultos tenham se sacrificado em um esforço heróico para salvar sua prole. Mesmo se conseguirmos despertar os dorminhocos, duvido que aprenderemos muito com eles. Eles são jovens demais para terem compreendido o que estava acontecendo. Os bancos de dados são limitados e estão muito danificados. Até onde podemos discernir, eles fazem referência a algo chamado Grande Refúgio Teekano, que pode ter sido o destino original desses dorminhocos. Refúgio de quê, devemos perguntar, e por que esses juvenis não conseguiram chegar ao seu destino?</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -45167,7 +45167,7 @@ As fontes de energia neste mundo são muito limitadas e não podemos conectar no
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Dorminhocos Despertados</MessageTitle>
-        <Description>Ao reparar os geradores de energia existentes no planeta e conectá-los cuidadosamente às unidades de criostase, conseguimos iniciar o processo de despertar os juvenis Teekan dorminhocos. Serão necessários voluntários do mundo natal para ajudá-los a atravessar essa transição difícil, mas não deverá faltar candidatos, especialmente porque esta nova colônia oferece Bakdur para caçar. O mundo não é ideal, e haverá muitas dificuldades para esses novos colonos, mas finalmente eles estão livres de seu sono que durou séculos. A boa notícia é que ainda resta uma pequena reserva de energia e talvez ainda possamos ativar os terraformadores no futuro.</Description>
+        <Description>Ao reparar os geradores de energia existentes no planeta e conectá-los cuidadosamente às unidades de criostase, conseguimos iniciar o processo de despertar os juvenis Teekanos dorminhocos. Serão necessários voluntários do mundo natal para ajudá-los a atravessar essa transição difícil, mas não deverá faltar candidatos, especialmente porque esta nova colônia oferece Bakdur para caçar. O mundo não é ideal, e haverá muitas dificuldades para esses novos colonos, mas finalmente eles estão livres de seu sono que durou séculos. A boa notícia é que ainda resta uma pequena reserva de energia e talvez ainda possamos ativar os terraformadores no futuro.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -45317,7 +45317,7 @@ As fontes de energia neste mundo são muito limitadas e não podemos conectar no
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Facilidade de Terraformação Recuperada</MessageTitle>
-        <Description>Já se passaram cinco anos desde que despertamos os dorminhocos criogênicos em nosso mundo colonial, {0}. Finalmente temos energia e infraestrutura suficientes para ativar os mecanismos antigos de terraformação. Nossos cientistas nos asseguram que o processo não causará danos aos Teekans nem aos Bakdur que atualmente habitam o planeta. Podemos esperar que isso torne nossa colônia um lugar ainda mais atraente para se estabelecer.</Description>
+        <Description>Já se passaram cinco anos desde que despertamos os dorminhocos criogênicos em nosso mundo colonial, {0}. Finalmente temos energia e infraestrutura suficientes para ativar os mecanismos antigos de terraformação. Nossos cientistas nos asseguram que o processo não causará danos aos Teekanos nem aos Bakdur que atualmente habitam o planeta. Podemos esperar que isso torne nossa colônia um lugar ainda mais atraente para se estabelecer.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -45564,7 +45564,7 @@ As fontes de energia neste mundo são muito limitadas e não podemos conectar no
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Dorminhocos Despertados</MessageTitle>
-        <Description>Já se passaram cinco longos anos desde que fizemos a escolha de abrir {0} para colonização imediata. Agora há energia e infraestrutura suficientes para despertar os juvenis Teekan e Bakdur nas câmaras de criostase. Será uma transição difícil para os jovens dorminhocos, mas temos muitos voluntários prontos para ajudá-los a se integrar à vida neste mundo. E que comece a caçada da nova linhagem de Bakdur!</Description>
+        <Description>Já se passaram cinco longos anos desde que fizemos a escolha de abrir {0} para colonização imediata. Agora há energia e infraestrutura suficientes para despertar os juvenis Teekanos e Bakdur nas câmaras de criostase. Será uma transição difícil para os jovens dorminhocos, mas temos muitos voluntários prontos para ajudá-los a se integrar à vida neste mundo. E que comece a caçada da nova linhagem de Bakdur!</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -45860,7 +45860,7 @@ As fontes de energia neste mundo são muito limitadas e não podemos conectar no
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Explorador Desaparecido</MessageTitle>
-        <Description>As evidências são avassaladoras. O vírus contaminou nossos exploradores, distorceu suas mentes, tornou-os violentos e vorazes. Eles se tornaram não-Teekan. Não temos escolha senão detê-los antes que espalhem sua loucura para o resto de nossa população.</Description>
+        <Description>As evidências são avassaladoras. O vírus contaminou nossos exploradores, distorceu suas mentes, tornou-os violentos e vorazes. Eles se tornaram não-Teekanos. Não temos escolha senão detê-los antes que espalhem sua loucura para o resto de nossa população.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -49819,7 +49819,7 @@ Muitas dessas informações não são úteis para os piratas, é claro, mas ao n
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Um Antigo Porto Espacial</MessageTitle>
-        <Description>Descobrimos o que parece ser um espaçoporto Teekan destruído. Isso merece uma investigação mais aprofundada.</Description>
+        <Description>Descobrimos o que parece ser um espaçoporto Teekano destruído. Isso merece uma investigação mais aprofundada.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -49870,7 +49870,7 @@ Muitas dessas informações não são úteis para os piratas, é claro, mas ao n
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Um Antigo Porto Espacial</MessageTitle>
-        <Description>A estação já foi dedicada à construção de naves, sem dúvida para fornecer os meios para nosso povo fugir da terrível guerra Shakturi. Um dos últimos registros sobreviventes relata um encontro com um enviado Mortalen. Após uma grande batalha, os antigos Teekans descobriram uma poderosa arma Shakturi, que nossos ancestrais negociaram com os Mortalen na esperança de melhorar as relações. Será que os Mortalen usaram essa arma para derrotar os Shakturi? Essas respostas são improváveis de serem encontradas aqui, mas continuaremos procurando.</Description>
+        <Description>A estação já foi dedicada à construção de naves, sem dúvida para fornecer os meios para nosso povo fugir da terrível guerra Shakturi. Um dos últimos registros sobreviventes relata um encontro com um enviado Mortalen. Após uma grande batalha, os antigos Teekanos descobriram uma poderosa arma Shakturi, que nossos ancestrais negociaram com os Mortalen na esperança de melhorar as relações. Será que os Mortalen usaram essa arma para derrotar os Shakturi? Essas respostas são improváveis de serem encontradas aqui, mas continuaremos procurando.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -49941,11 +49941,11 @@ Muitas dessas informações não são úteis para os piratas, é claro, mas ao n
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Uma Descoberta Interessante</MessageTitle>
-        <Description>Encontramos algo mais no Outpost Teekan Perdido: um androide funcional, notavelmente parecido com um Teekan biológico em aparência. Ele se autodenomina o Avaliador, e afirma ter sido deixado para trás por engano durante o êxodo Teekan em fuga. Ele sabe pouco sobre a guerra, mas diz que pode ser de grande serviço para nós em questões de pesquisa e comércio.
+        <Description>Encontramos algo mais no Outpost Teekano Perdido: um androide funcional, notavelmente parecido com um Teekano biológico em aparência. Ele se autodenomina o Avaliador, e afirma ter sido deixado para trás por engano durante o êxodo Teekano em fuga. Ele sabe pouco sobre a guerra, mas diz que pode ser de grande serviço para nós em questões de pesquisa e comércio.
 
-O Avaliador nos mostrou a estação e nos levou a bancos de dados que ele acredita que ainda podemos acessar. Há muito que nunca saberemos, mas parece que este mundo serviu como um importante centro coordenador para Teekans escapando da guerra. Surpreendentemente, aprendemos que os invasores Shakturi não vieram de algum canto distante da galáxia, mas de fora da própria galáxia. Mais horrível ainda, seus dispositivos de buraco de minhoca danificaram o espaço próprio. Eles estavam literalmente destruindo a galáxia que invadiram. Mentes tão destrutivas são insondáveis para nós.
+O Avaliador nos mostrou a estação e nos levou a bancos de dados que ele acredita que ainda podemos acessar. Há muito que nunca saberemos, mas parece que este mundo serviu como um importante centro coordenador para Teekanos escapando da guerra. Surpreendentemente, aprendemos que os invasores Shakturi não vieram de algum canto distante da galáxia, mas de fora da própria galáxia. Mais horrível ainda, seus dispositivos de buraco de minhoca danificaram o espaço próprio. Eles estavam literalmente destruindo a galáxia que invadiram. Mentes tão destrutivas são insondáveis para nós.
 
-Aqui, também descobrimos o que há muito buscamos, a localização do grande refúgio Teekan. Devemos investigar e ver o que podemos aprender.</Description>
+Aqui, também descobrimos o que há muito buscamos, a localização do grande refúgio Teekano. Devemos investigar e ver o que podemos aprender.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -50095,7 +50095,7 @@ Aqui, também descobrimos o que há muito buscamos, a localização do grande re
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Resultados da Investigação</MessageTitle>
-        <Description>Esta estação pertencia aos Teekans durante a época da guerra Shakturi. Parece ter sido dedicada à construção de naves, e há dois destróieres danificados em órbita. Mais interessante ainda, descobrimos um androide funcional, muito parecido com um Teekan biológico em aparência. Ele se chama Avaliador e afirma ter sido deixado para trás por engano durante o êxodo dos Teekans em fuga. Ele sabe pouco sobre a guerra, mas diz que pode ser de grande serviço para nós em questões de pesquisa e comércio.</Description>
+        <Description>Esta estação pertencia aos Teekanos durante a época da guerra Shakturi. Parece ter sido dedicada à construção de naves, e há dois destróieres danificados em órbita. Mais interessante ainda, descobrimos um androide funcional, muito parecido com um Teekano biológico em aparência. Ele se chama Avaliador e afirma ter sido deixado para trás por engano durante o êxodo dos Teekanos em fuga. Ele sabe pouco sobre a guerra, mas diz que pode ser de grande serviço para nós em questões de pesquisa e comércio.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -50408,13 +50408,13 @@ Aqui, também descobrimos o que há muito buscamos, a localização do grande re
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>O Refúgio Antigo dos Teekans</MessageTitle>
-        <Description>A tristeza é difícil de expressar. Um mundo colonizado, infraestrutura em funcionamento, completamente abandonado. Aqui os antigos Teekans esperavam preservar sua cultura enquanto suas mentes mais brilhantes se escondiam da guerra que devastava a galáxia. Conforme os Shakturi avançavam, porém, os maiores estrategistas militares entre os Teekans acreditavam que a localização do Refúgio tinha sido descoberta. Mesmo que fosse poupado da devastação Shakturi, os antigos temiam que seria um alvo após a guerra para aqueles que ressentiam os Teekans por comerciarem com seus inimigos. Com pouco tempo para se preparar, os Teekans embarcaram em suas naves, lançaram novas caravanas e procuraram outros lugares para se esconder dos invasores.
+        <Description>A tristeza é difícil de expressar. Um mundo colonizado, infraestrutura em funcionamento, completamente abandonado. Aqui os antigos Teekanos esperavam preservar sua cultura enquanto suas mentes mais brilhantes se escondiam da guerra que devastava a galáxia. Conforme os Shakturi avançavam, porém, os maiores estrategistas militares entre os Teekanos acreditavam que a localização do Refúgio tinha sido descoberta. Mesmo que fosse poupado da devastação Shakturi, os antigos temiam que seria um alvo após a guerra para aqueles que ressentiam os Teekanos por comerciarem com seus inimigos. Com pouco tempo para se preparar, os Teekanos embarcaram em suas naves, lançaram novas caravanas e procuraram outros lugares para se esconder dos invasores.
 
 Estações de monitoramento automatizadas permaneceram ativas, no entanto, e estavam em coordenação com os comandantes das diversas caravanas Teekans. Estes relatos de devastação por toda a galáxia. A Aliança da Liberdade utilizou uma arma devastadora contra os Shakturi, destinada a interferir em seus geradores de buraco de minhoca. Outra facção, desconhecida por nossos antepassados, estava desenvolvendo outra arma em segredo e a utilizou ao mesmo tempo que a Aliança da Liberdade usou a deles.
 
 A entrada final fala apenas de ondas gravitacionais massivas, destruição tectônica causada pelo uso das duas armas. Caravanas inteiras perdidas. É impossível calcular quantos seres morreram enquanto naves e mundos eram destruídos. Apenas aqueles em alguns poucos mundos que resistiram ao dano foram capazes de sobreviver, isolados embora estivessem, junto com algumas naves de caravanas que estavam no hiperespaço. Terríveis como eram essas armas, parece que salvaram a galáxia, pois os Shakturi desapareceram de nosso espaço.
 
-É uma ironia dolorosa que nossos antepassados tenham fugido do refúgio, pois parece ter sobrevivido muito melhor do que muitos mundos que visitamos. Também descobrimos artefatos maravilhosos aqui. Construindo sobre o que nossos antepassados criaram, nós Teekans podemos começar de novo, podemos prosperar, comerciar e crescer. Este será novamente um Grande Refúgio Teekan.
+É uma ironia dolorosa que nossos antepassados tenham fugido do refúgio, pois parece ter sobrevivido muito melhor do que muitos mundos que visitamos. Também descobrimos artefatos maravilhosos aqui. Construindo sobre o que nossos antepassados criaram, nós Teekanos podemos começar de novo, podemos prosperar, comerciar e crescer. Este será novamente um Grande Refúgio Teekan.
 </Description>
 
         <ImageFilepath />
@@ -50541,10 +50541,10 @@ A entrada final fala apenas de ondas gravitacionais massivas, destruição tect�
     <TriggerActions>
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
-        <MessageTitle>O Grande Refúgio Teekan</MessageTitle>
-        <Description>Este foi o Grande Refúgio Teekan, um mundo colonizado pelos antigos Teekans na esperança de fugir da guerra e de suas consequências. Registros sobreviventes indicam que a localização do refúgio foi descoberta, e os Teekans foram obrigados a fugir. É irônico, porque o mundo não sofreu danos e seria ideal para a colonização pelos Teekans.
+        <MessageTitle>O Grande Refúgio Teekano</MessageTitle>
+        <Description>Este foi o Grande Refúgio Teekano, um mundo colonizado pelos antigos Teekanos na esperança de fugir da guerra e de suas consequências. Registros sobreviventes indicam que a localização do refúgio foi descoberta, e os Teekanos foram obrigados a fugir. É irônico, porque o mundo não sofreu danos e seria ideal para a colonização pelos Teekans.
 
-Descobrimos maravilhosos artefatos Teekan aqui. Sem dúvida, eles nos servirão bem.
+Descobrimos maravilhosos artefatos Teekano aqui. Sem dúvida, eles nos servirão bem.
 </Description>
 
         <ImageFilepath />

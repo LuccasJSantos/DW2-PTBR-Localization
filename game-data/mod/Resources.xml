@@ -26,8 +26,8 @@
   </Resource>
   <Resource>
     <ResourceId>3</ResourceId>
-    <Name>Cristal Kaasian</Name>
-    <Description>Cristal Kaasian é uma rara pedra preciosa azul-aqua. É tipicamente usada em componentes de armas de alta qualidade. Cristal Kaasian é encontrado em mundos Oceânicos.</Description>
+    <Name>Cristal Kaasiano</Name>
+    <Description>Cristal Kaasiano é uma rara pedra preciosa azul-aqua. É tipicamente usada em componentes de armas de alta qualidade. Cristal Kaasiano é encontrado em mundos Oceânicos.</Description>
     <BaseCost>18</BaseCost>
     <ImageFilename>Environment/Resources/KaasianCrystal</ImageFilename>
     <Bonuses />
@@ -166,7 +166,7 @@
   </Resource>
   <Resource>
     <ResourceId>17</ResourceId>
-    <Name>Especiaria Falajian</Name>
+    <Name>Especiaria Falajiana</Name>
     <Description>Especiaria Falajiana é uma especiaria marrom em pó colhida do arbusto Falajiano. É altamente valorizada por seu sabor rico e distintivo. Especiaria Falajiana é usada extensivamente em culinária exótica. Especiaria Falajiana é feita a partir das folhas do arbusto Falajiano, secando-as lentamente e depois moendo-as até virar um pó fino. Arbustos Falajianos crescem em lagoas pantanosas em mundos de Pântanos Pantanosos.</Description>
     <BaseCost>20</BaseCost>
     <ImageFilename>Environment/Resources/FalajianSpice</ImageFilename>
@@ -180,7 +180,7 @@
   </Resource>
   <Resource>
     <ResourceId>18</ResourceId>
-    <Name>Especiaria Korabbian</Name>
+    <Name>Especiaria Korabbiana</Name>
     <Description>Especiaria Korabbiana é uma especiaria branca cristalizada extremamente rara. É valorizada por suas propriedades medicinais únicas. Em circunstâncias especiais, depósitos de especiaria Korabbiana se acumulam espontaneamente nas paredes de desfiladeiros rochosos. O processo exato que forma a especiaria Korabbiana nunca foi precisamente identificado. Mas teoriza-se que a especiaria é criada por uma reação química entre certos tipos de rochas e os ventos quentes e ásperos que às vezes sopram através dos desfiladeiros. Aumenta drasticamente a acuidade mental, permitindo que um ser realize feitos intelectuais incríveis. Qualquer colônia abastecida com especiaria Korabbiana recebe assim um grande bônus de desenvolvimento, além de qualquer outro bônus. Uma vez descoberta, todo esforço deve ser feito para controlar o comércio desse recurso altamente valioso. Especiaria Korabbiana é encontrada exclusivamente em mundos Desérticos.</Description>
     <BaseCost>180</BaseCost>
     <ImageFilename>Environment/Resources/KorabbianSpice</ImageFilename>
@@ -300,7 +300,7 @@
   <Resource>
     <ResourceId>24</ResourceId>
     <Name>Pele Questuriana</Name>
-    <Description>Pele Questuriana é a pele macia e escamosa do Questurian, um enorme réptil aquático. Os Questurians são predadores mortais que podem crescer até comprimentos de 100 metros ou mais. Eles habitam túneis e cavernas subaquáticas escuras nas profundezas de vastos oceanos. Eles são encontrados exclusivamente em mundos Oceânicos.</Description>
+    <Description>Pele Questuriana é a pele macia e escamosa do Questurian, um enorme réptil aquático. Os Questurianos são predadores mortais que podem crescer até comprimentos de 100 metros ou mais. Eles habitam túneis e cavernas subaquáticas escuras nas profundezas de vastos oceanos. Eles são encontrados exclusivamente em mundos Oceânicos.</Description>
     <BaseCost>27</BaseCost>
     <ImageFilename>Environment/Resources/QuesturianSkin</ImageFilename>
     <Bonuses>
@@ -398,8 +398,8 @@
   </Resource>
   <Resource>
     <ResourceId>30</ResourceId>
-    <Name>Incenso Natarran</Name>
-    <Description>Incenso Natarran é um perfume bonito, mas sutil, feito da planta Natarril. Natarril é um pequeno arbusto com minúsculas folhas azul-esverdeadas e flores multicoloridas deslumbrantes. É tipicamente encontrado agarrado a faces de penhascos rochosos em mundos Desérticos Rochosos.</Description>
+    <Name>Incenso Natarrano</Name>
+    <Description>Incenso Natarrano é um perfume bonito, mas sutil, feito da planta Natarril. Natarril é um pequeno arbusto com minúsculas folhas azul-esverdeadas e flores multicoloridas deslumbrantes. É tipicamente encontrado agarrado a faces de penhascos rochosos em mundos Desérticos Rochosos.</Description>
     <BaseCost>26</BaseCost>
     <ImageFilename>Environment/Resources/NatarranIncense</ImageFilename>
     <Bonuses>
@@ -768,8 +768,8 @@
   </Resource>
   <Resource>
     <ResourceId>51</ResourceId>
-    <Name>Âmbar Obrudan</Name>
-    <Description>Âmbar Obrudan é a resina iridescente vermelho-alaranjada da árvore Obrudan. Essas árvores crescem em pequenos aglomerados em mundos de Pântanos Pantanosos. A casca da árvore é muito frágil e, quando danificada, a resina vaza lentamente e endurece no tronco, criando o âmbar. É frequentemente usado em joias por causa de sua aparência atraente.</Description>
+    <Name>Âmbar Obrudano</Name>
+    <Description>Âmbar Obrudano é a resina iridescente vermelho-alaranjada da árvore Obrudana. Essas árvores crescem em pequenos aglomerados em mundos de Pântanos Pantanosos. A casca da árvore é muito frágil e, quando danificada, a resina vaza lentamente e endurece no tronco, criando o âmbar. É frequentemente usado em joias por causa de sua aparência atraente.</Description>
     <BaseCost>20</BaseCost>
     <ImageFilename>Environment/Resources/ObrudanAmber</ImageFilename>
     <Bonuses>
@@ -968,8 +968,8 @@
   </Resource>
   <Resource>
     <ResourceId>62</ResourceId>
-    <Name>Âmbar Akrasan</Name>
-    <Description>Âmbar Akrasan é a seiva da árvore Akrasan, que cresce em áreas de densa névoa em planetas de Floresta de Mangue. As árvores Akrasan têm grandes cavidades ocas. Essas cavidades dentro da árvore atuam como fornos isolados, onde a seiva fica fervendo. Seções fracas do tronco da árvore frequentemente explodem devido à pressão da seiva quente. A seiva escorre e insetos são atraídos por ela, ficando presos na seiva. A névoa fria endurece a seiva, formando o belo âmbar dourado.</Description>
+    <Name>Âmbar Akrasano</Name>
+    <Description>Âmbar Akrasano é a seiva da árvore Akrasana, que cresce em áreas de densa névoa em planetas de Floresta de Mangue. As árvores Akrasanas têm grandes cavidades ocas. Essas cavidades dentro da árvore atuam como fornos isolados, onde a seiva fica fervendo. Seções fracas do tronco da árvore frequentemente explodem devido à pressão da seiva quente. A seiva escorre e insetos são atraídos por ela, ficando presos na seiva. A névoa fria endurece a seiva, formando o belo âmbar dourado.</Description>
     <BaseCost>20</BaseCost>
     <ImageFilename>Environment/Resources/AkrasanAmber</ImageFilename>
     <Bonuses>

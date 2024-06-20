@@ -20,7 +20,7 @@ A fórmula para calcular a adequação para um tipo específico de planeta e ra�
 
 (Qualidade do Planeta - Nível Mínimo de Adequação da Raça para o Planeta) + Adequação da Raça para o Planeta
 
-Um exemplo: os Teekans têm um aumento de adequação de +30 para planetas de Deserto Arenoso. Além disso, eles têm um nível mínimo de adequação de 40 para planetas de Deserto Arenoso (o valor padrão é 50). Isso significa que, para os Teekans, um planeta de Deserto Arenoso com uma qualidade de 30% teria uma adequação de colonização de +20. Usando a fórmula acima, isso seria: ((30 - 40) + 30) = 20
+Um exemplo: os Teekanos têm um aumento de adequação de +30 para planetas de Deserto Arenoso. Além disso, eles têm um nível mínimo de adequação de 40 para planetas de Deserto Arenoso (o valor padrão é 50). Isso significa que, para os Teekans, um planeta de Deserto Arenoso com uma qualidade de 30% teria uma adequação de colonização de +20. Usando a fórmula acima, isso seria: ((30 - 40) + 30) = 20
 
 [H3]Selecionando Alvos de Colonização e Melhorias Futuras[/H3]
 Geralmente, você deve colonizar apenas planetas com uma adequação de 20 ou superior.
