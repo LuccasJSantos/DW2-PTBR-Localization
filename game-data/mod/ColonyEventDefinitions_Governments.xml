@@ -245,8 +245,8 @@ Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
 		<Bonuses>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-		<Name>Nave Insignia Destruída</Name>
-		<Description>Nossa nave insignia do império foi perdida em batalha.\n\nEste evento catastrófico gerou uma onda de luto, reduzindo a felicidade pelo próximo ano.</Description>
+		<Name>Nave Capitânia Destruída</Name>
+		<Description>Nossa nave capitânia do império foi perdida em batalha.\n\nEste evento catastrófico gerou uma onda de luto, reduzindo a felicidade pelo próximo ano.</Description>
 
 		<ImageFilename>Environment/Events/flagship negative</ImageFilename>
 	</ColonyEventDefinition>
@@ -269,8 +269,8 @@ Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
 		<Bonuses>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-		<Name>Nave Insignia Triunfa</Name>
-		<Description>Nossa nave insignia do império triunfou em uma batalha decisiva.\n\nEste grande feito gerou uma onda de sentimento patriótico, aumentando a felicidade pelo próximo ano.</Description>
+		<Name>Nave Capitânia Triunfa</Name>
+		<Description>Nossa nave capitânia do império triunfou em uma batalha decisiva.\n\nEste grande feito gerou uma onda de sentimento patriótico, aumentando a felicidade pelo próximo ano.</Description>
 
 		<ImageFilename>Environment/Events/flagship positive</ImageFilename>
 	</ColonyEventDefinition>

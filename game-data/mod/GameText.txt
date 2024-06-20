@@ -25,7 +25,7 @@ Fuel Tanker		;Nave Tanker
 Construction Ship		;Nave de Construção
 Exploration Ship		;Nave de Exploração
 Passenger Ship		;Nave de Passageiros
-Colony Ship		;Nave de Colônia
+Colony Ship		;Nave Colonial
 Spaceport		;Porto Espacial
 Small Spaceport		;Porto Esp. Pequeno
 Medium Spaceport		;Porto Esp. Médio
@@ -392,7 +392,7 @@ GameTaskType HonorDefenseTreaty		;Honrar Tratado de Defesa
 GameTaskType DishonorDefenseTreaty		;Desonrar Tratado de Defesa
 GameTaskType ScrapPlanetaryFacility		;Desmantelar {0} em {1}
 GameTaskType SetAsFleetLeadShip		;Definir nave {0} como líder da frota ({1})
-GameTaskType SetEmpireFlagShip		;Definir {0} como nave insignia do império
+GameTaskType SetEmpireFlagShip		;Definir {0} como nave capitânia do império
 GameTaskType SetAttackRangeWeaker		;Postura de ataque contra alvos mais fracos: {0}
 GameTaskType SetAttackRangeStronger		;Postura de ataque contra alvos mais fortes: {0}
 GameTaskType SetFleetStance		;Postura de ataque: {0}
@@ -520,7 +520,7 @@ GameTaskType Short HonorDefenseTreaty		;Honrar Tratado de Defesa
 GameTaskType Short DishonorDefenseTreaty		;Desonrar Tratado de Defesa
 GameTaskType Short ScrapPlanetaryFacility		;Desativar {0} em {1}
 GameTaskType Short SetAsFleetLeadShip		;Definir Nave Líder
-GameTaskType Short SetEmpireFlagShip		;Definir Nave Insignia do Império
+GameTaskType Short SetEmpireFlagShip		;Definir Nave Capitânia do Império
 GameTaskType Short SetAttackRangeWeaker		;Definir Postura de Ataque
 GameTaskType Short SetAttackRangeStronger		;Definir Postura de Ataque
 GameTaskType Short SetFleetStance		;Definir Postura de Ataque
