@@ -49941,7 +49941,7 @@ Muitas dessas informações não são úteis para os piratas, é claro, mas ao n
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Uma Descoberta Interessante</MessageTitle>
-        <Description>Encontramos algo mais no Outpost Teekano Perdido: um androide funcional, notavelmente parecido com um Teekano biológico em aparência. Ele se autodenomina o Avaliador, e afirma ter sido deixado para trás por engano durante o êxodo Teekano em fuga. Ele sabe pouco sobre a guerra, mas diz que pode ser de grande serviço para nós em questões de pesquisa e comércio.
+        <Description>Encontramos algo mais no Outpost Teekano Perdido: um andróide funcional, notavelmente parecido com um Teekano biológico em aparência. Ele se autodenomina o Avaliador, e afirma ter sido deixado para trás por engano durante o êxodo Teekano em fuga. Ele sabe pouco sobre a guerra, mas diz que pode ser de grande serviço para nós em questões de pesquisa e comércio.
 
 O Avaliador nos mostrou a estação e nos levou a bancos de dados que ele acredita que ainda podemos acessar. Há muito que nunca saberemos, mas parece que este mundo serviu como um importante centro coordenador para Teekanos escapando da guerra. Surpreendentemente, aprendemos que os invasores Shakturi não vieram de algum canto distante da galáxia, mas de fora da própria galáxia. Mais horrível ainda, seus dispositivos de buraco de minhoca danificaram o espaço próprio. Eles estavam literalmente destruindo a galáxia que invadiram. Mentes tão destrutivas são insondáveis para nós.
 
@@ -50095,7 +50095,7 @@ Aqui, também descobrimos o que há muito buscamos, a localização do grande re
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Resultados da Investigação</MessageTitle>
-        <Description>Esta estação pertencia aos Teekanos durante a época da guerra Shakturi. Parece ter sido dedicada à construção de naves, e há dois destróieres danificados em órbita. Mais interessante ainda, descobrimos um androide funcional, muito parecido com um Teekano biológico em aparência. Ele se chama Avaliador e afirma ter sido deixado para trás por engano durante o êxodo dos Teekanos em fuga. Ele sabe pouco sobre a guerra, mas diz que pode ser de grande serviço para nós em questões de pesquisa e comércio.</Description>
+        <Description>Esta estação pertencia aos Teekanos durante a época da guerra Shakturi. Parece ter sido dedicada à construção de naves, e há dois destróieres danificados em órbita. Mais interessante ainda, descobrimos um andróide funcional, muito parecido com um Teekano biológico em aparência. Ele se chama Avaliador e afirma ter sido deixado para trás por engano durante o êxodo dos Teekanos em fuga. Ele sabe pouco sobre a guerra, mas diz que pode ser de grande serviço para nós em questões de pesquisa e comércio.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
