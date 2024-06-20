@@ -71,7 +71,14 @@ const translateTourItems = async function () {
     await translate.file('game-data/mod/TourItems.xml', { parser: textParser })
 }
 
-await translateTourItems()
+const translatePlanetaryFacilityDefinitions = async function () {
+    const nameParser = xmlParser(['ArrayOfPlanetaryFacilityDefinition', 'PlanetaryFacilityDefinition', 'Name'])
+
+    await translate.file('game-data/original/PlanetaryFacilityDefinitions.xml', { parser: nameParser })
+}
+
+await translatePlanetaryFacilityDefinitions()
+// await translateTourItems()
 // await translateResources()
 // await translateGovernments()
 // await translateComponentDefinifitions()
