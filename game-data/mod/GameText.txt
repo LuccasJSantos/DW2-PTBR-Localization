@@ -4289,7 +4289,7 @@ Cannot delete selected fleet templates		;Não é possível excluir os modelos de
 Not assigned to a Fleet		;Não atribuído a uma Frota
 Assigned to a Fleet		;Atribuído a uma Frota
 Cannot change role because this is the only fleet template for this role		;Não é possível alterar a função porque este é o único modelo de frota para esta função ({0})
-Waiting for fuel tanker		;Aguardando um tanque de combustível
+Waiting for fuel tanker		;Aguardando uma nave-tanque
 Private economy expense		;Despesa da economia privada
 Send SHIP to MISSION		;Enviar {0} para {1}
 PLANET has the following resources and abundances		;{0} tem os seguintes recursos e abundâncias
@@ -4679,7 +4679,7 @@ ComponentCategory Description MedicalCenter		;Componentes de Centro Médico forn
 ComponentCategory Description PassengerCompartment		;Compartimentos de Passageiros permitem transportar passageiros em naves estelares. Passageiros podem desejar viajar tanto para migração quanto para turismo.\n\nComponentes de armazenamento de passageiros são integrados em Naves de Passageiros e Bases de Resort.
 ComponentCategory Description Reactor		;Reatores fornecem energia para alimentar todos os componentes em uma nave ou base.\n\nA maioria dos componentes usa energia de alguma forma, então os reatores são componentes críticos para todas as naves e bases. Alguns designs de naves podem precisar de múltiplos componentes de reator para satisfazer seus requisitos energéticos.\n\nOs reatores consomem combustível e produzem energia. Caslon é o combustível padrão galáctico para reatores.
 ComponentCategory Description RecreationCenter		;Centros de Recreação fornecem instalações sofisticadas de recreação. Esses serviços podem beneficiar os cidadãos de uma colônia quando fazem parte de uma base construída na colônia. Isso aumenta a felicidade de seus cidadãos.
-ComponentCategory Description RemoteFuelTransfer		;Componentes de Transferência Remota de Combustível permitem a transferência de combustível para uma nave próxima sem acoplagem.\n\nIsso é especialmente útil para naves tanque de combustível, pois elas reabastecem o combustível das naves em uma frota.
+ComponentCategory Description RemoteFuelTransfer		;Componentes de Transferência Remota de Combustível permitem a transferência de combustível para uma nave próxima sem acoplagem.\n\nIsso é especialmente útil para naves-tanque, pois elas reabastecem o combustível das naves em uma frota.
 ComponentCategory Description ResearchLab		;Laboratórios de Pesquisa fornecem instalações especializadas para seus cientistas e engenheiros investigarem novas tecnologias e projetarem novos componentes.\n\nOs componentes de Laboratório de Pesquisa são equipamentos essenciais nos projetos de Estação de Pesquisa.
 ComponentCategory Description ScannerEmpireMasking		;Os Jammer de Ocultação de Império escondem o império de uma nave ou base dos scanners de longo alcance. Isso permite que uma nave ou base evite a detecção ou apareça como neutra, em vez de pertencer a uma facção inimiga, como uma facção pirata, por exemplo.
 ComponentCategory Description ScannerExploration		;Os scanners de exploração escaneiam planetas, luas e asteroides próximos para determinar sua composição de recursos e outras características.\n\nEles também podem detectar itens ocultos, como ruínas antigas, artefatos e naves abandonadas.
@@ -4777,8 +4777,8 @@ First show project summary, then full detail after longer pause		;Primeiro mostr
 FleetAllowShipRoleReassignment Automate		;As naves reatribuem posições dentro da frota conforme necessário
 FleetAllowShipRoleReassignment Manual		;As naves mantêm a posição atual dentro da frota
 
-FleetAllowShipRoleUpgrade Automate		;Os papéis das naves na frota podem ser atualizados ou rebaixados para atender aos requisitos gerais da frota
-FleetAllowShipRoleUpgrade Manual		;Os papéis das naves na frota nunca são atualizados ou rebaixados para atender aos requisitos gerais da frota
+FleetAllowShipRoleUpgrade Automate		;As funções das naves na frota podem ser atualizadas ou rebaixadas para atender aos requisitos gerais da frota
+FleetAllowShipRoleUpgrade Manual		;As funções das naves na frota nunca são atualizadas ou rebaixadas para atender aos requisitos gerais da frota
 
 FleetAllowTrimmingExcessShips Automate		;Cortar naves excedentes na frota que não correspondem exatamente ao modelo (função/casco/design errados)
 FleetAllowTrimmingExcessShips Manual		;Permitir naves não correspondentes na frota para completar o número total de naves, mesmo quando não há correspondência exata
@@ -5088,13 +5088,13 @@ PolicyExplanation ConstructionLevelMonitoring		;Nível de prioridade de constru�
 PolicyExplanation ConstructionLevelMilitary		;Nível de prioridade de construção para novas Naves Militares em seu império. Prioridade mais alta significa que mais Naves Militares serão construídas.
 PolicyExplanation ConstructionLevelExploration		;Nível de prioridade de construção para novas Naves de Exploração em seu império. Prioridade mais alta significa que mais Naves de Exploração serão construídas.
 PolicyExplanation ConstructionLevelConstruction		;Nível de prioridade de construção para novas Naves de Construção em seu império. Prioridade mais alta significa que mais Naves de Construção serão construídas.
-PolicyExplanation ConstructionMilitaryBuildRatioEscort		;Proporção de naves militares que devem ser Escoltas. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais papéis de nave são necessários nos Modelos de Frota.
-PolicyExplanation ConstructionMilitaryBuildRatioFrigate		;Proporção de naves militares que devem ser Fragatas. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais papéis de nave são necessários nos Modelos de Frota.
-PolicyExplanation ConstructionMilitaryBuildRatioDestroyer		;Proporção de naves militares que devem ser Destróieres. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais papéis de nave são necessários nos Modelos de Frota.
-PolicyExplanation ConstructionMilitaryBuildRatioCruiser		;Proporção de naves militares que devem ser Cruzadores. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais papéis de nave são necessários nos Modelos de Frota.
-PolicyExplanation ConstructionMilitaryBuildRatioCapitalShip		;Proporção de naves militares que devem ser Naves Capitais. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais papéis de nave são necessários nos Modelos de Frota.
-PolicyExplanation ConstructionMilitaryBuildRatioCarrier		;Proporção de naves militares que devem ser Porta-Aviões. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais papéis de nave são necessários nos Modelos de Frota.
-PolicyExplanation ConstructionMilitaryBuildRatioTroopTransport		;Proporção de naves militares que devem ser Transportadores de Tropas. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais papéis de nave são necessários nos Modelos de Frota.
+PolicyExplanation ConstructionMilitaryBuildRatioEscort		;Proporção de naves militares que devem ser Escoltas. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
+PolicyExplanation ConstructionMilitaryBuildRatioFrigate		;Proporção de naves militares que devem ser Fragatas. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
+PolicyExplanation ConstructionMilitaryBuildRatioDestroyer		;Proporção de naves militares que devem ser Destróieres. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
+PolicyExplanation ConstructionMilitaryBuildRatioCruiser		;Proporção de naves militares que devem ser Cruzadores. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
+PolicyExplanation ConstructionMilitaryBuildRatioCapitalShip		;Proporção de naves militares que devem ser Naves Capitais. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
+PolicyExplanation ConstructionMilitaryBuildRatioCarrier		;Proporção de naves militares que devem ser Porta-Aviões. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
+PolicyExplanation ConstructionMilitaryBuildRatioTroopTransport		;Proporção de naves militares que devem ser Transportadores de Tropas. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
 PolicyExplanation BuildIndependentShips		;Se deve construir novos cargueiros para comerciantes independentes. Isso pode gerar uma pequena quantidade de receita adicional para seu império.
 PolicyExplanation RepairIndependentShips		;Se deve reparar cargueiros de comerciantes independentes. Isso pode gerar uma pequena quantidade de receita adicional para seu império.
 PolicyExplanation AutomationDiplomaticGifts		;Automatizar a oferta de presentes diplomáticos para outras facções ou controlar esta área manualmente.
@@ -5257,7 +5257,7 @@ Low Suitability		;Adequação Baixa
 Suitability With Race LOW		;Colonizar com {0}, ADEQUAÇÃO BAIXA: {1}
 Mined Location Foreign Sources Explanation		;Locais Minerados incluem locais estrangeiros\nde acordos comerciais
 includes foreign locations from trade agreements		;inclui locais estrangeiros de acordos comerciais
-Note that this excludes fleet Fuel Tankers		;Observe que isso exclui Petroleiros da frota, que são retrofitados separadamente
+Note that this excludes fleet Fuel Tankers		;Observe que isso exclui Naves-Tanque da frota, que são retrofitados separadamente
 Research Advances		;Avanços em Pesquisa
 Generic Display Adapter Explanation		;Distant Worlds detectou que seu PC está usando o adaptador de exibição genérico 'Microsoft Basic Render Driver'. Isso significa que você provavelmente está sem um driver de exibição adequado do fabricante (NVidia, AMD, etc).\n\nSem um driver de exibição adequado, Distant Worlds rodará mal, ou talvez nem rode. É altamente recomendável instalar um driver de exibição adequado para seu PC.
 Continue Game		;Continuar Jogo
@@ -5281,7 +5281,7 @@ You have reached X user-defined starting empires. This is the maximum number all
 You must reduce the number of starting empires		;Você deve reduzir o número de impérios iniciais para {0} (tanto os gerados automaticamente quanto os definidos manualmente).
 
 AutoDesign Explanation		;Clique aqui para alterar como todos os designs para este casco são atualizados, seja automaticamente ou manualmente
-AutoRetrofit Explanation		;Clique aqui para alternar se naves ou bases deste design são automaticamente retrofitadas quando novos designs estiverem disponíveis. Note que você só pode controlar isso para papéis de propriedade estatal. Papéis civis são sempre retrofitados automaticamente conforme necessário.
+AutoRetrofit Explanation		;Clique aqui para alternar se naves ou bases deste design são automaticamente retrofitadas quando novos designs estiverem disponíveis. Note que você só pode controlar isso para funções de propriedade estatal. Funções civis são sempre retrofitadas automaticamente conforme necessário.
 DesignStatus Explanation		;Clique aqui para alternar se este design está Ativo ou Obsoleto
 
 Particle Effects		;Efeitos de Partículas

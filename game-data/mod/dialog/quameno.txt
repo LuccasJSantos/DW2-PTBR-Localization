@@ -11,7 +11,7 @@ GIFT_THANKS_NEUTRAL			;Agradecemos pelo seu presente
 GIFT_THANKS_FRIENDLY			;Seu gentil presente foi muito apreciado. Obrigado!
 
 OFFER_DEAL				;Vocês aceitariam este negócio?
-PIRATEPROTECTION_DEAL			;As coisas podem ser muito perigosas nas profundezas escuras e frias do espaço. Seus navios ou bases podem ser atacados, ou pior.\n\nPela taxa mensal muito razoável de {0} créditos, podemos garantir que vocês permaneçam seguros, pelo menos de nós.\n\nO que acham?
+PIRATEPROTECTION_DEAL			;As coisas podem ser muito perigosas nas profundezas escuras e frias do espaço. Seus naves ou bases podem ser atacados, ou pior.\n\nPela taxa mensal muito razoável de {0} créditos, podemos garantir que vocês permaneçam seguros, pelo menos de nós.\n\nO que acham?
 DEAL_BEGIN				;O que vocês propõem?
 DEAL_ACCEPT				;Este negócio faz sentido - nós aceitamos
 DEAL_ACCEPT_RESPONSE			;Ótimo!

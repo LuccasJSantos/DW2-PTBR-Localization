@@ -7,7 +7,7 @@ Seu novo design deve atender a muitos requisitos para ser considerado válido. P
 [ULI]todos os designs devem armazenar combustível para gerar energia a partir de um reator[/ULI]
 [ULI]todas as naves devem ter motores para serem móveis[/ULI]
 
-Existem muitos outros requisitos específicos para cada papel.
+Existem muitos outros requisitos específicos para cada função.
 
 [H3]Botão de Recomendações[/H3]
 Verifique o botão de Recomendações e o painel suspenso ao adicionar componentes ao seu design (no topo do painel Resumo do Design). Algumas recomendações são opcionais (mostradas em amarelo). Outras recomendações são obrigatórias (mostradas em vermelho).

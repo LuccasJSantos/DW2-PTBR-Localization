@@ -7,14 +7,14 @@ Esta tela lista todas as Frotas em seu império. Verifique as opções de ordena
 
 Quando ampliado para o nível de galáxia ou sistema, as frotas são destacadas no mapa. Passar o mouse sobre um item na lista marcará a localização no mapa. Clicar no item selecionará a frota. Duplo-clique no item moverá a visualização para essa localização.
 
-Cada item da lista mostra a missão atual da frota. Também são mostrados o número de naves na frota, a força de combate da frota e a força de ataque de quaisquer tropas na frota. O ícone do papel da frota é mostrado no extremo direito. Quaisquer personagens na frota são mostrados à direita, ao lado da descrição da missão.
+Cada item da lista mostra a missão atual da frota. Também são mostrados o número de naves na frota, a força de combate da frota e a força de ataque de quaisquer tropas na frota. O ícone da função da frota é mostrado no extremo direito. Quaisquer personagens na frota são mostrados à direita, ao lado da descrição da missão.
 
-Passar o mouse sobre um item da lista exibe um resumo detalhado em um painel à direita. Este painel de resumo mostra uma quebra completa de todas as naves na frota por papel da nave, nível de dano e nível de combustível. Ele também fornece detalhes sobre quaisquer almirantes ou generais na frota.
+Passar o mouse sobre um item da lista exibe um resumo detalhado em um painel à direita. Este painel de resumo mostra uma quebra completa de todas as naves na frota por função da nave, nível de dano e nível de combustível. Ele também fornece detalhes sobre quaisquer almirantes ou generais na frota.
 
-[H3]Modelos e Papéis de Frotas[/H3]
-Como explicado anteriormente, as frotas são baseadas em um modelo. Frotas podem ter um papel específico como: Ataque, Saque, Defesa ou Invasão. Essas frotas selecionarão missões apropriadas para seu papel de frota.
+[H3]Modelos e Funções de Frotas[/H3]
+Como explicado anteriormente, as frotas são baseadas em um modelo. Frotas podem ter uma função específica como: Ataque, Saque, Defesa ou Invasão. Essas frotas selecionarão missões apropriadas para sua função de frota.
 
-Você também pode optar por controlar uma frota manualmente definindo seu papel como Manual (botão de Papel da Frota sob o Painel de Seleção) ou simplesmente atribuindo uma missão à frota (alterando automaticamente para uma frota Manual).
+Você também pode optar por controlar uma frota manualmente definindo sua função como Manual (botão de Função da Frota sob o Painel de Seleção) ou simplesmente atribuindo uma missão à frota (alterando automaticamente para uma frota Manual).
 
 [H3]Criando Novas Frotas[/H3]
 Você pode criar uma nova frota de várias maneiras diferentes:

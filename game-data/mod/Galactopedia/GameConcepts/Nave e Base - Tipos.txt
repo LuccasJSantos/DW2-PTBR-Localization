@@ -68,14 +68,14 @@ Transportes de Tropas têm 2 componentes principais:
 
 Transportes de Tropas normalmente fazem parte de uma frota de invasão completa que inclui outras naves para atacar instalações defensivas inimigas em colônias-alvo.
 
-[H3]Nave Tanque de Combustível[/H3]
-Naves Tanques reabastecem os suprimentos de combustível de outras naves.
+[H3]Nave-Tanque[/H3]
+Naves-Tanque reabastecem os suprimentos de combustível de outras naves.
 
 Podem minerar combustível de uma fonte natural ou carregar combustível de um porto espacial ou colônia. Em seguida, procuram naves que precisam de reabastecimento e transferem combustível para elas.
 
-Naves Tanques não precisam atracar com outras naves para ressupri-las. Em vez disso, seu componente de Transferência Remota de Combustível permite que reabasteçam qualquer nave assim que se aproximem dela.
+Naves-Tanque não precisam atracar com outras naves para ressupri-las. Em vez disso, seu componente de Transferência Remota de Combustível permite que reabasteçam qualquer nave assim que se aproximem dela.
 
-Quando Naves Tanques são atribuídas a uma frota, concentram seus esforços em reabastecer as naves dessa frota.
+Quando Naves-Tanque são atribuídas a uma frota, concentram seus esforços em reabastecer as naves dessa frota.
 
 Isso permite que a frota tenha maior resistência, operando de forma mais eficaz mesmo quando longe de um ponto de reabastecimento amigável.
 

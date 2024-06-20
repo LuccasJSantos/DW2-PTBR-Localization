@@ -1,11 +1,11 @@
 Os Modelos de Frota permitem que você defina a composição das suas frotas, configurando a quantidade de naves para cada papel de nave. Eles também definem um conjunto de configurações táticas padrão. Você pode então criar novas frotas baseadas em um modelo.
 
-As frotas tentarão incluir naves que correspondam aos papéis e quantidades delineadas em seu modelo. Mas se houver naves insuficientes disponíveis para um papel desejado, a frota usará naves de outros papéis para completar o número total de naves.
+As frotas tentarão incluir naves que correspondam às funções e quantidades delineadas em seu modelo. Mas se houver naves insuficientes disponíveis para uma papel desejada, a frota usará naves de outras funções para completar o número total de naves.
 
 [H3]Tipos de Modelo de Frota[/H3]
-Cada papel de frota possui um modelo padrão: Ataque, Raid, Defesa, Invadir. Você também pode criar manualmente outros modelos para cada papel de frota.
+Cada papel de frota possui um modelo padrão: Ataque, Raid, Defesa, Invadir. Você também pode criar manualmente outros modelos para cada função de frota.
 
 [H3]Criando Frotas usando Modelos de Frota[/H3]
 Você pode criar novas frotas selecionando manualmente as naves e depois formando uma frota com elas. No entanto, a tela de Modelos de Frota oferece algumas maneiras rápidas de criar novas frotas.
 
-Na tela de Modelos de Frota, você pode selecionar o modelo desejado e então clicar nos botões 'Formar nova frota' ou 'Construir nova frota' à direita.
+Na tela de Modelos de Frota, você pode selecionar o modelo desejado e então clicar nos botões 'Formar nova frota' ou 'Construir nova frota' à direita.papel

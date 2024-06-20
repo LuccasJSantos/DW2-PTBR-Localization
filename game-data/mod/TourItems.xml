@@ -385,11 +385,11 @@ Se você automatizar os Níveis de Financiamento (configuração padrão), entã
         <StepTitle>Manutenção</StepTitle>
         <MarkupText>Esta tela mostra os custos de Manutenção de Naves para todas as naves e bases em seu império, sejam estatais ou privadas.
 
-A seção Militar mostra o número e a manutenção total de naves militares para cada papel.
+A seção Militar mostra o número e a manutenção total de naves militares para cada função.
 
-A seção Outro Estado mostra o número e a manutenção total de outras naves e bases estatais para cada papel.
+A seção Outro Estado mostra o número e a manutenção total de outras naves e bases estatais para cada função.
 
-A seção Privada mostra o número e a manutenção total de naves e bases privados para cada papel.</MarkupText>
+A seção Privada mostra o número e a manutenção total de naves e bases privados para cada função.</MarkupText>
         <RelatedControlNames>
           <string>EmpireMaintenance_SubSection</string>
         </RelatedControlNames>
@@ -646,7 +646,7 @@ Você pode ver os detalhes de cada personagem inimigo aprisionado passando o mou
     <Steps>
       <TourStep>
         <StepTitle>Personagens</StepTitle>
-        <MarkupText>Os personagens do seu império são mostrados nesta lista. Por padrão, ela é filtrada para mostrar papéis de personagens que não são espiões. Verifique as várias outras opções de classificação e filtro no topo do painel.
+        <MarkupText>Os personagens do seu império são mostrados nesta lista. Por padrão, ela é filtrada para mostrar funções de personagens que não são espiões. Verifique as várias outras opções de classificação e filtro no topo do painel.
 
 Você pode ver os detalhes de cada personagem passando o mouse sobre a entrada da lista e clicando para manter o painel aberto à direita.
 
@@ -1001,17 +1001,17 @@ Cada item da lista mostra os recursos que a nave de mineração está extraindo 
         </RelatedControlNames>
       </TourStep>
       <TourStep>
-        <StepTitle>Naves Tanque de Combustível</StepTitle>
-        <MarkupText>Os Petroleiros de Combustível viajam por aí reabastecendo naves que estão com pouco combustível. Quando você atribui Petroleiros de Combustível a uma frota, eles darão prioridade ao reabastecimento das naves de sua frota.
+        <StepTitle>Naves-Tanque</StepTitle>
+        <MarkupText>As Naves-Tanque viajam por aí reabastecendo naves que estão com pouco combustível. Quando você atribui Naves-Tanque a uma frota, eles darão prioridade ao reabastecimento das naves de sua frota.
 
 Eles podem minerar combustível de qualquer local com um recurso de combustível. Mas eles preferem carregar combustível de um porto espacial ou colônia, porque este é geralmente um modo mais rápido de obter combustível.
 
-[H3]Lista de Petroleiros de Combustível[/H3]
-Esta tela lista todos os Petroleiros de Combustível em seu império.
+[H3]Lista de Naves-Tanque[/H3]
+Esta tela lista todos os Naves-Tanque em seu império.
 
-Quando ampliado para o nível da galáxia ou do sistema, os Petroleiros de Combustível são destacados no mapa. Passar o mouse sobre um item na lista marcará a localização no mapa. Clicar no item selecionará ela. Duplo-clique no item moverá a visão para essa localização.
+Quando ampliado para o nível da galáxia ou do sistema, as Naves-Tanque são destacadas no mapa. Passar o mouse sobre um item na lista marcará a localização no mapa. Clicar no item selecionará ela. Duplo-clique no item moverá a visão para essa localização.
 
-Cada item da lista mostra a carga e a missão atual do Petroleiro de Combustível.</MarkupText>
+Cada item da lista mostra a carga e a missão atual da Nave-Tanque.</MarkupText>
         <RelatedControlNames>
           <string>ResourcesFuelTankers_SubSection</string>
         </RelatedControlNames>
@@ -1550,7 +1550,7 @@ No topo está o botão 'Sair da Pesquisa'. Clicar neste botão fechará a tela d
         <StepTitle>Naves Militares</StepTitle>
         <MarkupText>Naves Militares defendem seu império contra ataques inimigos. Elas também podem ser usadas para expandir seu império por meio de conquistas, atacando frotas inimigas e invadindo colônias inimigas. Naves Militares também protegem contra piratas saqueadores e criaturas espaciais perigosas.
 
-Naves Militares vêm em vários tamanhos e desempenham diferentes papéis. Conforme sua tecnologia avança, você pode pesquisar novos Casco de Naves Militares que permitem projetar e construir naves maiores.
+Naves Militares vêm em vários tamanhos e desempenham diferentes funções. Conforme sua tecnologia avança, você pode pesquisar novos Casco de Naves Militares que permitem projetar e construir naves maiores.
 [ULI]Escolta: a menor nave militar. Pode repelir incursões inimigas, especialmente quando há várias Escoltas na mesma localização.[/ULI]
 [ULI]Fragata: naves rápidas bem adequadas para interceptar saqueadores inimigos, como piratas. Também podem operar eficazmente como naves de patrulha ou escolta em uma frota.[/ULI]
 [ULI]Destróier: a menor nave bem adaptada para operações ofensivas. Frequentemente possuem muitas armas de ataque à distância, permitindo ataques eficazes contra alvos fixos como bases inimigas. Podem ter hangares de caças, embora com um custo significativo em espaço.[/ULI]
@@ -1558,7 +1558,7 @@ Naves Militares vêm em vários tamanhos e desempenham diferentes papéis. Confo
 [ULI]Encouraçado: o maior tipo de nave militar. Normalmente equipado com uma gama completa de tipos de armas: curto alcance, longo alcance, interceptação, área, íon, hiper negação. Podem também ter hangares de caças e scanners de longo alcance. A escolha óbvia para naves líderes de frota. Também são boas naves para posicionar seus valiosos almirantes.[/ULI]
 [ULI]Porta-Aviões: especializados com múltiplos hangares para abrigar muitos caças. Normalmente evitam se envolver diretamente em combate, preferindo contar com seus grandes complementos de caças para enfrentar o inimigo. Podem também ter scanners de longo alcance, e podem ser boas naves líderes de frota.[/ULI]
 [ULI]Transporte de Tropas: especializado em transportar grandes números de tropas para invadir colônias inimigas ou reforçar suas próprias colônias. Também possuem componentes de Cápsulas de Assalto para implantar tropas em invasões. Tipicamente parte de uma frota de invasão dedicada.[/ULI]
-[ULI]Tanque de Combustível: fornecem combustível para outras naves, aumentando seu alcance, especialmente em território inimigo. Podem extrair seu próprio combustível de planetas gasosos. Não estritamente uma nave militar, mas frequentemente designadas para frotas como naves de apoio.[/ULI]
+[ULI]Nave-Tanque: fornecem combustível para outras naves, aumentando seu alcance, especialmente em território inimigo. Podem extrair seu próprio combustível de planetas gasosos. Não estritamente uma nave militar, mas frequentemente designadas para frotas como naves de apoio.[/ULI]
 
 [H3]Atribuindo Missões[/H3]
 Para atribuir missões a uma nave militar, primeiro selecione-a clicando com o botão esquerdo na lista ou diretamente na visualização principal. Em seguida, clique com o botão direito sobre o alvo para atribuir a missão padrão.
@@ -1581,7 +1581,7 @@ Mantenha pressionado o botão direito para ver a lista de todas as missões vál
       <TourStep>
         <StepTitle>Naves Militares</StepTitle>
         <MarkupText>[H3]Lista de Naves Militares[/H3]
-Esta tela lista todas as Naves Militares em seu império. Verifique as opções extensivas de classificação e filtro na parte superior do painel. Você pode classificar por força, tamanho, frota, papel e força de ataque de tropas. Você pode filtrar por papel, status de frota, status de automação e nível de dano.
+Esta tela lista todas as Naves Militares em seu império. Verifique as opções extensivas de classificação e filtro na parte superior do painel. Você pode classificar por força, tamanho, frota, função e força de ataque de tropas. Você pode filtrar por função, status de frota, status de automação e nível de dano.
 
 Ao ampliar para o nível de galáxia ou sistema, as naves militares são destacadas no mapa. Passar o mouse sobre um item na lista indicará a localização no mapa. Clicar no item o selecionará. Clicar duas vezes no item moverá a visualização para essa localização.
 
@@ -1615,14 +1615,14 @@ Esta tela lista todas as frotas em seu império. Verifique as opções de classi
 
 Ao ampliar para o nível de galáxia ou sistema, as frotas são destacadas no mapa. Passar o mouse sobre um item na lista indicará a localização no mapa. Clicar no item o selecionará. Clicar duas vezes no item moverá a visualização para essa localização.
 
-Cada item da lista mostra a missão atual da frota. Também são mostrados o número de naves na frota, a força de combate da frota e a força de ataque de quaisquer tropas na frota. O ícone de papel da frota é mostrado no extremo direito. Quaisquer personagens na frota são mostrados à direita, ao lado da descrição da missão.
+Cada item da lista mostra a missão atual da frota. Também são mostrados o número de naves na frota, a força de combate da frota e a força de ataque de quaisquer tropas na frota. O ícone de função da frota é mostrado no extremo direito. Quaisquer personagens na frota são mostrados à direita, ao lado da descrição da missão.
 
-Passar o mouse sobre um item da lista exibe um resumo detalhado em um painel à direita. Este painel de resumo mostra uma análise completa de todas as naves na frota por papel de nave, nível de dano e nível de combustível. Também fornece detalhes sobre quaisquer almirantes ou generais na frota.
+Passar o mouse sobre um item da lista exibe um resumo detalhado em um painel à direita. Este painel de resumo mostra uma análise completa de todas as naves na frota por função, nível de dano e nível de combustível. Também fornece detalhes sobre quaisquer almirantes ou generais na frota.
 
-[H3]Modelos e Papéis de Frota[/H3]
-Como explicado anteriormente, as frotas são baseadas em um modelo. As frotas podem ter um papel específico como: Atacar, Incursão, Defender ou Invadir. Essas frotas selecionarão missões apropriadas ao seu papel de frota.
+[H3]Modelos e Funções de Frota[/H3]
+Como explicado anteriormente, as frotas são baseadas em um modelo. As frotas podem ter uma função específica como: Atacar, Incursão, Defender ou Invadir. Essas frotas selecionarão missões apropriadas à sua função de frota.
 
-Você também pode escolher controlar uma frota manualmente definindo seu papel como Manual (botão de Papel de Frota sob o Painel de Seleção) ou simplesmente atribuindo uma missão à frota (automaticamente mudando-a para uma frota Manual).
+Você também pode escolher controlar uma frota manualmente definindo sua função como Manual (botão de Função de Frota sob o Painel de Seleção) ou simplesmente atribuindo uma missão à frota (automaticamente mudando-a para uma frota Manual).
 
 [H3]Criando Novas Frotas[/H3]
 Você pode criar uma nova frota de várias maneiras diferentes:
@@ -1644,12 +1644,12 @@ Note que as naves individuais dentro de uma frota também têm suas próprias co
       </TourStep>
       <TourStep>
         <StepTitle>Modelos de Frota</StepTitle>
-        <MarkupText>Os Modelos de Frota permitem que você defina a composição das suas frotas, definindo a quantidade de naves para cada papel de nave. Eles também definem um conjunto de configurações táticas padrão. Você pode então criar novas frotas com base em um modelo.
+        <MarkupText>Os Modelos de Frota permitem que você defina a composição das suas frotas, definindo a quantidade de naves para cada função de nave. Eles também definem um conjunto de configurações táticas padrão. Você pode então criar novas frotas com base em um modelo.
 
-As frotas tentarão incluir naves que correspondam aos papéis e quantidades delineadas em seu modelo. Mas se houver naves insuficientes disponíveis para um papel desejado, a frota usará naves de outros papéis para completar o número total de naves.
+As frotas tentarão incluir naves que correspondam às funções e quantidades delineadas em seu modelo. Mas se houver naves insuficientes disponíveis para uma função desejada, a frota usará naves de outras funções para completar o número total de naves.
 
 [H3]Tipos de Modelo de Frota[/H3]
-Cada papel de frota possui um modelo padrão: Atacar, Incursão, Defender, Invadir. Você também pode criar manualmente outros modelos para cada papel de frota.
+Cada função de frota possui um modelo padrão: Atacar, Incursão, Defender, Invadir. Você também pode criar manualmente outros modelos para cada função de frota.
 
 [H3]Criando Frotas usando Modelos de Frota[/H3]
 Você pode criar novas frotas selecionando manualmente as naves e então formando uma frota com elas. No entanto, a tela de Modelos de Frota oferece maneiras rápidas de criar novas frotas.

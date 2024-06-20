@@ -2,7 +2,7 @@ Naves Militares
 
 As Naves Militares defendem seu império contra ataques inimigos. Elas também podem ser usadas para expandir seu império por meio de conquistas, atacando frotas inimigas e invadindo colônias inimigas. Naves Militares também protegem contra piratas saqueadores e criaturas perigosas do espaço.
 
-Naves Militares vêm em diversos tamanhos e papéis. Conforme sua tecnologia avança, você pode pesquisar novos Casco de Naves Militares que permitem o projeto e construção de naves maiores.
+Naves Militares vêm em diversos tamanhos e funções. Conforme sua tecnologia avança, você pode pesquisar novos Casco de Naves Militares que permitem o projeto e construção de naves maiores.
 
 [H3]Atribuindo Missões[/H3]
 Para atribuir uma missão a uma nave militar, primeiro selecione-a clicando nela na lista ou diretamente na visualização principal. Em seguida, clique com o botão direito sobre o alvo para atribuir a missão padrão.
@@ -10,7 +10,7 @@ Para atribuir uma missão a uma nave militar, primeiro selecione-a clicando nela
 Mantenha pressionado o botão direito para ver uma lista de todas as missões válidas para o alvo. Selecione o tipo de missão desejado na lista.
 
 [H3]Lista de Naves Militares[/H3]
-Esta tela lista todas as Naves Militares em seu império. Verifique as extensas opções de ordenação e filtragem no topo do painel. Você pode ordenar por força, tamanho, frota, papel e força de ataque das tropas. Você pode filtrar por papel, status da frota, status de automação e nível de dano.
+Esta tela lista todas as Naves Militares em seu império. Verifique as extensas opções de ordenação e filtragem no topo do painel. Você pode ordenar por força, tamanho, frota, função e força de ataque das tropas. Você pode filtrar por função, status da frota, status de automação e nível de dano.
 
 Quando estiver ampliado para o nível de galáxia ou sistema, as naves militares são destacadas no mapa. Ao passar o mouse sobre um item na lista, a localização no mapa será sinalizada. Clicar no item o selecionará. Duplo-clique no item moverá a visão para aquela localização.
 

@@ -85,7 +85,7 @@ Especifica a proximidade das naves de Escolta Próxima e Piquete em relação à
 
 [H3]Permitir Reatribuição de Função das Naves[/H3]
 Isso determina se as naves podem ter sua 'Função na Frota' automaticamente reatribuída ou não. Isso significa que sempre que uma nova nave líder da frota for selecionada (por exemplo, quando uma nave melhor se junta à frota ou quando a antiga nave líder é perdida), as naves Núcleo, de Escolta Próxima e Piquete podem mudar.
-[ULI]Naves reatribuem papéis dentro da frota conforme necessário[/ULI]
+[ULI]Naves reatribuem funções dentro da frota conforme necessário[/ULI]
 [ULI]Naves mantêm a função atual dentro da frota[/ULI]
 
 [H3]Retirada Quando[/H3]

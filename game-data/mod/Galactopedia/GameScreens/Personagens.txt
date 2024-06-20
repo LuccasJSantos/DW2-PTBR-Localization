@@ -1,4 +1,4 @@
-Os personagens do seu império são mostrados nesta lista. Por padrão, isso é filtrado para mostrar papéis de personagens que não são espiões. Verifique as várias opções de ordenação e filtro no topo do painel.
+Os personagens do seu império são mostrados nesta lista. Por padrão, isso é filtrado para mostrar funções de personagens que não são espiões. Verifique as várias opções de ordenação e filtro no topo do painel.
 
 Você pode ver os detalhes de cada personagem passando o mouse sobre a entrada da lista e clicando para travar o painel à direita aberto.
 
