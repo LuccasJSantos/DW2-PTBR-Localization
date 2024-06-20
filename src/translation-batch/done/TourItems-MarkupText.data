@@ -190,7 +190,7 @@ Cada tipo de receita e despesa é listado para o ano atual e anterior, além de 
 [H3]Economia Estatal[/H3]
 A seção superior de sua Economia Estatal mostra receitas e despesas regulares esperadas. Esses valores mudam lentamente ao longo do tempo conforme seu império cresce.
 
-A seção inferior da Economia Estatal mostra receitas irregulares de bônus. Esses valores podem variar amplamente, frequentemente compreendendo renda de construção de navios privados, onde o setor privado de seu império compra novos navios.
+A seção inferior da Economia Estatal mostra receitas irregulares de bônus. Esses valores podem variar amplamente, frequentemente compreendendo renda de construção de naves privadas, onde o setor privado de seu império compra novas naves.
           
 [H3]Economia Privada[/H3]
 A seção Economia Privada mostra as receitas e despesas do setor privado de seu império. Você não tem controle direto sobre como o setor privado ganha ou gasta dinheiro.|Se desejar, você pode ajustar como suas receitas são gastas na tela de Níveis de Financiamento de Bônus. Passe o mouse sobre cada valor para uma explicação detalhada.
@@ -198,9 +198,9 @@ A seção Economia Privada mostra as receitas e despesas do setor privado de seu
 Observe que os níveis de Financiamento do Império são automaticamente gerenciados por seus conselheiros. Controlar esses níveis manualmente é uma opção avançada. Para desativar a automação e controlar os níveis de financiamento você mesmo, visite a seção 'Economia' na tela de Política do Império.
 
 [H3]Alocar Financiamento de Manutenção[/H3]
-Se optar por controlar manualmente os níveis de financiamento, nesta tela você pode definir valores percentuais para cada uma de suas principais áreas de despesa regular: Manutenção de Navios e Bases, Manutenção de Tropas e Manutenção de Instalações. Esses percentuais limitarão quanto seus conselheiros estão dispostos a gastar em cada área.
+Se optar por controlar manualmente os níveis de financiamento, nesta tela você pode definir valores percentuais para cada uma de suas principais áreas de despesa regular: Manutenção de Naves e Bases, Manutenção de Tropas e Manutenção de Instalações. Esses percentuais limitarão quanto seus conselheiros estão dispostos a gastar em cada área.
 
-Assim, se você alocar 50% de sua renda para Manutenção de Navios, seus conselheiros estarão dispostos a construir navios e bases até um limite de manutenção de 50% de sua economia. Mas eles não recomendarão novos navios uma vez que você atinja o limite especificado.
+Assim, se você alocar 50% de sua renda para Manutenção de Naves, seus conselheiros estarão dispostos a construir naves e bases até um limite de manutenção de 50% de sua economia. Mas eles não recomendarão novas naves uma vez que você atinja o limite especificado.
 
 Limitar os gastos em cada área permite uma distribuição mais equitativa de sua renda para todas as áreas de sua economia, prevenindo gastos excessivos em uma área.
 
@@ -209,13 +209,13 @@ Você também pode especificar um percentual de sua renda que fica não gasto, a
 [H3]Financiamento Excedente para Crescimento da Colônia e Pesquisa[/H3]
 Qualquer renda excedente pode ser direcionada para Crescimento da Colônia ou Pesquisa. Alocar financiamento para estas 2 áreas aumentará a taxa de Crescimento da Colônia ou a velocidade de Pesquisa que seu império pode realizar.
 
-Se você automatizar os Níveis de Financiamento (configuração padrão), então seus conselheiros econômicos usarão qualquer renda excedente para manter a velocidade total de Pesquisa enquanto direcionam o restante para as taxas de Crescimento da Colônia.|Esta tela mostra os custos de Manutenção de Navios para todos os navios e bases em seu império, sejam estatais ou privados.
+Se você automatizar os Níveis de Financiamento (configuração padrão), então seus conselheiros econômicos usarão qualquer renda excedente para manter a velocidade total de Pesquisa enquanto direcionam o restante para as taxas de Crescimento da Colônia.|Esta tela mostra os custos de Manutenção de Naves para todas as naves e bases em seu império, sejam estatais ou privadas.
 
-A seção Militar mostra o número e a manutenção total de navios militares para cada papel.
+A seção Militar mostra o número e a manutenção total de naves militares para cada papel.
 
-A seção Outro Estado mostra o número e a manutenção total de outros navios e bases estatais para cada papel.
+A seção Outro Estado mostra o número e a manutenção total de outras naves e bases estatais para cada papel.
 
-A seção Privada mostra o número e a manutenção total de navios e bases privados para cada papel.|Esta tela mostra os detalhes sobre seu Governo atual e um resumo de todos os bônus de império para seu império.
+A seção Privada mostra o número e a manutenção total de naves e bases privadas para cada papel.|Esta tela mostra os detalhes sobre seu Governo atual e um resumo de todos os bônus de império para seu império.
 
 [H3]Alterando seu Governo[/H3]
 Você pode mudar seu governo selecionando outro tipo de governo na lista suspensa no topo da seção.
@@ -288,7 +288,7 @@ Este sentimento é descrito pelo texto no meio. Passar o mouse sobre este texto 
 Sob o total resumido está uma lista completa de todos os fatores que contribuem para a avaliação das outras facções sobre você. Alguns desses fatores podem ser estáticos e não mudar, enquanto outros podem mudar ao longo do tempo, aumentando ou diminuindo de valor. Qualquer tendência para cada fator é mostrada à direita.
 
 [H3]Outras Informações[/H3]
-A seção Informações do Império exibe informações-chave que você conhece sobre a outra facção. Observe que algumas das informações aqui podem ser incompletas, por exemplo, Força Militar Conhecida só mostra a força dos navios militares que você viu.
+A seção Informações do Império exibe informações-chave que você conhece sobre a outra facção. Observe que algumas das informações aqui podem ser incompletas, por exemplo, Força Militar Conhecida só mostra a força das naves militares que você viu.
 
 A seção de Suprimento de Recursos mostra qualquer renda comercial com a outra facção. Isso significa os recursos que você comprou e vendeu com eles.
 
@@ -961,11 +961,11 @@ No topo está o botão 'Sair da Pesquisa'. Clicar neste botão fechará a tela d
 
 Naves Militares vêm em vários tamanhos e desempenham diferentes papéis. Conforme sua tecnologia avança, você pode pesquisar novos Casco de Naves Militares que permitem projetar e construir naves maiores.
 [ULI]Escolta: a menor nave militar. Pode repelir incursões inimigas, especialmente quando há várias Escoltas na mesma localização.[/ULI]
-[ULI]Fragata: navios rápidos bem adequados para interceptar saqueadores inimigos, como piratas. Também podem operar eficazmente como navios de patrulha ou escolta em uma frota.[/ULI]
-[ULI]Destróier: o menor navio bem adaptado para operações ofensivas. Frequentemente possuem muitas armas de ataque à distância, permitindo ataques eficazes contra alvos fixos como bases inimigas. Podem ter hangares de caças, embora com um custo significativo em espaço.[/ULI]
-[ULI]Cruzador: navios de ataque multiuso muito fortes e capazes. Normalmente possuem uma variedade equilibrada de armamentos, mas geralmente carecem de equipamentos mais exóticos como armas de área ou componentes de hiper negação. Podem ter hangares de caças.[/ULI]
-[ULI]Encouraçado: o maior tipo de nave militar. Normalmente equipado com uma gama completa de tipos de armas: curto alcance, longo alcance, interceptação, área, íon, hiper negação. Podem também ter hangares de caças e scanners de longo alcance. A escolha óbvia para navios líderes de frota. Também são boas naves para posicionar seus valiosos almirantes.[/ULI]
-[ULI]Porta-Aviões: especializados com múltiplos hangares para abrigar muitos caças. Normalmente evitam se envolver diretamente em combate, preferindo contar com seus grandes complementos de caças para enfrentar o inimigo. Podem também ter scanners de longo alcance, e podem ser bons navios líderes de frota.[/ULI]
+[ULI]Fragata: naves rápidas bem adequadas para interceptar saqueadores inimigos, como piratas. Também podem operar eficazmente como naves de patrulha ou escolta em uma frota.[/ULI]
+[ULI]Destróier: a menor nave bem adaptada para operações ofensivas. Frequentemente possuem muitas armas de ataque à distância, permitindo ataques eficazes contra alvos fixos como bases inimigas. Podem ter hangares de caças, embora com um custo significativo em espaço.[/ULI]
+[ULI]Cruzador: naves de ataque multiuso muito fortes e capazes. Normalmente possuem uma variedade equilibrada de armamentos, mas geralmente carecem de equipamentos mais exóticos como armas de área ou componentes de hiper negação. Podem ter hangares de caças.[/ULI]
+[ULI]Encouraçado: o maior tipo de nave militar. Normalmente equipado com uma gama completa de tipos de armas: curto alcance, longo alcance, interceptação, área, íon, hiper negação. Podem também ter hangares de caças e scanners de longo alcance. A escolha óbvia para naves líderes de frota. Também são boas naves para posicionar seus valiosos almirantes.[/ULI]
+[ULI]Porta-Aviões: especializados com múltiplos hangares para abrigar muitos caças. Normalmente evitam se envolver diretamente em combate, preferindo contar com seus grandes complementos de caças para enfrentar o inimigo. Podem também ter scanners de longo alcance, e podem ser boas naves líderes de frota.[/ULI]
 [ULI]Transporte de Tropas: especializado em transportar grandes números de tropas para invadir colônias inimigas ou reforçar suas próprias colônias. Também possuem componentes de Cápsulas de Assalto para implantar tropas em invasões. Tipicamente parte de uma frota de invasão dedicada.[/ULI]
 [ULI]Tanque de Combustível: fornecem combustível para outras naves, aumentando seu alcance, especialmente em território inimigo. Podem extrair seu próprio combustível de planetas gasosos. Não estritamente uma nave militar, mas frequentemente designadas para frotas como naves de apoio.[/ULI]
 
@@ -1031,7 +1031,7 @@ As frotas possuem uma série completa de configurações táticas que ajustam co
 
 Você pode controlar como as frotas responderão às ameaças ajustando o Alcance de Engajamento. Para mais detalhes, passe o mouse sobre cada configuração na tela de Configurações Táticas.
 
-Note que as naves individuais dentro de uma frota também têm suas próprias configurações táticas. Você pode ajustar como as táticas da frota e da nave interagem na seção 'Navios da Frota - Substituições Táticas'.|Os Modelos de Frota permitem que você defina a composição das suas frotas, definindo a quantidade de naves para cada papel de nave. Eles também definem um conjunto de configurações táticas padrão. Você pode então criar novas frotas com base em um modelo.
+Note que as naves individuais dentro de uma frota também têm suas próprias configurações táticas. Você pode ajustar como as táticas da frota e da nave interagem na seção 'Naves da Frota - Substituições Táticas'.|Os Modelos de Frota permitem que você defina a composição das suas frotas, definindo a quantidade de naves para cada papel de nave. Eles também definem um conjunto de configurações táticas padrão. Você pode então criar novas frotas com base em um modelo.
 
 As frotas tentarão incluir naves que correspondam aos papéis e quantidades delineadas em seu modelo. Mas se houver naves insuficientes disponíveis para um papel desejado, a frota usará naves de outros papéis para completar o número total de naves.
 
@@ -1057,7 +1057,7 @@ Cada tropa também possui um tamanho: algumas são pequenas (Infantaria), enquan
 Existem 5 tipos de unidades de tropas:
 [ULI]Infantaria: a unidade básica de tropas defensivas. A Infantaria está disponível desde o início do jogo. Cada raça possui sua própria unidade de Infantaria única com várias forças e fraquezas.[/ULI]
 [ULI]Blindadas: a principal unidade de tropas de ataque. Requer uma instalação de Barracas de Blindados para recrutar.[/ULI]
-[ULI]Defesa Planetária: unidades de tropas defensivas especializadas que podem interceptar tropas inimigas enquanto viajam de seus navios de pouso para a superfície planetária. Requer uma instalação de Centro de Defesa Planetária para recrutar.[/ULI]
+[ULI]Defesa Planetária: unidades de tropas defensivas especializadas que podem interceptar tropas inimigas enquanto viajam de suas naves de pouso para a superfície planetária. Requer uma instalação de Centro de Defesa Planetária para recrutar.[/ULI]
 [ULI]Forças Especiais: unidades de infantaria altamente treinadas que se especializam em neutralizar defesas de colônia durante uma invasão (instalações terrestres, unidades de defesa planetária, generais inimigos). Requer uma instalação de Barracas de Operações Especiais para recrutar.[/ULI]
 [ULI]Titãs: unidades de ataque de alto nível muito fortes. Requer uma instalação de Centro de Fabricação de Titãs para recrutar.[/ULI]
 

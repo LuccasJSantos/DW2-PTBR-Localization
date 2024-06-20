@@ -12265,10 +12265,10 @@ A galáxia é um lugar perigoso e não há como saber o que há além deste sist
     <TriggerActions>
       <GameEventAction>
         <Type>TriggerEvent</Type>
-        <MessageTitle>Uma Nave de Guerra Antiga</MessageTitle>
+        <MessageTitle>Um Encouraçado Antigo</MessageTitle>
         <Description>Durante sua exploração de {1}, um terremoto repentino revela parte de uma antiga nave estelar enterrada.
 
-Uma investigação mais aprofundada sugere que era uma vez uma nave de guerra notavelmente grande de design humano que pousou ou caiu neste planeta e foi enterrada durante atividade sísmica anterior.
+Uma investigação mais aprofundada sugere que era uma vez um encouraçado notavelmente grande de design humano que pousou ou caiu neste planeta e foi enterrado durante atividade sísmica anterior.
 
 A atividade sísmica atual está em curso e, enquanto as réplicas continuam, explorar este naufrágio é extremamente perigoso. A exploração adicional é claramente de grande interesse, mas existem apenas duas maneiras realistas de proceder.
 
@@ -12422,7 +12422,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Estabilização Bem-Sucedida</MessageTitle>
-        <Description>A ação rápida conseguiu estabilizar a área ao redor da nave de guerra e, embora os tremores contínuos tenham causado alguns deslocamentos e alguns ferimentos, sua equipe conseguiu explorar completamente os destroços e seus segredos.\n\nOs restos antigos que você descobre por toda a nave sugerem que sua chegada à superfície do planeta foi não planejada e repentina. A estrutura mostra indicações de cicatrizes de batalha, bem como um pouso forçado, com danos extensos exacerbados pelos séculos de atividade sísmica.\n\nFragmentos recuperados indicam que esta era a SRS Liberty, uma nave de guerra da República Solar Humana e a nave principal da 8ª Frota, com aproximadamente 800 tripulantes e 200 fuzileiros navais.\n\nAlém dessas informações, suas equipes de exploração conseguiram recuperar restos significativos de tecnologias avançadas de Hiperpropulsão e Sensores.</Description>
+        <Description>A ação rápida conseguiu estabilizar a área ao redor do encouraçado e, embora os tremores contínuos tenham causado alguns deslocamentos e alguns ferimentos, sua equipe conseguiu explorar completamente os destroços e seus segredos.\n\nOs restos antigos que você descobre por toda a nave sugerem que sua chegada à superfície do planeta foi não planejada e repentina. A estrutura mostra indicações de cicatrizes de batalha, bem como um pouso forçado, com danos extensos exacerbados pelos séculos de atividade sísmica.\n\nFragmentos recuperados indicam que esta era a SRS Liberty, um encouraçado da República Solar Humana e a nave principal da 8ª Frota, com aproximadamente 800 tripulantes e 200 fuzileiros navais.\n\nAlém dessas informações, suas equipes de exploração conseguiram recuperar restos significativos de tecnologias avançadas de Hiperpropulsão e Sensores.</Description>
         <ImageFilepath />
         <MusicFilepath />
         <ActionLocationHint>TriggeringItem</ActionLocationHint>
@@ -28666,7 +28666,7 @@ Dados em alguns dos destroços indicam a localização do antigo mundo natal dos
       <GameEventAction>
         <Type>ChangeShipEmpire</Type>
         <MessageTitle>Sob Ataque</MessageTitle>
-        <Description>Em órbita deste mundo, descobrimos um ferro-velho e uma antiga nave de guerra Mortalen.
+        <Description>Em órbita deste mundo, descobrimos um ferro-velho e um antigo encouraçado Mortalen.
 
 A nave inicialmente parecia abandonada, mas então ela repentinamente ligou seus sistemas e transmitiu um breve sinal de dados.</Description>
 
@@ -29082,7 +29082,7 @@ Dados em alguns dos destroços indicam a localização do antigo mundo natal dos
       <GameEventAction>
         <Type>ChangeShipEmpire</Type>
         <MessageTitle>Sob Ataque</MessageTitle>
-        <Description>Em órbita deste mundo, descobrimos um ferro-velho e uma antiga nave de guerra Mortalen.
+        <Description>Em órbita deste mundo, descobrimos um ferro-velho e um antigo encouraçado Mortalen.
 
 A nave inicialmente parecia abandonada, mas então ela repentinamente ligou seus sistemas e transmitiu um breve sinal de dados.</Description>
 

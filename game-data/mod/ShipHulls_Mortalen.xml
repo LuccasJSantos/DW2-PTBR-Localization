@@ -3181,7 +3181,7 @@
         <Amount>62</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Pequeno Cargueiro</Name>
+    <Name>Cargueiro Pequeno</Name>
     <ImageFilename>Ships/Mortalen/Images/freighter</ImageFilename>
   </ShipHull>
   <ShipHull>

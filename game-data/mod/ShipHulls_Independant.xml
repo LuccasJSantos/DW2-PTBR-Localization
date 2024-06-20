@@ -358,7 +358,7 @@
         <Amount>62</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Pequeno Cargueiro</Name>
+    <Name>Cargueiro Pequeno</Name>
     <ImageFilename>Ships/Independent/Images/Independent_Freighter_01</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -713,7 +713,7 @@
         </DisplayEffectOffset>
       </ComponentBay>
     </ComponentBays>
-    <Name>Pequeno Cargueiro</Name>
+    <Name>Cargueiro Pequeno</Name>
     <ImageFilename>Ships/Independent/Images/Independent_Freighter_02</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -1068,7 +1068,7 @@
         </DisplayEffectOffset>
       </ComponentBay>
     </ComponentBays>
-    <Name>Pequeno Cargueiro</Name>
+    <Name>Cargueiro Pequeno</Name>
     <ImageFilename>Ships/Independent/Images/Independent_Freighter_03</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -1423,7 +1423,7 @@
         </DisplayEffectOffset>
       </ComponentBay>
     </ComponentBays>
-    <Name>Pequeno Cargueiro</Name>
+    <Name>Cargueiro Pequeno</Name>
     <ImageFilename>Ships/Independent/Images/Independent_Freighter_04</ImageFilename>
   </ShipHull>
   <ShipHull>

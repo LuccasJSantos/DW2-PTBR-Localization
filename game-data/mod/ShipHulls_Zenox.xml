@@ -6412,7 +6412,7 @@
         <Amount>62</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Pequeno Cargueiro</Name>
+    <Name>Cargueiro Pequeno</Name>
     <ImageFilename>Ships/Zenox/Images/Zenox_Freighter</ImageFilename>
   </ShipHull>
   <ShipHull>

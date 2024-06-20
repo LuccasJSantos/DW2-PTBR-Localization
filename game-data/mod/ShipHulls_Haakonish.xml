@@ -3179,7 +3179,7 @@
         <Amount>62</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Pequeno Cargueiro</Name>
+    <Name>Cargueiro Pequeno</Name>
     <ImageFilename>Ships/Haakonish/Images/cargo</ImageFilename>
   </ShipHull>
   <ShipHull>

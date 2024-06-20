@@ -4410,7 +4410,7 @@
         <Amount>62</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Pequeno Cargueiro</Name>
+    <Name>Cargueiro Pequeno</Name>
     <ImageFilename>Ships/Human/Images/human_freighter</ImageFilename>
   </ShipHull>
   <ShipHull>

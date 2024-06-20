@@ -35,7 +35,7 @@ Defensive Base		;Base Defensiva
 Research Station		;Estação de Pesquisa
 Monitoring Station		;Estação de Vigia
 Resort Base		;Base de Resort
-Interceptor		;Interceptor
+Interceptor		;Interceptador
 Bomber		;Bombardeiro
 
 ShipMission Description Undefined		;Sem missão
