@@ -63,7 +63,16 @@ const translateResources = async function () {
     await translate.file('game-data/mod/Resources.xml', { parser: descriptionParser })
 }
 
-await translateResources()
+const translateTourItems = async function () {
+    // const titleParser = xmlParser(['ArrayOfTourItem', 'TourItem', 'Steps', 'TourStep', 'StepTitle'])
+    const textParser = xmlParser(['ArrayOfTourItem', 'TourItem', 'Steps', 'TourStep', 'MarkupText'])
+
+    // await translate.file('game-data/original/TourItems.xml', { parser: titleParser })
+    await translate.file('game-data/mod/TourItems.xml', { parser: textParser })
+}
+
+await translateTourItems()
+// await translateResources()
 // await translateGovernments()
 // await translateComponentDefinifitions()
 // await translateGameEvents()

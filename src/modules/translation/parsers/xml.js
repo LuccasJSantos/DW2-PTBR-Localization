@@ -4,7 +4,7 @@ import * as u from '../../../utils/index.js'
 // import { translate } from 'free-translate'
 // import puppeteer from 'puppeteer'
 
-const SEPARATOR = ', '
+const SEPARATOR = '|'
 
 export default function (path) {
     return async function (content) {
