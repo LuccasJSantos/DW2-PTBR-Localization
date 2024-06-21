@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<ArrayOfColonyEventDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>66</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>-10</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Limpeza da Infelicidade</Name>
+		<Description>Nossa recente 'limpeza' desta colônia reduziu a felicidade</Description>
+
+		<ImageFilename>Environment/Events/the scouring</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>67</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1</DurationMinimum>
+		<DurationMaximum>1</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<Bonuses>
+			<Bonus>
+				<Type>ColonyPopulationGrowthRate</Type>
+				<Amount>0.20</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>11</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Aceleração do Crescimento Populacional Gizureano</Name>
+		<Description>Nossa recente 'limpeza' desta colônia acelerou a taxa de crescimento da população Gizureana em todo o nosso império</Description>
+
+		<ImageFilename>Environment/Events/the scouring</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>68</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1</DurationMinimum>
+		<DurationMaximum>3</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>-10</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0.00125</RandomInitiationChance>
+		<RaceFilterIds>
+			<unsignedByte>11</unsignedByte>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<Bonuses>
+			<Bonus>
+				<Type>ColonyPopulationGrowthRate</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>11</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Conflito Tribal</Name>
+		<Description>Conflitos intertribais eclodiram.\n\nIsso aumentou as taxas de crescimento populacional dos Gizureanos em todo o nosso império.\n\nNo entanto, também reduziu a felicidade em todo o império.\n\nEsperamos que este conflito tribal dure de um a três anos.</Description>
+
+		<ImageFilename>Environment/Events/tribe-wars</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>69</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1</DurationMinimum>
+		<DurationMaximum>1</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<Bonuses>
+			<Bonus>
+				<Type>ColonyPopulationGrowthRate</Type>
+				<Amount>0.25</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Teekans Saborosos</Name>
+		<Description></Description>
+
+		<ImageFilename>UserInterface/Races/Teekan</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>70</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>5</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<Bonuses />
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Gizureanos Orgulhosos</Name>
+		<Description></Description>
+
+		<ImageFilename>UserInterface/Races/Gizurean</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>71</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1</DurationMinimum>
+		<DurationMaximum>1</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>5</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<Bonuses />
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Nave Perigosa Destruida</Name>
+		<Description></Description>
+
+		<ImageFilename>Environment/Events/CrashedShip</ImageFilename>
+	</ColonyEventDefinition>
+	
+	
+	  <ColonyEventDefinition>
+		<ColonyEventDefinitionId>72</ColonyEventDefinitionId>
+		<Type>Plague</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>4</DurationMaximum>
+		<PopulationAmount>-0.1</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>-10</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>8.0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>50000000</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<Bonuses />
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Vírus Psíquico Shakturi - Variante Delta</Name>
+		<Description>O Vírus Psíquico Shakturi torna uma espécie mais vulnerável aos poderes psíquicos dos Shakturi.\n\nEsta é uma variante particularmente mortal.\n\nAs vítimas infectadas são submetidas a uma forma de sugestão psíquica, fazendo-as comportar-se de maneiras que maximizem a propagação do vírus. Portanto, o Vírus Psíquico Shakturi é altamente infeccioso e pode se espalhar rapidamente.</Description>
+
+		<ImageFilename>Environment/Events/PsionicMindVirus</ImageFilename>
+		<IconFilename>Environment/Events/Icons/PsionicMindVirus</IconFilename>
+	  </ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>73</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>100</DurationMinimum>
+		<DurationMaximum>100</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<Bonuses>
+			<Bonus>
+				<Type>ColonyPopulationGrowthRate</Type>
+				<Amount>0.10</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>11</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Mundo de Procriação</Name>
+		<Description>Estamos exterminando populações estrangeiras em nossa colônia {0}, fornecendo uma fonte de alimento saborosa para uma nova geração de Gizureanos!\n\nCada Mundo de Procriação em nosso império fornecerá um bônus cumulativo de [BONUS]+10% na taxa de crescimento populacional Gizureana[/BONUS].</Description>
+
+		<ImageFilename>Environment/Events/breeding world</ImageFilename>
+	</ColonyEventDefinition>
+
+</ArrayOfColonyEventDefinition>
