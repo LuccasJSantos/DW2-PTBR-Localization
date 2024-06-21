@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<ArrayOfArtifact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Artifact>
+    <ArtifactId>41</ArtifactId>
+    <DiscoveryLevel>0</DiscoveryLevel>
+    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+    <BonusesToOwner>
+      <Bonus>
+        <Type>ResearchHighTech</Type>
+        <Amount>0.1</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+      <Bonus>
+        <Type>ColonyIncome</Type>
+        <Amount>0.1</Amount>
+        <AppliesTo>Item</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+      <Bonus>
+        <Type>ColonyDevelopment</Type>
+        <Amount>0.1</Amount>
+        <AppliesTo>Item</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+    </BonusesToOwner>
+    <ResearchProjectUnlockIds />
+    <ResearchProjectCompleteIds />
+    <GovernmentUnlockIds />
+    <ResearchProjectsUnlockDescription />
+    <ResearchProjectsCompleteDescription />
+    <GovernmentsUnlockDescription />
+    <Name>Drone de Desenvolvimento do Antigo Guardião</Name>
+    <Description>Um drone projetado para ajudar a reestabelecer colônias destruídas pelos Shakturi durante a guerra. Ele acelera a construção de infraestrutura e centros econômicos, ajudando assim a colônia a prosperar em um ritmo acelerado. O drone ativamente se opõe a todos os esforços para analisar sua tecnologia. Seus projetistas tomaram grandes precauções para garantir que não pudesse ser replicado.</Description>
+
+    <ImageFilename>Artifacts/ancient guardian development drone</ImageFilename>
+  </Artifact>
+  <Artifact>
+    <ArtifactId>42</ArtifactId>
+    <DiscoveryLevel>0</DiscoveryLevel>
+    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+    <BonusesToOwner>
+      <Bonus>
+        <Type>PlanetaryFacilityMaintenance</Type>
+        <Amount>0.25</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+      <Bonus>
+        <Type>ConstructionSpeedFacility</Type>
+        <Amount>0.25</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+      <Bonus>
+        <Type>ColonyDevelopment</Type>
+        <Amount>0.1</Amount>
+        <AppliesTo>Item</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+    </BonusesToOwner>
+    <ResearchProjectUnlockIds />
+    <ResearchProjectCompleteIds />
+    <GovernmentUnlockIds />
+    <ResearchProjectsUnlockDescription />
+    <ResearchProjectsCompleteDescription />
+    <GovernmentsUnlockDescription />
+    <Name>Plano de Melhoria Mundial X-1084-W</Name>
+    <Description>Um cristal de dados contendo informações projetadas para facilitar tanto o desenvolvimento básico de colônias quanto o desenvolvimento e manutenção de instalações avançadas. Composto durante a guerra Shakturi, parece antecipar um momento em que a galáxia precisaria se reconstruir após um colapso completo da civilização. Mesmo assim, o texto se concentra em procedimentos práticos e é completamente desprovido de sentimentos.</Description>
+
+    <ImageFilename>Artifacts/world improvement plan x-1084-w</ImageFilename>
+  </Artifact>
+  <Artifact>
+    <ArtifactId>43</ArtifactId>
+    <DiscoveryLevel>0</DiscoveryLevel>
+    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+    <BonusesToOwner>
+      <Bonus>
+        <Type>ResearchSensors</Type>
+        <Amount>0.2</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+    </BonusesToOwner>
+    <ResearchProjectUnlockIds />
+    <ResearchProjectCompleteIds />
+    <GovernmentUnlockIds />
+    <ResearchProjectsUnlockDescription />
+    <ResearchProjectsCompleteDescription />
+    <GovernmentsUnlockDescription />
+    <Name>Cristal da Revelação</Name>
+    <Description>Que ser racional poderia compreender um artefato de design Shakturi? Ele não contém elementos de tecnologia conforme entendemos. É apenas um emaranhado de cristais entrelaçados, e ainda assim este dispositivo nos permitirá aprimorar as leituras dos sensores em todo o nosso império. O que mais os Shakturi poderiam fazer?</Description>
+
+    <ImageFilename>Artifacts/Unveiling Crystal</ImageFilename>
+  </Artifact>
+  <Artifact>
+    <ArtifactId>44</ArtifactId>
+    <DiscoveryLevel>0</DiscoveryLevel>
+    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+    <BonusesToOwner>
+      <Bonus>
+        <Type>ConstructionSpeedAllShips</Type>
+        <Amount>0.1</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+      <Bonus>
+        <Type>ResearchAll</Type>
+        <Amount>0.02</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+    </BonusesToOwner>
+    <ResearchProjectUnlockIds />
+    <ResearchProjectCompleteIds />
+    <GovernmentUnlockIds />
+    <ResearchProjectsUnlockDescription />
+    <ResearchProjectsCompleteDescription />
+    <GovernmentsUnlockDescription />
+    <Name>Segredos dos Construtores</Name>
+    <Description>Mentes de máquina não pensam de maneiras que seres orgânicos possam entender. A decisão dos Antigos Guardiões de construir Vaulas preservadoras de conhecimento foi tomada ao longo de um período de tempo impossivelmente longo. Também aconteceu num piscar de olhos. Não tente entender como ambas essas coisas podem ser verdadeiras. Você deve simplesmente aceitar que é assim.
+
+Assim que os Antigos Guardiões entenderam a importância de preservar o conhecimento galáctico, começaram a construir Vaulas a uma velocidade inimaginável para seres orgânicos. Muitas de suas técnicas são aplicáveis apenas a inteligências artificiais, mas uma pequena parte de sua sabedoria pode ser transmitida a criaturas biológicas para ajudar em seus próprios esforços de construção.</Description>
+
+    <ImageFilename>Artifacts/Secrets of the Builders</ImageFilename>
+  </Artifact>
+</ArrayOfArtifact>
