@@ -1474,7 +1474,7 @@ Agora podemos contar com relações positivas com os Dhayut de Damazy, embora se
       <GameEventAction>
         <Type>AddEmpireIncidentFactorGeneral</Type>
         <MessageTitle />
-        <Description>Seu Influência Valeu a Pena</Description>
+        <Description>Sua Influência Valeu a Pena</Description>
         <ImageFilepath />
         <MusicFilepath />
         <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
