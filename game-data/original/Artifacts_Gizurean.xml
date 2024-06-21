@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<ArrayOfArtifact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Artifact>
+    <ArtifactId>45</ArtifactId>
+    <DiscoveryLevel>0</DiscoveryLevel>
+    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+    <BonusesToOwner>
+      <Bonus>
+        <Type>ColonyDefense</Type>
+        <Amount>0.2</Amount>
+        <AppliesTo>Item</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+      <Bonus>
+        <Type>WeaponsRange</Type>
+        <Amount>0.05</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+      <Bonus>
+        <Type>WeaponsDamage</Type>
+        <Amount>0.05</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+      <Bonus>
+        <Type>Countermeasures</Type>
+        <Amount>0.05</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+    </BonusesToOwner>
+    <ResearchProjectUnlockIds />
+    <ResearchProjectCompleteIds />
+    <GovernmentUnlockIds />
+    <ResearchProjectsUnlockDescription />
+    <ResearchProjectsCompleteDescription />
+    <GovernmentsUnlockDescription />
+    <Name>Núcleo de Dados do Equilíbrio Tático</Name>
+    <Description>Um compêndio de observações e estratégias compiladas pelos antigos Gizureanos detalhando estratégias tanto ofensivas quanto defensivas. Grande parte do conteúdo é escrito no estilo conciso típico dos antigos Gizureanos, mas há anotações que sugerem que o conteúdo pode ter incluído contribuições de pelo menos um estrategista de outra espécie.</Description>
+
+    <ImageFilename>Artifacts/tactical balance datacore</ImageFilename>
+  </Artifact>
+  <Artifact>
+    <ArtifactId>46</ArtifactId>
+    <DiscoveryLevel>0</DiscoveryLevel>
+    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+    <BonusesToOwner>
+      <Bonus>
+        <Type>ResearchConstruction</Type>
+        <Amount>0.1</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+      <Bonus>
+        <Type>ConstructionSpeedAllShips</Type>
+        <Amount>0.1</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+    </BonusesToOwner>
+    <ResearchProjectUnlockIds />
+    <ResearchProjectCompleteIds />
+    <GovernmentUnlockIds />
+    <ResearchProjectsUnlockDescription />
+    <ResearchProjectsCompleteDescription />
+    <GovernmentsUnlockDescription />
+    <Name>Esquemático do Estaleiro Gizureano</Name>
+    <Description>Um manual composto pelos antigos Gizureanos que descreve as melhores práticas para construção e manutenção de naves. Algumas referências no texto sugerem que o documento foi compilado nos últimos dias da Guerra Shakturi, à medida que a espécie coletiva da galáxia se viu lutando pela sobrevivência contra seus antigos aliados. O tom de desespero é um tanto... inquietante.</Description>
+
+    <ImageFilename>Artifacts/gizurean shipyard schematic</ImageFilename>
+  </Artifact>
+  <Artifact>
+    <ArtifactId>47</ArtifactId>
+    <DiscoveryLevel>0</DiscoveryLevel>
+    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+    <BonusesToOwner>
+      <Bonus>
+        <Type>BoardingAssault</Type>
+        <Amount>0.25</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
+    </BonusesToOwner>
+    <ResearchProjectUnlockIds />
+    <ResearchProjectCompleteIds />
+    <GovernmentUnlockIds />
+    <ResearchProjectsUnlockDescription />
+    <ResearchProjectsCompleteDescription />
+    <GovernmentsUnlockDescription />
+    <Name>Compêndio da Frota Colmeia</Name>
+    <Description>Uma análise das naves colmeia concluída pelos antigos Gizureanos durante o tempo do Cataclismo. É especialmente focado nas técnicas colmeia para abordagem rápida de naves inimigas.</Description>
+
+    <ImageFilename>Artifacts/hive fleet compendium</ImageFilename>
+  </Artifact>
+</ArrayOfArtifact>
