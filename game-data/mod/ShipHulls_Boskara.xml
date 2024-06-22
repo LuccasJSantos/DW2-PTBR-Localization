@@ -37718,7 +37718,7 @@
         <Amount>680</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Naves/Name>
+    <Name>Porta-Naves</Name>
     <ImageFilename>Ships/Boskara/Images/boskara_carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
