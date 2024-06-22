@@ -66,7 +66,7 @@ ShipMission Description Explore		;Explorar {0}
 ShipMission Description ExploreSystem		;Explorar sistema {0} ({1})
 ShipMission Description ExploreLocation		;Explorar local {0} ({1})
 ShipMission Description ExploreSurvey		;Inspecionar {0}
-ShipMission Description FighterBoardCarrier		;Embarcar no porta-aviões {0}
+ShipMission Description FighterBoardCarrier		;Embarcar no porta-naves {0}
 ShipMission Description Guard		;Proteger {0}
 ShipMission Description LoadTroops		;Carregar tropas em {0}
 ShipMission Description LoadTroops Unavailable		;Carregar tropas
@@ -126,7 +126,7 @@ ShipMission Description With Distance Explore		;Explorar {0} ({1} de distância)
 ShipMission Description With Distance ExploreSystem		;Explorar sistema {0} ({1}, {2} de distância)
 ShipMission Description With Distance ExploreLocation		;Explorar local {0} ({1}, {2} de distância)
 ShipMission Description With Distance ExploreSurvey		;Inspecionar {0} ({1} de distância)
-ShipMission Description With Distance FighterBoardCarrier		;Embarcar no porta-aviões {0} ({1} de distância)
+ShipMission Description With Distance FighterBoardCarrier		;Embarcar no porta-naves {0} ({1} de distância)
 ShipMission Description With Distance Guard		;Proteger {0} ({1} de distância)
 ShipMission Description With Distance LoadTroops		;Carregar tropas em {0} ({1} de distância)
 ShipMission Description With Distance LoadPopulation		;Carregar colonos em {0} ({1} de distância)
@@ -5093,7 +5093,7 @@ PolicyExplanation ConstructionMilitaryBuildRatioFrigate		;Proporção de naves m
 PolicyExplanation ConstructionMilitaryBuildRatioDestroyer		;Proporção de naves militares que devem ser Destróieres. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
 PolicyExplanation ConstructionMilitaryBuildRatioCruiser		;Proporção de naves militares que devem ser Cruzadores. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
 PolicyExplanation ConstructionMilitaryBuildRatioCapitalShip		;Proporção de naves militares que devem ser Naves Capitais. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
-PolicyExplanation ConstructionMilitaryBuildRatioCarrier		;Proporção de naves militares que devem ser Porta-Aviões. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
+PolicyExplanation ConstructionMilitaryBuildRatioCarrier		;Proporção de naves militares que devem ser Porta-Naves. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
 PolicyExplanation ConstructionMilitaryBuildRatioTroopTransport		;Proporção de naves militares que devem ser Transportadores de Tropas. A construção automatizada tentará manter essa proporção ao construir naves militares, considerando também quais funções de nave são necessárias nos Modelos de Frota.
 PolicyExplanation BuildIndependentShips		;Se deve construir novos cargueiros para comerciantes independentes. Isso pode gerar uma pequena quantidade de receita adicional para seu império.
 PolicyExplanation RepairIndependentShips		;Se deve reparar cargueiros de comerciantes independentes. Isso pode gerar uma pequena quantidade de receita adicional para seu império.

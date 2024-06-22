@@ -18,7 +18,7 @@ Destróieres são naves militares versáteis que podem desempenhar diversas fun�
 
 Frequentemente atuam como atacantes de mísseis ou torpedos de longo alcance, mantendo distância dos alvos e disparando salvas mortais.
 
-Alguns cascos de Destróieres possuem hangares, permitindo que sirvam como pequenos porta-aviões de caças.
+Alguns cascos de Destróieres possuem hangares, permitindo que sirvam como pequenos porta-naves de caças.
 
 Em frotas grandes, Destróieres normalmente atuam como escoltas próximas, protegendo as grandes naves capitais de ataques inimigas.
 
@@ -29,9 +29,9 @@ Com muitos compartimentos de armas, têm espaço suficiente para adicionar tipos
 
 Cruzadores geralmente possuem múltiplos compartimentos de sensores, permitindo scanners de longo alcance e outros sensores.
 
-Portanto, podem servir como eficazes naves-capitânia de frota quando não há Encouraçados ou Porta-Aviões disponíveis.
+Portanto, podem servir como eficazes naves-capitânia de frota quando não há Encouraçados ou Porta-Naves disponíveis.
 
-Cruzadores também podem usar hangares, permitindo que sirvam como pequenos porta-aviões de caças.
+Cruzadores também podem usar hangares, permitindo que sirvam como pequenos porta-naves de caças.
 
 [H3]Encouraçado[/H3]
 Encouraçados são o maior tipo de nave militar. São pesadamente armados e defendidos.
@@ -44,18 +44,18 @@ Seus múltiplos compartimentos de sensores geralmente são preenchidos com scann
 
 Portanto, são a escolha principal para servir como naves-capitânia de frota.
 
-Encouraçados também podem optar por ter hangares de caças, assim servindo como um porta-aviões.
+Encouraçados também podem optar por ter hangares de caças, assim servindo como um porta-naves.
 
-[H3]Porta-Aviões[/H3]
-Porta-Aviões são grandes naves de guerra projetadas para implantar grandes números de caças. Podem ter armamento fraco, mas compensam isso com seus muitos hangares de caças.
+[H3]Porta-Naves[/H3]
+Porta-Naves são grandes naves de guerra projetadas para implantar grandes números de caças. Podem ter armamento fraco, mas compensam isso com seus muitos hangares de caças.
 
 Funcionam melhor em uma frota, sendo escoltados por outras naves militares que podem fornecer defesa extra.
 
-Porta-Aviões também podem utilizar componentes HyperDeny para evitar a fuga de naves inimigas.
+Porta-Naves também podem utilizar componentes HyperDeny para evitar a fuga de naves inimigas.
 
 Seus múltiplos compartimentos de sensores geralmente são preenchidos com scanners de longo alcance, direcionamento de frota, contramedidas de frota e sensores de rastreamento de saltos.
 
-Porta-Aviões são, portanto, uma boa escolha para servir como naves-capitânia de frota.
+Porta-Naves são, portanto, uma boa escolha para servir como naves-capitânia de frota.
 
 [H3]Transporte de Tropas[/H3]
 Transportes de Tropas são naves especializadas que movem tropas entre suas colônias. Também implantam tropas para invadir colônias inimigas.

@@ -53333,7 +53333,7 @@
         <Amount>560</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões Leve</Name>
+    <Name>Porta-Naves Leve</Name>
     <ImageFilename>Ships/Quameno/Images/Quameno Carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -63453,7 +63453,7 @@
         <Amount>680</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões</Name>
+    <Name>Porta-Naves</Name>
     <ImageFilename>Ships/Quameno/Images/Quameno Carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -77487,7 +77487,7 @@
         <Amount>800</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões Pesado</Name>
+    <Name>Porta-Naves Pesado</Name>
     <ImageFilename>Ships/Quameno/Images/Quameno Carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -83670,7 +83670,7 @@
         <Amount>1080</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões de Frota</Name>
+    <Name>Porta-Naves de Frota</Name>
     <ImageFilename>Ships/Quameno/Images/Quameno Carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -86500,7 +86500,7 @@
         <Amount>10</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Interceptador Leve</Name>
+    <Name>Interceptador  Leve</Name>
     <ImageFilename>Ships/Quameno/Images/Quameno Drone Fighter</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -87119,7 +87119,7 @@
         <Amount>11</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Interceptador Tático</Name>
+    <Name>Interceptador  Tático</Name>
     <ImageFilename>Ships/Quameno/Images/Quameno Drone Fighter</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -87758,7 +87758,7 @@
         <Amount>28</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Interceptador Avançado</Name>
+    <Name>Interceptador  Avançado</Name>
     <ImageFilename>Ships/Quameno/Images/Quameno Drone Fighter</ImageFilename>
   </ShipHull>
   <ShipHull>

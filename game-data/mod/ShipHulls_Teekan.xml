@@ -36059,7 +36059,7 @@
         <Amount>10</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorLeve</Name>
+    <Name>Interceptador Leve</Name>
     <ImageFilename>Ships/Teekan/Images/Teekan Drone_Fighter</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -36661,7 +36661,7 @@
         <Amount>11</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorTático</Name>
+    <Name>Interceptador Tático</Name>
     <ImageFilename>Ships/Teekan/Images/Teekan Drone_Fighter</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -39682,7 +39682,7 @@
         <Amount>560</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões Leve</Name>
+    <Name>Porta-Naves Leve</Name>
     <ImageFilename>Ships/Teekan/Images/Teekan_Carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -47258,7 +47258,7 @@
         <Amount>680</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões</Name>
+    <Name>Porta-Naves</Name>
     <ImageFilename>Ships/Teekan/Images/Teekan_Carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -58697,7 +58697,7 @@
         <Amount>800</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões Pesado</Name>
+    <Name>Porta-Naves Pesado</Name>
     <ImageFilename>Ships/Teekan/Images/Teekan_Carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -63455,7 +63455,7 @@
         <Amount>1080</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões de Frota</Name>
+    <Name>Porta-Naves de Frota</Name>
     <ImageFilename>Ships/Teekan/Images/Teekan_Carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -66371,7 +66371,7 @@
         <Amount>28</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorAvançado</Name>
+    <Name>Interceptador Avançado</Name>
     <ImageFilename>Ships/Teekan/Images/Teekan Drone_Fighter</ImageFilename>
   </ShipHull>
   <ShipHull>

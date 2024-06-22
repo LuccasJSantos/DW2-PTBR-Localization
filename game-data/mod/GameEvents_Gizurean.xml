@@ -9336,8 +9336,8 @@ Também encontramos um mapa que marca o que acreditamos ser o mundo natal Gizure
     <TriggerActions>
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
-        <MessageTitle>O Ninho</MessageTitle>
-        <Description>{1} é habitado pelas criaturas chamadas de o Ninhos. Devemos proceder com grande cautela.</Description>
+        <MessageTitle>A Colmeia</MessageTitle>
+        <Description>{1} é habitado pelas criaturas chamadas de Colmeia. Devemos proceder com grande cautela.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -10004,7 +10004,7 @@ Também encontramos um mapa que marca o que acreditamos ser o antigo mundo natal
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>De Onde Viemos!</MessageTitle>
-        <Description>É aqui que acreditamos que nosso povo vem, o antigo mundo natal dos Gizureanos. Seria fascinante ver o que poderíamos saquear dos corpos de nossos antepassados, mas o sistema está infestado pelas criaturas insanas chamadas de o Ninhos.</Description>
+        <Description>É aqui que acreditamos que nosso povo vem, o antigo mundo natal dos Gizureanos. Seria fascinante ver o que poderíamos saquear dos corpos de nossos antepassados, mas o sistema está infestado pelas criaturas insanas chamadas de Colmeia.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -12115,7 +12115,7 @@ Também encontramos um mapa que marca o que acreditamos ser o antigo mundo natal
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Eles são Estranhos</MessageTitle>
-        <Description>O Ninhos estão tentando se comunicar conosco.
+        <Description>A Colmeia está tentando se comunicar conosco.
 
 "Coisas Gizureanas. Antigas. Versão mais antiga. Esquecidas. Substituídas. Primos perdidos. Absorção! Vocês serão destruídos e bem-vindos. Nós vamos consumir. Consumir. Morte terrível, divertida. Talvez evitada se vocês falarem com suas mentes."</Description>
 
@@ -12188,7 +12188,7 @@ Também encontramos um mapa que marca o que acreditamos ser o antigo mundo natal
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Eles são Estranhos</MessageTitle>
-        <Description>Estar perto do Ninhos é terrível. Há imagens. Sons. Vozes. Dor. Terror. Eles trarão loucura. Essas criaturas parecem familiares, mas nada poderia ser mais alienígena. Devemos erradicá-los para preservar a nós mesmos.</Description>
+        <Description>Estar perto de Colmeia é terrível. Há imagens. Sons. Vozes. Dor. Terror. Eles trarão loucura. Essas criaturas parecem familiares, mas nada poderia ser mais alienígena. Devemos erradicá-los para preservar a nós mesmos.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -12302,7 +12302,7 @@ Também encontramos um mapa que marca o que acreditamos ser o antigo mundo natal
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Palavras de Confusão</MessageTitle>
-        <Description>Não entendemos o que o Ninhos querem dizer quando nos pedem para falar com nossas mentes. Se quisermos explorar nosso antigo mundo natal, teremos que tirá-lo de seus ocupantes atuais. Devemos eliminá-los.</Description>
+        <Description>Não entendemos o que a Colmeia quer dizer quando nos pede para falar com nossas mentes. Se quisermos explorar nosso antigo mundo natal, teremos que tirá-lo de seus ocupantes atuais. Devemos eliminá-los.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -12348,7 +12348,7 @@ Também encontramos um mapa que marca o que acreditamos ser o antigo mundo natal
       <GameEventAction>
         <Type>TriggerEvent</Type>
         <MessageTitle>Um Elo com o Passado</MessageTitle>
-        <Description>Não entendemos o que essas criaturas queriam dizer quando exigiram que falássemos com nossas mentes, mas Sawa Echigo, o cientista que ressuscitamos do sono criogênico, diz que é possível formar um elo psíquico com o Ninhos. Sawa Echigo se voluntariou para tentar fazer contato. Ele acredita que pode usar o elo psíquico, que ele diz ser comum a todos os antigos Gizureanos, para danificar a frota dos Ninhos. Ele não sobreviverá ao processo. Devemos aceitar ou rejeitar sua oferta?</Description>
+        <Description>Não entendemos o que essas criaturas queriam dizer quando exigiram que falássemos com nossas mentes, mas Sawa Echigo, o cientista que ressuscitamos do sono criogênico, diz que é possível formar um elo psíquico com a Colmeia. Sawa Echigo se voluntariou para tentar fazer contato. Ele acredita que pode usar o elo psíquico, que ele diz ser comum a todos os antigos Gizureanos, para danificar a frota da Colmeia. Ele não sobreviverá ao processo. Devemos aceitar ou rejeitar sua oferta?</Description>
 
         <ImageFilepath />
         <MusicFilepath />

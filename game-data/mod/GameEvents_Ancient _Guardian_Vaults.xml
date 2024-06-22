@@ -8772,7 +8772,7 @@ Temos muito trabalho de pesquisa antes de podermos acessar o Cofre.</Description
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>As Reformas de Jhahtu</MessageTitle>
-        <Description>O Cofre dos Guardiões Antigos em {0} contém uma entrada que leva a um grande antecâmara. Esta tem a sensação de um museu, pois está repleta de centenas de réplicas de naves dos Guardiões Antigos. Algumas são cargueiras básicas ou naves de exploração, outras são gigantescos encouraçados e porta-aviões. As estéticas e escolhas de design parecem amplamente variadas, frequentemente diferentes entre naves que desempenham a mesma função. Por exemplo, há nove diferentes vasos de transporte de curta distância, nenhum dos quais se assemelha aos outros.
+        <Description>O Cofre dos Guardiões Antigos em {0} contém uma entrada que leva a um grande antecâmara. Esta tem a sensação de um museu, pois está repleta de centenas de réplicas de naves dos Guardiões Antigos. Algumas são cargueiras básicas ou naves de exploração, outras são gigantescos encouraçados e porta-naves. As estéticas e escolhas de design parecem amplamente variadas, frequentemente diferentes entre naves que desempenham a mesma função. Por exemplo, há nove diferentes vasos de transporte de curta distância, nenhum dos quais se assemelha aos outros.
 
 As diversas naves não parecem ser baseadas nos projetos de outras espécies. Em vez disso, parece que cada nave é um experimento de um criador individual ou equipe de criadores tentando repensar como uma nave deve funcionar. Se as naves não fossem "rotuladas" psiquicamente, ninguém acreditaria que todas, ou mesmo duas delas, emergiram da mesma cultura.
 

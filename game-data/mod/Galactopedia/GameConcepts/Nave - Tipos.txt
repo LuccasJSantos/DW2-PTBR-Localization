@@ -27,7 +27,7 @@ Com muitos compartimentos de armas, têm espaço suficiente para adicionar tipos
 
 Cruzadores geralmente têm múltiplos compartimentos de sensores, permitindo scanners de longo alcance e outros sensores.
 
-Portanto, são capazes de servir como eficazes naves capitais de frota quando não há Encouraçados ou Porta-Aviões disponíveis.
+Portanto, são capazes de servir como eficazes naves capitais de frota quando não há Encouraçados ou Porta-Naves disponíveis.
 
 Cruzadores também podem utilizar hangares, permitindo que sirvam como pequenos porta-caças.
 
@@ -42,18 +42,18 @@ Seus múltiplos compartimentos de sensores são tipicamente preenchidos com scan
 
 Portanto, são a escolha principal para servir como naves capitais de frota.
 
-Encouraçados também podem optar por ter hangares de caças, servindo assim como um porta-aviões.
+Encouraçados também podem optar por ter hangares de caças, servindo assim como um porta-naves.
 
-[H3]Porta-Aviões[/H3]
-Porta-Aviões são grandes naves de guerra projetadas para implantar grandes números de caças. Podem ter armamento fraco, mas compensam isso com seus muitos hangares de caças.
+[H3]Porta-Naves[/H3]
+Porta-Naves são grandes naves de guerra projetadas para implantar grandes números de caças. Podem ter armamento fraco, mas compensam isso com seus muitos hangares de caças.
 
 Eles funcionam melhor em uma frota, sendo escoltados por outras naves militares que podem fornecer defesa adicional.
 
-Porta-Aviões também podem utilizar componentes HyperDeny para impedir a fuga de naves inimigas em fuga.
+Porta-Naves também podem utilizar componentes HyperDeny para impedir a fuga de naves inimigas em fuga.
 
 Seus múltiplos compartimentos de sensores são tipicamente preenchidos com scanners de longo alcance, direcionamento de frota, contramedidas de frota e sensores de rastreamento de saltos.
 
-Portanto, os Porta-Aviões são uma boa escolha para servir como naves capitais de frota.
+Portanto, os Porta-Naves são uma boa escolha para servir como naves capitais de frota.
 
 [H3]Transportador de Tropas[/H3]
 Transportadores de Tropas são naves especializadas que movem tropas entre suas colônias. Também implantam tropas para invasão de colônias inimigas.

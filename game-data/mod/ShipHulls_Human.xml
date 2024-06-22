@@ -214,7 +214,7 @@
         <Amount>11</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorGyrfalcon</Name>
+    <Name>Interceptador Gyrfalcon</Name>
     <ImageFilename>Ships/Human/Images/human_interceptor</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -28298,7 +28298,7 @@
         <Amount>10</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorLeve</Name>
+    <Name>Interceptador Leve</Name>
     <ImageFilename>Ships/Human/Images/human_interceptor</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -28917,7 +28917,7 @@
         <Amount>11</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorTático</Name>
+    <Name>Interceptador Tático</Name>
     <ImageFilename>Ships/Human/Images/human_interceptor</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -31786,7 +31786,7 @@
         <Amount>560</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões Leve</Name>
+    <Name>Porta-Naves Leve</Name>
     <ImageFilename>Ships/Human/Images/human_carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -38402,7 +38402,7 @@
         <Amount>680</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões</Name>
+    <Name>Porta-Naves</Name>
     <ImageFilename>Ships/Human/Images/human_carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -47664,7 +47664,7 @@
         <Amount>800</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões Pesado</Name>
+    <Name>Porta-Naves Pesado</Name>
     <ImageFilename>Ships/Human/Images/human_carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -52125,7 +52125,7 @@
         <Amount>1080</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Porta-Aviões de Frota</Name>
+    <Name>Porta-Naves de Frota</Name>
     <ImageFilename>Ships/Human/Images/human_carrier</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -53934,7 +53934,7 @@
         <Amount>28</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorAvançado</Name>
+    <Name>Interceptador Avançado</Name>
     <ImageFilename>Ships/Human/Images/human_interceptor</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -54356,7 +54356,7 @@
         <Amount>13</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorGyrfalcon</Name>
+    <Name>Interceptador Gyrfalcon</Name>
     <ImageFilename>Ships/Human/Images/human_interceptor</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -54561,7 +54561,7 @@
         <Amount>32</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorGyrfalcon</Name>
+    <Name>Interceptador Gyrfalcon</Name>
     <ImageFilename>Ships/Human/Images/human_interceptor</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -56445,7 +56445,7 @@
         <Amount>35</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorGyrfalcon</Name>
+    <Name>Interceptador Gyrfalcon</Name>
     <ImageFilename>Ships/Human/Images/human_interceptor</ImageFilename>
   </ShipHull>
 </ArrayOfShipHull>

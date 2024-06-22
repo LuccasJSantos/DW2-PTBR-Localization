@@ -10843,7 +10843,7 @@
         <Amount>10</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorLeve</Name>
+    <Name>Interceptador Leve</Name>
     <ImageFilename>Ships/Pirates/images/Pirates_Fighter_Interceptor_4</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -11245,7 +11245,7 @@
         <Amount>11</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorTático</Name>
+    <Name>Interceptador Tático</Name>
     <ImageFilename>Ships/Pirates/images/Pirates_Fighter_Interceptor_4</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -11667,7 +11667,7 @@
         <Amount>28</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>InterceptadorAvançado</Name>
+    <Name>Interceptador Avançado</Name>
     <ImageFilename>Ships/Pirates/images/Pirates_Fighter_Interceptor_4</ImageFilename>
   </ShipHull>
   <ShipHull>
