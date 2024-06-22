@@ -11888,7 +11888,7 @@
         <Amount>34</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Caça de Ataque</Name>
+    <Name>Caça de Strike</Name>
     <ImageFilename>Ships/Pirates/images/Pirates_Fighter_Interceptor_2</ImageFilename>
   </ShipHull>
   <ShipHull>

@@ -1407,7 +1407,7 @@
         <Amount>34</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Caça de Ataque</Name>
+    <Name>Caça de Strike</Name>
     <ImageFilename>Ships/Boskara/Images/Fighter</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -15032,7 +15032,7 @@
         <Amount>120</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Transporte Médio de Tropas</Name>
+    <Name>Transporte de Tropas Médio</Name>
     <ImageFilename>Ships/Boskara/Images/boskaran_trooptransport_small</ImageFilename>
   </ShipHull>
   <ShipHull>
@@ -35480,7 +35480,7 @@
         <Amount>490</Amount>
       </ResourceQuantity>
     </ResourcesRequired>
-    <Name>Transporte Massivo de Tropas</Name>
+    <Name>Transporte de Tropas Massivo</Name>
     <ImageFilename>Ships/Boskara/Images/boskaran_trooptransport_large</ImageFilename>
   </ShipHull>
   <ShipHull>
