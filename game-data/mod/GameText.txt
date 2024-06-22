@@ -166,25 +166,25 @@ The EMPIRE have raided our colony TARGET but failed to obtain any loot		;O [FACT
 X credits		;{0} créditos
 Research breakthrough in PROJECT		;Pesquisa avançada em {0}
 Improved our understanding of PROJECT		;Aprimoramos nosso entendimento de {0}
-We have raided base TARGET of the EMPIRE and pillaged the following FAIL		;Invadimos a base [LOCAL]{0}[/LOCAL] do [FACÇÃO]{1}[/FACÇÃO]! Defesa feroz nos obrigou a recuar, mas conseguimos saquear o seguinte: {2}
-We have raided base TARGET of the EMPIRE and pillaged the following		;Invadimos a base [LOCAL]{0}[/LOCAL] do [FACÇÃO]{1}[/FACÇÃO]! Em nossa bem-sucedida invasão, saqueamos o seguinte: {2}
-We have raided colony TARGET of the EMPIRE and pillaged the following		;Invadimos a colônia [LOCAL]{0}[/LOCAL] do [FACÇÃO]{1}[/FACÇÃO]! Em nossa bem-sucedida invasão, saqueamos o seguinte: {2}.\n\nNossa invasão também aumentou nosso controle sobre esta colônia, aumentando ainda mais nossa renda
-We have raided colony TARGET of the EMPIRE and pillaged the following FAIL		;Invadimos a colônia [LOCAL]{0}[/LOCAL] do [FACÇÃO]{1}[/FACÇÃO]! Defesa feroz nos obrigou a recuar, mas conseguimos saquear o seguinte: {2}
-The EMPIRE have raided our base TARGET and stolen the following		;A [FACÇÃO]{1}[/FACÇÃO] invadiu nossa base [LOCAL]{0}[/LOCAL]! Na invasão, eles saquearam o seguinte: {2}
-The EMPIRE have raided our colony TARGET and stolen the following		;A [FACÇÃO]{1}[/FACÇÃO] invadiu nossa colônia [LOCAL]{0}[/LOCAL]! Na invasão, eles saquearam o seguinte: {2}
-The EMPIRE have raided our base TARGET causing widespread death and destruction		;A [FACÇÃO]{1}[/FACÇÃO] invadiu nossa base [LOCAL]{0}[/LOCAL], consumindo tudo o que encontraram. Como resultado, eles se tornaram mais fortes e poderosos
-The EMPIRE have raided our colony TARGET causing widespread death and destruction		;A [FACÇÃO]{1}[/FACÇÃO] invadiu nossa colônia [LOCAL]{0}[/LOCAL], causando morte e destruição generalizadas, consumindo tudo em seu caminho. Como resultado, eles se tornaram mais fortes e poderosos
-Our ship X has been boarded and captured		;Nossa nave {0} [LOCAL]'{1}'[/LOCAL] foi abordada e capturada pela [FACÇÃO]{2}[/FACÇÃO]!
-BASE has been boarded and captured		;[LOCAL]{0}[/LOCAL] foi abordada e capturada pela [FACÇÃO]{1}[/FACÇÃO]!
-We have boarded and captured the ship X		;Abordamos e capturamos a nave [LOCAL]'{0}'[/LOCAL] da [FACÇÃO]{1}[/FACÇÃO]!
-We have boarded and captured BASE		;Abordamos e capturamos [LOCAL]{0}[/LOCAL] da [FACÇÃO]{1}[/FACÇÃO]!
+We have raided base TARGET of the EMPIRE and pillaged the following FAIL		;Invadimos a base [LOCATION]{0}[/LOCATION] do [FACTION]{1}[/FACTION]! Defesa feroz nos obrigou a recuar, mas conseguimos saquear o seguinte: {2}
+We have raided base TARGET of the EMPIRE and pillaged the following		;Invadimos a base [LOCATION]{0}[/LOCATION] do [FACTION]{1}[/FACTION]! Em nossa bem-sucedida invasão, saqueamos o seguinte: {2}
+We have raided colony TARGET of the EMPIRE and pillaged the following		;Invadimos a colônia [LOCATION]{0}[/LOCATION] do [FACTION]{1}[/FACTION]! Em nossa bem-sucedida invasão, saqueamos o seguinte: {2}.\n\nNossa invasão também aumentou nosso controle sobre esta colônia, aumentando ainda mais nossa renda
+We have raided colony TARGET of the EMPIRE and pillaged the following FAIL		;Invadimos a colônia [LOCATION]{0}[/LOCATION] do [FACTION]{1}[/FACTION]! Defesa feroz nos obrigou a recuar, mas conseguimos saquear o seguinte: {2}
+The EMPIRE have raided our base TARGET and stolen the following		;A [FACTION]{1}[/FACTION] invadiu nossa base [LOCATION]{0}[/LOCATION]! Na invasão, eles saquearam o seguinte: {2}
+The EMPIRE have raided our colony TARGET and stolen the following		;A [FACTION]{1}[/FACTION] invadiu nossa colônia [LOCATION]{0}[/LOCATION]! Na invasão, eles saquearam o seguinte: {2}
+The EMPIRE have raided our base TARGET causing widespread death and destruction		;A [FACTION]{1}[/FACTION] invadiu nossa base [LOCATION]{0}[/LOCATION], consumindo tudo o que encontraram. Como resultado, eles se tornaram mais fortes e poderosos
+The EMPIRE have raided our colony TARGET causing widespread death and destruction		;A [FACTION]{1}[/FACTION] invadiu nossa colônia [LOCATION]{0}[/LOCATION], causando morte e destruição generalizadas, consumindo tudo em seu caminho. Como resultado, eles se tornaram mais fortes e poderosos
+Our ship X has been boarded and captured		;Nossa nave {0} [LOCATION]'{1}'[/LOCATION] foi abordada e capturada pela [FACTION]{2}[/FACTION]!
+BASE has been boarded and captured		;[LOCATION]{0}[/LOCATION] foi abordada e capturada pela [FACTION]{1}[/FACTION]!
+We have boarded and captured the ship X		;Abordamos e capturamos a nave [LOCATION]'{0}'[/LOCATION] da [FACTION]{1}[/FACTION]!
+We have boarded and captured BASE		;Abordamos e capturamos [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION]!
 Captured Base Scrapped		;Base Capturada Desmanchada
 Captured Ship Scrapped		;Nave Capturada Desmanchada
-Captured Base Scrapped Description		;De acordo com nossa política imperial, desmontamos imediatamente a base capturada [LOCAL]{0}[/LOCAL] no local, recebendo um bônus de {1} créditos
-Captured Ship Scrapped Description		;De acordo com nossa política imperial, desmontamos imediatamente a nave capturada [LOCAL]{0}[/LOCAL] no local, recebendo um bônus de {1} créditos
+Captured Base Scrapped Description		;De acordo com nossa política imperial, desmontamos imediatamente a base capturada [LOCATION]{0}[/LOCATION] no local, recebendo um bônus de {1} créditos
+Captured Ship Scrapped Description		;De acordo com nossa política imperial, desmontamos imediatamente a nave capturada [LOCATION]{0}[/LOCATION] no local, recebendo um bônus de {1} créditos
 
-During our recent conquest of COLONY we acquired the following		;Durante nossa recente conquista de [LOCAL]{0}[/LOCAL] da [FACÇÃO]{1}[/FACÇÃO], adquirimos o seguinte: {2}
-During the recent conquest of COLONY EMPIRE acquired the following		;Durante a recente conquista de nossa colônia [LOCAL]{0}[/LOCAL] pela [FACÇÃO]{1}[/FACÇÃO], eles conseguiram adquirir o seguinte de nós: {2}
+During our recent conquest of COLONY we acquired the following		;Durante nossa recente conquista de [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION], adquirimos o seguinte: {2}
+During the recent conquest of COLONY EMPIRE acquired the following		;Durante a recente conquista de nossa colônia [LOCATION]{0}[/LOCATION] pela [FACTION]{1}[/FACTION], eles conseguiram adquirir o seguinte de nós: {2}
 Tech Acquired in Conquest		;Tecnologia Adquirida na Conquista
 Tech Stolen in Conquest		;Tecnologia Roubada na Conquista
 
@@ -1932,9 +1932,9 @@ X Debris Field		;Campo de Destroços {0}
 Secret Construction Project		;Projeto Secreto de Construção
 X Construction Project		;Projeto de Construção {0}
 Special Location Discovered		;{0} Descoberto
-Debris Field Encounter		;Descobrimos um [DESCOBERTA]vasto campo de destroços espaciais[/DESCOBERTA] no sistema [LOCAL]{0}[/LOCAL]. Parece ser o resultado de uma batalha épica.\n\nOs destroços incluem muitas naves militares poderosos que parecem ser recuperáveis. Devemos enviar naves de construção para esta localização imediatamente para reparar e recuperar o máximo possível dessas naves valiosos.\n\nReparar a tecnologia avançada dessas naves certamente proporcionaria bônus de pesquisa ao nosso império.\n\nTambém pode ser prudente enviar um escolta armada - queremos dissuadir qualquer outra pessoa de reivindicar essas naves. Vamos manter essa descoberta em segredo...
-Debris Field Encounter Small		;Descobrimos um [DESCOBERTA]campo de destroços espaciais[/DESCOBERTA] no sistema [LOCAL]{0}[/LOCAL]. Parece ser o resultado de uma batalha.\n\nOs destroços incluem naves militares poderosos que parecem ser recuperáveis. Devemos enviar naves de construção para esta localização imediatamente para reparar e recuperar o máximo possível dessas naves valiosas.\n\nReparar a tecnologia avançada dessas naves certamente proporcionaria bônus de pesquisa ao nosso império.\n\nTambém pode ser prudente enviar um escolta armada - queremos dissuadir qualquer outra pessoa de reivindicar essas naves. Vamos manter essa descoberta em segredo...
-Secret Construction Project Encounter		;Descobrimos um [DESCOBERTA]enorme projeto de construção inacabado[/DESCOBERTA] no sistema [LOCAL]{0}[/LOCAL]. Em construção está uma enorme base militar móvel que abriga uma superarma projetada para destruir um planeta inteiro! A base, chamada {1}, parece ter sido abandonada quando estava apenas pela metade.\n\nUma vez concluída, essa base permitiria ao possuidor dominar a galáxia. Além disso, examinar a tecnologia avançada desse projeto certamente proporcionaria significativos bônus de pesquisa ao nosso império.\n\nDevemos nos apressar para concluir a construção dessa enorme arma!
+Debris Field Encounter		;Descobrimos um [DESCOBERTA]vasto campo de destroços espaciais[/DESCOBERTA] no sistema [LOCATION]{0}[/LOCATION]. Parece ser o resultado de uma batalha épica.\n\nOs destroços incluem muitas naves militares poderosos que parecem ser recuperáveis. Devemos enviar naves de construção para esta localização imediatamente para reparar e recuperar o máximo possível dessas naves valiosos.\n\nReparar a tecnologia avançada dessas naves certamente proporcionaria bônus de pesquisa ao nosso império.\n\nTambém pode ser prudente enviar um escolta armada - queremos dissuadir qualquer outra pessoa de reivindicar essas naves. Vamos manter essa descoberta em segredo...
+Debris Field Encounter Small		;Descobrimos um [DESCOBERTA]campo de destroços espaciais[/DESCOBERTA] no sistema [LOCATION]{0}[/LOCATION]. Parece ser o resultado de uma batalha.\n\nOs destroços incluem naves militares poderosos que parecem ser recuperáveis. Devemos enviar naves de construção para esta localização imediatamente para reparar e recuperar o máximo possível dessas naves valiosas.\n\nReparar a tecnologia avançada dessas naves certamente proporcionaria bônus de pesquisa ao nosso império.\n\nTambém pode ser prudente enviar um escolta armada - queremos dissuadir qualquer outra pessoa de reivindicar essas naves. Vamos manter essa descoberta em segredo...
+Secret Construction Project Encounter		;Descobrimos um [DESCOBERTA]enorme projeto de construção inacabado[/DESCOBERTA] no sistema [LOCATION]{0}[/LOCATION]. Em construção está uma enorme base militar móvel que abriga uma superarma projetada para destruir um planeta inteiro! A base, chamada {1}, parece ter sido abandonada quando estava apenas pela metade.\n\nUma vez concluída, essa base permitiria ao possuidor dominar a galáxia. Além disso, examinar a tecnologia avançada desse projeto certamente proporcionaria significativos bônus de pesquisa ao nosso império.\n\nDevemos nos apressar para concluir a construção dessa enorme arma!
 
 Fully Explored Systems		;Sistemas Totalmente Explorados
 Partially Explored Systems		;Sistemas Parcialmente Explorados
@@ -2410,27 +2410,27 @@ No Buildable Designs Explanation		;Você deve primeiro pesquisar um Casco de Nav
 
 Cannot cancel crash programs		;Não é possível cancelar programas de falha
 Under Attack		;Sob Ataque
-X is under attack from ATTACKER		;[LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] está sob ataque de um(a) {1}!
-X Y is under attack from ATTACKER		;[LOCALIZAÇÃO]{0} {1}[/LOCALIZAÇÃO] está sob ataque de um(a) {2}!
-X is under attack from ATTACKER EMPIRE LOCATION SYSTEM		;[LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] está sob ataque por {1} da [FACÇÃO]{2}[/FACÇÃO] em {3} no sistema {4}!
-X Y is under attack from ATTACKER EMPIRE LOCATION SYSTEM		;[LOCALIZAÇÃO]{0} {1}[/LOCALIZAÇÃO] está sob ataque por {2} da [FACÇÃO]{3}[/FACÇÃO] em {4} no sistema {5}!
-X is under attack from CREATURE LOCATION SYSTEM		;[LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] está sob ataque por uma {1} em {2} no sistema {3}!
-X Y is under attack from CREATURE LOCATION SYSTEM		;[LOCALIZAÇÃO]{0} {1}[/LOCALIZAÇÃO] está sob ataque por uma {2} em {3} no sistema {4}!
+X is under attack from ATTACKER		;[LOCATION]{0}[/LOCATION] está sob ataque de um(a) {1}!
+X Y is under attack from ATTACKER		;[LOCATION]{0} {1}[/LOCATION] está sob ataque de um(a) {2}!
+X is under attack from ATTACKER EMPIRE LOCATION SYSTEM		;[LOCATION]{0}[/LOCATION] está sob ataque por {1} da [FACTION]{2}[/FACTION] em {3} no sistema {4}!
+X Y is under attack from ATTACKER EMPIRE LOCATION SYSTEM		;[LOCATION]{0} {1}[/LOCATION] está sob ataque por {2} da [FACTION]{3}[/FACTION] em {4} no sistema {5}!
+X is under attack from CREATURE LOCATION SYSTEM		;[LOCATION]{0}[/LOCATION] está sob ataque por uma {1} em {2} no sistema {3}!
+X Y is under attack from CREATURE LOCATION SYSTEM		;[LOCATION]{0} {1}[/LOCATION] está sob ataque por uma {2} em {3} no sistema {4}!
 Colony Bombardment		;Bombardeio Orbital em {0}
-Colony Bombardment Description		;Aqueles malignos {0}s da [FACÇÃO]{1}[/FACÇÃO] estão bombardeando nossa colônia [LOCALIZAÇÃO]{2}[/LOCALIZAÇÃO], massacrando nossos cidadãos! Eles devem pagar por essa atrocidade!
+Colony Bombardment Description		;Aqueles malignos {0}s da [FACTION]{1}[/FACTION] estão bombardeando nossa colônia [LOCATION]{2}[/LOCATION], massacrando nossos cidadãos! Eles devem pagar por essa atrocidade!
 Colony Invasion		;Invasão da Colônia em {0}
-Colony Invasion Description		;Tropas terrestres da [FACÇÃO]{0}[/FACÇÃO] estão invadindo nossa colônia [LOCALIZAÇÃO]{1}[/LOCALIZAÇÃO]!
+Colony Invasion Description		;Tropas terrestres da [FACTION]{0}[/FACTION] estão invadindo nossa colônia [LOCATION]{1}[/LOCATION]!
 Colony Attack at X		;Ataque à Colônia em {0}
-Colony Attack Description		;Nossa colônia [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] está sendo atacada pela [FACÇÃO]{1}[/FACÇÃO]!
+Colony Attack Description		;Nossa colônia [LOCATION]{0}[/LOCATION] está sendo atacada pela [FACTION]{1}[/FACTION]!
 SHIPROLE being Boarded		;{0} sendo abordado
-X is being boarded by EMPIRE		;[LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] está sendo abordado pela [FACÇÃO]{1}[/FACÇÃO]!
-X Y is being boarded by EMPIRE		;[LOCALIZAÇÃO]{0} {1}[/LOCALIZAÇÃO] está sendo abordado pela [FACÇÃO]{2}[/FACÇÃO]!
-X is being boarded by EMPIRE LOCATION SYSTEM		;[LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] está sendo abord
-X Y is being boarded by EMPIRE LOCATION SYSTEM		;[LOCALIZAÇÃO]{0} {1}[/LOCALIZAÇÃO] está sendo abordado pela [FACÇÃO]{2}[/FACÇÃO] em {3} no sistema {4}!
-Our forces are invading COLONY of EMPIRE		;Nossas forças estão invadindo a colônia [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] da [FACÇÃO]{1}[/FACÇÃO]
-Our forces are invading the independent colony COLONY		;Nossas forças estão invadindo a colônia independente [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO]
-Our forces are bombarding COLONY of EMPIRE		;Nossas forças estão bombardeando a colônia [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] da [FACÇÃO]{1}[/FACÇÃO]
-Our forces are bombarding the independent colony COLONY		;Nossas forças estão bombardeando a colônia independente [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO]
+X is being boarded by EMPIRE		;[LOCATION]{0}[/LOCATION] está sendo abordado pela [FACTION]{1}[/FACTION]!
+X Y is being boarded by EMPIRE		;[LOCATION]{0} {1}[/LOCATION] está sendo abordado pela [FACTION]{2}[/FACTION]!
+X is being boarded by EMPIRE LOCATION SYSTEM		;[LOCATION]{0}[/LOCATION] está sendo abord
+X Y is being boarded by EMPIRE LOCATION SYSTEM		;[LOCATION]{0} {1}[/LOCATION] está sendo abordado pela [FACTION]{2}[/FACTION] em {3} no sistema {4}!
+Our forces are invading COLONY of EMPIRE		;Nossas forças estão invadindo a colônia [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION]
+Our forces are invading the independent colony COLONY		;Nossas forças estão invadindo a colônia independente [LOCATION]{0}[/LOCATION]
+Our forces are bombarding COLONY of EMPIRE		;Nossas forças estão bombardeando a colônia [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION]
+Our forces are bombarding the independent colony COLONY		;Nossas forças estão bombardeando a colônia independente [LOCATION]{0}[/LOCATION]
 Invading Enemy Colony		;Invasão à Colônia Inimiga {0}
 Bombarding Enemy Colony		;Bombardeando Colônia Inimiga {0}
 
@@ -2494,53 +2494,53 @@ X Message Types		;{0} Tipos de Mensagem
 X Empires		;{0} Impérios
 
 Raiders Withdraw		;Retirada dos Saqueadores
-Raiders Withdraw Description		;Os saqueadores da [FACÇÃO]{0}[/FACÇÃO] foram repelidos e se retiraram de nossa colônia [LOCALIZAÇÃO]{1}[/LOCALIZAÇÃO]!
+Raiders Withdraw Description		;Os saqueadores da [FACTION]{0}[/FACTION] foram repelidos e se retiraram de nossa colônia [LOCATION]{1}[/LOCATION]!
 Raid Fails		;Falha no Raid
 Raiders Steal Despite Defeat		;Apesar da nossa derrota, os saqueadores conseguiram roubar o seguinte
-Raid Fails Description		;Nosso raid contra [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] da [FACÇÃO]{1}[/FACÇÃO] correu mal. Nossas forças se retiraram.
+Raid Fails Description		;Nosso raid contra [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION] correu mal. Nossas forças se retiraram.
 Invaders Repulsed		;Invasores Repelidos!
-Invaders Repulsed Description		;Nós derrotamos os invasores da [FACÇÃO]{0}[/FACÇÃO] em nossa colônia [LOCALIZAÇÃO]{1}[/LOCALIZAÇÃO]!
+Invaders Repulsed Description		;Nós derrotamos os invasores da [FACTION]{0}[/FACTION] em nossa colônia [LOCATION]{1}[/LOCATION]!
 Invasion Fails		;Invasão Falha!
-Invasion Fails Description		;Nossa invasão de [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] da [FACÇÃO]{1}[/FACÇÃO] foi derrotada! Nossas forças foram destruídas.
+Invasion Fails Description		;Nossa invasão de [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION] foi derrotada! Nossas forças foram destruídas.
 Colony Invaded		;Colônia Invasa!
-Colony Invaded Description		;Nossa colônia [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] foi invadida pelas forças da [FACÇÃO]{1}[/FACÇÃO]! Uma batalha terrestre ocorre para o controle da colônia.
-Colony Raiding Description		;Nossa colônia [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] está sendo saqueada pelas forças da [FACÇÃO]{1}[/FACÇÃO]! Uma batalha terrestre ocorre na colônia.
+Colony Invaded Description		;Nossa colônia [LOCATION]{0}[/LOCATION] foi invadida pelas forças da [FACTION]{1}[/FACTION]! Uma batalha terrestre ocorre para o controle da colônia.
+Colony Raiding Description		;Nossa colônia [LOCATION]{0}[/LOCATION] está sendo saqueada pelas forças da [FACTION]{1}[/FACTION]! Uma batalha terrestre ocorre na colônia.
 Colony Lost		;Colônia Perdida!
-Colony Lost Description		;Nossa colônia [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] foi invadida e conquistada pela [FACÇÃO]{1}[/FACÇÃO]! Nossas forças defensoras foram completamente eliminadas.
+Colony Lost Description		;Nossa colônia [LOCATION]{0}[/LOCATION] foi invadida e conquistada pela [FACTION]{1}[/FACTION]! Nossas forças defensoras foram completamente eliminadas.
 Colony Rebelling		;Rebelião na Colônia!
-Colony Rebelling Description		;Os habitantes insatisfeitos de nossa colônia [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] estão se rebelando contra nosso governo! Eles se recusam a pagar impostos e levantaram forças para nos derrubar!
+Colony Rebelling Description		;Os habitantes insatisfeitos de nossa colônia [LOCATION]{0}[/LOCATION] estão se rebelando contra nosso governo! Eles se recusam a pagar impostos e levantaram forças para nos derrubar!
 Rebellion Crushed		;Rebelião Esmagada
-Rebellion Crushed Description		;Nós reprimimos uma rebelião em nossa colônia [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO]
+Rebellion Crushed Description		;Nós reprimimos uma rebelião em nossa colônia [LOCATION]{0}[/LOCATION]
 Colony Gained		;Colônia Conquistada!
 Colony Conquered		;Colônia Conquistada!
-Colony Conquered Description		;Nós invadimos e conquistamos a colônia [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] da [FACÇÃO]{1}[/FACÇÃO]! Nossas forças vitoriosas derrotaram completamente o inimigo.
-Colony Conquered Description Independent		;Nós invadimos e conquistamos a colônia independente [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO]! Nossas forças vitoriosas derrotaram completamente o inimigo.
+Colony Conquered Description		;Nós invadimos e conquistamos a colônia [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION]! Nossas forças vitoriosas derrotaram completamente o inimigo.
+Colony Conquered Description Independent		;Nós invadimos e conquistamos a colônia independente [LOCATION]{0}[/LOCATION]! Nossas forças vitoriosas derrotaram completamente o inimigo.
 Colony Conquered News		;{0} Conquistada
-Colony Conquered Description News		;A [FACÇÃO]{0}[/FACÇÃO] invadiu e conquistou a colônia {1} [LOCALIZAÇÃO]{2}[/LOCALIZAÇÃO] no sistema {3}. Esta colônia era anteriormente parte da [FACÇÃO]{4}[/FACÇÃO].
-Colony Conquered Description News Independent		;A [FACÇÃO]{0}[/FACÇÃO] invadiu e conquistou a colônia {1} [LOCALIZAÇÃO]{2}[/LOCALIZAÇÃO] no sistema {3}. Esta colônia era anteriormente independente.
+Colony Conquered Description News		;A [FACTION]{0}[/FACTION] invadiu e conquistou a colônia {1} [LOCATION]{2}[/LOCATION] no sistema {3}. Esta colônia era anteriormente parte da [FACTION]{4}[/FACTION].
+Colony Conquered Description News Independent		;A [FACTION]{0}[/FACTION] invadiu e conquistou a colônia {1} [LOCATION]{2}[/LOCATION] no sistema {3}. Esta colônia era anteriormente independente.
 Colony Overthrown		;Colônia Derrubada!
-Colony Overthrown Description		;Os habitantes de [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] se cansaram de nosso governo opressivo e proclamaram independência!
-Colony Overthrown Description Other Empire		;Os habitantes de [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] se cansaram de nosso governo opressivo e mudaram de lealdade para a [FACÇÃO]{1}[/FACÇÃO]!
+Colony Overthrown Description		;Os habitantes de [LOCATION]{0}[/LOCATION] se cansaram de nosso governo opressivo e proclamaram independência!
+Colony Overthrown Description Other Empire		;Os habitantes de [LOCATION]{0}[/LOCATION] se cansaram de nosso governo opressivo e mudaram de lealdade para a [FACTION]{1}[/FACTION]!
 Colony Joins Us		;Colônia se Junta a Nós!
-Colony Joins Us Description		;Os habitantes oprimidos de [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] mudaram de leald
+Colony Joins Us Description		;Os habitantes oprimidos de [LOCATION]{0}[/LOCATION] mudaram de leald
 Colony Raided		;Colônia Saqueada!
 Base Raided		;Base Saqueada!
 Colony Raided EMPIRE		;Colônia saqueada pela {0}!
 Base Raided EMPIRE		;Base saqueada pela {0}!
-Colony Raided Description		;Nossa colônia [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] foi saqueada pelas forças da [FACÇÃO]{1}[/FACÇÃO]! Os brigões ladrões roubaram tesouros de nossa colônia.
+Colony Raided Description		;Nossa colônia [LOCATION]{0}[/LOCATION] foi saqueada pelas forças da [FACTION]{1}[/FACTION]! Os brigões ladrões roubaram tesouros de nossa colônia.
 Colony Raid Succeeds		;Saque à Colônia Bem-sucedido!
-Colony Raid Succeeds Description		;Nosso saque contra [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] da [FACÇÃO]{1}[/FACÇÃO] foi bem-sucedido! Nós roubamos tesouros de sua colônia.
+Colony Raid Succeeds Description		;Nosso saque contra [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION] foi bem-sucedido! Nós roubamos tesouros de sua colônia.
 Colony Raid Unsuccessful		;Saque à Colônia Sem Sucesso
 Base Raid Unsuccessful		;Base Saqueada Sem Sucesso
 
 Facility Destroyed during Invasion		;{0} Destruída durante a Invasão
-Facility Destroyed during Invasion Description		;O [FACILITY]{0}[/FACILITY] em nossa colônia [LOCALIZAÇÃO]{1}[/LOCALIZAÇÃO] foi alvo e destruído pelas forças inimigas durante uma batalha terrestre.
+Facility Destroyed during Invasion Description		;O [FACILITY]{0}[/FACILITY] em nossa colônia [LOCATION]{1}[/LOCATION] foi alvo e destruído pelas forças inimigas durante uma batalha terrestre.
 Character Killed during Invasion		;{0} Morto durante a Invasão
-Character Killed during Invasion Description		;Nosso [CHARACTER]{0} {1}[/CHARACTER] foi morto pelas forças inimigas durante uma batalha terrestre em [LOCALIZAÇÃO]{2}[/LOCALIZAÇÃO].
+Character Killed during Invasion Description		;Nosso [CHARACTER]{0} {1}[/CHARACTER] foi morto pelas forças inimigas durante uma batalha terrestre em [LOCATION]{2}[/LOCATION].
 New Ship Completed		;Novo {0} Completado
-New Ship Completed Description		;A construção de um novo {0} foi concluída em [LOCALIZAÇÃO]{1}[/LOCALIZAÇÃO].
+New Ship Completed Description		;A construção de um novo {0} foi concluída em [LOCATION]{1}[/LOCATION].
 Retrofit Ship Completed		;Retrofit de {0} Concluído
-Retrofit Ship Completed Description		;O retrofit de um {0} foi concluído em [LOCALIZAÇÃO]{1}[/LOCALIZAÇÃO].
+Retrofit Ship Completed Description		;O retrofit de um {0} foi concluído em [LOCATION]{1}[/LOCATION].
 Tech Bonus From Scrapping Ship		;Avanço Tecnológico ao Desmontar {0}
 Tech Bonus From Scrapping Ship Description		;Nós fizemos um avanço na pesquisa em [RESEARCH]{0}[/RESEARCH] ao examinar a tecnologia avançada ao desmontar o [LOCATION]{1} {2}[/LOCATION]
 Tech Bonus From Repairing Ship		;Avanço Tecnológico ao Reparar {0}
@@ -2549,26 +2549,26 @@ X Research Completed		;{0} Pesquisa Concluída
 X Research Completed Description		;Nós concluímos a pesquisa em [RESEARCH]{0}[/RESEARCH].\n\nEste projeto proporciona os seguintes avanços:\n[RESEARCH]{1}[/RESEARCH]
 Planets		;Planetas
 Character Killed by Bombardment		;{0} Morto por Bombardeio
-Character Killed by Bombardment Description		;Nosso [CHARACTER]{0} {1}[/CHARACTER] foi morto pelo bombardeio da colônia [LOCALIZAÇÃO]{2}[/LOCALIZAÇÃO].
+Character Killed by Bombardment Description		;Nosso [CHARACTER]{0} {1}[/CHARACTER] foi morto pelo bombardeio da colônia [LOCATION]{2}[/LOCATION].
 Facility Destroyed by Bombardment		;{0} Destruída por Bombardeio
-Facility Destroyed by Bombardment Description		;O [FACILITY]{0}[/FACILITY] em nossa colônia [LOCALIZAÇÃO]{1}[/LOCALIZAÇÃO] foi destruído pelas forças inimigas durante um bombardeio orbital.
+Facility Destroyed by Bombardment Description		;O [FACILITY]{0}[/FACILITY] em nossa colônia [LOCATION]{1}[/LOCATION] foi destruído pelas forças inimigas durante um bombardeio orbital.
 Artifact Destroyed by Bombardment		;{0} Destruído por Bombardeio
-Artifact Destroyed by Bombardment Description		;O [ARTIFACT]{0}[/ARTIFACT] em nossa colônia [LOCALIZAÇÃO]{1}[/LOCALIZAÇÃO] foi destruído pelas forças inimigas durante um bombardeio orbital.
+Artifact Destroyed by Bombardment Description		;O [ARTIFACT]{0}[/ARTIFACT] em nossa colônia [LOCATION]{1}[/LOCATION] foi destruído pelas forças inimigas durante um bombardeio orbital.
 
 SHIP Boarded and Captured		;{0} Abordado e Capturado!
 SHIP Taken Over		;{0} Tomado!
 Captured Base Destroy		;Base Capturada saqueada e destruída
 Captured Base Looted and Destroyed		;Base Saqueada e Destruída
-Boarded Base Self Destructs Capture Loot		;Nós saqueamos {0} de [LOCALIZAÇÃO]{1}[/LOCALIZAÇÃO], então destruímos a base porque estava em uma colônia inimiga
-Boarded Base Self Destructs Loss		;A [FACTION]{0}[/FACTION] saqueou {1} de [LOCALIZAÇÃO]{2}[/LOCALIZAÇÃO], então destruímos nossa base porque estava em nossa colônia
+Boarded Base Self Destructs Capture Loot		;Nós saqueamos {0} de [LOCATION]{1}[/LOCATION], então destruímos a base porque estava em uma colônia inimiga
+Boarded Base Self Destructs Loss		;A [FACTION]{0}[/FACTION] saqueou {1} de [LOCATION]{2}[/LOCATION], então destruímos nossa base porque estava em nossa colônia
 Discovery at X		;Descoberta em {0}
-We have discovered ancient ruins from a lost civilization		;Nós descobrimos os [DISCOVERY]{0}[/DISCOVERY], ruínas antigas de uma civilização perdida, na colônia {1} [LOCALIZAÇÃO]{2}[/LOCALIZAÇÃO] no sistema {3}.
+We have discovered ancient ruins from a lost civilization		;Nós descobrimos os [DISCOVERY]{0}[/DISCOVERY], ruínas antigas de uma civilização perdida, na colônia {1} [LOCATION]{2}[/LOCATION] no sistema {3}.
 Should we investigate the ruins?		;Devemos investigar as ruínas?
-We have discovered hidden items		;Nós descobrimos itens escondidos em [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] no sistema {1}.
-We have discovered new resources		;Nós descobrimos novos recursos em [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] no sistema {1}.
+We have discovered hidden items		;Nós descobrimos itens escondidos em [LOCATION]{0}[/LOCATION] no sistema {1}.
+We have discovered new resources		;Nós descobrimos novos recursos em [LOCATION]{0}[/LOCATION] no sistema {1}.
 
 We have encountered an abandoned SHIPTYPE		;Nós encontramos um [DISCOVERY] {0} abandonado [/DISCOVERY], à deriva perto de {1} no sistema {2}
-We have completed repairs to an abandoned SHIPTYPE		;Nós concluímos os reparos em um [LOCALIZAÇÃO] {0} abandonado [/LOCALIZAÇÃO], à deriva perto de {1} no sistema {2}
+We have completed repairs to an abandoned SHIPTYPE		;Nós concluímos os reparos em um [LOCATION] {0} abandonado [/LOCATION], à deriva perto de {1} no sistema {2}
 Should we investigate the ship?		;Devemos investigar a nave?
 Should we investigate the base?		;Devemos investigar a base?
 Should we board the base and investigate further?		;Devemos abordar a base e investigar mais?
@@ -4931,7 +4931,7 @@ South-East		;Sudeste
 South-West		;Sudoeste
 
 Incoming Enemy Fleet Detected		;Frota Inimiga Detectada Chegando
-Incoming Enemy Fleet Detected Explanation		;A {0}, uma frota inimiga da [FACTION]{1}[/FACTION], foi detectada viajando em vetor de ataque em direção a [LOCALIZAÇÃO]{2}[/LOCALIZAÇÃO]!\n\nDevemos enviar imediatamente forças defensivas para interceptar essa ameaça.
+Incoming Enemy Fleet Detected Explanation		;A {0}, uma frota inimiga da [FACTION]{1}[/FACTION], foi detectada viajando em vetor de ataque em direção a [LOCATION]{2}[/LOCATION]!\n\nDevemos enviar imediatamente forças defensivas para interceptar essa ameaça.
 
 ShipSymbolScale		;Escala de Símbolos de Naves e Bases
 At X		;Em {0}
@@ -4978,11 +4978,11 @@ You refused to help against the Hive		;Você se recusou a ajudar contra o Enxame
 Concerning News from Independent Traders		;Notícias Preocupantes de Comerciantes Independentes
 Concerning News from Independent Traders Description		;Estamos ouvindo relatos alarmantes de alguns dos comerciantes independentes que visitam nossas estações. Eles dizem que um antigo inimigo chamado Enxame despertou em nossa região do espaço. Está atacando e consumindo tudo em seu caminho.\n\nOs comerciantes afirmam que outros impérios e até mesmo piratas estão se unindo para lutar contra ele, mas até agora sem sucesso.\n\nSe há verdade nessas histórias, devemos nos preparar caso esse inimigo siga em nossa direção.
 General Hive Reencounter Title		;Nave do Enxame Despertada!
-General Hive Reencounter Description		;Despertamos uma nave do perigoso Enxame em [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] no sistema {1}!\n\nDevemos mobilizar nossas defesas para lidar com esta ameaça perigosa!
+General Hive Reencounter Description		;Despertamos uma nave do perigoso Enxame em [LOCATION]{0}[/LOCATION] no sistema {1}!\n\nDevemos mobilizar nossas defesas para lidar com esta ameaça perigosa!
 Hive Encounter Title		;Alerta Urgente de {0}
 Hive Encounter Description		;Uma de nossas naves relatou a descoberta de uma nave antiga de tamanho imenso. A nave está coberta com o que parece ser camadas de quitina orgânica e teias.\n\nAssim que seus sensores começaram a escanear a nave, detectaram uma assinatura de energia aumentando rapidamente. Parece estar despertando e parece ser hostil!
 Hive Encounter Ship Destroyed Title		;Mensagem Final de {0}
-Hive Encounter Ship Destroyed Description		;Nossa nave [LOCALIZAÇÃO]{0}[/LOCALIZAÇÃO] foi destruída pela antiga nave hostil que descobriram!\n\nAntes de sua destruição, enviaram uma última transmissão. Grande parte dela foi corrompida por algum tipo de interferência, mas o que conseguiu passar foi dados parciais do encontro.\n\nA transmissão sugere um nível de energia além de tudo o que podemos construir. Também revelou um número massivo de assinaturas de vida a bordo, equivalente ao que uma nave colonizadora poderia transportar.\n\nNossos estrategistas e cientistas concordam que esta nave representa uma ameaça alarmante. Devemos começar a nos preparar imediatamente se quisermos ter alguma esperança de sobrevivência!
+Hive Encounter Ship Destroyed Description		;Nossa nave [LOCATION]{0}[/LOCATION] foi destruída pela antiga nave hostil que descobriram!\n\nAntes de sua destruição, enviaram uma última transmissão. Grande parte dela foi corrompida por algum tipo de interferência, mas o que conseguiu passar foi dados parciais do encontro.\n\nA transmissão sugere um nível de energia além de tudo o que podemos construir. Também revelou um número massivo de assinaturas de vida a bordo, equivalente ao que uma nave colonizadora poderia transportar.\n\nNossos estrategistas e cientistas concordam que esta nave representa uma ameaça alarmante. Devemos começar a nos preparar imediatamente se quisermos ter alguma esperança de sobrevivência!
 The Scourge of the Stars		;O Flagelo das Estrelas
 Hive Pirates Offer Help Description		;[FACTION]{0}[/FACTION] envia uma mensagem urgente: Saudações, Terrestre.\n\nNossos informantes nos dizem que você pode ter despertado a Colmeia. Embora não sejamos amigos ou aliados, a primeira parte de nosso código nos diz que, acima de tudo, devemos lutar contra a Colmeia e lutar ao lado daqueles que o fazem.\n\nA Colmeia está em nossos contos mais antigos. Há muito tempo, diz-se que eram uma espécie insetóide que vivia abaixo e viajava pelas estrelas. Suas mentes foram escravizadas pelo Inimigo Ancião e, quando o Inimigo caiu, as mentes da Colmeia se quebraram. Eles não conhecem nada além de guerra e massacre. Sua fome e ódio são devoradores.\n\nNossos ancestrais lutaram por séculos contra a Colmeia. Muitos de nosso povo foram destruídos, assim como muitos da Colmeia. Pensávamos que a Colmeia tinha desaparecido completamente - não tínhamos notícias deles há vários séculos. Mas parece que pelo menos alguns ainda permaneciam, adormecidos, reparando e ganhando força para atacar novamente.\n\nDebaixo de toda essa matéria orgânica ainda há uma nave antiga que pode ser destruída. Se você os atingir com poder de fogo suficiente, eles morrerão. Mas são necessárias muitas naves para atravessar sua armadura orgânica e sua capacidade de reparo. Nossos ancestrais se reuniam em grandes frotas quando enfrentavam a Colmeia. Essa era a única maneira de derrubar as poderosas naves da Colmeia.\n\nA Colmeia também usa muitos drones, tanto para destruir quanto para abordar e saquear. Sem defesas adequadas e defesas planetárias, eles destroem suas naves e consomem seu povo. Conforme você enfraquece, eles crescem em força. A Colmeia pode se reparar e reabastecer se você der a eles uma chance. Devemos atacar em grande número e manter a luta até que o porta-naves da Colmeia seja destruído.\n\nSe você deseja nossa ajuda, nos juntaremos à sua luta, mas apenas por um preço. Pague-nos {1} créditos e você receberá toda a ajuda que pudermos enviar.
 Pay X credits for help against the Hive		;Pague {0} créditos pela ajuda contra a Colmeia
@@ -5892,9 +5892,9 @@ Typically lasts PERIOD		;Normalmente dura {0}
 Plague Curing Chance Description		;Chance de Cura: {0} por ano
 
 Colony Event Plague Ends Title		;{0} Termina
-Colony Event Plague Ends Description		;A infecção por {0} terminou em nossa colônia [LOCAL]{1}[/LOCAL] no sistema {2}.
+Colony Event Plague Ends Description		;A infecção por {0} terminou em nossa colônia [LOCATION]{1}[/LOCATION] no sistema {2}.
 Colony Event Plague Cured Title		;{0} Curada!
-Colony Event Plague Cured Description		;A infecção por {0} foi curada em nossa colônia [LOCAL]{1}[/LOCAL] no sistema {2}.
+Colony Event Plague Cured Description		;A infecção por {0} foi curada em nossa colônia [LOCATION]{1}[/LOCATION] no sistema {2}.
 Colony Event Plague Cured Description Other Colonies		;Esta cura também foi adotada por todas as nossas outras colônias infectadas por esta praga
 
 Modified Plague Virulence		;Virulência da Praga Modificada
