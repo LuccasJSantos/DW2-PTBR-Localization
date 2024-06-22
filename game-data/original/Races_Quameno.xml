@@ -94,18 +94,18 @@
 	  </AdditionalCharacterTraits>
 
 	  <FeatureExplanations>
-		<string>[HL]Distrações Alienígenas:[/HL] +1 de Felicidade e -20% em Todas as Pesquisas por 2 anos ao assinar um tratado com outra facção</string>
-		<string>[HL]Estudos de Integração:[/HL] Redução na Felicidade e na produção de Pesquisa sempre que você tiver populações alienígenas não assimiladas em suas colônias. O montante da redução depende da proporção da população não assimilada em seu império</string>
-		<string>[HL]A Resposta:[/HL] +10% de Felicidade por 5 anos e um impulso tecnológico aleatório ao construir a instalação planetária Hub de Transcendência</string>
-		<string>[HL]Um Enigma Resolvido:[/HL] Ao concluir um projeto avançado de pesquisa (nível de tecnologia 5 ou superior), pequena chance dos seguintes benefícios: +10% de Felicidade e +10% em Todas as Pesquisas por 2 anos, além de um bônus positivo para o Líder e um Cientista. Projetos de nível mais alto têm uma chance aumentada deste evento ocorrer</string>
-		<string>[HL]Construindo o Futuro:[/HL] +5 de Felicidade por 6 meses sempre que você construir uma nova Estação de Pesquisa</string>
-		<string>[HL]Uma Peça do Quebra-Cabeça:[/HL] 50% de chance de um aumento de 25% na pesquisa em uma tecnologia relacionada e um bônus de +10% no crescimento populacional em todo o império por um ano sempre que descobrir um novo local de pesquisa</string>
-		<string>[HL]Traço Único do Líder - Solucionador de Quebra-Cabeças:[/HL] +5% em Todas as Pesquisas, -5% de Renda da Colônia</string>
-		<string>[HL]Traço Único do Líder - Introvertido:[/HL] -10% de Diplomacia</string>
-		<string>[HL]Traço Único do Cientista - Determinado:[/HL] +5% em Todas as Pesquisas, mas com aumento da chance de uma falha crítica na pesquisa</string>
-		<string>[HL]Traço Único do Cientista - Especialista em Eficiência:[/HL] Desconto de 20% no custo da pesquisa de emergência</string>
-		<string>[HL]Traço Inicial do Embaixador - Linguista:[/HL] Todos os embaixadores começam com o traço Linguista (+5% de Diplomacia, +5% de Renda Turística)</string>
-		<string>[HL]Pesquisa Concorrente Desativada:[/HL] só é possível pesquisar um projeto por vez</string>
+		  <string>[HL]Alien Distractions:[/HL] +1 Happiness and -20% All Research for 2 years when sign a treaty with another faction</string>
+		  <string>[HL]Integration Studies:[/HL] reduced Happiness and Research output whenever you have unassimilated alien populations at your colonies. The reduction amount relates to the proportion of unassimilated population in your empire</string>
+		  <string>[HL]The Answer:[/HL] +10% Happiness for 5 years and a random tech boost when you build the Transcendence Hub planetary facility</string>
+		  <string>[HL]A Puzzle Solved:[/HL] When complete an advanced research project (tech level 5 or greater) small chance of the following benefits: +10% Happiness and +10% All Research for 2 years, plus a bonus positive trait on your Leader and a Scientist. Higher level projects have an increased chance for this event to occur</string>
+		  <string>[HL]Building the Future:[/HL] +5 Happiness for 6 months whenever you build a new Research Station</string>
+		  <string>[HL]A Piece of the Puzzle:[/HL] 50% chance of both a 25% research boost in a related tech and a +10% empire-wide population growth bonus for one year whenever discover a new research location</string>
+		  <string>[HL]Unique Leader trait - Puzzle Solver:[/HL] +5% All Research, -5% Colony Income</string>
+		  <string>[HL]Unique Leader trait - Introverted:[/HL] -10% Diplomacy</string>
+		  <string>[HL]Unique Scientist trait - Driven:[/HL] +5% All Research, but increased chance of a critical research failure</string>
+		  <string>[HL]Unique Scientist trait - Efficiency Specialist:[/HL] 20% discount on the cost of crash research</string>
+		  <string>[HL]Ambassador Starting Trait:[/HL] All ambassadors start with Linguist trait (+5% Diplomacy, +5% Tourism Income)</string>
+		  <string>[HL]Concurrent Research disabled:[/HL] can only research a single project at a time</string>
 	  </FeatureExplanations>
 
 	  <VictoryConditions>
@@ -407,16 +407,16 @@
     </StartingArtifactIds>
     <Name>Quameno</Name>
     <ImageFilename>UserInterface/Races/Quameno</ImageFilename>
-    <Description>Os Quamenos são uma raça anfíbia altamente inteligente. São altos e graciosos, com membros e pescoço longos. Seus grandes olhos estão posicionados nas laterais da cabeça, proporcionando-lhes uma visão periférica excelente com um alcance de quase 360 graus.
+    <Description>Quamenos are a highly intelligent amphibious race. Quamenos are tall and graceful, with long limbs and neck. Their large eyes are set on the side of their heads, giving them excellent peripheral vision with a range of nearly 360 degrees.
 
-Os Quamenos são muito pacíficos e preferem manter-se isolados. Eles geralmente optam por viver em reclusão em relação às outras raças, evitando a atividade principal da galáxia.
+Quamenos are very peaceful and prefer to keep to themselves. They typically choose to live in isolation from other races, staying out of the mainstream of galactic activity.
 
-Eles apreciam desafios mentais difíceis, como resolver quebra-cabeças ou decifrar inscrições desconhecidas. Essa inclinação natural também os torna linguistas talentosos - eles conseguem dominar um novo idioma em poucos dias.
+They enjoy difficult mental challenges such as solving puzzles or deciphering unknown inscriptions. This natural inclination also makes them gifted linguists - they can master a new language within a few days.
 
-Os Quamenos também adoram experimentar princípios científicos exóticos, frequentemente produzindo tecnologia poderosa no processo. De fato, sua fascinação natural por teorias energéticas incomuns os levou a desenvolver o NovaCore, um reator muito poderoso e eficiente.
+They also love to experiment with exotic scientific principles, and in the process they often produce potent technology. In fact their natural fascination with unusual energy theories has led them to develop the NovaCore, a very powerful and efficient reactor.
 
-Os Quamenos têm um grande interesse na história galáctica. Eles também buscam artefatos pré-históricos peculiares. Seus estudos levaram muitos estudiosos Quamenos a afirmarem que há grandes lacunas em nosso entendimento dos eventos passados.
+Quamenos take a tremendous interest in galactic history. They also seek out peculiar prehistoric artifacts. Their studies have led many Quameno scholars to claim that there are large gaps in our understanding of past events.
 
-As comunidades Quameno geralmente vivem em biodomos semissubmersos e de alta tecnologia nas áreas costeiras rasas de planetas como Floresta de Manguezais, Pântano Pantanoso ou Oceanos.</Description>
+Quameno communities typically live in semi-submerged, high-tech biodomes in the shallow coastal areas of Mangrove Forest, Marshy Swamp or Ocean planets.</Description>
   </Race>
 </ArrayOfRace>

@@ -2189,7 +2189,7 @@ Dense		;Dense
 Nebula Density		;Nebula Density
 
 Next		;Next
-Start a New Game		;Iniciar um novo jogo
+Start a New Game		;Start a New Game
 Load Game		;Load Game
 Credits		;Credits
 Close Credits		;Close Credits

@@ -219,11 +219,11 @@
       </RaceFactor>
     </Biases>
 	  <FeatureExplanations>
-		<string>[HL]Diplomacia de Consenso:[/HL] +5 no limite para assinar novos tratados, +2 de ganho de Confiança de Longo Prazo (ambos impérios) para todos os tratados com Ikkuro</string>
-		<string>[HL]Respeito pela Vida:[/HL] -10 de Felicidade se Bombardear ou Destruir um mundo, ou escolher Extermínio como política populacional para uma colônia</string>
-		<string>[HL]Segredos da Vida:[/HL] +10 de Felicidade e +10% na taxa de crescimento populacional para todas as colônias por um ano ao colonizar pela primeira vez um tipo novo de mundo. Também habilita novos projetos de pesquisa para melhorar ainda mais a adequação ao novo tipo de mundo</string>
-		<string>[HL]Proteção da Vida:[/HL] +5 de Felicidade para todas as colônias por um ano ao assinar um novo Tratado de Não-Agressão ou Defensivo com outra facção</string>
-		<string>[HL]Disonância:[/HL] -10 de Felicidade por um ano quando a guerra irrompe entre Ikkuro e outra facção</string>
+		  <string>[HL]Consensus Diplomacy:[/HL] +5 threshold to sign new treaties, +2 Long Term Trust gain (both empires) for all treaties with Ikkuro</string>
+		  <string>[HL]Respect for Life:[/HL] -10 Happiness if Bombard or Destroy a world, or choose Extermination as population policy for a colony</string>
+		  <string>[HL]Secrets of Life:[/HL] +10 Happiness and +10% population growth rate to all colonies for one year when first Colonize a new type of world. Also enables new research projects to further improve suitability for the new world type</string>
+		  <string>[HL]Protection of Life:[/HL] +5 Happiness to all colonies for one year when sign a new Non-Aggression or Defensive Treaty with another faction</string>
+		  <string>[HL]Disharmony:[/HL] -10 Happiness for one year when War breaks out between Ikkuro and another faction</string>
 	  </FeatureExplanations>
     <VictoryConditions>
       <VictoryCondition>
@@ -337,19 +337,19 @@
 	</CharacterLastNames>
 	  <DefaultInfantryId>37</DefaultInfantryId>
     <Name>Ikkuro</Name>
-    <Description>Os Ikkuro são primatas grandes e musculosos com pelagem curta marrom-avermelhada.
+    <Description>Ikkuro are large, muscular primates with short brown-red fur.
 
-Eles têm orelhas muito grandes e espaçadas que lhes permitem determinar precisamente a localização dos sons. Essa habilidade lhes proporciona habilidades rudimentares de sonar, permitindo-lhes "ver" no escuro.
+They have very large, widely-spaced ears that enable them to precisely determine the location of sounds. This ability gives them rudimentary sonar skills, allowing them to ‘see’ in the dark.
 
-Os Ikkuro tendem a ser inteligentes e agressivos, embora cautelosos. São frequentemente de pavio curto. Quando provocados ou ameaçados, podem rapidamente se tornar violentos. Apesar disso, geralmente são gentis e afetuosos com aqueles que conhecem bem.
+Ikkuro tend to be intelligent and aggressive, though cautious. Ikkuro are often short-tempered. When provoked or threatened they can quickly become violent. Despite this they are generally gentle and affectionate to those they know well.
 
-Eles são mecânicos extremamente capazes. Os Ikkuro conseguem reparar quase qualquer tipo de máquina. Eles também desmontam e reconstroem com confiança novos dispositivos que encontram, muitas vezes melhorando a máquina no processo.
+They are extremely capable mechanics. Ikkuro can repair nearly any type of machinery. They also confidently reverse-engineer new devices they encounter. In fact they often end up improving the machine when they reassemble it.
 
-Essa predisposição mecânica natural também levou os Ikkuro a desenvolverem o S2F7 RepairBot, um robô avançado de reparo que pode consertar rapidamente danos em naves estelares, mesmo durante batalhas.
+This natural mechanical predisposition has also led the Ikkuro to develop the S2F7 RepairBot, an advanced repair robot that can swiftly fix damage to star ships, even while they are in battle.
 
-Os Ikkuro têm grande fascínio por árvores e plantas, e possuem um conhecimento extenso dos vários tipos de flora por toda a galáxia. Eles usam esse entendimento especializado para criar uma variedade de medicamentos herbais altamente eficazes.
+Ikkuro have a great fascination with trees and plants, and have extensive knowledge of the various types of flora throughout the galaxy. They use this expert understanding to create an array of highly effective herbal medications.
 
-Eles geralmente vivem em moradias nas copas das árvores, elevadas nas florestas de planetas Florestais, Continentais ou de Gramados.</Description>
+They typically live in tree-dwellings high in the forest canopies on Forest, Continental or Grasslands planets.</Description>
     <ImageFilename>UserInterface/Races/Ikkuro</ImageFilename>
 	  <TreatyLevelModifier>5</TreatyLevelModifier>
 	  <TreatyLongTermTrustModifierThis>2</TreatyLongTermTrustModifierThis>
