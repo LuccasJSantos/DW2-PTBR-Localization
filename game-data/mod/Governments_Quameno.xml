@@ -94,12 +94,12 @@ Uma Geniocracia também organiza o propósito da sociedade e seus esforços em d
       <string>Adepto</string>
 	  </EmpireNameAdjectives>
 	  <EmpireNameNouns>
-      <string>Academia</string>
-      <string>Fundação</string>
-      <string>Conselho</string>
-      <string>Guilda</string>
-      <string>Liga</string>
-      <string>Ordem</string>
+      <string>(Academia)</string>
+      <string>(Fundação)</string>
+      <string>(Conselho)</string>
+      <string>(Guilda)</string>
+      <string>(Liga)</string>
+      <string>(Ordem)</string>
 	  </EmpireNameNouns>
     <ExtraIntelligenceMissionTypes />
 	  <ColonyGrowthFundingFactor>0</ColonyGrowthFundingFactor>

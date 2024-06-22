@@ -145,13 +145,13 @@ As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas h
       <string>Grande</string>
 	  </EmpireNameAdjectives>
 	  <EmpireNameNouns>
-      <string>Autocracia</string>
-      <string>Despotismo</string>
-      <string>Oligarquia</string>
-      <string>Totalidade</string>
-      <string>Dominação</string>
-      <string>Tirania</string>
-      <string>Inquisição</string>
+      <string>(Autocracia)</string>
+      <string>(Despotismo)</string>
+      <string>(Oligarquia)</string>
+      <string>(Totalidade)</string>
+      <string>(Dominação)</string>
+      <string>(Tirania)</string>
+      <string>(Inquisição)</string>
 	  </EmpireNameNouns>
 	  <ExtraIntelligenceMissionTypes>
 		  <CharacterMissionType>InternalStabilization</CharacterMissionType>

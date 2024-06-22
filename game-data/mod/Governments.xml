@@ -219,20 +219,20 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
       <string>Livre</string>
-      <string>Unida</string>
+      <string>Unido</string>
       <string>Combinada</string>
       <string>Imperial</string>
       <string>Grande</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Império</string>
-      <string>República</string>
-      <string>Aliança</string>
-      <string>Território</string>
-      <string>Nação</string>
-      <string>Federação</string>
-      <string>Confederação</string>
-      <string>Coalizão</string>
+      <string>(Império)</string>
+      <string>(República)</string>
+      <string>(Aliança)</string>
+      <string>(Território)</string>
+      <string>(Nação)</string>
+      <string>(Federação)</string>
+      <string>(Confederação)</string>
+      <string>(Coalizão)</string>
     </EmpireNameNouns>
   </Government>
 
@@ -469,11 +469,11 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
       <string>Livre</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Combinada</string>
-      <string>Grande</string>
-      <string>Grandiosa</string>
-      <string>Unida</string>
-      <string>Combinada</string>
+      <string>(Sindicato)</string>
+      <string>(Consórcio)</string>
+      <string>(Corporação)</string>
+      <string>(Industries)</string>
+      <string>(Guildas)</string>
     </EmpireNameNouns>
     <AllowControlMiningShips>true</AllowControlMiningShips>
   </Government>
@@ -727,14 +727,14 @@ Os cidadãos dos governos democráticos desfrutam de liberdades e direitos unive
       <string>Grandiosa</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Império</string>
-      <string>República</string>
-      <string>Aliança</string>
-      <string>Território</string>
-      <string>Federação</string>
-      <string>Confederação</string>
-      <string>Coalizão</string>
-      <string>Colônias</string>
+      <string>(Império)</string>
+      <string>(República)</string>
+      <string>(Aliança)</string>
+      <string>(Território)</string>
+      <string>(Federação)</string>
+      <string>(Confederação)</string>
+      <string>(Coalizão)</string>
+      <string>(Colônias)</string>
     </EmpireNameNouns>
   </Government>
 
@@ -1031,15 +1031,15 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
       <string>Combinada</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Império</string>
-      <string>Aliança</string>
-      <string>União</string>
-      <string>Grupo</string>
-      <string>Federação</string>
-      <string>Enclave</string>
-      <string>Conselho</string>
-      <string>Colônias</string>
-      <string>Alinhamento</string>
+      <string>(Império)</string>
+      <string>(Aliança)</string>
+      <string>(União)</string>
+      <string>(Grupo)</string>
+      <string>(Federação)</string>
+      <string>(Enclave)</string>
+      <string>(Conselho)</string>
+      <string>(Colônias)</string>
+      <string>(Alinhamento)</string>
     </EmpireNameNouns>
   </Government>
 
@@ -1290,12 +1290,12 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
       <string>Grande</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Domínio</string>
-      <string>Reino</string>
-      <string>Reino</string>
-      <string>Comunidade</string>
-      <string>Domínio</string>
-      <string>Dinastia</string>
+      <string>(Dominium)</string>
+      <string>(Reino)</string>
+      <string>(Realm)</string>
+      <string>(Comunidade)</string>
+      <string>(Domínio)</string>
+      <string>(Dinastia)</string>
     </EmpireNameNouns>
   </Government>
 
@@ -1586,13 +1586,13 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
       <string>Grandiosa</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Império</string>
-      <string>Território</string>
-      <string>Nação</string>
-      <string>Supremacia</string>
-      <string>Autoridade</string>
-      <string>Soberania</string>
-      <string>Hegemonia</string>
+      <string>(Império)</string>
+      <string>(Território)</string>
+      <string>(Nação)</string>
+      <string>(Supremacia)</string>
+      <string>(Autoridade)</string>
+      <string>(Soberania)</string>
+      <string>(Hegemonia)</string>
     </EmpireNameNouns>
   </Government>
 
@@ -1860,10 +1860,9 @@ O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian 
       <string>Unida</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Colmeia</string>
-      <string>Coletivo</string>
-      <string>Conformidade</string>
-      <string>Consciência</string>
+      <string>(Império)</string>
+      <string>(Tecnocracia)</string>
+      <string>(Ascendência)</string>
     </EmpireNameNouns>
   </Government>
 
@@ -2139,10 +2138,10 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
       <string>Grande</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Colmeia</string>
-      <string>Coletivo</string>
-      <string>Conformidade</string>
-      <string>Consciência</string>
+      <string>(Colmeia)</string>
+      <string>(Coletiva)</string>
+      <string>(Conformidade)</string>
+      <string>(Consciência)</string>
     </EmpireNameNouns>
   </Government>
 

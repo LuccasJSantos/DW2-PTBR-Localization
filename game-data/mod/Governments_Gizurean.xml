@@ -122,15 +122,15 @@ Uma Hegemonia Celular é de certa forma uma forma diferente de Mente Colmeia, ma
 		<EmpireNameAdjectives>
 			<string>Grande</string>
 			<string>Expansivo</string>
-			<string>Vivo</string>
+			<string>Existente</string>
 			<string>Ascendente</string>
 		</EmpireNameAdjectives>
 		<EmpireNameNouns>
-			<string>Horda</string>
-			<string>Enxame</string>
-			<string>Nexo</string>
-			<string>Coletivo</string>
-			<string>Ninho</string>
+			<string>(Horda)</string>
+			<string>(Enxame)</string>
+			<string>(Nexo)</string>
+			<string>(Coletiva)</string>
+			<string>(Ninho)</string>
 		</EmpireNameNouns>
 		<ExtraIntelligenceMissionTypes />
 	</Government>
