@@ -9,7 +9,7 @@ const SEPARATOR = '|'
 export default function (path) {
     return async function (content) {
         const json = await parser.parseStringPromise(content)
-        const data = u.path(path, json)
+        const data = u.path(path, json).filter(Boolean)
         const [key] = path.slice(-1)
         const text = data.join(SEPARATOR)
         await fs.writeFile(`src/translation-batch/${path}.xml`, text)

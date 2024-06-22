@@ -944,7 +944,7 @@ Agora enfrentamos um terrível dilema. Os Dhayut não compartilham de nossos val
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Let the Dhayut find their own way</ChoiceButtonText>
+        <ChoiceButtonText>Deixe os Dhayut encontrarem seu próprio caminho</ChoiceButtonText>
         <GeneratedItemName>First Damazy Warning 2 (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -969,7 +969,7 @@ Agora enfrentamos um terrível dilema. Os Dhayut não compartilham de nossos val
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Guide the Dhayut</ChoiceButtonText>
+        <ChoiceButtonText>Guie os Dhayut</ChoiceButtonText>
         <GeneratedItemName>Guide the Dhayut (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1264,7 +1264,7 @@ Agora enfrentamos um terrível dilema. Os Dhayut não compartilham de nossos val
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Research Dhayut Language</ChoiceButtonText>
+        <ChoiceButtonText>Pesquisar a Língua Dhayut</ChoiceButtonText>
         <GeneratedItemName>Research Dhayut Language (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1289,7 +1289,7 @@ Agora enfrentamos um terrível dilema. Os Dhayut não compartilham de nossos val
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Influence their Culture [-25,000cr]</ChoiceButtonText>
+        <ChoiceButtonText>Influenciar sua Cultura [-25.000cr]</ChoiceButtonText>
         <GeneratedItemName>Influence Culture (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1537,7 +1537,7 @@ Agora podemos contar com relações positivas com os Dhayut de Damazy, embora se
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Research</ChoiceButtonText>
+        <ChoiceButtonText>Pesquisar</ChoiceButtonText>
         <GeneratedItemName>Research Dhayut (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <Conditions>
@@ -1862,7 +1862,7 @@ Agora podemos contar com relações positivas com os Dhayut de Damazy, embora se
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Research Dhayut Culture</ChoiceButtonText>
+        <ChoiceButtonText>Pesquisar a Cultura Dhayut</ChoiceButtonText>
         <GeneratedItemName>Research Dhayut Culture (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1888,7 +1888,7 @@ Agora podemos contar com relações positivas com os Dhayut de Damazy, embora se
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Take our Chances</ChoiceButtonText>
+        <ChoiceButtonText>Arriscar</ChoiceButtonText>
         <GeneratedItemName />
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1936,7 +1936,7 @@ Agora podemos contar com relações positivas com os Dhayut de Damazy, embora se
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Research</ChoiceButtonText>
+        <ChoiceButtonText>Pesquisar</ChoiceButtonText>
         <GeneratedItemName>Research Dhayut (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <Conditions>
@@ -2857,7 +2857,7 @@ Sua insistência primitiva em habitar planetas não nos perturba, no entanto. N�
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest in diplomacy 20,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Investir em diplomacia 20.000cr</ChoiceButtonText>
         <GeneratedItemName>Invest in Diplomacy Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2882,7 +2882,7 @@ Sua insistência primitiva em habitar planetas não nos perturba, no entanto. N�
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Reject Diplomacy</ChoiceButtonText>
+        <ChoiceButtonText>Rejeitar Diplomacia</ChoiceButtonText>
         <GeneratedItemName>Reject Diplomacy Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -3273,7 +3273,7 @@ Sua insistência primitiva em habitar planetas não nos perturba, no entanto. N�
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Accept Refugees</ChoiceButtonText>
+        <ChoiceButtonText>Aceitar Refugiados</ChoiceButtonText>
         <GeneratedItemName>Accept Refugees Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -3298,7 +3298,7 @@ Sua insistência primitiva em habitar planetas não nos perturba, no entanto. N�
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse to Accept Refugees</ChoiceButtonText>
+        <ChoiceButtonText>Recusar Aceitar Refugiados</ChoiceButtonText>
         <GeneratedItemName>Reject Refugees Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4035,7 +4035,7 @@ Sua insistência primitiva em habitar planetas não nos perturba, no entanto. N�
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Prioritize 20,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Priorizar 20.000cr</ChoiceButtonText>
         <GeneratedItemName>Prioritize Large Fuel Storage Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4060,7 +4060,7 @@ Sua insistência primitiva em habitar planetas não nos perturba, no entanto. N�
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Don't Prioritize</ChoiceButtonText>
+        <ChoiceButtonText>Não Priorizar</ChoiceButtonText>
         <GeneratedItemName>Don't Prioritize Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4762,7 +4762,7 @@ Também descobrimos um antigo tomo, O Livro da Necessidade Harmoniosa. Esta é u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Prioritize 20,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Priorizar 20.000cr</ChoiceButtonText>
         <GeneratedItemName>Prioritize Large Fuel Storage Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4787,7 +4787,7 @@ Também descobrimos um antigo tomo, O Livro da Necessidade Harmoniosa. Esta é u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Don't Prioritize</ChoiceButtonText>
+        <ChoiceButtonText>Não Priorizar</ChoiceButtonText>
         <GeneratedItemName>Don't Prioritize Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5489,7 +5489,7 @@ Também descobrimos um antigo tomo, O Livro da Necessidade Harmoniosa. Esta é u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Prioritize 20,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Priorizar 20.000cr</ChoiceButtonText>
         <GeneratedItemName>Prioritize Large Fuel Storage Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5514,7 +5514,7 @@ Também descobrimos um antigo tomo, O Livro da Necessidade Harmoniosa. Esta é u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Don't Prioritize</ChoiceButtonText>
+        <ChoiceButtonText>Não Priorizar</ChoiceButtonText>
         <GeneratedItemName>Don't Prioritize Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6071,7 +6071,7 @@ Quase nenhuma grande instalação permanece de pé ou mesmo escavável, mas em u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Excavate the Archive</ChoiceButtonText>
+        <ChoiceButtonText>Escavar o Arquivo</ChoiceButtonText>
         <GeneratedItemName>Excavate the Archive Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6096,7 +6096,7 @@ Quase nenhuma grande instalação permanece de pé ou mesmo escavável, mas em u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Excavate the Warehouse</ChoiceButtonText>
+        <ChoiceButtonText>Escavar o Armazém</ChoiceButtonText>
         <GeneratedItemName>Excavate the Warehouse Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6148,7 +6148,7 @@ Quase nenhuma grande instalação permanece de pé ou mesmo escavável, mas em u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Excavate the Archive</ChoiceButtonText>
+        <ChoiceButtonText>Escavar o Arquivo</ChoiceButtonText>
         <GeneratedItemName>Excavate the Archive Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6173,7 +6173,7 @@ Quase nenhuma grande instalação permanece de pé ou mesmo escavável, mas em u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Excavate the Warehouse</ChoiceButtonText>
+        <ChoiceButtonText>Escavar o Armazém</ChoiceButtonText>
         <GeneratedItemName>Excavate the Warehouse Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6226,7 +6226,7 @@ Quase nenhuma grande instalação permanece de pé ou mesmo escavável, mas em u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Excavate the Archive</ChoiceButtonText>
+        <ChoiceButtonText>Escavar o Arquivo</ChoiceButtonText>
         <GeneratedItemName>Excavate the Archive Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6251,7 +6251,7 @@ Quase nenhuma grande instalação permanece de pé ou mesmo escavável, mas em u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Excavate the Warehouse</ChoiceButtonText>
+        <ChoiceButtonText>Escavar o Armazém</ChoiceButtonText>
         <GeneratedItemName>Excavate the Warehouse Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7512,7 +7512,7 @@ Nossos engenheiros estudaram os escaneamentos das plataformas de defesa e acredi
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest in Sapper Drones 50,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Investir em Drones Sapadores 50.000cr</ChoiceButtonText>
         <GeneratedItemName>Invest in Sapper Drones Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7537,7 +7537,7 @@ Nossos engenheiros estudaram os escaneamentos das plataformas de defesa e acredi
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Face the Platforms Without Damaging Them</ChoiceButtonText>
+        <ChoiceButtonText>Enfrentar as Plataformas Sem Danificá-las</ChoiceButtonText>
         <GeneratedItemName>Face the Platforms Without Damaging Them Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -10799,7 +10799,7 @@ Em particular, eles passaram a acreditar que os antigos Ikkuros embarcaram em um
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Attempt to reach out to loyal Dhayut (30,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Tentar alcançar os Dhayut leais (30.000cr)</ChoiceButtonText>
         <GeneratedItemName>Neighbour System Reach Out Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -10824,7 +10824,7 @@ Em particular, eles passaram a acreditar que os antigos Ikkuros embarcaram em um
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Declare a War of Mercy</ChoiceButtonText>
+        <ChoiceButtonText>Declarar uma Guerra de Misericórdia</ChoiceButtonText>
         <GeneratedItemName>Neighbour System War of Mercy Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12431,7 +12431,7 @@ Nossos engenheiros acreditam que podem sabotar efetivamente pelo menos algumas d
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest in Sabotage 75,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Investir em Sabotagem 75.000cr</ChoiceButtonText>
         <GeneratedItemName>Invest in Sabotage Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12457,7 +12457,7 @@ Nossos engenheiros acreditam que podem sabotar efetivamente pelo menos algumas d
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Defeat Defenses Without Sabotage</ChoiceButtonText>
+        <ChoiceButtonText>Derrotar Defesas Sem Sabotagem</ChoiceButtonText>
         <GeneratedItemName />
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12656,7 +12656,7 @@ Agora nós, como nossos ancestrais, enfrentamos uma decisão moral difícil. Dev
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Use Bioagent on Damazy</ChoiceButtonText>
+        <ChoiceButtonText>Usar Bioagente em Damazy</ChoiceButtonText>
         <GeneratedItemName>Use Bioagent Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12681,7 +12681,7 @@ Agora nós, como nossos ancestrais, enfrentamos uma decisão moral difícil. Dev
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Destroy the Bioagent</ChoiceButtonText>
+        <ChoiceButtonText>Destruir o Bioagente</ChoiceButtonText>
         <GeneratedItemName>Destroy the Bioagent Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -13315,7 +13315,7 @@ Quanto aos Dhayut distorcidos e inúteis deste mundo, devemos decidir o que faze
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Exterminate the Dhayut of Kasim</ChoiceButtonText>
+        <ChoiceButtonText>Exterminar os Dhayut de Kasim</ChoiceButtonText>
         <GeneratedItemName>Exterminate the Dhayut of Kasim (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -13340,7 +13340,7 @@ Quanto aos Dhayut distorcidos e inúteis deste mundo, devemos decidir o que faze
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Enslave the Dhayut of Kasim</ChoiceButtonText>
+        <ChoiceButtonText>Escravizar os Dhayut de Kasim</ChoiceButtonText>
         <GeneratedItemName>Enslave the Dhayut of Kasim (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -13793,7 +13793,7 @@ Entre os registros, descobrimos a localização do antigo mundo natal Ikkuro.</D
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Exterminate the Dhayut of Kasim</ChoiceButtonText>
+        <ChoiceButtonText>Exterminar os Dhayut de Kasim</ChoiceButtonText>
         <GeneratedItemName>Exterminate the Dhayut of Kasim (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>

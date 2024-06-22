@@ -230,7 +230,7 @@ Pode ser possível usar explosivos simples para abrir caminho, mas isso poderia 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Use explosives to gain entrance</ChoiceButtonText>
+        <ChoiceButtonText>Use explosivos para ganhar entrada</ChoiceButtonText>
         <GeneratedItemName>Use Explosives Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -255,7 +255,7 @@ Pode ser possível usar explosivos simples para abrir caminho, mas isso poderia 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Bribe the engineers to hack their way in 15,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Suborne os engenheiros para invadir 15.000cr</ChoiceButtonText>
         <GeneratedItemName>Bribe Engineers Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -427,7 +427,7 @@ Os explosivos danificaram uma grande parte da estrutura que continha um laborat�
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Praise the engineers</ChoiceButtonText>
+        <ChoiceButtonText>Elogie os engenheiros</ChoiceButtonText>
         <GeneratedItemName />
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -452,7 +452,7 @@ Os explosivos danificaram uma grande parte da estrutura que continha um laborat�
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Execute the engineers</ChoiceButtonText>
+        <ChoiceButtonText>Execute os engenheiros</ChoiceButtonText>
         <GeneratedItemName>Bribe Engineers Choice 2 (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>5</DelaySecondsMinimum>
@@ -504,7 +504,7 @@ Nossos engenheiros se saíram bem, mas uma questão permanece: devemos elogiar s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Praise the engineers</ChoiceButtonText>
+        <ChoiceButtonText>Elogie os engenheiros</ChoiceButtonText>
         <GeneratedItemName>Praise Engineers Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -529,7 +529,7 @@ Nossos engenheiros se saíram bem, mas uma questão permanece: devemos elogiar s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Execute the engineers</ChoiceButtonText>
+        <ChoiceButtonText>Execute os engenheiros</ChoiceButtonText>
         <GeneratedItemName>Execute Engineers Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1070,7 +1070,7 @@ A nave foi construída com precauções de segurança poderosas, sugerindo que e
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Cargo</ChoiceButtonText>
+        <ChoiceButtonText>Carga</ChoiceButtonText>
         <GeneratedItemName>Cargo Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1095,7 +1095,7 @@ A nave foi construída com precauções de segurança poderosas, sugerindo que e
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Data</ChoiceButtonText>
+        <ChoiceButtonText>Dados</ChoiceButtonText>
         <GeneratedItemName>Data Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1349,7 +1349,7 @@ Mas não podemos perder tempo preocupando-nos com crimes alienígenas do passado
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Engine Tech</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia de Motor</ChoiceButtonText>
         <GeneratedItemName>Engine Tech Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1374,7 +1374,7 @@ Mas não podemos perder tempo preocupando-nos com crimes alienígenas do passado
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Shield Tech</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia de Escudo</ChoiceButtonText>
         <GeneratedItemName>Shield Tech Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>false</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1668,7 +1668,7 @@ A nave caída é sofisticada além de nossa tecnologia atual. Será válido dedi
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Engine Tech</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia de Motor</ChoiceButtonText>
         <GeneratedItemName>Engine Tech Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1693,7 +1693,7 @@ A nave caída é sofisticada além de nossa tecnologia atual. Será válido dedi
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Shield Tech</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia de Escudo</ChoiceButtonText>
         <GeneratedItemName>Shield Tech Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>false</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1987,7 +1987,7 @@ A nave caída é sofisticada além de nossa tecnologia atual. Será válido dedi
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Engine Tech</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia de Motor</ChoiceButtonText>
         <GeneratedItemName>Engine Tech Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2012,7 +2012,7 @@ A nave caída é sofisticada além de nossa tecnologia atual. Será válido dedi
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Shield Tech</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia de Escudo</ChoiceButtonText>
         <GeneratedItemName>Shield Tech Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>false</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2534,7 +2534,7 @@ A nave caída é sofisticada além de nossa tecnologia atual. Será válido dedi
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Deception (20,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Engano (20.000cr)</ChoiceButtonText>
         <GeneratedItemName>Deception Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2559,7 +2559,7 @@ A nave caída é sofisticada além de nossa tecnologia atual. Será válido dedi
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Surprise Attack (10,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Ataque Surpresa (10.000cr)</ChoiceButtonText>
         <GeneratedItemName>Surprise Attack Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -3105,7 +3105,7 @@ Há muito debate entre nossos líderes. Devemos tentar enganar os Boskara para e
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Pillage</ChoiceButtonText>
+        <ChoiceButtonText>Pilhagem</ChoiceButtonText>
         <GeneratedItemName>Pillage Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -3130,7 +3130,7 @@ Há muito debate entre nossos líderes. Devemos tentar enganar os Boskara para e
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Deception (15,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Engano (15.000cr)</ChoiceButtonText>
         <GeneratedItemName>Deception Choice B (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -3423,7 +3423,7 @@ Há muito debate entre nossos líderes. Devemos tentar enganar os Boskara para e
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>End the Program</ChoiceButtonText>
+        <ChoiceButtonText>Encerrar o Programa</ChoiceButtonText>
         <GeneratedItemName>End Program Choice A (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -3448,7 +3448,7 @@ Há muito debate entre nossos líderes. Devemos tentar enganar os Boskara para e
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Continue the deception (20,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Continuar o engano (20.000cr)</ChoiceButtonText>
         <GeneratedItemName>Continue Deception Choice A (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>60</DelaySecondsMinimum>
@@ -3592,7 +3592,7 @@ Há muito debate entre nossos líderes. Devemos tentar enganar os Boskara para e
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>End the Program</ChoiceButtonText>
+        <ChoiceButtonText>Encerrar o Programa</ChoiceButtonText>
         <GeneratedItemName>End Program Choice B (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -3617,7 +3617,7 @@ Há muito debate entre nossos líderes. Devemos tentar enganar os Boskara para e
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Continue Deception (25,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Continuar Engano (25.000cr)</ChoiceButtonText>
         <GeneratedItemName>Continue Deception Choice B (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4394,7 +4394,7 @@ Pode ser possível sobrecarregar o campo de força e fazê-lo falhar aplicando u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Overload Forcefield (50,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Sobrecarregar Campo de Força (50.000cr)</ChoiceButtonText>
         <GeneratedItemName>Overload Forcefield Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4419,7 +4419,7 @@ Pode ser possível sobrecarregar o campo de força e fazê-lo falhar aplicando u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse to pay</ChoiceButtonText>
+        <ChoiceButtonText>Recusar pagar</ChoiceButtonText>
         <GeneratedItemName>Refuse to Pay Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4660,7 +4660,7 @@ Muito pouco permanece intacto neste mundo, e muito pouco sobreviverá ao process
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Offensive Technology</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia Ofensiva</ChoiceButtonText>
         <GeneratedItemName>Destroyed Ikkuro World Offensive Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4685,7 +4685,7 @@ Muito pouco permanece intacto neste mundo, e muito pouco sobreviverá ao process
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Defensive Technology</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia Defensiva</ChoiceButtonText>
         <GeneratedItemName>Destroyed Ikkuro World Defensive Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4936,7 +4936,7 @@ No entanto, descobrimos muito sobre tecnologia de defesa. Podemos fazer bom uso 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Overload Forcefield (50,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Sobrecarregar Campo de Força (50.000cr)</ChoiceButtonText>
         <GeneratedItemName>Overload Forcefield Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4961,7 +4961,7 @@ No entanto, descobrimos muito sobre tecnologia de defesa. Podemos fazer bom uso 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse to pay</ChoiceButtonText>
+        <ChoiceButtonText>Recusar pagar</ChoiceButtonText>
         <GeneratedItemName>Refuse to Pay Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5202,7 +5202,7 @@ Muito pouco permanece intacto nesse mundo, e muito pouco sobreviverá ao process
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Offensive Technology</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia Ofensiva</ChoiceButtonText>
         <GeneratedItemName>Destroyed Ikkuro World Offensive Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5227,7 +5227,7 @@ Muito pouco permanece intacto nesse mundo, e muito pouco sobreviverá ao process
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Defensive Technology</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia Defensiva</ChoiceButtonText>
         <GeneratedItemName>Destroyed Ikkuro World Defensive Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5476,7 +5476,7 @@ Pode ser possível sobrecarregar o campo de força e fazê-lo falhar aplicando u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Overload Forcefield (50,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Sobrecarregar Campo de Força (50.000cr)</ChoiceButtonText>
         <GeneratedItemName>Overload Forcefield Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5501,7 +5501,7 @@ Pode ser possível sobrecarregar o campo de força e fazê-lo falhar aplicando u
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse to pay</ChoiceButtonText>
+        <ChoiceButtonText>Recusar pagar</ChoiceButtonText>
         <GeneratedItemName>Refuse to Pay Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5742,7 +5742,7 @@ Muito pouco permanece intacto neste mundo, e muito pouco sobreviverá ao process
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Offensive Technology</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia Ofensiva</ChoiceButtonText>
         <GeneratedItemName>Destroyed Ikkuro World Offensive Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5767,7 +5767,7 @@ Muito pouco permanece intacto neste mundo, e muito pouco sobreviverá ao process
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Defensive Technology</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia Defensiva</ChoiceButtonText>
         <GeneratedItemName>Destroyed Ikkuro World Defensive Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6172,7 +6172,7 @@ No entanto, eles também podem conhecer segredos tecnológicos do passado. Os Dh
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Examine equipment and let the sleepers die</ChoiceButtonText>
+        <ChoiceButtonText>Examinar o equipamento e deixar os adormecidos morrerem</ChoiceButtonText>
         <GeneratedItemName>Let Sleepers Die Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6197,7 +6197,7 @@ No entanto, eles também podem conhecer segredos tecnológicos do passado. Os Dh
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Awaken the sleepers</ChoiceButtonText>
+        <ChoiceButtonText>Despertar os adormecidos</ChoiceButtonText>
         <GeneratedItemName>Awaken Sleepers Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6367,7 +6367,7 @@ Pode ser um erro permitir que essa cientista converse com outros Dhayut contempo
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Torture</ChoiceButtonText>
+        <ChoiceButtonText>Tortura</ChoiceButtonText>
         <GeneratedItemName>Torture Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6392,7 +6392,7 @@ Pode ser um erro permitir que essa cientista converse com outros Dhayut contempo
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Release scientist to continue her research</ChoiceButtonText>
+        <ChoiceButtonText>Liberar cientista para continuar sua pesquisa</ChoiceButtonText>
         <GeneratedItemName>Release Scientist Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6938,7 +6938,7 @@ Mas deveríamos? Estes não são Dhayut pacificados. É improvável que desejem 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Examine equipment and let the sleepers die</ChoiceButtonText>
+        <ChoiceButtonText>Examinar o equipamento e deixar os adormecidos morrerem</ChoiceButtonText>
         <GeneratedItemName>Let Sleepers Die Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6963,7 +6963,7 @@ Mas deveríamos? Estes não são Dhayut pacificados. É improvável que desejem 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Awaken the sleepers</ChoiceButtonText>
+        <ChoiceButtonText>Despertar os adormecidos</ChoiceButtonText>
         <GeneratedItemName>Awaken Sleepers Choice (Ikkuro)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7259,7 +7259,7 @@ Mas deveríamos?</Description>
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Examine equipment and let the sleepers die</ChoiceButtonText>
+        <ChoiceButtonText>Examinar o equipamento e deixar os adormecidos morrerem</ChoiceButtonText>
         <GeneratedItemName>Let Sleepers Die Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7284,7 +7284,7 @@ Mas deveríamos?</Description>
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Awaken the sleepers</ChoiceButtonText>
+        <ChoiceButtonText>Despertar os adormecidos</ChoiceButtonText>
         <GeneratedItemName>Awaken Sleepers Choice (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7885,7 +7885,7 @@ Ao mesmo tempo, há incêndios devastando o único centro de pesquisa restante, 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Stop the automated distress signal</ChoiceButtonText>
+        <ChoiceButtonText>Parar o sinal de socorro automatizado</ChoiceButtonText>
         <GeneratedItemName>Stop Automated Distress Signal Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7910,7 +7910,7 @@ Ao mesmo tempo, há incêndios devastando o único centro de pesquisa restante, 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Put out the fires</ChoiceButtonText>
+        <ChoiceButtonText>Apagar os incêndios</ChoiceButtonText>
         <GeneratedItemName>Put out Fires Choice (Dhayut)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>

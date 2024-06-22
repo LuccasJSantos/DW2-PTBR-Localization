@@ -423,7 +423,7 @@ Uma inteligência artificial de alguma forma "sobreviveu" todos esses anos. Ela 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Hyperdrive Tech</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia de Hiperdrive</ChoiceButtonText>
         <GeneratedItemName>Hyperdrive Tech Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -448,7 +448,7 @@ Uma inteligência artificial de alguma forma "sobreviveu" todos esses anos. Ela 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Mining and Reactor Tech</ChoiceButtonText>
+        <ChoiceButtonText>Tecnologia de Mineração e Reator</ChoiceButtonText>
         <GeneratedItemName>Mining and Reactor Tech Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1715,7 +1715,7 @@ Muitos de nosso povo, que inicialmente ficaram encantados com a descoberta do pa
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Raze</ChoiceButtonText>
+        <ChoiceButtonText>Demolir</ChoiceButtonText>
         <GeneratedItemName>Raze Pirate Puzzle Prison Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1740,7 +1740,7 @@ Muitos de nosso povo, que inicialmente ficaram encantados com a descoberta do pa
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Explore [-25,000cr]</ChoiceButtonText>
+        <ChoiceButtonText>Explorar [-25.000cr]</ChoiceButtonText>
         <GeneratedItemName>Explore Pirate Puzzle Prison Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2141,7 +2141,7 @@ Podemos continuar explorando a prisão de quebra-cabeças, ou podemos demolir pa
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Raze</ChoiceButtonText>
+        <ChoiceButtonText>Demolir</ChoiceButtonText>
         <GeneratedItemName>Raze Pirate Puzzle Prison Choice (Non Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2166,7 +2166,7 @@ Podemos continuar explorando a prisão de quebra-cabeças, ou podemos demolir pa
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Explore [-25,000cr]</ChoiceButtonText>
+        <ChoiceButtonText>Explorar [-25.000cr]</ChoiceButtonText>
         <GeneratedItemName>Explore Pirate Puzzle Prison Choice (Non Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2759,7 +2759,7 @@ Ouçam o que aprendi. Entidades biológicas são malignas. Quando têm pensament
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Threaten</ChoiceButtonText>
+        <ChoiceButtonText>Ameaçar</ChoiceButtonText>
         <GeneratedItemName>Threaten AI Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2784,7 +2784,7 @@ Ouçam o que aprendi. Entidades biológicas são malignas. Quando têm pensament
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Reassure</ChoiceButtonText>
+        <ChoiceButtonText>Reassegurar</ChoiceButtonText>
         <GeneratedItemName>Reassure AI Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4350,7 +4350,7 @@ Teremos que esperar para ouvir mais do que este Guardião Antigo tem a dizer, su
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Threaten</ChoiceButtonText>
+        <ChoiceButtonText>Ameaçar</ChoiceButtonText>
         <GeneratedItemName>Threaten AI Choice (Non Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4375,7 +4375,7 @@ Teremos que esperar para ouvir mais do que este Guardião Antigo tem a dizer, su
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Reassure</ChoiceButtonText>
+        <ChoiceButtonText>Reassegurar</ChoiceButtonText>
         <GeneratedItemName>Reassure AI Choice (Non Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4915,7 +4915,7 @@ Por enquanto, eles nos reverenciam, mas quando descobrirem quem realmente somos,
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Destruction [-30,000cr]</ChoiceButtonText>
+        <ChoiceButtonText>Destruição [-30.000cr]</ChoiceButtonText>
         <GeneratedItemName>Destruction Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4940,7 +4940,7 @@ Por enquanto, eles nos reverenciam, mas quando descobrirem quem realmente somos,
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Conversion [-5,000cr and Research Project]</ChoiceButtonText>
+        <ChoiceButtonText>Conversão [-5.000cr e Projeto de Pesquisa]</ChoiceButtonText>
         <GeneratedItemName>Conversion Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5705,7 +5705,7 @@ Também estamos detectando sinais de criaturas vivas dentro da nave. Certamente 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Scrap the ship for parts</ChoiceButtonText>
+        <ChoiceButtonText>Desmontar o navio para peças</ChoiceButtonText>
         <GeneratedItemName>Scrap Ship Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5730,7 +5730,7 @@ Também estamos detectando sinais de criaturas vivas dentro da nave. Certamente 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Explore Ship</ChoiceButtonText>
+        <ChoiceButtonText>Explorar a Navio</ChoiceButtonText>
         <GeneratedItemName>Explore Ship Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5883,7 +5883,7 @@ Poderíamos considerar pausar para compilar tudo o que se sabe sobre o comportam
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Research Shakturi Design and Behavior</ChoiceButtonText>
+        <ChoiceButtonText>Pesquisar Design e Comportamento Shakturi</ChoiceButtonText>
         <GeneratedItemName />
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5908,7 +5908,7 @@ Poderíamos considerar pausar para compilar tudo o que se sabe sobre o comportam
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Forego Research</ChoiceButtonText>
+        <ChoiceButtonText>Abandonar a Pesquisa</ChoiceButtonText>
         <GeneratedItemName>Forego Research Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7165,7 +7165,7 @@ Isso provavelmente foi um eco psíquico da guerra antiga. Pelo menos, esperamos 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Scrap the ship for parts</ChoiceButtonText>
+        <ChoiceButtonText>Desmontar o navio para peças</ChoiceButtonText>
         <GeneratedItemName>Scrap Ship Choice (Non Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7190,7 +7190,7 @@ Isso provavelmente foi um eco psíquico da guerra antiga. Pelo menos, esperamos 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Explore Ship</ChoiceButtonText>
+        <ChoiceButtonText>Explorar o Navio</ChoiceButtonText>
         <GeneratedItemName>Explore Ship Choice (Non Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -8213,7 +8213,7 @@ Esta é uma oportunidade interessante para estabelecermos um contato quase diret
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Destroy Computer</ChoiceButtonText>
+        <ChoiceButtonText>Destruir o Computador</ChoiceButtonText>
         <GeneratedItemName>Destroy Computer Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -8238,7 +8238,7 @@ Esta é uma oportunidade interessante para estabelecermos um contato quase diret
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Communicate with Computer</ChoiceButtonText>
+        <ChoiceButtonText>Comunicar com o Computador</ChoiceButtonText>
         <GeneratedItemName>Communicate With Computer Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -8551,7 +8551,7 @@ Ao longo dos séculos, a consciência artificial parece ter se tornado mais sofi
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Destroy the Computer</ChoiceButtonText>
+        <ChoiceButtonText>Destruir o Computador</ChoiceButtonText>
         <GeneratedItemName>Destroy the Computer Choice 2 (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -8576,7 +8576,7 @@ Ao longo dos séculos, a consciência artificial parece ter se tornado mais sofi
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Continue the experiment</ChoiceButtonText>
+        <ChoiceButtonText>Continuar o experimento</ChoiceButtonText>
         <GeneratedItemName>Continue the Experiment Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -8993,7 +8993,7 @@ Esta é uma oportunidade interessante para fazermos quase um contato direto com 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Destroy Computer</ChoiceButtonText>
+        <ChoiceButtonText>Destruir o Computador</ChoiceButtonText>
         <GeneratedItemName>Destroy Computer Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -9018,7 +9018,7 @@ Esta é uma oportunidade interessante para fazermos quase um contato direto com 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Communicate with Computer</ChoiceButtonText>
+        <ChoiceButtonText>Comunicar com o Computador</ChoiceButtonText>
         <GeneratedItemName>Communicate With Computer Choice (Non Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -9307,7 +9307,7 @@ Provavelmente é uma ameaça vazia, mas sabemos tão pouco sobre os Shakturi e s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Destroy the Computer</ChoiceButtonText>
+        <ChoiceButtonText>Destruir o Computador</ChoiceButtonText>
         <GeneratedItemName>Destroy the Computer Choice 2 (Non Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -9332,7 +9332,7 @@ Provavelmente é uma ameaça vazia, mas sabemos tão pouco sobre os Shakturi e s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Continue the experiment</ChoiceButtonText>
+        <ChoiceButtonText>Continuar o experimento</ChoiceButtonText>
         <GeneratedItemName>Continue the Experiment Choice (Non Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>

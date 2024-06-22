@@ -2,9 +2,10 @@ import * as translate from './modules/translate.js'
 import xmlParser from './modules/translation/parsers/xml.js'
 
 const translateResearchProjectDefinitions = async function () {
-    const parser = xmlParser(['ArrayOfResearchProjectDefinition', 'ResearchProjectDefinition', 'Name'])
-    const translation = await translate.file('game-data/original/ResearchProjectDefinitions.xml', { parser })
-    return translation
+    // const parser = xmlParser(['ArrayOfResearchProjectDefinition', 'ResearchProjectDefinition', 'Name'])
+    // await translate.file('game-data/original/ResearchProjectDefinitions.xml', { parser })
+    const descriptionParser = xmlParser(['ArrayOfResearchProjectDefinition', 'ResearchProjectDefinition', 'Name'])
+    await translate.file('game-data/mod/ResearchProjectDefinitions.xml', { parser })
 }
 
 const translateResearchProjectDefinitionsDhayut = async function () {
@@ -83,7 +84,18 @@ const translateSpaceItemDefinition = async function () {
     await translate.file('game-data/original/SpaceItemDefinitions.xml', { parser: nameParser })
 }
 
-await translateSpaceItemDefinition()
+const translateChoiceButtons = async function () {
+    const choicesParser = xmlParser(['ArrayOfGameEvent', 'GameEvent', 'TriggerActions', 'GameEventAction', 'ChoiceButtonText'])
+
+    // await translate.file('game-data/mod/GameEvents_Dhayut.xml', { parser: choicesParser })
+    // await translate.file('game-data/mod/GameEvents_Gizurean.xml', { parser: choicesParser })
+    // await translate.file('game-data/mod/GameEvents_Ikkuro.xml', { parser: choicesParser })
+    // await translate.file('game-data/mod/GameEvents_Quameno.xml', { parser: choicesParser })
+    await translate.file('game-data/mod/GameEvents.xml', { parser: choicesParser })
+}
+
+await translateChoiceButtons()
+// await translateSpaceItemDefinition()
 // await translatePlanetaryFacilityDefinitions()
 // await translateTourItems()
 // await translateResources()

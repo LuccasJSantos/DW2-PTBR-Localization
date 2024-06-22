@@ -50,7 +50,7 @@ Devemos implementar 'A Varredura' em nossa nova colônia {0}?</Description>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText>Scour the Colony!</ChoiceButtonText>
+				<ChoiceButtonText>Vasculhe a Colônia!</ChoiceButtonText>
 				<GeneratedItemName>Implement Scouring (Gizurean)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -76,7 +76,7 @@ Devemos implementar 'A Varredura' em nossa nova colônia {0}?</Description>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText>Leave it untouched</ChoiceButtonText>
+				<ChoiceButtonText>Deixe intocada</ChoiceButtonText>
 				<GeneratedItemName />
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1056,7 +1056,7 @@ Antes de matar e comer essas criaturas, deveríamos estudá-las e suas possívei
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Devour</ChoiceButtonText>
+        <ChoiceButtonText>Devorar</ChoiceButtonText>
         <GeneratedItemName>Devour Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1081,7 +1081,7 @@ Antes de matar e comer essas criaturas, deveríamos estudá-las e suas possívei
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Study</ChoiceButtonText>
+        <ChoiceButtonText>Estudar</ChoiceButtonText>
         <GeneratedItemName>Study Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1558,7 +1558,7 @@ Estabelecemos uma base de pesquisa em seu sistema natal para que pudéssemos apr
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Boast</ChoiceButtonText>
+        <ChoiceButtonText>Gabar-se</ChoiceButtonText>
         <GeneratedItemName>Boast Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1583,7 +1583,7 @@ Estabelecemos uma base de pesquisa em seu sistema natal para que pudéssemos apr
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Lie</ChoiceButtonText>
+        <ChoiceButtonText>Mentir</ChoiceButtonText>
         <GeneratedItemName>Lie Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1958,7 +1958,7 @@ Estamos dispostos a devolvê-lo a vocês por um custo muito baixo. Apenas para c
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Decline</ChoiceButtonText>
+        <ChoiceButtonText>Recusar</ChoiceButtonText>
         <GeneratedItemName>Decline Offer Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1983,7 +1983,7 @@ Estamos dispostos a devolvê-lo a vocês por um custo muito baixo. Apenas para c
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Pay [-20,000cr]</ChoiceButtonText>
+        <ChoiceButtonText>Pagar [-20.000cr]</ChoiceButtonText>
         <GeneratedItemName>Pay for Scientist Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2560,7 +2560,7 @@ Devemos erradicar esses Gizureans diminuídos e tomar seu mundo desejável para 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Eradicate</ChoiceButtonText>
+        <ChoiceButtonText>Erradicar</ChoiceButtonText>
         <GeneratedItemName>Eradicate Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2585,7 +2585,7 @@ Devemos erradicar esses Gizureans diminuídos e tomar seu mundo desejável para 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Study</ChoiceButtonText>
+        <ChoiceButtonText>Estudar</ChoiceButtonText>
         <GeneratedItemName>Study Degenerates (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2707,7 +2707,7 @@ Nossos cientistas, que são certamente os melhores da galáxia, acreditam que é
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Ignore</ChoiceButtonText>
+        <ChoiceButtonText>Ignorar</ChoiceButtonText>
         <GeneratedItemName>Ignore Degenerates Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2732,7 +2732,7 @@ Nossos cientistas, que são certamente os melhores da galáxia, acreditam que é
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Research</ChoiceButtonText>
+        <ChoiceButtonText>Pesquisar</ChoiceButtonText>
         <GeneratedItemName>Research Degenerates Choice (Gizureans)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2803,7 +2803,7 @@ Nossos cientistas, que são certamente os melhores da galáxia, acreditam que é
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Research</ChoiceButtonText>
+        <ChoiceButtonText>Pesquisar</ChoiceButtonText>
         <GeneratedItemName>Study Degenerates 2nd Offer (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>360</DelaySecondsMinimum>
@@ -2851,7 +2851,7 @@ Talvez uma população convertida seja útil para nós. Ou podemos simplesmente 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Ignore</ChoiceButtonText>
+        <ChoiceButtonText>Ignorar</ChoiceButtonText>
         <GeneratedItemName>Ignore Degenerates Choice 2nd Offer (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -2876,7 +2876,7 @@ Talvez uma população convertida seja útil para nós. Ou podemos simplesmente 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Research</ChoiceButtonText>
+        <ChoiceButtonText>Pesquisar</ChoiceButtonText>
         <GeneratedItemName>Research Degenerates Choice 2nd Offer (Gizureans)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -3403,7 +3403,7 @@ Ter uma classe subalterna de trabalhadores oprimidos e menores nos tornará aind
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Salvage</ChoiceButtonText>
+        <ChoiceButtonText>Recuperar</ChoiceButtonText>
         <GeneratedItemName>Salvage Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -3428,7 +3428,7 @@ Ter uma classe subalterna de trabalhadores oprimidos e menores nos tornará aind
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Study</ChoiceButtonText>
+        <ChoiceButtonText>Estudar</ChoiceButtonText>
         <GeneratedItemName>Study Ship Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -3860,7 +3860,7 @@ Os cientistas começaram a enviar mensagens estridentes, discordantes e sem sent
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Cut Losses</ChoiceButtonText>
+        <ChoiceButtonText>Cortar Perdas</ChoiceButtonText>
         <GeneratedItemName>Cut Losses Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -3885,7 +3885,7 @@ Os cientistas começaram a enviar mensagens estridentes, discordantes e sem sent
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Send Another Team</ChoiceButtonText>
+        <ChoiceButtonText>Enviar Outro Time</ChoiceButtonText>
         <GeneratedItemName>Send Another Team Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4884,7 +4884,7 @@ Os mortos em breve serão substituídos, então não perdemos nada.</Description
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Salvage</ChoiceButtonText>
+        <ChoiceButtonText>Recuperar</ChoiceButtonText>
         <GeneratedItemName>Salvage Choice (Non Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4909,7 +4909,7 @@ Os mortos em breve serão substituídos, então não perdemos nada.</Description
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Study</ChoiceButtonText>
+        <ChoiceButtonText>Estudar</ChoiceButtonText>
         <GeneratedItemName>Study Ship Choice (Non Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5341,7 +5341,7 @@ Os cientistas começaram a enviar mensagens estridentes, discordantes e sem sent
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Cut Losses</ChoiceButtonText>
+        <ChoiceButtonText>Cortar Perdas</ChoiceButtonText>
         <GeneratedItemName>Cut Losses Choice (Non Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5366,7 +5366,7 @@ Os cientistas começaram a enviar mensagens estridentes, discordantes e sem sent
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Send Another Team</ChoiceButtonText>
+        <ChoiceButtonText>Enviar Outro Time</ChoiceButtonText>
         <GeneratedItemName>Send Another Team Choice (Non Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6443,7 +6443,7 @@ Talvez devessemos investigar mais, embora possa ser melhor não saber. Poderíam
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Dismantle</ChoiceButtonText>
+        <ChoiceButtonText>Desmantelar</ChoiceButtonText>
         <GeneratedItemName>Dismantle Ancient Colony Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6468,7 +6468,7 @@ Talvez devessemos investigar mais, embora possa ser melhor não saber. Poderíam
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Study</ChoiceButtonText>
+        <ChoiceButtonText>Estudar</ChoiceButtonText>
         <GeneratedItemName>Study Ancient Colony Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6900,7 +6900,7 @@ Poderíamos simplesmente abandonar todo o esforço e esperar aprender algo apena
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Abandon</ChoiceButtonText>
+        <ChoiceButtonText>Abandonar</ChoiceButtonText>
         <GeneratedItemName>Abandon Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -6925,7 +6925,7 @@ Poderíamos simplesmente abandonar todo o esforço e esperar aprender algo apena
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Sacrifice a Scientist</ChoiceButtonText>
+        <ChoiceButtonText>Sacrificar um Cientista</ChoiceButtonText>
         <GeneratedItemName>Sacrifice a Scientist Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7339,7 +7339,7 @@ Talvez devessemos investigar mais, embora também pudéssemos simplesmente desmo
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Dismantle</ChoiceButtonText>
+        <ChoiceButtonText>Desmantelar</ChoiceButtonText>
         <GeneratedItemName>Dismantle Ancient Colony Choice (Non Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7364,7 +7364,7 @@ Talvez devessemos investigar mais, embora também pudéssemos simplesmente desmo
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Study</ChoiceButtonText>
+        <ChoiceButtonText>Estudar</ChoiceButtonText>
         <GeneratedItemName>Study Ancient Colony Choice (Non Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7794,7 +7794,7 @@ Mesmo assim, descobrimos muito sobre o design do sistema dos antigos Gizureans, 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Abandon</ChoiceButtonText>
+        <ChoiceButtonText>Abandonar</ChoiceButtonText>
         <GeneratedItemName>Abandon Choice (Non Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -8189,7 +8189,7 @@ Mesmo assim, descobrimos muito sobre o design do sistema dos antigos Gizureans, 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse Offer</ChoiceButtonText>
+        <ChoiceButtonText>Recusar Oferta</ChoiceButtonText>
         <GeneratedItemName>Refuse Offer Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -8214,7 +8214,7 @@ Mesmo assim, descobrimos muito sobre o design do sistema dos antigos Gizureans, 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Pay the Money</ChoiceButtonText>
+        <ChoiceButtonText>Pagar o Dinheiro</ChoiceButtonText>
         <GeneratedItemName>Pay the Money Choice (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12363,7 +12363,7 @@ Também encontramos um mapa que marca o que acreditamos ser o antigo mundo natal
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Accept Offer</ChoiceButtonText>
+        <ChoiceButtonText>Aceitar Oferta</ChoiceButtonText>
         <GeneratedItemName>Accept Offer (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12388,7 +12388,7 @@ Também encontramos um mapa que marca o que acreditamos ser o antigo mundo natal
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Reject Offer</ChoiceButtonText>
+        <ChoiceButtonText>Rejeitar Oferta</ChoiceButtonText>
         <GeneratedItemName>Reject Offer (Gizurean)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>

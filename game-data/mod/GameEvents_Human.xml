@@ -89,7 +89,7 @@ O que devemos escolher? Um [CHARACTER]Almirante[/CHARACTER] ou um [CHARACTER]Gen
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText>New Admiral</ChoiceButtonText>
+				<ChoiceButtonText>Novo Almirante</ChoiceButtonText>
 				<GeneratedItemName>Implement Hero of the Hour - Admiral (Human)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -115,7 +115,7 @@ O que devemos escolher? Um [CHARACTER]Almirante[/CHARACTER] ou um [CHARACTER]Gen
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText>New General</ChoiceButtonText>
+				<ChoiceButtonText>Novo General</ChoiceButtonText>
 				<GeneratedItemName>Implement Hero of the Hour - General (Human)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -741,7 +741,7 @@ Deveríamos enviar um Espião para obter esses bônus temporários de Contraespi
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText>Spend a Spy</ChoiceButtonText>
+				<ChoiceButtonText>Gastar um Espião</ChoiceButtonText>
 				<GeneratedItemName>Implement Heightened Security (Human)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -767,7 +767,7 @@ Deveríamos enviar um Espião para obter esses bônus temporários de Contraespi
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText>Leave the Spies Alone</ChoiceButtonText>
+				<ChoiceButtonText>Deixar os Espiões Quietos</ChoiceButtonText>
 				<GeneratedItemName></GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>

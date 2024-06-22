@@ -1878,7 +1878,7 @@ Qual item devemos baixar?
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Reveal System Maps</ChoiceButtonText>
+        <ChoiceButtonText>Revelar Mapas do Sistema</ChoiceButtonText>
         <GeneratedItemName />
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -1903,7 +1903,7 @@ Qual item devemos baixar?
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Obtain Tech Breakthrough</ChoiceButtonText>
+        <ChoiceButtonText>Obter Avanço Tecnológico</ChoiceButtonText>
         <GeneratedItemName />
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4147,7 +4147,7 @@ Qual item devemos baixar?
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Reveal Independent Colony</ChoiceButtonText>
+        <ChoiceButtonText>Revelar Colônia Independente</ChoiceButtonText>
         <GeneratedItemName />
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -4172,7 +4172,7 @@ Qual item devemos baixar?
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Reveal Galactic Coordinates</ChoiceButtonText>
+        <ChoiceButtonText>Revelar Coordenadas Galácticas</ChoiceButtonText>
         <GeneratedItemName />
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -11956,7 +11956,7 @@ Caso contrário, bem... Acho que todos sabemos que nem todas as histórias acaba
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Pay the Ghost Fleet\n[-25,000cr]</ChoiceButtonText>
+        <ChoiceButtonText>Pagar à Frota Fantasma\n[-25.000cr]</ChoiceButtonText>
         <GeneratedItemName>Integrate Ghost Fleet (Human)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -11981,7 +11981,7 @@ Caso contrário, bem... Acho que todos sabemos que nem todas as histórias acaba
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse the Pirate Offer\n[-20 Relations]</ChoiceButtonText>
+        <ChoiceButtonText>Recusar a Oferta Pirata\n[-20 Relações]</ChoiceButtonText>
         <GeneratedItemName />
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12289,7 +12289,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Stabilize and Explore \n[-20,000cr]</ChoiceButtonText>
+        <ChoiceButtonText>Estabilizar e Explorar \n[-20.000cr]</ChoiceButtonText>
         <GeneratedItemName>Stabilize Buried Battleship (Human)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12314,7 +12314,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Wait for Natural Stabilization</ChoiceButtonText>
+        <ChoiceButtonText>Esperar Estabilização Natural</ChoiceButtonText>
         <GeneratedItemName>Wait Buried Battleship (Human)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12631,7 +12631,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Focus Above Ground</ChoiceButtonText>
+        <ChoiceButtonText>Focar Acima do Solo</ChoiceButtonText>
         <GeneratedItemName>Focus Above Ground (Human)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12656,7 +12656,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Focus Below Ground</ChoiceButtonText>
+        <ChoiceButtonText>Focar Abaixo do Solo</ChoiceButtonText>
         <GeneratedItemName>Focus Below Ground (Human)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12903,7 +12903,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Blast it Open</ChoiceButtonText>
+        <ChoiceButtonText>Explodir para Entrar</ChoiceButtonText>
         <GeneratedItemName>Blast it Open (Human)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -12928,7 +12928,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Try to Hack It</ChoiceButtonText>
+        <ChoiceButtonText>Tentar Hackear</ChoiceButtonText>
         <GeneratedItemName>Try to Hack It (Human)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -13321,7 +13321,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>"Freedom Prime Gamma 2"</ChoiceButtonText>
+        <ChoiceButtonText>"Liberdade Prime Gamma 2"</ChoiceButtonText>
         <GeneratedItemName>Research Station Peaceful (Human)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -13346,7 +13346,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>"Security Prime Delta 3"</ChoiceButtonText>
+        <ChoiceButtonText>"Segurança Prime Delta 3"</ChoiceButtonText>
         <GeneratedItemName>Research Station Hostile (Human)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -14806,7 +14806,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Send Our Leader</ChoiceButtonText>
+        <ChoiceButtonText>Enviar Nosso Líder</ChoiceButtonText>
         <GeneratedItemName>Send Leader (Human)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -14831,7 +14831,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse their Demand</ChoiceButtonText>
+        <ChoiceButtonText>Recusar a Demanda</ChoiceButtonText>
         <GeneratedItemName>Send Troops (Human)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -17250,7 +17250,7 @@ Nos últimos anos, fizemos grandes avanços tecnológicos por conta própria, ma
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Rebuild</ChoiceButtonText>
+        <ChoiceButtonText>Reconstruir</ChoiceButtonText>
         <GeneratedItemName>Rebuild Ancient Spaceport Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -17275,7 +17275,7 @@ Nos últimos anos, fizemos grandes avanços tecnológicos por conta própria, ma
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Scrap</ChoiceButtonText>
+        <ChoiceButtonText>Desmontar</ChoiceButtonText>
         <GeneratedItemName>Scrap Ancient Spaceport (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -17871,7 +17871,7 @@ A quantidade de destroços indica que deve ter sido uma estação enorme, maior 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Study</ChoiceButtonText>
+        <ChoiceButtonText>Estudar</ChoiceButtonText>
         <GeneratedItemName>Study Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -17896,7 +17896,7 @@ A quantidade de destroços indica que deve ter sido uma estação enorme, maior 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Salvage</ChoiceButtonText>
+        <ChoiceButtonText>Recuperar</ChoiceButtonText>
         <GeneratedItemName>Salvage Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -18349,7 +18349,7 @@ A quantidade de destroços indica que deve ter sido uma estação enorme. É pos
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Study</ChoiceButtonText>
+        <ChoiceButtonText>Estudar</ChoiceButtonText>
         <GeneratedItemName>Study Choice (Non Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -18374,7 +18374,7 @@ A quantidade de destroços indica que deve ter sido uma estação enorme. É pos
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Salvage</ChoiceButtonText>
+        <ChoiceButtonText>Recuperar</ChoiceButtonText>
         <GeneratedItemName>Salvage Choice (Non Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -18989,7 +18989,7 @@ Ainda ocorrem tremores ocasionais na superfície, então quanto mais rapidamente
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Stabilise (20,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Estabilizar (20.000cr)</ChoiceButtonText>
         <GeneratedItemName>Stabilize Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -19014,7 +19014,7 @@ Ainda ocorrem tremores ocasionais na superfície, então quanto mais rapidamente
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Explore immediately</ChoiceButtonText>
+        <ChoiceButtonText>Explorar imediatamente</ChoiceButtonText>
         <GeneratedItemName>Explore Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -19529,7 +19529,7 @@ Ainda há tremores ocasionais na superfície, portanto, quanto mais rapidamente 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Stabilise (20,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Estabilizar (20.000cr)</ChoiceButtonText>
         <GeneratedItemName>Stabilize Choice (Non Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -19554,7 +19554,7 @@ Ainda há tremores ocasionais na superfície, portanto, quanto mais rapidamente 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Explore immediately</ChoiceButtonText>
+        <ChoiceButtonText>Explorar imediatamente</ChoiceButtonText>
         <GeneratedItemName>Explore Choice (Non Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -19994,7 +19994,7 @@ Deveríamos tentar restaurar seus sistemas, o que custaria 50 mil créditos, ou 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Restore (50,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Restaurar (50.000cr)</ChoiceButtonText>
         <GeneratedItemName>Restore Shipyard Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -20019,7 +20019,7 @@ Deveríamos tentar restaurar seus sistemas, o que custaria 50 mil créditos, ou 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Salvage</ChoiceButtonText>
+        <ChoiceButtonText>Recuperar</ChoiceButtonText>
         <GeneratedItemName>Salvage Shipyard Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -20353,7 +20353,7 @@ Deveríamos tentar restaurar seus sistemas, o que custaria 50 mil créditos, ou 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Restore (50,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Restaurar (50.000cr)</ChoiceButtonText>
         <GeneratedItemName>Restore Shipyard Choice (Non Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -20378,7 +20378,7 @@ Deveríamos tentar restaurar seus sistemas, o que custaria 50 mil créditos, ou 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Salvage</ChoiceButtonText>
+        <ChoiceButtonText>Recuperar</ChoiceButtonText>
         <GeneratedItemName>Salvage Shipyard Choice (Non Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -20792,7 +20792,7 @@ Também recebemos um impulso tecnológico na construção de cruzadores leves.</
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>"Perfection"</ChoiceButtonText>
+        <ChoiceButtonText>"Perfeição"</ChoiceButtonText>
         <GeneratedItemName>Perfection Password (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -20817,7 +20817,7 @@ Também recebemos um impulso tecnológico na construção de cruzadores leves.</
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>"Eternity"</ChoiceButtonText>
+        <ChoiceButtonText>"Eternidade"</ChoiceButtonText>
         <GeneratedItemName>Eternity Password (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -20962,7 +20962,7 @@ Queremos extrair dados dos registros do porto espacial. No entanto, a energia es
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>History</ChoiceButtonText>
+        <ChoiceButtonText>História</ChoiceButtonText>
         <GeneratedItemName>History Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -20987,7 +20987,7 @@ Queremos extrair dados dos registros do porto espacial. No entanto, a energia es
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Navigation</ChoiceButtonText>
+        <ChoiceButtonText>Navegação</ChoiceButtonText>
         <GeneratedItemName>Navigation Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -21786,7 +21786,7 @@ Explorar todas as áreas custará 100.000 créditos, mas apenas 25.000 créditos
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>All</ChoiceButtonText>
+        <ChoiceButtonText>Todas</ChoiceButtonText>
         <GeneratedItemName>All Areas Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -21811,7 +21811,7 @@ Explorar todas as áreas custará 100.000 créditos, mas apenas 25.000 créditos
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Safe</ChoiceButtonText>
+        <ChoiceButtonText>Segura</ChoiceButtonText>
         <GeneratedItemName>Safe Areas Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -22225,7 +22225,7 @@ Explorar todas as áreas custará 100.000 créditos, mas apenas 25.000 créditos
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>All</ChoiceButtonText>
+        <ChoiceButtonText>Todas</ChoiceButtonText>
         <GeneratedItemName>All Areas Choice (Non Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -22250,7 +22250,7 @@ Explorar todas as áreas custará 100.000 créditos, mas apenas 25.000 créditos
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Safe</ChoiceButtonText>
+        <ChoiceButtonText>Segura</ChoiceButtonText>
         <GeneratedItemName>Safe Areas Choice (Non Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -22774,7 +22774,7 @@ Devemos explorar apenas as áreas mais seguras ou nos aventurar mais profundamen
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>All</ChoiceButtonText>
+        <ChoiceButtonText>Todas</ChoiceButtonText>
         <GeneratedItemName>2nd All Areas Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -22799,7 +22799,7 @@ Devemos explorar apenas as áreas mais seguras ou nos aventurar mais profundamen
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Safe</ChoiceButtonText>
+        <ChoiceButtonText>Segura</ChoiceButtonText>
         <GeneratedItemName>2nd Safe Areas Choice (Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -23222,7 +23222,7 @@ Devemos explorar apenas as áreas mais seguras ou nos aventurar mais profundamen
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>All</ChoiceButtonText>
+        <ChoiceButtonText>Todas</ChoiceButtonText>
         <GeneratedItemName>2nd All Areas Choice (Non Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -23247,7 +23247,7 @@ Devemos explorar apenas as áreas mais seguras ou nos aventurar mais profundamen
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Safe</ChoiceButtonText>
+        <ChoiceButtonText>Segura</ChoiceButtonText>
         <GeneratedItemName>2nd Safe Areas Choice (Non Ackdarian)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -26392,7 +26392,7 @@ Devemos aceitar o artefato ou recusar e pressionar por mais informações?
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Accept</ChoiceButtonText>
+        <ChoiceButtonText>Aceitar</ChoiceButtonText>
         <GeneratedItemName>Accept Offer (Mortalen)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -26417,7 +26417,7 @@ Devemos aceitar o artefato ou recusar e pressionar por mais informações?
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse</ChoiceButtonText>
+        <ChoiceButtonText>Recusar</ChoiceButtonText>
         <GeneratedItemName>Refuse Offer (Mortalen)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -27041,7 +27041,7 @@ Deveríamos dissecar os clones ou trazer suas cápsulas para uma colônia e tent
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Dissect</ChoiceButtonText>
+        <ChoiceButtonText>Dissecar</ChoiceButtonText>
         <GeneratedItemName>Dissect Choice (Mortalen)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -27066,7 +27066,7 @@ Deveríamos dissecar os clones ou trazer suas cápsulas para uma colônia e tent
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Bring Back Pods</ChoiceButtonText>
+        <ChoiceButtonText>Traga de Volta as Cápsulas</ChoiceButtonText>
         <GeneratedItemName>Bring Back Pods Choice (Mortalen)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -27559,7 +27559,7 @@ Deveríamos dissecar os clones ou trazer suas cápsulas para uma colônia e tent
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Dissect</ChoiceButtonText>
+        <ChoiceButtonText>Dissecar</ChoiceButtonText>
         <GeneratedItemName>Dissect Choice (Non Mortalen)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -27584,7 +27584,7 @@ Deveríamos dissecar os clones ou trazer suas cápsulas para uma colônia e tent
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Bring Back Pods</ChoiceButtonText>
+        <ChoiceButtonText>Traga de Volta as Cápsulas</ChoiceButtonText>
         <GeneratedItemName>Bring Back Pods Choice (Non Mortalen)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -30765,7 +30765,7 @@ Registros recuperados das ruínas revelam que o Império Mortalen se recusou a s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Yes</ChoiceButtonText>
+        <ChoiceButtonText>Sim</ChoiceButtonText>
         <GeneratedItemName>Answer Yes 1 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -30790,7 +30790,7 @@ Registros recuperados das ruínas revelam que o Império Mortalen se recusou a s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>No</ChoiceButtonText>
+        <ChoiceButtonText>Não</ChoiceButtonText>
         <GeneratedItemName>Answer No 1 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -31141,7 +31141,7 @@ Registros recuperados das ruínas revelam que o Império Mortalen se recusou a s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Yes</ChoiceButtonText>
+        <ChoiceButtonText>Sim</ChoiceButtonText>
         <GeneratedItemName>Answer Yes 2 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -31166,7 +31166,7 @@ Registros recuperados das ruínas revelam que o Império Mortalen se recusou a s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>No</ChoiceButtonText>
+        <ChoiceButtonText>Não</ChoiceButtonText>
         <GeneratedItemName>Answer No 2 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -31544,7 +31544,7 @@ Registros recuperados das ruínas revelam que o Império Mortalen se recusou a s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Yes</ChoiceButtonText>
+        <ChoiceButtonText>Sim</ChoiceButtonText>
         <GeneratedItemName>Answer Yes 3 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -31569,7 +31569,7 @@ Registros recuperados das ruínas revelam que o Império Mortalen se recusou a s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>No</ChoiceButtonText>
+        <ChoiceButtonText>Não</ChoiceButtonText>
         <GeneratedItemName>Answer No 3 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -31920,7 +31920,7 @@ Registros recuperados das ruínas revelam que o Império Mortalen se recusou a s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Yes</ChoiceButtonText>
+        <ChoiceButtonText>Sim</ChoiceButtonText>
         <GeneratedItemName>Answer Yes 4 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -31945,7 +31945,7 @@ Registros recuperados das ruínas revelam que o Império Mortalen se recusou a s
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>No</ChoiceButtonText>
+        <ChoiceButtonText>Não</ChoiceButtonText>
         <GeneratedItemName>Answer No 4 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -32646,7 +32646,7 @@ A qual divisão devemos alocar para tentar acesso?</Description>
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Military</ChoiceButtonText>
+        <ChoiceButtonText>Militar</ChoiceButtonText>
         <GeneratedItemName>Military Choice (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -32671,7 +32671,7 @@ A qual divisão devemos alocar para tentar acesso?</Description>
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Science</ChoiceButtonText>
+        <ChoiceButtonText>Ciência</ChoiceButtonText>
         <GeneratedItemName>Science Choice (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -33102,7 +33102,7 @@ Esses Boskara estão confusos, corrompidos, diminuídos pelo tempo e pelo isolam
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Diplomacy</ChoiceButtonText>
+        <ChoiceButtonText>Diplomacia</ChoiceButtonText>
         <GeneratedItemName>Diplomacy Choice (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -33127,7 +33127,7 @@ Esses Boskara estão confusos, corrompidos, diminuídos pelo tempo e pelo isolam
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Condemn</ChoiceButtonText>
+        <ChoiceButtonText>Condenar</ChoiceButtonText>
         <GeneratedItemName>Condemn Choice (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -33527,7 +33527,7 @@ E ainda assim, em seus registros, há revelações perturbadoras. Há contos sob
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>We are your friends.</ChoiceButtonText>
+        <ChoiceButtonText>Nós somos seus amigos.</ChoiceButtonText>
         <GeneratedItemName>Friends Choice (Mikai)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -33553,7 +33553,7 @@ E ainda assim, em seus registros, há revelações perturbadoras. Há contos sob
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>We are not your friends</ChoiceButtonText>
+        <ChoiceButtonText>Nós não somos seus amigos.</ChoiceButtonText>
         <GeneratedItemName>Not Friends Choice (Mikai)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -33923,7 +33923,7 @@ Ruínas insetóides no planeta. Talvez antigas Boskara. Talvez Shakturi. Vale a 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Pay 50,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Pagar 50.000cr</ChoiceButtonText>
         <GeneratedItemName>Pay Choice 1 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -33948,7 +33948,7 @@ Ruínas insetóides no planeta. Talvez antigas Boskara. Talvez Shakturi. Vale a 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse</ChoiceButtonText>
+        <ChoiceButtonText>Recusar</ChoiceButtonText>
         <GeneratedItemName>Refuse to Pay Choice 1 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -34463,7 +34463,7 @@ Você responde imediatamente. "Você não precisa saber quem somos. O que buscam
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Pay 50,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Pagar 50.000cr</ChoiceButtonText>
         <GeneratedItemName>Pay Choice 2 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -34488,7 +34488,7 @@ Você responde imediatamente. "Você não precisa saber quem somos. O que buscam
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse</ChoiceButtonText>
+        <ChoiceButtonText>Recusar</ChoiceButtonText>
         <GeneratedItemName>Refuse to Pay Choice 2 (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -35059,7 +35059,7 @@ Para nossa resposta, podemos tentar enganar os guardas ou podemos tentar hackeá
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Decieve</ChoiceButtonText>
+        <ChoiceButtonText>Enganar</ChoiceButtonText>
         <GeneratedItemName>Decieve Choice (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -35084,7 +35084,7 @@ Para nossa resposta, podemos tentar enganar os guardas ou podemos tentar hackeá
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Hack</ChoiceButtonText>
+        <ChoiceButtonText>Hackear</ChoiceButtonText>
         <GeneratedItemName>Hack Choice (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -36072,7 +36072,7 @@ Estes Guardiões querem saber quem é o verdadeiro inimigo dos Boskara. Quem rep
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Yes, we are the right Boskara.</ChoiceButtonText>
+        <ChoiceButtonText>Sim, nós somos os Boskara certos.</ChoiceButtonText>
         <GeneratedItemName>Right Boskara Choice (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -36097,7 +36097,7 @@ Estes Guardiões querem saber quem é o verdadeiro inimigo dos Boskara. Quem rep
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>There is only one Boskara, and you must take your place in the hive.</ChoiceButtonText>
+        <ChoiceButtonText>Existe apenas um Boskara, e você deve assumir seu lugar na colmeia.</ChoiceButtonText>
         <GeneratedItemName>Wrong Boskara Choice (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -37206,7 +37206,7 @@ Estes Guardiões querem saber quem é o verdadeiro inimigo dos Boskara. Quem rep
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Freedom Alliance</ChoiceButtonText>
+        <ChoiceButtonText>Aliança da Liberdade</ChoiceButtonText>
         <GeneratedItemName>Freedom Alliance Choice (Boskara)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -38311,7 +38311,7 @@ Os artefatos que encontramos nas ruínas podem ajudar. Parece que alguns de noss
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Repair (-10,000cr)</ChoiceButtonText>
+        <ChoiceButtonText>Reparar (-10.000cr)</ChoiceButtonText>
         <GeneratedItemName>Spend Money (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -38336,7 +38336,7 @@ Os artefatos que encontramos nas ruínas podem ajudar. Parece que alguns de noss
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Demolish</ChoiceButtonText>
+        <ChoiceButtonText>Demolir</ChoiceButtonText>
         <GeneratedItemName>Blow it up (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -38771,7 +38771,7 @@ Os artefatos que encontramos nas ruínas podem ajudar. Parece que alguns de noss
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest 10,000cr in research</ChoiceButtonText>
+        <ChoiceButtonText>Investir 10.000cr em pesquisa</ChoiceButtonText>
         <GeneratedItemName>Invest in Research (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -38796,7 +38796,7 @@ Os artefatos que encontramos nas ruínas podem ajudar. Parece que alguns de noss
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest 10,000cr in public relations campaign</ChoiceButtonText>
+        <ChoiceButtonText>Investir 10.000cr em campanha de relações públicas</ChoiceButtonText>
         <GeneratedItemName>Invest in PR (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -39201,7 +39201,7 @@ E o lucro já começou. Obtivemos um conhecimento significativo da tecnologia de
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest 20,000cr in this economic opportunity</ChoiceButtonText>
+        <ChoiceButtonText>Investir 20.000cr nesta oportunidade econômica</ChoiceButtonText>
         <GeneratedItemName>Invest in Pirates (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -39226,7 +39226,7 @@ E o lucro já começou. Obtivemos um conhecimento significativo da tecnologia de
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Declare these strangers to be our enemies</ChoiceButtonText>
+        <ChoiceButtonText>Declarar esses estrangeiros como nossos inimigos</ChoiceButtonText>
         <GeneratedItemName>Declare Enemies (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -39738,7 +39738,7 @@ Os alienígenas falam uma linguagem confusa e primitiva, mas nossos linguistas a
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Learn the language &amp; destroy the ship 5,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Aprender o idioma &amp; destruir a nave 5.000cr</ChoiceButtonText>
         <GeneratedItemName>Destroy the Ship (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -39763,7 +39763,7 @@ Os alienígenas falam uma linguagem confusa e primitiva, mas nossos linguistas a
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Learn the language &amp; help the aliens 10,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Aprender o idioma &amp; ajudar os alienígenas 10.000cr</ChoiceButtonText>
         <GeneratedItemName>Help the Aliens (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -40251,7 +40251,7 @@ Os alienígenas permitiram que nossos engenheiros ajudassem a reparar sua nave. 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Offer Assistance 10,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Oferecer Assistência 10.000cr</ChoiceButtonText>
         <GeneratedItemName>Offer Assistance Choice (Non Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -40276,7 +40276,7 @@ Os alienígenas permitiram que nossos engenheiros ajudassem a reparar sua nave. 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Ignore</ChoiceButtonText>
+        <ChoiceButtonText>Ignorar</ChoiceButtonText>
         <GeneratedItemName>Ignore Choice (Non Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -40597,7 +40597,7 @@ Os alienígenas permitiram que nossos engenheiros ajudassem a reparar sua nave. 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest 20,000cr in diplomacy</ChoiceButtonText>
+        <ChoiceButtonText>Investir 20.000cr em diplomacia</ChoiceButtonText>
         <GeneratedItemName>Invest in Diplomacy (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -40622,7 +40622,7 @@ Os alienígenas permitiram que nossos engenheiros ajudassem a reparar sua nave. 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest 20,000cr in espionage</ChoiceButtonText>
+        <ChoiceButtonText>Investir 20.000cr em espionagem</ChoiceButtonText>
         <GeneratedItemName>Invest in Espionage (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -41146,7 +41146,7 @@ Os alienígenas permitiram que nossos engenheiros ajudassem a reparar sua nave. 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Uncover the past for 25,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Descobrir o passado por 25.000cr</ChoiceButtonText>
         <GeneratedItemName>Uncover the Past Choice (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -41171,7 +41171,7 @@ Os alienígenas permitiram que nossos engenheiros ajudassem a reparar sua nave. 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Bury the past 25,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Enterrar o passado 25.000cr</ChoiceButtonText>
         <GeneratedItemName>Bury the Past Choice (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -41543,7 +41543,7 @@ No entanto, apenas começamos a descobrir tudo o que este mundo tem a oferecer. 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Excavate the Ruins</ChoiceButtonText>
+        <ChoiceButtonText>Escavar as Ruínas</ChoiceButtonText>
         <GeneratedItemName>Excavate the Ruins (Non Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -41568,7 +41568,7 @@ No entanto, apenas começamos a descobrir tudo o que este mundo tem a oferecer. 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Ignore the Ruins</ChoiceButtonText>
+        <ChoiceButtonText>Ignorar as Ruínas</ChoiceButtonText>
         <GeneratedItemName>Ignore the Ruins (Non Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -41742,7 +41742,7 @@ Entre nosso povo houve tumultos, suicídios e até greves de fome. As projeçõe
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest 30,000cr in a morale-improvement initiative.</ChoiceButtonText>
+        <ChoiceButtonText>Investir 30.000cr em uma iniciativa de melhoria de moral.</ChoiceButtonText>
         <GeneratedItemName>Morale ImprovementInitiative (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -41767,7 +41767,7 @@ Entre nosso povo houve tumultos, suicídios e até greves de fome. As projeçõe
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest 30,000cr in Competition initiative</ChoiceButtonText>
+        <ChoiceButtonText>Investir 30.000cr na iniciativa de Competição</ChoiceButtonText>
         <GeneratedItemName>Competition Initiative (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -42102,7 +42102,7 @@ Entre nosso povo houve tumultos, suicídios e até greves de fome. As projeçõe
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Scientific Approach 35.000cr</ChoiceButtonText>
+        <ChoiceButtonText>Abordagem Científica 35.000cr</ChoiceButtonText>
         <GeneratedItemName>Scientific Approach (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -42127,7 +42127,7 @@ Entre nosso povo houve tumultos, suicídios e até greves de fome. As projeçõe
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Military Approach 25,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Abordagem Militar 25.000cr</ChoiceButtonText>
         <GeneratedItemName />
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -43048,7 +43048,7 @@ Nas bases planetárias, descobrimos alguns segredos interessantes da antiga ciê
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest in one for 50,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Investir em um por 50.000cr</ChoiceButtonText>
         <GeneratedItemName>Invest in One (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -43073,7 +43073,7 @@ Nas bases planetárias, descobrimos alguns segredos interessantes da antiga ciê
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest in both for 130,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Investir em ambos por 130.000cr</ChoiceButtonText>
         <GeneratedItemName>Invest in Both (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -43119,7 +43119,7 @@ Nas bases planetárias, descobrimos alguns segredos interessantes da antiga ciê
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest in storehouses</ChoiceButtonText>
+        <ChoiceButtonText>Investir em depósitos</ChoiceButtonText>
         <GeneratedItemName>Invest in Storehouses (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -43144,7 +43144,7 @@ Nas bases planetárias, descobrimos alguns segredos interessantes da antiga ciê
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest in computer banks</ChoiceButtonText>
+        <ChoiceButtonText>Investir em bancos de computadores</ChoiceButtonText>
         <GeneratedItemName>Invest in Computer Banks (Haakonish)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -44584,7 +44584,7 @@ Agora, por causa dos erros de alienígenas pequenos, fomos obrigados a reconstru
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest 10,000cr in researching ships</ChoiceButtonText>
+        <ChoiceButtonText>Investir 10.000cr em pesquisa de naves</ChoiceButtonText>
         <GeneratedItemName>Research Ships Choice (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -44609,7 +44609,7 @@ Agora, por causa dos erros de alienígenas pequenos, fomos obrigados a reconstru
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest 10,000cr in repairing mining equipment</ChoiceButtonText>
+        <ChoiceButtonText>Investir 10.000cr na reparação de equipamentos de mineração</ChoiceButtonText>
         <GeneratedItemName>Repairing Mining Equipment Choice (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -45111,7 +45111,7 @@ As fontes de energia neste mundo são muito limitadas e não podemos conectar no
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Awaken the Sleepers 10,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Acordar os Adormecidos 10.000cr</ChoiceButtonText>
         <GeneratedItemName>Awaken the Sleepers (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -45136,7 +45136,7 @@ As fontes de energia neste mundo são muito limitadas e não podemos conectar no
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Terraform this world 10,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Terraformar este mundo 10.000cr</ChoiceButtonText>
         <GeneratedItemName>Terraform this World (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -46883,7 +46883,7 @@ Antes de fazermos negócios, temos uma pergunta. Vocês já encontraram os seres
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Denounce Horazon</ChoiceButtonText>
+        <ChoiceButtonText>Denunciar Horazon</ChoiceButtonText>
         <GeneratedItemName>Denounce Horazon Choice (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -46908,7 +46908,7 @@ Antes de fazermos negócios, temos uma pergunta. Vocês já encontraram os seres
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Invest in Diplomacy for 20,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Investir em Diplomacia por 20.000cr</ChoiceButtonText>
         <GeneratedItemName>Invest in Diplomacy Choice (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -47405,7 +47405,7 @@ Teekanos, ouvimos falar de sua experiência em mineração. Vocês podem nos aju
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>We Will Help 20,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Nós Ajudaremos 20.000cr</ChoiceButtonText>
         <GeneratedItemName>We Will Help (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -47430,7 +47430,7 @@ Teekanos, ouvimos falar de sua experiência em mineração. Vocês podem nos aju
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>We Cannot Help You</ChoiceButtonText>
+        <ChoiceButtonText>Não Podemos Ajudá-lo</ChoiceButtonText>
         <GeneratedItemName>We Cannot Help You (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -47523,7 +47523,7 @@ Infelizmente, enfrentamos um dilema. Os restos da nave foram descobertos em uma 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Prioritize the Rescue</ChoiceButtonText>
+        <ChoiceButtonText>Priorizar o Resgate</ChoiceButtonText>
         <GeneratedItemName>Prioritize the Rescue (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -47548,7 +47548,7 @@ Infelizmente, enfrentamos um dilema. Os restos da nave foram descobertos em uma 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Prioritize the Ship</ChoiceButtonText>
+        <ChoiceButtonText>Priorizar a Nave</ChoiceButtonText>
         <GeneratedItemName>Prioritize the Ship (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -47963,7 +47963,7 @@ Precisamos descobrir quaisquer segredos que estejam escondidos lá dentro. Algun
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Military Assault 30,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Assalto Militar 30.000cr</ChoiceButtonText>
         <GeneratedItemName>Military Assault Choice (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -47988,7 +47988,7 @@ Precisamos descobrir quaisquer segredos que estejam escondidos lá dentro. Algun
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Sabotage 20,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Sabotagem 20.000cr</ChoiceButtonText>
         <GeneratedItemName>Sabotage Choice (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -48802,7 +48802,7 @@ Os bancos de dados também revelam mais dois locais. É improvável que sejam o 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Bribe 60,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Suborno 60.000cr</ChoiceButtonText>
         <GeneratedItemName>Bribe Choice (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -48827,7 +48827,7 @@ Os bancos de dados também revelam mais dois locais. É improvável que sejam o 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Negotiate</ChoiceButtonText>
+        <ChoiceButtonText>Negociar</ChoiceButtonText>
         <GeneratedItemName>Negotiate Choice (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -49017,7 +49017,7 @@ Os bancos de dados também revelam mais dois locais. É improvável que sejam o 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Pay 40,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Pagar 40.000cr</ChoiceButtonText>
         <GeneratedItemName>Pay the Pirates (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -49042,7 +49042,7 @@ Os bancos de dados também revelam mais dois locais. É improvável que sejam o 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse to Pay</ChoiceButtonText>
+        <ChoiceButtonText>Recusar Pagar</ChoiceButtonText>
         <GeneratedItemName>Refuse to Pay (Teekan)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -50718,7 +50718,7 @@ Sempre priorizamos o conhecimento acima de tudo, mas neste caso, precisamos esco
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Access Logs</ChoiceButtonText>
+        <ChoiceButtonText>Acessar Relatórios</ChoiceButtonText>
         <GeneratedItemName>Access Logs Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -50743,7 +50743,7 @@ Sempre priorizamos o conhecimento acima de tudo, mas neste caso, precisamos esco
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Access Schematics</ChoiceButtonText>
+        <ChoiceButtonText>Acessar Esquemáticos</ChoiceButtonText>
         <GeneratedItemName>Access Schematics Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -50993,7 +50993,7 @@ A nave está gravemente danificada. Movê-la, ou mesmo interagir com ela, provav
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Retrieve Historical Data</ChoiceButtonText>
+        <ChoiceButtonText>Recuperar Dados Históricos</ChoiceButtonText>
         <GeneratedItemName>Retrieve Historical Data Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -51018,7 +51018,7 @@ A nave está gravemente danificada. Movê-la, ou mesmo interagir com ela, provav
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Retrieve Technological Data</ChoiceButtonText>
+        <ChoiceButtonText>Recuperar Dados Tecnológicos</ChoiceButtonText>
         <GeneratedItemName>Retrieve Technological Data Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -51297,7 +51297,7 @@ Porque sua reputação os precede, sabemos que vocês não podem resistir ao atr
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Demand to Examine Computer</ChoiceButtonText>
+        <ChoiceButtonText>Exigir Examinar o Computador</ChoiceButtonText>
         <GeneratedItemName>Demand to Examine Computer Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -51322,7 +51322,7 @@ Porque sua reputação os precede, sabemos que vocês não podem resistir ao atr
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Buy the Computer 35,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Comprar o Computador 35.000cr</ChoiceButtonText>
         <GeneratedItemName>Buy the Computer Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -51368,7 +51368,7 @@ Porque sua reputação os precede, sabemos que vocês não podem resistir ao atr
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Refuse to Buy the Computer</ChoiceButtonText>
+        <ChoiceButtonText>Recusar Comprar o Computador</ChoiceButtonText>
         <GeneratedItemName>Refuse to Buy the Computer Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -51393,7 +51393,7 @@ Porque sua reputação os precede, sabemos que vocês não podem resistir ao atr
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Buy the Computer 40,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Comprar o Computador 40.000cr</ChoiceButtonText>
         <GeneratedItemName>Buy the Computer Choice 2 (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -51583,7 +51583,7 @@ Porque sua reputação os precede, sabemos que vocês não podem resistir ao atr
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Demand a Refund</ChoiceButtonText>
+        <ChoiceButtonText>Exigir um Reembolso</ChoiceButtonText>
         <GeneratedItemName>Demand a Refund Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -51608,7 +51608,7 @@ Porque sua reputação os precede, sabemos que vocês não podem resistir ao atr
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Accept Your Loss</ChoiceButtonText>
+        <ChoiceButtonText>Aceitar sua Perda</ChoiceButtonText>
         <GeneratedItemName>Accept Your Loss Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -51912,7 +51912,7 @@ A base está protegida por sistemas defensivos. Não deve ser um grande desafio 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Override Defenses 25,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Hackear as Defesas 25.000cr</ChoiceButtonText>
         <GeneratedItemName>Override Defenses Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -51937,7 +51937,7 @@ A base está protegida por sistemas defensivos. Não deve ser um grande desafio 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Military Option</ChoiceButtonText>
+        <ChoiceButtonText>Opção Militar</ChoiceButtonText>
         <GeneratedItemName>Military Option Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -52462,7 +52462,7 @@ Já vimos isso antes. A verdade da história lentamente se desvanece na ficção
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Accept Their Decision</ChoiceButtonText>
+        <ChoiceButtonText>Aceitar sua Decisão</ChoiceButtonText>
         <GeneratedItemName>Accept Their Decision Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -52487,7 +52487,7 @@ Já vimos isso antes. A verdade da história lentamente se desvanece na ficção
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Try Something Else 25,000cr</ChoiceButtonText>
+        <ChoiceButtonText>Tentar Algo Diferente 25.000cr</ChoiceButtonText>
         <GeneratedItemName>Try Something Else Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -52605,7 +52605,7 @@ Já vimos isso antes. A verdade da história lentamente se desvanece na ficção
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Make Diplomatic Advances</ChoiceButtonText>
+        <ChoiceButtonText>Fazer Avanços Diplomáticos</ChoiceButtonText>
         <GeneratedItemName>Make Diplomatic Advances Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -52630,7 +52630,7 @@ Já vimos isso antes. A verdade da história lentamente se desvanece na ficção
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Steal Their Technology</ChoiceButtonText>
+        <ChoiceButtonText>Roubar sua Tecnologia</ChoiceButtonText>
         <GeneratedItemName>Steal Their Technology Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -53008,7 +53008,7 @@ Enviamos nossos melhores agentes tecnológicos para acessar os bancos de dados p
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Excavate the Outpost [-35,000cr]</ChoiceButtonText>
+        <ChoiceButtonText>Escavar o Posto Avançado [-35.000cr]</ChoiceButtonText>
         <GeneratedItemName>Excavate the Outpost (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -53033,7 +53033,7 @@ Enviamos nossos melhores agentes tecnológicos para acessar os bancos de dados p
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Ignore the Outpost</ChoiceButtonText>
+        <ChoiceButtonText>Ignorar o Posto Avançado</ChoiceButtonText>
         <GeneratedItemName>Ignore the Outpost (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -53259,7 +53259,7 @@ Entre as ruínas, também descobrimos outro artefato perdido de nosso glorioso p
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Excavate the Outpost [-35,000cr]</ChoiceButtonText>
+        <ChoiceButtonText>Escavar o Posto Avançado [-35.000cr]</ChoiceButtonText>
         <GeneratedItemName>Excavate the Outpost (Non Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -53284,7 +53284,7 @@ Entre as ruínas, também descobrimos outro artefato perdido de nosso glorioso p
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Ignore the Outpost</ChoiceButtonText>
+        <ChoiceButtonText>Ignorar o Posto Avançado</ChoiceButtonText>
         <GeneratedItemName>Ignore the Outpost (Non Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -54158,7 +54158,7 @@ Também encontramos a localização de outra instalação de pesquisa. Nosso pov
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Submit to the Blood Test</ChoiceButtonText>
+        <ChoiceButtonText>Submeter-se ao Teste de Sangue</ChoiceButtonText>
         <GeneratedItemName>Submit to the Blood Test Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -54183,7 +54183,7 @@ Também encontramos a localização de outra instalação de pesquisa. Nosso pov
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Force your way in</ChoiceButtonText>
+        <ChoiceButtonText>Forçar sua entrada</ChoiceButtonText>
         <GeneratedItemName>Force your way in Choice (Zenox)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -55240,7 +55240,7 @@ Devemos ativar o computador principal?</Description>
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Activate Main Computer</ChoiceButtonText>
+        <ChoiceButtonText>Ativar Computador Principal</ChoiceButtonText>
         <GeneratedItemName>Planet Destroyer Acquire Passcode (Mortalen)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -55265,7 +55265,7 @@ Devemos ativar o computador principal?</Description>
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Only Activate Other Systems</ChoiceButtonText>
+        <ChoiceButtonText>Ativar Apenas Outros Sistemas</ChoiceButtonText>
         <GeneratedItemName>Planet Destroyer Decline Activation</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -55321,7 +55321,7 @@ Qual é o código correto?</Description>
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Knowledge through Conquest</ChoiceButtonText>
+        <ChoiceButtonText>Conhecimento através da Conquista</ChoiceButtonText>
         <GeneratedItemName>Planet Destroyer Acquire Success</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -55346,7 +55346,7 @@ Qual é o código correto?</Description>
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Destruction is Purity</ChoiceButtonText>
+        <ChoiceButtonText>Destruição é Pureza</ChoiceButtonText>
         <GeneratedItemName>Planet Destroyer Acquire Failure</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -55660,7 +55660,7 @@ Devemos ativar o computador principal?</Description>
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Activate Main Computer</ChoiceButtonText>
+        <ChoiceButtonText>Ativar Computador Principal</ChoiceButtonText>
         <GeneratedItemName>Planet Destroyer Activate Computer (Other)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -55685,7 +55685,7 @@ Devemos ativar o computador principal?</Description>
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Only Activate Other Systems</ChoiceButtonText>
+        <ChoiceButtonText>Ativar Apenas Outros Sistemas</ChoiceButtonText>
         <GeneratedItemName>Planet Destroyer Decline Activation Other</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
