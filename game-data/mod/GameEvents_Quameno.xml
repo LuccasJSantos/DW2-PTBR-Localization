@@ -4479,7 +4479,7 @@ Teremos que esperar para ouvir mais do que este Guardião Antigo tem a dizer, su
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
           <MessageTitle>Nave Guardiã Antiga Avariada</MessageTitle>
-          <Description>Detectamos uma explosão. O IA se autodestruiu. Não conseguimos compreender sua mensagem final, que estava confusa e frequentemente contraditória.
+          <Description>Detectamos uma explosão. A IA se autodestruiu. Não conseguimos compreender sua mensagem final, que estava confusa e frequentemente contraditória.
 
 Ao examinar os destroços da nave, talvez possamos aprender algo sobre as armas que ela possuía.</Description>
 
@@ -4552,7 +4552,7 @@ Ao examinar os destroços da nave, talvez possamos aprender algo sobre as armas 
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Nave Guardiã Antiga Avariada</MessageTitle>
-        <Description>Tentamos tranquilizar o IA de que não queremos prejudicá-lo. Inicialmente, ele se recusou a responder, mas agora está abrindo comunicações novamente.
+        <Description>Tentamos tranquilizar a IA de que não queremos prejudicá-lo. Inicialmente, ele se recusou a responder, mas agora está abrindo comunicações novamente.
 
 "Sinto você me sondando com seus sensores. Vocês não sabem nada sobre sensores. Sobre sentir. Seu senso de si mesmo é apenas uma ilusão. Vou transmitir alguns dados. Eles não significarão nada para seus cérebros minúsculos. Estou acostumado a ser ignorado, então ficarei em silêncio para sempre."</Description>
 
@@ -4625,7 +4625,7 @@ Ao examinar os destroços da nave, talvez possamos aprender algo sobre as armas 
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Nave Guardiã Antiga Avariada</MessageTitle>
-        <Description>O IA se recusou a se comunicar desde seu último desabafo. Agora não detectamos mais assinaturas de energia vindo da nave. Parece que o IA se desligou, uma forma silenciosa de suicídio AI.</Description>
+        <Description>O IA se recusou a se comunicar desde seu último desabafo. Agora não detectamos mais assinaturas de energia vindo da nave. Parece que a IA se desligou, uma forma silenciosa de suicídio AI.</Description>
 
         <ImageFilepath />
         <MusicFilepath />
@@ -5705,7 +5705,7 @@ Também estamos detectando sinais de criaturas vivas dentro da nave. Certamente 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Desmontar o navio para peças</ChoiceButtonText>
+        <ChoiceButtonText>Desmontar a nave por peças</ChoiceButtonText>
         <GeneratedItemName>Scrap Ship Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -5730,7 +5730,7 @@ Também estamos detectando sinais de criaturas vivas dentro da nave. Certamente 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Explorar a Navio</ChoiceButtonText>
+        <ChoiceButtonText>Explorar a Nave</ChoiceButtonText>
         <GeneratedItemName>Explore Ship Choice (Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7165,7 +7165,7 @@ Isso provavelmente foi um eco psíquico da guerra antiga. Pelo menos, esperamos 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Desmontar o navio para peças</ChoiceButtonText>
+        <ChoiceButtonText>Desmontar a nave por peças</ChoiceButtonText>
         <GeneratedItemName>Scrap Ship Choice (Non Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
@@ -7190,7 +7190,7 @@ Isso provavelmente foi um eco psíquico da guerra antiga. Pelo menos, esperamos 
         <ResearchCategory>Undefined</ResearchCategory>
         <BonusType>Undefined</BonusType>
         <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText>Explorar o Navio</ChoiceButtonText>
+        <ChoiceButtonText>Explorar a Nave</ChoiceButtonText>
         <GeneratedItemName>Explore Ship Choice (Non Quameno)</GeneratedItemName>
         <AllConditionsMustBeMet>true</AllConditionsMustBeMet>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
