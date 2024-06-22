@@ -6,7 +6,7 @@ GREETING_ANGRY    ;Você de novo! O que você quer desta vez?
 OFFER_DEAL    ;Você aceitaria este acordo?
 OFFER_DEAL_RESPONSE  ;Que tipo de acordo você está oferecendo?
 
-PIRATEPROTECTION_DEAL    ;Procurando por um 'seguro' ao viajar por todos aqueles sistemas perigosos infestados de piratas?\n\nPelo incomumente razoável preço mensal de {0} créditos, podemos garantir que nossos capitães, que às vezes são excessivamente impetuosos, evitem danificar suas naves no fogo cruzado.\n\nInstamos que você aceite nossa generosa oferta e assim evite quaisquer acidentes desafortunados...
+PIRATEPROTECTION_DEAL    ;Procurando por um 'seguro' ao viajar por todos aqueles sistemas perigosos infestados de piratas?\n\nPelo incomumente razoável preço mensal de {0} créditos, podemos garantir que nossos capitães, que às vezes são excessivamente impetuosos, evitem danificar suas naves no fogo cruzado.\n\Pedimos que você aceite nossa generosa oferta e assim evite quaisquer acidentes desafortunados...
 
 DEAL_BEGIN    ;O que é este acordo?
 DEAL_ACCEPT    ;Nós aceitamos sua proposta.

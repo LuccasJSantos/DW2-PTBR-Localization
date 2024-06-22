@@ -33,7 +33,7 @@ INFO_OFFER_DEBRISFIELD			;Existem muitos segredos valiosos escondidos pela galá
 INFO_OFFER_RESTRICTEDAREA		;Existem muitos segredos valiosos escondidos pela galáxia.\n\nFizemos uma descoberta intrigante que ficaríamos felizes em compartilhar com você por {0} créditos.\n\nO que você diz?
 INFO_OFFER_PLANETDESTROYER		;Existem muitos segredos valiosos escondidos pela galáxia.\n\nFizemos uma descoberta intrigante que ficaríamos felizes em compartilhar com você por {0} créditos.\n\nO que você diz?
 
-OFFER_FREETRADE				;Instamos você a se juntar à nossa economia dinâmica em um Acordo de Livre Comércio!\n\nO que você diz?
+OFFER_FREETRADE				;Convidamos você a se juntar à nossa economia dinâmica em um Acordo de Livre Comércio!\n\nO que você diz?
 OFFER_PROTECTORATE			;Nossos amigos, oferecemos-lhe refúgio em um tratado de Protetorado. Nosso poderoso império irá defendê-lo contra quaisquer atacantes.\n\nO que você acha?
 OFFER_MUTUALDEFENSE			;Nossos bons amigos, sentimos que seria do interesse de ambos formar um Pacto de Defesa Mútua.\n\nIsso desencorajaria outros de lançar ataques contra qualquer um de nós.\n\nO que você acha?
 
@@ -161,8 +161,8 @@ GREETING_ANGRY				;O que você quer?
 
 OFFER_DEAL				;Você aceitaria este acordo?
 OFFER_DEAL_RESPONSE		;Que tipo de acordo você está oferecendo?
-'PIRATEPROTECTION_DEAL				;Quem sabe quais perigos ocultos o aguardam ao viajar pelas regiões sem lei do espaço?\n\nPela taxa mensal totalmente razoável de {0} créditos, podemos garantir que nossos capitães de nave, sempre prontos para atirar, evitem causar qualquer dano às suas naves.\n\nInstamos você a aceitar nossa oferta e assim evitar quaisquer acidentes desafortunados...
-PIRATEPROTECTION_DEAL				;Seria uma pena se alguma de suas naves ou bases sofresse danos.\n\nPela pequena taxa mensal de {0} créditos, podemos garantir que nossos capitães de nave, sempre prontos para atirar, evitem danificar suas naves.\n\nInstamos você a aceitar nossa oferta e assim evitar quaisquer acidentes desafortunados...
+'PIRATEPROTECTION_DEAL				;Quem sabe quais perigos ocultos o aguardam ao viajar pelas regiões sem lei do espaço?\n\nPela taxa mensal totalmente razoável de {0} créditos, podemos garantir que nossos capitães, que estão sempre preparados a atirar, evitem causar qualquer dano às suas naves.\n\nInsistimos você a aceitar nossa oferta e assim evitar quaisquer acidentes desafortunados...
+PIRATEPROTECTION_DEAL				;Seria uma pena se alguma de suas naves ou bases sofresse danos.\n\nPela pequena taxa mensal de {0} créditos, podemos garantir que nossos capitães, que estão sempre prontos para atirar, evitem danificar suas naves.\n\nPersistimos que você aceite nossa oferta e assim evitar quaisquer acidentes desafortunados...
 DEAL_BEGIN				;O que você propõe?
 DEAL_ACCEPT				;Aceitamos sua proposta
 DEAL_ACCEPT_RESPONSE		;Um excelente resultado!

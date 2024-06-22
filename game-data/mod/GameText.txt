@@ -2545,7 +2545,7 @@ Tech Bonus From Scrapping Ship		;Avanço Tecnológico ao Desmontar {0}
 Tech Bonus From Scrapping Ship Description		;Nós fizemos um avanço na pesquisa em [RESEARCH]{0}[/RESEARCH] ao examinar a tecnologia avançada ao desmontar o [LOCATION]{1} {2}[/LOCATION]
 Tech Bonus From Repairing Ship		;Avanço Tecnológico ao Reparar {0}
 Tech Bonus From Repairing Ship Description		;Nós fizemos um avanço na pesquisa em [RESEARCH]{0}[/RESEARCH] ao examinar a tecnologia avançada ao reparar o [LOCATION]{1} {2}[/LOCATION]
-X Research Completed		;{0} Pesquisa Concluída
+X Research Completed		;Concluída a Pesquisa de {0}
 X Research Completed Description		;Nós concluímos a pesquisa em [RESEARCH]{0}[/RESEARCH].\n\nEste projeto proporciona os seguintes avanços:\n[RESEARCH]{1}[/RESEARCH]
 Planets		;Planetas
 Character Killed by Bombardment		;{0} Morto por Bombardeio
@@ -2562,7 +2562,7 @@ Captured Base Looted and Destroyed		;Base Saqueada e Destruída
 Boarded Base Self Destructs Capture Loot		;Nós saqueamos {0} de [LOCATION]{1}[/LOCATION], então destruímos a base porque estava em uma colônia inimiga
 Boarded Base Self Destructs Loss		;A [FACTION]{0}[/FACTION] saqueou {1} de [LOCATION]{2}[/LOCATION], então destruímos nossa base porque estava em nossa colônia
 Discovery at X		;Descoberta em {0}
-We have discovered ancient ruins from a lost civilization		;Nós descobrimos os [DISCOVERY]{0}[/DISCOVERY], ruínas antigas de uma civilização perdida, na colônia {1} [LOCATION]{2}[/LOCATION] no sistema {3}.
+We have discovered ancient ruins from a lost civilization		;Nós descobrimos [DISCOVERY]{0}[/DISCOVERY], ruínas antigas de uma civilização perdida, na colônia {1} [LOCATION]{2}[/LOCATION] no sistema {3}.
 Should we investigate the ruins?		;Devemos investigar as ruínas?
 We have discovered hidden items		;Nós descobrimos itens escondidos em [LOCATION]{0}[/LOCATION] no sistema {1}.
 We have discovered new resources		;Nós descobrimos novos recursos em [LOCATION]{0}[/LOCATION] no sistema {1}.
@@ -3296,7 +3296,7 @@ EmpireIncidentFactorType Full ExterminatePopulation		;Estamos chocados e indigna
 EmpireIncidentFactorType Full FirstContact Positive		;Apreciamos sua cultura única
 
 'EmpireIncidentFactorType Full FirstContact Negative		;Estamos preocupados com seus estranhos modos alienígenas
-EmpireIncidentFactorType Full FirstContact Negative		;Não confiamos em você devido à nossa experiência limitada com você
+EmpireIncidentFactorType Full FirstContact Negative		;Nossa falta de experiência com você nos leva a não confiar em suas atitudes.
 
 EmpireIncidentFactorType Full Gift		;Agradecemos seus gentis presentes
 EmpireIncidentFactorType Full TradeDeals		;Estamos felizes com nossos acordos comerciais mutuamente benéficos
