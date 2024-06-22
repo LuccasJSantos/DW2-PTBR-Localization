@@ -236,13 +236,13 @@ Population		;População
 Others		;Outros
 Total		;Total
 Resources		;Recursos
-Development		;Desenvolvimento
+Development		;Desenvolv.
 Approval		;Aprovação
 Revenue		;Receita
 Base Revenue		;Receita Base
 Support Costs		;Custos de Suporte
 Corruption		;Corrupção
-Corruption Losses		;Perdas por Corrupção
+Corruption Losses		;Perdas por Corrupção.
 Diameter		;Diâmetro
 X% of empire		;{0} do império
 Tax		;Imposto
@@ -472,6 +472,7 @@ GameTaskType Short CreateNewFleet		;Criar Nova Frota
 GameTaskType Short DiplomaticCancelTreaty		;Cancelar Tratado
 GameTaskType Short DiplomaticDeclareWar		;Declarar Guerra
 GameTaskType Short DiplomaticGift		;Aceitar Presente
+GameTaskType Short DiplomaticGift Offer		;Oferecer Presente
 GameTaskType Short DiplomaticTreatyOffer		;Aceitar Tratado
 GameTaskType Short DiplomaticTreatyOffer Offer		;Oferecer Tratado
 GameTaskType Short DiplomaticTreatyOffer ResourceSupply		;Oferecer Contrato de Suprimento
@@ -619,6 +620,7 @@ Leave the Ship Alone		;Deixar Nave Intacta
 Show Me		;Mostrar-me
 Dismiss		;Dispensar
 
+
 EmpireRelationType FirstContact		;Primeiro Contato
 EmpireRelationType Defense		;Pacto de Defesa
 EmpireRelationType RestrictedTrade		;Acordo de Comércio Restrito
@@ -762,7 +764,7 @@ Colonization Suitability		;Adequação para Colonização
 No race can colonize		;Nenhuma raça pode colonizar
 Can colonize with SHIP containing RACE		;Pode colonizar com Nave Colonial '{0}' contendo {1}s
 Unknown		;Desconhecido
-Unknown X		;Desconhecido {0}
+Unknown X		;{0} Desconhecido
 Unknown mission		;Missão desconhecida
 Click for options		;Clique para opções
 Troops must be at a colony to be garrisoned		;As tropas devem estar em uma colônia para serem guarnecidas
@@ -988,7 +990,7 @@ BonusType HyperjumpSpeed		;Velocidade de Salto Hiperespacial
 BonusType ShipSpeed		;Velocidade da Nave
 BonusType ArmorStrength		;Força da Armadura
 BonusType MiningRate		;Taxa de Mineração
-BonusType ColonyPopulationGrowthRate		;Crescimento da População
+BonusType ColonyPopulationGrowthRate		;Desenvolv. da População
 BonusType PsyOps		;Operações Psíquicas
 BonusType RepairRate		;Taxa de Reparo
 
@@ -1059,7 +1061,7 @@ BonusType RecruitedTroopStrength Armor		;Força de Armadura Recrutada
 BonusType RecruitedTroopStrength Titan		;Força de Titã Recrutada
 BonusType RecruitedTroopStrength SpecialForces		;Força de Forças Especiais Recrutada
 BonusType RecruitedTroopStrength PlanetaryDefense		;Força de Defesa Planetária Recrutada
-BonusType ColonyDevelopment		;Crescimento da Colônia
+BonusType ColonyDevelopment		;Desenvolv. da Colônia
 BonusType ColonyDefense		;Defesa da Colônia
 BonusType Scenery		;Cenário
 BonusType RaidIncome		;Renda de Incursão
@@ -1444,8 +1446,6 @@ Industry		;Indústria
 Load Designs		;Carregar Projetos
 Load Designs Explanation		;Selecione um arquivo de projeto para carregar da lista abaixo.
 Load Designs Explanation Long		;Nota que apenas projetos compatíveis com sua tecnologia atual serão carregados, ou seja, você deve ter pesquisado o casco e todos os componentes para o projeto.
-;Você pode carregar projetos a qualquer momento durante o jogo, não apenas no início. Assim que alcançar tecnologia suficiente, pode recarregar projetos do mesmo arquivo para adicionar aqueles que anteriormente não puderam ser carregados devido à tecnologia não pesquisada.
-;Projetos idênticos aos existentes serão pulados (mesmo casco, componentes e nome). Se um projeto no arquivo tiver o mesmo nome de um projeto existente (mas não for idêntico), ele será carregado com '(NOVO)' adicionado ao seu nome.
 Save Designs		;Salvar Projetos
 Save Designs Explanation		;Digite ou selecione um nome de arquivo para salvar os projetos.
 Load		;Carregar
@@ -1477,6 +1477,8 @@ Latest Designs Per Role		;Últimos Projetos por Função
 Latest Buildable Designs Per Role		;Últimos Projetos Construíveis por Função
 Latest Designs Per Hull		;Últimos Projetos por Casco
 Latest Buildable Designs Per Hull		;Últimos Projetos Construíveis por Casco
+
+
 
 State Ships		;Naves Estatais
 State Bases		;Bases Estatais
@@ -1666,7 +1668,7 @@ Economy		;Economia
 Cash		;Dinheiro
 Cashflow		;Fluxo de Caixa
 Bonus Income		;Renda Extra
-Colony Approval		;Aceite da Colônia
+Colony Approval		;Aprov. da Colônia
 War Weariness		;Fadiga de Guerra
 
 Private Cash		;Dinheiro Privado
@@ -1830,7 +1832,7 @@ X colonies		;{0} colônias
 X systems		;{0} sistemas
 X population		;{0} população
 PLUS others		;+ outros
-Tax Rate		;Taxa de imposto
+Tax Rate		;Imposto
 Tax Revenue		;Receita tributária
 Research Output		;Produção de pesquisa
 Research Bonus Amounts		;Quantidades de bônus de pesquisa
@@ -2166,7 +2168,7 @@ Galaxy Shape Explanation Even Clusters		;Galáxias de aglomerados têm grupos de
 Galaxy Shape Explanation Varied Clusters		;Galáxias de aglomerados têm grupos de estrelas agrupadas juntas em constelações.\n\nEntre os aglomerados, há muito poucas estrelas, portanto cada aglomerado é como uma 'ilha' na galáxia, separada do próximo aglomerado por um mar de vazio.\n\nAglomerados variados significam que os tamanhos dos aglomerados variam - alguns são pequenos, enquanto outros são grandes.
 
 Your Empire Start Location Random		;Aleatório
-Your Empire Start Location Deep Core		;Núcleo Profundo
+Your Empire Start Location Deep Core		;Núcleo Interno
 Your Empire Start Location Outer Core		;Núcleo Externo
 Your Empire Start Location Inner Rim		;Borda Interna
 Your Empire Start Location Outer Rim		;Borda Externa
@@ -2533,14 +2535,15 @@ Colony Raid Succeeds Description		;Nosso saque contra [LOCATION]{0}[/LOCATION] d
 Colony Raid Unsuccessful		;Saque à Colônia Sem Sucesso
 Base Raid Unsuccessful		;Base Saqueada Sem Sucesso
 
+
 Facility Destroyed during Invasion		;{0} Destruída durante a Invasão
 Facility Destroyed during Invasion Description		;O [FACILITY]{0}[/FACILITY] em nossa colônia [LOCATION]{1}[/LOCATION] foi alvo e destruído pelas forças inimigas durante uma batalha terrestre.
 Character Killed during Invasion		;{0} Morto durante a Invasão
 Character Killed during Invasion Description		;Nosso [CHARACTER]{0} {1}[/CHARACTER] foi morto pelas forças inimigas durante uma batalha terrestre em [LOCATION]{2}[/LOCATION].
-New Ship Completed		;Novo {0} Completado
-New Ship Completed Description		;A construção de um novo {0} foi concluída em [LOCATION]{1}[/LOCATION].
+New Ship Completed		;{0} está pronta
+New Ship Completed Description		;A construção de uma nova {0} foi concluída em [LOCATION]{1}[/LOCATION].
 Retrofit Ship Completed		;Retrofit de {0} Concluído
-Retrofit Ship Completed Description		;O retrofit de um {0} foi concluído em [LOCATION]{1}[/LOCATION].
+Retrofit Ship Completed Description		;O retrofit de uma {0} foi concluído em [LOCATION]{1}[/LOCATION].
 Tech Bonus From Scrapping Ship		;Avanço Tecnológico ao Desmontar {0}
 Tech Bonus From Scrapping Ship Description		;Nós fizemos um avanço na pesquisa em [RESEARCH]{0}[/RESEARCH] ao examinar a tecnologia avançada ao desmontar o [LOCATION]{1} {2}[/LOCATION]
 Tech Bonus From Repairing Ship		;Avanço Tecnológico ao Reparar {0}
@@ -2567,7 +2570,7 @@ Should we investigate the ruins?		;Devemos investigar as ruínas?
 We have discovered hidden items		;Nós descobrimos itens escondidos em [LOCATION]{0}[/LOCATION] no sistema {1}.
 We have discovered new resources		;Nós descobrimos novos recursos em [LOCATION]{0}[/LOCATION] no sistema {1}.
 
-We have encountered an abandoned SHIPTYPE		;Nós encontramos um [DISCOVERY] {0} abandonado [/DISCOVERY], à deriva perto de {1} no sistema {2}
+We have encountered an abandoned SHIPTYPE		;Nós encontramos uma [DISCOVERY]{0} abandonada[/DISCOVERY], à deriva perto de {1} no sistema {2}
 We have completed repairs to an abandoned SHIPTYPE		;Nós concluímos os reparos em um [LOCATION] {0} abandonado [/LOCATION], à deriva perto de {1} no sistema {2}
 Should we investigate the ship?		;Devemos investigar a nave?
 Should we investigate the base?		;Devemos investigar a base?
@@ -2661,6 +2664,7 @@ AutomationLevel Explanation Manual		;Controlar manualmente esta área
 AutomationLevel Explanation SuggestExecute		;Os consultores farão sugestões que serão implementadas automaticamente após um curto período de espera para sua aprovação; isto é, as sugestões serão implementadas a menos que você as cancele
 AutomationLevel Explanation SuggestWait		;Os consultores farão sugestões, mas não as implementarão a menos que você as aprove
 
+
 Ship		;Nave
 Base		;Base
 Abandoned Ship Acquired		;Nave Abandonada Adquirida
@@ -2709,6 +2713,7 @@ GameEventActionType Description Nothing Ruins		;Nossa equipe de pesquisa não en
 Investigation Discovery Ruins		;Nas {0}, fizemos uma descoberta curiosa:
 Investigation Discovery Ship		;A bordo de {0}, fizemos uma descoberta curiosa:
 
+
 Acquire Event StellarObject		;Ao adquirir {0}, fizemos uma descoberta curiosa:
 Acquire Event Ruins		;Ao adquirir {0}, fizemos uma descoberta curiosa nas {1}:
 
@@ -2726,6 +2731,7 @@ EmpireRelationChange Event		;Nosso relacionamento recentemente iniciado com os {
 
 ResearchBreakthrough Event		;Nosso avanço de pesquisa em {0} resultou em uma descoberta curiosa:
 ResearchBreakthrough Event No Project		;Nosso avanço de pesquisa resultou em uma descoberta curiosa:
+
 
 GameEventActionType Description NavigationalCoordinates		;Um núcleo de dados revela algumas informações intrigantes: no núcleo de dados estão [DISCOVERY]DIREÇÕES DE NAVEGAÇÃO[/DISCOVERY] apontando para [LOCATION]{0}[/LOCATION].\n\nTalvez devêssemos enviar uma nave para investigar esta localização.
 GameEventActionType Description CoordinatesLostColony		;Encontramos um núcleo de dados contendo as [DISCOVERY]coordenadas de uma colônia perdida[/DISCOVERY]. A colônia pode ser encontrada em [LOCATION]{0} {1}[/LOCATION] no sistema {2}.\n\nDevemos nos apressar para esta localização e reivindicar esta colônia para nosso império.
@@ -3252,6 +3258,7 @@ EmpireIncidentFactorType Full ReleasePrisoner		;Agradecemos por devolver um pris
 EmpireIncidentFactorType Full DestroyThreat		;Agradecemos por eliminar ameaças perigosas
 EmpireIncidentFactorType Full ResearchDiplomacy		;Respeitamos seus esforços para entender outras culturas
 
+
 EmpireIncidentFactorType IllegalActionsAsVassal		;Ações Ilegais Como Vassalo
 EmpireIncidentFactorType Full IllegalActionsAsVassal		;Estamos chateados com suas ações proibidas contra outras facções enquanto somos seu vassalo
 
@@ -3640,7 +3647,7 @@ Character Event LoseBase		;Base Perdida
 Character Event LoseShipCivilian		;Nave Civil Perdida
 Character Event LoseShipMilitary		;Nave Militar Perdida
 Character Event LoseShipOtherState		;Nave Perdida
-Character Event NewSkill		;Novo Habilidade
+Character Event NewSkill		;Nova Habilidade
 Character Event NewTrait		;Novo Traço
 Character Event RaidBaseAttackerLoss		;Falha no Ataque à Base
 Character Event RaidBaseAttackerWin		;Sucesso no Ataque à Base
@@ -3865,6 +3872,22 @@ Character Mission SabotageConstruction		;Sabotar Construção
 Character Mission StealGalaxyMap		;Roubar Mapa da Galáxia
 Character Mission StealOperationsMap		;Roubar Mapa de Operações
 Character Mission StealTechData		;Roubar Informações de Pesquisa
+Character Mission StealTerritoryMap    ;Roubar Mapa de Território
+Character Mission InfluenceEmpirePositively    ;Influenciar o Império Positivamente
+Character Mission InfluenceEmpireNegatively    ;Influenciar o Império Negativamente
+Character Mission InternalStabilization    ;Estabilização Interna
+
+Character Mission Description CounterIntelligence    ;Contra-inteligência contra agentes estrangeiros
+Character Mission Description AssassinateCharacter    ;Assassinar {0} {1}
+Character Mission Description DeepCover    ;Infiltrar o {0}
+Character Mission Description DestroyBase    ;Destruir {0}
+Character Mission Description CaptureBase    ;Capturar {0}
+Character Mission Description InciteRevolution    ;Incitar Revolução no {0}
+Character Mission Description SabotageColony    ;Sabotar a colônia {0}
+Character Mission Description SabotageConstruction    ;Sabotar construção em {0}
+Character Mission Description StealGalaxyMap    ;Roubar o Mapa da Galáxia do {0}
+Character Mission Description StealOperationsMap    ;Roubar o Mapa de Operações do {0}
+Character Mission Description StealTechData    ;Roubar informações de pesquisa sobre {0}
 Character Mission Description StealTerritoryMap		;Roubar o Mapa de Território do {0}
 Character Mission Description InfluenceEmpirePositively		;Melhorar a avaliação de {0} sobre {1}
 Character Mission Description InfluenceEmpireNegatively		;Reduzir a avaliação de {0} sobre {1}
@@ -4278,7 +4301,6 @@ Load Fleet Templates		;Carregar Modelos de Frota
 Load Fleet Templates Explanation		;Selecione um arquivo de modelo de frota para carregar da lista abaixo.
 Save Fleet Templates		;Salvar Modelos de Frota
 Save Fleet Templates Explanation		;Digite ou selecione um nome de arquivo para salvar os modelos de frota.
-
 New ROLE Fleet		;Nova Frota {0}
 Ship Count		;Contagem de Naves
 ROLE Fleet		;Frota {0}
@@ -4330,8 +4352,8 @@ Cannot delete selected army templates		;Não é possível excluir os modelos de 
 New TYPE Army		;Novo Exército {0}
 
 Damage		;Dano
-Net Tax Revenue		;Receita Líquida de Impostos
-Gross Tax Revenue		;Receita Bruta de Impostos
+Net Tax Revenue		;Receita Líq. Impostos
+Gross Tax Revenue		;Receita Bruta Impostos
 Crash Research Cost		;Custo de Pesquisa Rápida
 when research begins		;quando a pesquisa começa
 Crash Program		;Programa de Emergência
@@ -4341,8 +4363,6 @@ Foreign ship joins us		;Nave estrangeira se junta a nós
 After eliminating EMPIRE one of their ships NAME has decided to join us		;Após eliminar o [FACTION]{0}[/FACTION], uma de suas naves ({1}) decidiu se juntar ao nosso império
 Foreign ships join us		;Naves estrangeiras se juntam a nós
 After eliminating EMPIRE one of their ships NAME has decided to join us		;Depois de eliminar o [FACTION]{0}[/FACTION], uma de suas naves ({1}) decidiu se juntar ao nosso império
-Foreign ships join us		;Naves estrangeiras se juntam a nós
-After eliminating EMPIRE COUNT of their ships have decided to join us		;Depois de eliminar o [FACTION]{0}[/FACTION], algumas de suas naves decidiram se juntar ao nosso império ({1} naves)
 
 Their feeling toward us		;Sentimento deles em relação a nós
 Our feeling toward them		;Nosso sentimento em relação a eles
@@ -4809,7 +4829,7 @@ Advisors and Automation		;Conselheiros e Automação
 AutomationPreset Custom		;(Personalizado)
 AutomationPreset Default		;Padrão
 AutomationPreset Expert		;Perito (Nenhum)
-AutomationPreset Full		;Regra na Ausência (Completo)
+AutomationPreset Full		;Governar na Ausência (Todos)
 AutomationPreset Expansion		;Expansão
 AutomationPreset War		;Guerra e Combate
 AutomationPreset Diplomacy		;Diplomacia
@@ -5011,7 +5031,15 @@ Resources and Mining		;Recursos e Mineração
 Launch Tour of Ship Design		;Iniciar um tutorial pelo Design de Naves
 Launch Tour of Research Screen		;Iniciar um tutorial pela Tela de Pesquisa
 Tours		;Tutoriais
-to poor skills and general incompetence		;[CHARACTER]{0} {1}[/CHARACTER] foi demitido devido a habilidades deficientes e incompetência geral
+Show Tours    ;Mostrar Tours
+
+Latest Active Design for Role    ;Último Design Ativo para Função
+No missing ship roles    ;Sem funções de nave faltando
+Berserk AI    ;Antiga IA Mortalen de Destruição de Planetas
+Berserk AI Leader Title    ;Lógica Central
+Shard    ;Fragmento
+
+ROLE NAME has been dismissed due to poor skills and general incompetence		;[CHARACTER]{0} {1}[/CHARACTER] foi demitido devido a habilidades deficientes e incompetência geral
 Shield Recharge		;Recarga de Escudo
 Shield Recharge Energy Usage		;Energia p/ Recarga de Escudo
 
@@ -5148,11 +5176,14 @@ PolicyExplanation IntelligenceMissionAllowDeepCover		;Permite ou não missões d
 PolicyExplanation IntelligenceMissionAllowAssassinate		;Permite ou não missões de Assassinato para seus espiões.
 PolicyExplanation IntelligenceMissionAllowSabotageColony		;Permite ou não missões de Sabotagem de Colônia para seus espiões.
 PolicyExplanation IntelligenceMissionAllowInciteRevolution		;Permite ou não missões de Incitar Revolução para seus espiões.
+
 PolicyExplanation IntelligenceMissionAllowCaptureBase		;Permite ou não missões de Capturar Base para seus espiões.
 PolicyExplanation IntelligenceMissionAllowInfluenceEmpirePositively		;Permite ou não missões de Influenciar Império Positivamente para seus espiões.
 PolicyExplanation IntelligenceMissionAllowInfluenceEmpireNegatively		;Permite ou não missões de Influenciar Império Negativamente para seus espiões.
 PolicyExplanation IntelligenceMissionAllowInternalStabilization		;Permite ou não missões de Estabilização Interna para seus espiões.
+
 PolicyExplanation AutomationPreset		;Selecione uma configuração de automação predefinida que se adapte a um estilo de jogo específico.
+
 Settings Explanation ScrollSpeed		;Velocidade de movimento ao percorrer a tela para a esquerda, direita, para cima ou para baixo usando as teclas A, S, D, W ou panning da borda da tela.
 Settings Explanation ZoomSpeed		;Velocidade de zoom ao aproximar ou afastar a visualização usando a roda de rolagem do mouse ou as teclas PageUp, PageDown.
 Settings Explanation MouseDragMovesView		;Se o clique e arraste do mouse movimenta a visualização ou seleciona várias naves. Quando configurado para movimentar a visualização, você pode selecionar várias naves usando Ctrl + clique e arraste.
@@ -5188,6 +5219,7 @@ Settings Explanation GalaxyViewDisplayUnknownShips		;Exibir símbolos de naves d
 Settings Explanation GalaxyViewDisplayAlwaysEnemyFleets		;Se deve sempre exibir símbolos de frota inimiga ao visualizar o nível da galáxia.
 Settings Explanation GalaxyViewDisplayAlwaysEnemyMilitaryShips		;Se deve sempre exibir símbolos de naves militares inimigos ao visualizar o nível da galáxia.
 Settings Explanation GalaxyViewDisplayCreatures		;Exibir símbolos de criaturas espaciais ao visualizar o nível da galáxia.
+
 Editor Explanation Empire Name		;Digite aqui para alterar o nome desta facção
 Editor Explanation Empire Government		;Selecione um governo para esta facção
 Editor Explanation Empire Money		;Ajuste a quantidade de dinheiro (em caixa) para esta facção
@@ -5212,19 +5244,24 @@ Editor Explanation Colony Empire		;Mude o império desta colônia selecionando n
 Editor Explanation Colony DevelopmentLevelRaw		;Ajuste o nível de desenvolvimento bruto para esta colônia
 Editor Explanation Colony RaidCountdown		;Ajuste a contagem regressiva de raid para esta colônia
 Editor Explanation Colony Unrest		;Ajuste o nível de agitação para esta colônia
+
 We are enraged at your enslavement of our population		;Estamos enfurecidos com a escravização de nossa população
+
 Troop recruitment and garrison at NAME is automated		;O recrutamento de tropas e guarnição em {0} está automatizado
 Troop recruitment and garrison at NAME is manual		;O recrutamento de tropas e guarnição em {0} é controlado manualmente
 Resource stock levels at NAME is automated		;Os níveis de estoque de recursos em {0} estão automatizados
 Resource stock levels at NAME is manual		;Os níveis de estoque de recursos em {0} são controlados manualmente
 NOTE: Bases at colonies share the resources stock levels from the colony		;NOTA: Bases em colônias compartilham os níveis de estoque de recursos da colônia
+
 Rendering Format		;Formato de Renderização
 Standard Range rendering		;Renderização Padrão
 High Dynamic Range rendering		;Renderização HDR
+
 Extended		;Extendido
 Error while saving game. Check that you have enough storage space		;Erro ao salvar o jogo. Verifique se você tem espaço de armazenamento suficiente. Veja a pasta data/logs para detalhes do erro.
 Warning - Low Storage Space		;Aviso - Espaço de Armazenamento Baixo
 You have low storage space. Your game may fail to save.		;Você tem pouco espaço de armazenamento. Seu jogo pode falhar ao salvar.
+
 Apply Tactics Description - Designs in Fleet		;Aplicar estas configurações táticas a todas as naves deste Design nesta Frota
 Apply Tactics Description - Roles in Fleet		;Aplicar estas configurações táticas a todas as naves desta Função nesta Frota
 Apply Tactics Description - Position in Fleet		;Aplicar estas configurações táticas a todas as naves desta Posição nesta Frota
@@ -5237,10 +5274,10 @@ Fleets Military Attacks Automation Explanation		;As frotas não irão automatica
 EMPIRE reports		;Relatórios de {0}
 
 FleetEngagementRange Explanation		;A Faixa de Engajamento da Frota especifica quando uma frota irá engajar alvos.\n\nNão Engajar: a frota nunca irá engajar inimigos\nEngajar Quando Atacado: irá engajar inimigos somente quando diretamente atacada por eles\nPróximo: irá engajar alvos inimigos próximos\nMesmo Local: irá engajar alvos inimigos no mesmo local (planeta e luas)\nMesmo Sistema: irá engajar alvos inimigos no mesmo sistema estelar\n50M de alcance: irá engajar alvos inimigos dentro de 50 milhões de unidades\n100M de alcance: irá engajar alvos inimigos dentro de 100 milhões de unidades\n200M de alcance: irá engajar alvos inimigos dentro de 200 milhões de unidades\n300M de alcance: irá engajar alvos inimigos dentro de 300 milhões de unidades\n33% do Alcance de Combustível: irá engajar alvos inimigos dentro de 33% do alcance de combustível da frota\n50% do Alcance de Combustível: irá engajar alvos inimigos dentro de 50% do alcance de combustível da frota\n\nNote que a faixa de engajamento da frota substitui as faixas de engajamento das naves individuais na frota. Ou seja, quando uma nave faz parte de uma frota, ela usa a faixa de engajamento da frota em vez de sua própria faixa de engajamento.
-
 Explicação Coerência de Formação da Frota		;Especifica a proximidade das naves de Escolta Próxima e Piquete em relação às suas naves Núcleo escoltadas na frota.
 Explicação Permite Reatribuição de Função de Nave na Frota		;Isso determina se as naves podem ter sua 'Função Dentro da Frota' reatribuída automaticamente ou não. Isso significa que sempre que uma nova nave líder de frota for selecionada (por exemplo, quando uma nave melhor se juntar à frota ou quando a nave líder anterior se perder), então as naves Núcleo, Escolta Próxima e Piquete podem mudar.
 FleetRetreatOverwhelmed Explanation		;Determina quando toda a frota decidirá se retirar de uma batalha.
+
 FleetOverrideShipTacticsWithFleet Explanation		;Especifica se as naves em uma frota usam táticas individuais próprias, ou em vez disso, usam um conjunto comum de substituições táticas de sua frota.
 
 ShipRoleInFleet Explanation		;A posição na frota especifica como a nave opera dentro de uma frota.\n\nNúcleo: As naves do Núcleo são as mais importantes na frota e são escoltadas pelas outras naves da frota (Escolta Próxima e Patrulha). Normalmente, uma frota terá apenas uma ou duas naves do Núcleo.\nEscolta Próxima: essas naves escoltam as naves do Núcleo em um perímetro defensivo próximo. Quando não há inimigos presentes ou quando os inimigos estão em todos os lados, elas formam um perímetro defensivo circular em torno das naves do Núcleo. Quando as forças inimigas predominam em uma direção, elas formam uma formação defensiva em arco entre as naves do Núcleo e as naves inimigas.\nPatrulha: essas naves escoltam as naves do Núcleo em um perímetro defensivo mais distante. Quando não há inimigos presentes ou quando os inimigos estão em todos os lados, elas formam um perímetro defensivo circular em torno das naves do Núcleo. Quando as forças inimigas predominam em uma direção, elas formam uma formação defensiva em arco entre as naves do Núcleo e as naves inimigas.
@@ -5249,17 +5286,23 @@ AttackRangeWeaker Explanation		;Isso determina como uma nave irá engajar um alv
 AttackRangeStronger Explanation		;Isso determina como uma nave irá engajar um alvo mais forte que ela, incluindo como determina a faixa ótima a usar.\n\nEsquivar: a nave tentará permanecer fora do alcance de armas do alvo inimigo.\nCauteloso: a nave selecionará uma faixa de ataque que causa algum dano ao inimigo enquanto minimiza o dano recebido de volta.\nNeutro: a nave selecionará uma faixa de ataque que causa o máximo de dano ao inimigo enquanto evita danos excessivos a si mesma.\nAgressivo: a nave selecionará uma faixa de ataque que causa o máximo de dano ao inimigo com pouca consideração pelo dano inimigo recebido.
 ShipRetreatOptions Explanation		;Isso especifica quando uma nave irá fugir de uma localização de batalha.\n\nInimigo no Mesmo Sistema: irá fugir ao primeiro sinal de um inimigo no mesmo sistema estelar.\nInimigo na Mesma Localização: irá fugir ao primeiro sinal de um inimigo na mesma localização.\nInimigo Próximo: irá fugir quando um inimigo estiver próximo na mesma localização.\nQuando Atacado: irá fugir quando diretamente atacado por um inimigo.\nEscudos abaixo de 50% ou qualquer dano à Armadura: irá fugir quando os escudos caírem abaixo de 50% ou qualquer armadura for danificada.\nEscudos abaixo de 20% ou Armadura abaixo de 50%: irá fugir quando os escudos caírem abaixo de 20% ou a armadura estiver abaixo de 50%.\nQualquer componente não defensivo danificado: irá fugir quando qualquer componente não defensivo for danificado, ou seja, componentes além de escudos ou armadura.\n20% dos componentes não defensivos danificados: irá fugir quando 20% dos componentes não defensivos estiverem danificados.\n50% dos componentes não defensivos danificados: irá fugir quando 50% dos componentes não defensivos estiverem danificados.\nNunca: esta nave nunca irá fugir da batalha.
 InvasionTactics Explanation		;Isso determina como uma nave irá desembarcar tropas durante uma invasão colonial.\n\nImediatamente: a nave tentará desembarcar tropas imediatamente na colônia.\nQuando Claro: a nave aguardará até que todas as defesas estáticas na colônia tenham sido eliminadas antes de invadir. Isso inclui todas as bases defensoras em órbita ao redor da colônia.\nNunca: a nave nunca irá invadir colônias inimigas.
+
 Upon acquiring SHIPNAME in the SYSTEM system we have made the following discovery		;Ao adquirir [LOCATION]{0}[/LOCATION] no sistema {1}, fizemos a seguinte descoberta na carga útil
+
 Warning - low suitability colony explanation		;AVISO: colônias com adequação abaixo de 20 incorrem em altos custos de suporte, o que pode torná-las um dreno líquido para sua economia
 Warning - low suitability Outpost alternative		;Considere em vez disso estabelecer um Posto Avançado neste local. Os Postos Avançados têm custos fixos de suporte, mas não crescem nem geram renda. No entanto, podem ser úteis para obter bônus ou recursos valiosos em um local.
 Warning - low suitability no colony possible		;AVISO: a colonização não é possível quando a adequação está abaixo de zero
 Low Suitability		;Adequação Baixa
 Suitability With Race LOW		;Colonizar com {0}, ADEQUAÇÃO BAIXA: {1}
+
 Mined Location Foreign Sources Explanation		;Locais Minerados incluem locais estrangeiros\nde acordos comerciais
 includes foreign locations from trade agreements		;inclui locais estrangeiros de acordos comerciais
 Note that this excludes fleet Fuel Tankers		;Observe que isso exclui Naves-Tanque da frota, que são retrofitados separadamente
+
 Research Advances		;Avanços em Pesquisa
+
 Generic Display Adapter Explanation		;Distant Worlds detectou que seu PC está usando o adaptador de exibição genérico 'Microsoft Basic Render Driver'. Isso significa que você provavelmente está sem um driver de exibição adequado do fabricante (NVidia, AMD, etc).\n\nSem um driver de exibição adequado, Distant Worlds rodará mal, ou talvez nem rode. É altamente recomendável instalar um driver de exibição adequado para seu PC.
+
 Continue Game		;Continuar Jogo
 No saved games are available to continue		;Não há jogos salvos disponíveis para continuar
 Continuing GAME		;Continuar jogo salvo '{0}'
@@ -5268,8 +5311,10 @@ EMPIRE honors their Defense Treaty with you: we declare WAR against AGGRESSOR		;
 We honor our Defense Treaty with you		;Honramos nosso Tratado de Defesa com você
 Honor Defense Treaty and Declare War on AGGRESSOR		;Honrar o Tratado de Defesa e Declarar Guerra contra {0}
 EMPIRE has been attacked by AGGRESSOR and calls on us to honor our Defense Treaty with them		;O [FACTION]{1}[/FACTION] foi atacado pelo [FACTION]{0}[/FACTION] e nos convoca a honrar nosso Tratado de Defesa com eles.\n\nHonrar nosso Tratado de Defesa melhorará significativamente nossas relações com o [FACTION]{1}[/FACTION] e aumentará nossa reputação.\n\nO não cumprimento de nosso tratado terá um impacto muito negativo em nossas relações com o [FACTION]{1}[/FACTION] e prejudicará nossa reputação.\n\nDeveríamos declarar guerra ao [FACTION]{0}[/FACTION]?
+
 As loyal Vassals we have Honored our Defense Treaty and Declared War on AGGRESSOR		;Como vassalos leais, honramos nosso Tratado de Defesa e declaramos guerra a {0}.
 EMPIRE has been attacked by AGGRESSOR and calls on us to honor our Defense Treaty with them Vassal		;O [FACTION]{1}[/FACTION] foi atacado pelo [FACTION]{0}[/FACTION] e nos convoca a honrar nosso Tratado de Defesa com eles.\n\nComo vassalos leais de {1}, declaramos guerra a {0}.
+
 Honor Defense Treaty and Declare War		;Honrar Tratado de Defesa e Declarar Guerra
 Leave me out of this...		;Deixe-me fora disso...
 
