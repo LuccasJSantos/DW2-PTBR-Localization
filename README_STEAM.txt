@@ -15,7 +15,8 @@ Esta é uma tradução quase¹ completa do jogo Distant Worlds 2, baseada na ver
     [*]Abra o diretório do mod: Na sua biblioteca Steam, clique com o botão direito no jogo > Gerenciar > Explorar arquivos locais. Navegue de volta até chegar à pasta "steamapps" e abra o diretório do mod clicando em workshop > content > 1531540 > 3273120841
 
     [olist]
-        [*]Se você tem as DLCs do jogo, siga para o passo abaixo. Caso você [b]NÃO[/b] tenha as DLCs, exclua os arquivos [b]"Races_Dhayut.xml"[/b], [b]"Races_Gizurean.xml"[/b], [b]"Races_Ikkuro.xml"[/b] e [b]"Races_Quameno.xml"[/b]. Nesse caso, o jogo apresentará um erro durante o carregamento da galáxia, apenas clique em "Continuar" que irá carregar normalmente.
+        [*]Se você tem as DLCs do jogo, siga para o próxmo passo. Caso você [b]NÃO[/b] tenha as DLCs, exclua os arquivos [b]"Races_Dhayut.xml"[/b], [b]"Races_Gizurean.xml"[/b], [b]"Races_Ikkuro.xml"[/b] e [b]"Races_Quameno.xml"[/b]. Remova apenas os arquivos das raças das DLCs que você não tem (caso você tenha pelo menos uma).
+Obs.: O jogo apresentará um erro durante o carregamento da galáxia, apenas clique em "Continuar" que irá carregar normalmente.
 
         [*]Abra a pasta "Arquivos de Instalação".
     [/olist]
