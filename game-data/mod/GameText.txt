@@ -211,7 +211,7 @@ Shields		;Escudos
 Speed		;Velocidade
 Weapons		;Armas
 Health		;Saúde
-Max DPS		;DPS Máximo
+Max DPS		;DPS Máx.
 Range		;Alcance
 Avg DPS		;DPS Médio
 Min DPS		;DPS Mínimo
@@ -307,8 +307,8 @@ GameTaskType AssignCharacterMission		;
 GameTaskType QueueBase		;Construir {0} ({1}) em {2} por {3} créditos
 GameTaskType QueueBase Constructor		;Enviar {4} para construir {0} ({1}) em {2} por {3} créditos
 GameTaskType QueueRepairInvestigate		;Reparar e Investigar {0} ({1})
-GameTaskType QueueColonize		;Construir Nave Colonizadora e Colonizar {0}
-GameTaskType QueueEstablishOutpost		;Construir Nave Colonizadora e Estabelecer Posto Avançado em {0}
+GameTaskType QueueColonize		;Construir Nave Colonial e Colonizar {0}
+GameTaskType QueueEstablishOutpost		;Construir Nave Colonial e Estabelecer Posto Avançado em {0}
 GameTaskType CancelQueueBase		;Cancelar construção de {0} em {1}
 GameTaskType CancelQueueRepairInvestigate		;Cancelar reparação e investigação de {0} ({1})
 GameTaskType CancelQueueColonize		;Cancelar colonização de {0}
@@ -786,55 +786,55 @@ Move ITEM up queue		;Mover {0} para cima na fila
 Move ITEM down queue		;Mover {0} para baixo na fila
 Move ITEM to top of queue		;Mover {0} para o topo da fila
 
-AreaShieldRechargeAmount		;Quantidade Máxima de Recarga de Escudo
-AreaShieldRechargeEnergyUsedPerUnitCharged		;Energia Necessária por Unidade Carregada
-AreaShieldRechargeRange		;Alcance de Recarga de Escudo
+AreaShieldRechargeAmount		;Qtd. Máx. de Recarga
+AreaShieldRechargeEnergyUsedPerUnitCharged		;Energia Necessária
+AreaShieldRechargeRange		;Alcance de Recarga
 ArmorBlastRating		;Classificação
 ArmorReactiveRating		;Classificação Reactiva
 AssaultDefense		;Defesa de Assalto
 AssaultPodBoardingRange		;Alcance de Embarque
-AssaultPodEnergyPerLaunch		;Energia Usada por Lançamento
-AssaultPodLaunchRate		;Taxa de Lançamento
+AssaultPodEnergyPerLaunch		;Energia Usada pela Cápsula
+AssaultPodLaunchRate		;Taxa Lançamento
 AssaultPodMovementSpeed		;Velocidade de Movimento
 AssaultPodShieldPenetration		;Penetração de Escudo
 AssaultPodStrength		;Força de Assalto
 CargoCapacity		;Capacidade de Carga
-ColonizationPopulationAmount		;Quantidade de População para Colonização
-CommandMaintenanceSavings		;Economia Manut. de Comando
+ColonizationPopulationAmount		;Quantidade de População
+CommandMaintenanceSavings		;Economia de Manutenção
 CommerceTradeBonus		;Bônus de Comércio
-ComponentCountermeasuresBonus		;Bônus de Contramedidas
-ComponentIonDefense		;Defesa de Íons do Componente
-ComponentTargetingBonus		;Bônus de Orientação de Armas
-ConstructionBuildSpeed		;Velocidade de Construção
-ConstructionRepairSpeed		;Velocidade de Reparo
-ConstructionYardCount		;Número de Estaleiros de Construção
-CountermeasuresBonus		;Bônus de Contramedidas
-CountermeasuresFleetBonus		;Bônus de Contramedidas da Frota
+ComponentCountermeasuresBonus		;Contramedidas da Arma
+ComponentIonDefense		;Defesa Iônica
+ComponentTargetingBonus		;Bônus de Mira
+ConstructionBuildSpeed		;Vel. de Construção
+ConstructionRepairSpeed		;Vel. de Reparo
+ConstructionYardCount		;Estaleiros de Construção
+CountermeasuresBonus		;Contramedidas
+CountermeasuresFleetBonus		;Contramedidas da Frota
 CrewCapacity		;Capacidade da Tripulação
 CrewRequirement		;Requisito de Tripulação
 DamageReduction		;Redução de Dano
 DamageRepair		;Reparo de Dano
-DestroyedRepair		;Chance de Reparo Após Destruição
+DestroyedRepair		;Chance de Reparo pós Destruição
 HullRepair		;Reparo do Casco
-CreatureWeaponReduction		;Redução de Força das Armas das Criaturas
+CreatureWeaponReduction		;Redução de Força de Criaturas
 Creatures Affected		;Criaturas Afetadas
 DockingBayShipCount		;Número de Naves no Hangar
-DockingBayThroughput		;Taxa de Transferência
-EnergyCollectionRate		;Taxa de Coleta de Energia
-EnergyFuelProductionRate		;Taxa de Produção de Combustível
+DockingBayThroughput		;Taxa Transferência
+EnergyCollectionRate		;Taxa Coleta Energia
+EnergyFuelProductionRate		;Taxa Produção Combustível
 EngineMainCruiseThrust		;Empuxo de Cruzeiro
-EngineMainCruiseThrustEnergyUsage		;Uso de Energia do Empuxo de Cruzeiro
-EngineMainMaximumThrust		;Empuxo Máximo
-EngineMainMaximumThrustEnergyUsage		;Uso Máximo de Energia
+EngineMainCruiseThrustEnergyUsage		;Uso de Energia de Cruzeiro
+EngineMainMaximumThrust		;Empuxo Máx.
+EngineMainMaximumThrustEnergyUsage		;Uso Máx. de Energia
 EngineVectoringEnergyUsage		;Uso de Energia do Vetor
 EngineVectoringThrust		;Empuxo do Vetor
-ExtractionRate		;Taxa de Extração
-ExtractionRangeAsteroid		;Alcance de Mineração
-RemoteFuelTransferRate		;Taxa de Transf. de Combustível
-RemoteFuelTransferRange		;Alcance de Transf. de Combustível
-FighterBayBuildRate		;Taxa de Construção de Caças
+ExtractionRate		;Taxa Extração
+ExtractionRangeAsteroid		;Alcance de Mineração Asteróides
+RemoteFuelTransferRate		;Taxa Transf. Combustível
+RemoteFuelTransferRange		;Alcance de Transf. Combustível
+FighterBayBuildRate		;Taxa Construção de Caças
 FighterBayCapacity		;Espaço do Hangar de Caças
-FighterBayRepairRate		;Taxa de Reparo do Hangar de Caças
+FighterBayRepairRate		;Taxa Reparo do Hangar de Caças
 FuelStorageCapacity		;Armazenamento de Combustível
 HyperDenyEnergyUsage		;Uso de Energia do HyperDeny
 HyperDenyRange		;Alcance do HyperDeny
@@ -845,112 +845,112 @@ HyperDriveJumpInitiationTime		;Tempo de Início do Salto
 HyperDriveJumpRange		;Alcance de Salto
 HyperDriveJumpAccuracy		;Precisão do Salto
 HyperDriveRechargeTime		;Tempo de Recarga
-HyperDriveSpeed		;Velocidade do HyperDrive
+HyperDriveSpeed		;Vel. do HyperDrive
 HyperStopRange		;Alcance do HyperStop
 HyperStopStrength		;Força do HyperStop
-IonDamageDefense		;Defesa Contra Danos de Íons
+IonDamageDefense		;Defesa Contra Danos Iônicos
 MedicalRating		;Classificação Médica
 PassengerCapacity		;Capacidade de Passageiros
 ReactorEnergyOutputPerSecond		;Saída de Energia
 ReactorEnergyStorageCapacity		;Capacidade
 ReactorFuelResourceId		;Recurso de Combustível
-ReactorFuelUnitsForFullCharge		;Unidades de Combustível para Carga Completa
-ReactorFuelEnergyRatio		;Taxa de Combustível para Energia
+ReactorFuelUnitsForFullCharge		;Combustível para Carga Completa
+ReactorFuelEnergyRatio		;Taxa Combustível para Energia
 RecreationRating		;Classificação de Recreação
-ResearchLabOutput		;Produção do Lab. de Pesquisa
-ScannerEmpireMaskingPower		;Poder de Camuflagem do Império
+ResearchLabOutput		;Produção da Pesquisa
+ScannerEmpireMaskingPower		;Poder de Máscara do Império
 ScannerExplorationPower		;Poder de Exploração
 ScannerExplorationSurveyAmount		;Quantidade de Busca
-ScannerExplorationSurveyMaximumLevel		;Nível Máximo de Busca
+ScannerExplorationSurveyMaximumLevel		;Nível Máx. de Busca
 ScannerExplorationSurveyTime		;Tempo de Busca
 ScannerExplorationTime		;Tempo de Exploração
 ScannerExplorationRange		;Alcance de Exploração
-ScannerJammingPower		;Poder de Interferência (Scanner)
+ScannerJammingPower		;Interferência do Scanner
 ScannerJumpTrackingChance		;Rastreamento de Salto
-ScannerLongRange		;Alcance Longo do Scanner
-ScannerLongRangePower		;Poder de Alcance Longo
-ScannerRoleMaskingPower		;Poder de Camuflagem de Função
+ScannerLongRange		;Alcance do Scanner
+ScannerLongRangePower		;Poder do Scanner
+ScannerRoleMaskingPower		;Poder de Máscara de Função
 ScannerTracePower		;Poder de Rastreamento
 ScannerTraceRange		;Alcance de Rastreamento
-ShieldPenetrationChance		;Chance de Penetração de Escudo
-ShieldPenetrationRatio		;Taxa de Penetração de Escudo
-ShieldRechargeRate		;Taxa de Recarga de Escudo
-ShieldRechargeEnergyUsage		;Energia p/ Recarga do Escudo
-ShieldResistance		;Resistência de Escudo
-ShieldStrength		;Força do Escudo
-StaticEnergyUsed		;Energia Estática Utilizada
+ShieldPenetrationChance		;Chance de Penetração Escudo
+ShieldPenetrationRatio		;Taxa Penetração Escudo
+ShieldRechargeRate		;Taxa Recarga Escudo
+ShieldRechargeEnergyUsage		;Energia p/ Recarga Escudo
+ShieldResistance		;Resistência Escudo
+ShieldStrength		;Força Escudo
+StaticEnergyUsed		;Energia Estática Usada
 StealthRating		;Classificação de Furtividade
-TargetingBonus		;Bônus de Mira
-TargetingFleetBonus		;Bônus de Mira para a Frota
+TargetingBonus		;Mira
+TargetingFleetBonus		;Mira de Frota
 TargetingBonusPerFleetShip		;Mira Extra por Nave da Frota
 TractorBeamDwellTime		;Tempo de Retenção do Raio Trator
-TractorBeamEnergyPerShot		;Energia Utilizada por Tiro do Raio Trator
-TractorBeamFireRate		;Taxa de Fogo do Raio Trator
+TractorBeamEnergyPerShot		;Energia Usada do Raio Trator
+TractorBeamFireRate		;Taxa Tiro do Raio Trator
 TractorBeamPower		;Potência do Raio Trator
-TractorBeamPowerFalloff		;Declínio da Potência do Raio Trator
+TractorBeamPowerFalloff		;Declínio do Raio Trator
 TractorBeamRange		;Alcance do Raio Trator
 TroopCapacity		;Capacidade de Tropas
-TroopRecruitmentRate		;Taxa de Recrutamento de Tropas
+TroopRecruitmentRate		;Taxa Recrutamento Tropas
 Troops Produced		;Tropas Produzidas
-WeaponAreaEffectRange		;Alcance do Efeito de Área
-WeaponAreaBlastWaveSpeed		;Velocidade da Onda de Explosão de Área
+WeaponAreaEffectRange		;Alcance do Efeito em Área
+WeaponAreaBlastWaveSpeed		;Vel. da Explosão em Área
 WeaponArmorBypass		;Desvio de Armadura
-WeaponBombardDamageInfrastructure		;Bombardeio à Infraestrutura
-WeaponBombardDamageInfrastructureRate		;Taxa de Bombardeio à Infraestrutura
+WeaponBombardDamageInfrastructure		;Bombardeio à Infra
+WeaponBombardDamageInfrastructureRate		;Taxa Bombardeio à Infra
 WeaponBombardDamageMilitary		;Bombardeio a Militares
-WeaponBombardDamageMilitaryRate		;Taxa de Bombardeio a Militares
+WeaponBombardDamageMilitaryRate		;Taxa Bombardeio a Militares
 WeaponBombardDamagePopulation		;Bombardeio à População
-WeaponBombardDamagePopulationRate		;Taxa de Bombardeio à População
+WeaponBombardDamagePopulationRate		;Taxa Bombardeio à População
 WeaponBombardDamageQuality		;Bombardeio à Qualidade
-WeaponBombardDamageQualityRate		;Taxa de Bombardeio à Qualidade
+WeaponBombardDamageQualityRate		;Taxa Bombardeio à Qualidade
 WeaponDamageAtRange		;Dano no Alcance Máx.
-WeaponDamageAtRangeRate		;Taxa de Dano no Alcance Máx.
-WeaponDamageFalloffRatio		;Taxa de Queda do Dano
+WeaponDamageAtRangeRate		;Taxa Dano no Alcance Máx.
+WeaponDamageFalloffRatio		;Taxa Queda do Dano
 WeaponDamageRate		;Taxa de Dano
 WeaponDamageType		;Tipo de Dano
 WeaponDwellTime		;Tempo de Retenção
 WeaponEnergyPerShot		;Energia por Tiro
-WeaponFireRate		;Taxa de Fogo
-WeaponFireType		;Tipo de Fogo
+WeaponFireRate		;Cadência de Tiro
+WeaponFireType		;Tipo de Tiro
 WeaponInterceptComponentTargetingBonus		;Mira de Interceptação
-WeaponInterceptDamageDirectFire		;Interceptação por Tiro Direto
-WeaponInterceptDamageDirectFireRate		;Taxa de Dano de Interceptação por Tiro Direto
-WeaponInterceptDamageFighter		;Dano de Interceptação a Caças
-WeaponInterceptDamageFighterRate		;Taxa de Dano de Interceptação a Caças
-WeaponInterceptDamageFullLengthBeam		;Dano de Interceptação por Feixe de Comprimento Total
-WeaponInterceptDamageFullLengthBeamRate		;Taxa de Dano de Interceptação por Feixe de Comprimento Total
-WeaponInterceptDamageSeeking		;Dano de Interceptação a Mísseis Teleguiados
-WeaponInterceptDamageSeekingRate		;Taxa de Dano de Interceptação a Mísseis Teleguiados
+WeaponInterceptDamageDirectFire		;Tiro Direto de Interceptação
+WeaponInterceptDamageDirectFireRate		;Taxa Dano de Tiro Direto de Interceptação
+WeaponInterceptDamageFighter		;Dano Interceptação à Caças
+WeaponInterceptDamageFighterRate		;Taxa Dano de Interceptação à Caças
+WeaponInterceptDamageFullLengthBeam		;Dano Interceptação Feixe Comprimento Total
+WeaponInterceptDamageFullLengthBeamRate		;Taxa Dano Interceptação Feixe Comprimento Total
+WeaponInterceptDamageSeeking		;Dano Interceptação a Teleguiados
+WeaponInterceptDamageSeekingRate		;Taxa Dano de Interceptação a Teleguiados
 WeaponInterceptEnergyPerShot		;Energia por Tiro de Interceptação
-WeaponInterceptFireRate		;Taxa de Fogo de Interceptação
+WeaponInterceptFireRate		;Taxa Fogo de Interceptação
 WeaponInterceptRange		;Alcance de Interceptação
-WeaponIonEngineDamage		;Dano de Motor por Íons
-WeaponIonEngineDamageRate		;Taxa de Dano de Motor por Íons
-WeaponIonHyperDriveDamage		;Dano de Hyperdrive por Íons
-WeaponIonHyperDriveDamageRate		;Taxa de Dano de Hyperdrive por Íons
-WeaponIonSensorDamage		;Dano de Sensor por Íons
-WeaponIonSensorDamageRate		;Taxa de Dano de Sensor por Íons
-WeaponIonShieldDamage		;Dano de Escudo por Íons
-WeaponIonShieldDamageRate		;Taxa de Dano de Escudo por Íons
-WeaponIonWeaponDamage		;Dano de Armas por Íons
-WeaponIonWeaponDamageRate		;Taxa de Dano de Armas por Íons
-WeaponIonGeneralDamage		;Dano Geral por Íons
-WeaponIonGeneralDamageRate		;Taxa de Dano Geral por Íons
+WeaponIonEngineDamage		;Dano Iônico a Motor
+WeaponIonEngineDamageRate		;Taxa Dano Iônico a Motor
+WeaponIonHyperDriveDamage		;Dano Iônico a Hyperdrive
+WeaponIonHyperDriveDamageRate		;Taxa Dano Iônico a Hyperdrive
+WeaponIonSensorDamage		;Dano Iônico a Sensor
+WeaponIonSensorDamageRate		;Taxa Dano Iônico a Sensor
+WeaponIonShieldDamage		;Dano Iônico a Escudos
+WeaponIonShieldDamageRate		;Taxa Dano Iônico a Escudos
+WeaponIonWeaponDamage		;Dano Iônicos às Armas
+WeaponIonWeaponDamageRate		;Taxa Dano Iônico às Armas
+WeaponIonGeneralDamage		;Dano Iônico Geral
+WeaponIonGeneralDamageRate		;Taxa Dano Iônico Geral
 WeaponRange		;Alcance de Arma
 WeaponRawDamage		;Dano Bruto
 WeaponShieldBypass		;Desvio de Escudo
-WeaponSpeed		;Velocidade de Arma
-WeaponVolleyAmount		;Tiros por Salva
-WeaponVolleyFireRate		;Taxa de Fogo de Salva
+WeaponSpeed		;Vel. de Arma
+WeaponVolleyAmount		;Tiros por Saraivada
+WeaponVolleyFireRate		;Taxa Fogo de Saraivada
 PsychicDamage		;Dano Psíquico
 PsychicControl		;Controle Psíquico
 PsychicEnergyPerShot		;Energia Psíquica por Tiro
 PsychicDefense		;Defesa Psíquica
-PsychicDamageRate		;Taxa de Dano Psíquico
-PsychicDamageAtRange		;Dano Psíquico no Alcance Máximo
-PsychicDamageAtRangeRate		;Taxa de Dano Psíquico no Alcance Máximo
-TerraformingDamageRepairRateComponent		;Taxa de Reparo de Dano de Terraformação
-TerraformingQualityImprovementRateComponent		;Taxa de Melhoria de Qualidade de Terraformação
+PsychicDamageRate		;Taxa Dano Psíquico
+PsychicDamageAtRange		;Dano Psíquico no Alcance Máx.
+PsychicDamageAtRangeRate		;Taxa Dano Psíquico no Alcance Máx.
+TerraformingDamageRepairRateComponent		;Reparo de Dano Planetário
+TerraformingQualityImprovementRateComponent		;Melhoria de Qualidade Planetária
 TerraformingQualityMaximumComponent		;Qualidade Máxima de Terraformação
 
 X/sec		;{0}/seg
@@ -970,13 +970,13 @@ WeaponFireType FullLengthBeam		;Feixe de Comprimento Total
 BonusType Assassination		;Assassinato
 BonusType ShipMaintenanceCivilian		;Economia de Manutenção de Nave Civil
 BonusType ShipMaintenanceMilitary		;Economia de Manutenção de Nave Militar
-BonusType ShipMaintenanceBases		;Economia de Manutenção de Base
-BonusType ShipMaintenanceAll		;Economia de Manutenção de Nave
-BonusType ConstructionSpeedAllShips		;Velocidade de Construção de Todas as Naves
-BonusType ConstructionSpeedCivilian		;Velocidade de Construção de Nave Civil
-BonusType ConstructionSpeedMilitary		;Velocidade de Construção de Nave Militar
-BonusType ConstructionSpeedColonyShip		;Velocidade de Construção de Nave Colonizadora
-BonusType ConstructionSpeedFacility		;Velocidade de Construção de Instalação
+BonusType ShipMaintenanceBases		;Economia de Manutenção Base
+BonusType ShipMaintenanceAll		;Economia de Manutenção Nave
+BonusType ConstructionSpeedAllShips		;Vel. Construção Nave
+BonusType ConstructionSpeedCivilian		;Vel. Construção Nave Civil
+BonusType ConstructionSpeedMilitary		;Vel. Construção Nave Militar
+BonusType ConstructionSpeedColonyShip		;Vel. Construção de Nave Colonial
+BonusType ConstructionSpeedFacility		;Vel. Construção de Instalação
 BonusType ColonyCorruptionReduction		;Redução de Corrupção em Colônia
 BonusType ColonyHappiness		;Felicidade da Colônia
 BonusType ColonyIncome		;Renda da Colônia
@@ -986,8 +986,8 @@ BonusType Countermeasures		;Contramedidas
 BonusType DamageControl		;Controle de Danos
 BonusType Diplomacy		;Diplomacia
 BonusType Espionage		;Espionagem
-BonusType HyperjumpSpeed		;Velocidade de Salto Hiperespacial
-BonusType ShipSpeed		;Velocidade da Nave
+BonusType HyperjumpSpeed		;Vel. de Salto Hiperespacial
+BonusType ShipSpeed		;Vel. da Nave
 BonusType ArmorStrength		;Força da Armadura
 BonusType MiningRate		;Taxa de Mineração
 BonusType ColonyPopulationGrowthRate		;Desenvolv. da População
@@ -1022,39 +1022,39 @@ BonusType ResearchThresholdIndustrial		;Limiar de Pesquisa - Industrial
 BonusType ResearchAncientKnowledge		;Conhecimento Antigo
 
 BonusType Sabotage		;Sabotagem
-BonusType ShieldRechargeRate		;Taxa de Recarga de Escudo
+BonusType ShieldRechargeRate		;Taxa Recarga de Escudo
 BonusType ShipEnergyUsage		;Economia de Uso de Energia da Nave
 BonusType ShipManeuvering		;Manobrabilidade da Nave
 BonusType Targeting		;Mira
 BonusType TourismIncome		;Renda do Turismo
 BonusType TradeIncome		;Renda do Comércio
-BonusType TroopExperienceGain		;Ganho de Experiência de Tropas
-BonusType TroopGroundAttack		;Força de Ataque Terrestre de Tropas
-BonusType TroopGroundDefense		;Força de Defesa Terrestre de Tropas
-BonusType TroopMaintenance		;Economia de Manutenção de Tropas
-BonusType TroopRecoveryRate		;Taxa de Recuperação de Tropas
-BonusType TroopRecruitment		;Taxa de Recrutamento de Tropas
+BonusType TroopExperienceGain		;Ganho de Experiência Tropas
+BonusType TroopGroundAttack		;Força de Ataque Terrestre
+BonusType TroopGroundDefense		;Força de Defesa Terrestre
+BonusType TroopMaintenance		;Economia de Manutenção Tropas
+BonusType TroopRecoveryRate		;Taxa Recuperação Tropas
+BonusType TroopRecruitment		;Taxa Recrutamento Tropas
 BonusType WarWearinessReduction		;Redução da Fadiga de guerra
 BonusType WeaponsDamage		;Aumento de Dano de Armas
 BonusType WeaponsRange		;Aumento de Alcance de Armas
 BonusType BoardingAssault		;Força de Abordagem
 BonusType BoardingDefense		;Força de Defesa em Abordagem
-BonusType CharacterAppearanceAmbassador		;Chance de Aparição de Embaixadores
-BonusType CharacterAppearanceColonyGovernor		;Chance de Aparição de Governadores de Colônia
-BonusType CharacterAppearanceFleetAdmiral		;Chance de Aparição de Almirantes de Frota
-BonusType CharacterAppearanceIntelligenceAgent		;Chance de Aparição de Agentes de Inteligência
-BonusType CharacterAppearanceScientist		;Chance de Aparição de Cientistas
-BonusType CharacterAppearanceShipCaptain		;Chance de Aparição de Capitães de Nave
-BonusType CharacterAppearanceTroopGeneral		;Chance de Aparição de Generais de Tropas
+BonusType CharacterAppearanceAmbassador		;Chance de Aparição Embaixadores
+BonusType CharacterAppearanceColonyGovernor		;Chance de Aparição Governadores
+BonusType CharacterAppearanceFleetAdmiral		;Chance de Aparição Almirantes
+BonusType CharacterAppearanceIntelligenceAgent		;Chance de Aparição Agentes
+BonusType CharacterAppearanceScientist		;Chance de Aparição Cientistas
+BonusType CharacterAppearanceShipCaptain		;Chance de Aparição Capitães
+BonusType CharacterAppearanceTroopGeneral		;Chance de Aparição Generais
 BonusType CharacterQualityLeader		;Qualidade de Líder
 BonusType CharacterQualityPirate		;Qualidade de Pirata
 BonusType CharacterQualityAmbassador		;Qualidade de Embaixador
-BonusType CharacterQualityColonyGovernor		;Qualidade de Governador de Colônia
-BonusType CharacterQualityFleetAdmiral		;Qualidade de Almirante de Frota
-BonusType CharacterQualityIntelligenceAgent		;Qualidade de Agente de Inteligência
+BonusType CharacterQualityColonyGovernor		;Qualidade de Governador Colônia
+BonusType CharacterQualityFleetAdmiral		;Qualidade de Almirante Frota
+BonusType CharacterQualityIntelligenceAgent		;Qualidade Agente de Inteligência
 BonusType CharacterQualityScientist		;Qualidade de Cientista
-BonusType CharacterQualityShipCaptain		;Qualidade de Capitão de Nave
-BonusType CharacterQualityTroopGeneral		;Qualidade de General de Tropas
+BonusType CharacterQualityShipCaptain		;Qualidade de Capitão Nave
+BonusType CharacterQualityTroopGeneral		;Qualidade de General Tropas
 BonusType RecruitedTroopStrength All		;Força de Tropas Recrutadas
 BonusType RecruitedTroopStrength Infantry		;Força de Infantaria Recrutada
 BonusType RecruitedTroopStrength Armor		;Força de Armadura Recrutada
@@ -1067,13 +1067,13 @@ BonusType Scenery		;Cenário
 BonusType RaidIncome		;Renda de Incursão
 BonusType ScanEvasion		;Evasão de Escaneamento
 BonusType ScanFocusing		;Focalização de Escaneamento
-BonusType PlanetaryFacilityMaintenance		;Economia de Manutenção de Instalação Planetária
+BonusType PlanetaryFacilityMaintenance		;Economia de Manutenção Instalação Planetária
 BonusType PlagueCuring		;Cura de Praga
 BonusType PlagueContainment		;Contenção de Praga
 
 BonusType PsychicTargeting		;Mira Psíquica
 BonusType PsychicDefense		;Defesa Psíquica
-BonusType PsychicEnergyGenerationRate		;Taxa de Geração de Energia Psíquica
+BonusType PsychicEnergyGenerationRate		;Taxa Geração de Energia Psíquica
 BonusType PsychicCountermeasures		;Contramedidas Psíquicas
 BonusType PsychicSabotage		;Sabotagem Psíquica
 BonusType PsychicEspionage		;Espionagem Psíquica
@@ -1106,21 +1106,21 @@ ComponentCategory FuelStorage		;Armazenamento de Combustível
 ComponentCategory HyperBlock		;Bloqueio Hiper
 ComponentCategory HyperDeny		;Negação Hiper
 ComponentCategory HyperDrive		;Hyperdrive
-ComponentCategory IonDefense		;Defesa de Íons
+ComponentCategory IonDefense		;Defesa Iônica
 ComponentCategory MedicalCenter		;Centro Médico
 ComponentCategory PassengerCompartment		;Compartimento de Passageiros
 ComponentCategory Reactor		;Reator
 ComponentCategory RecreationCenter		;Centro de Recreação
 ComponentCategory ResearchLab		;Laboratório de Pesquisa
-ComponentCategory ScannerEmpireMasking		;Máscara de Império de Scanner
-ComponentCategory ScannerExploration		;Exploração de Scanner
-ComponentCategory ScannerExplorationSurvey		;Varredura de Exploração de Scanner
+ComponentCategory ScannerEmpireMasking		;Máscara de Scanner de Império
+ComponentCategory ScannerExploration		;Scanner de Exploração
+ComponentCategory ScannerExplorationSurvey		;Scanner de Varredura de Exploração
 ComponentCategory ScannerJammer		;Jammer de Scanner
-ComponentCategory ScannerJumpTracking		;Rastreamento de Salto de Scanner
+ComponentCategory ScannerJumpTracking		;Scanner de Rastreamento de Salto
 ComponentCategory ScannerLongRange		;Scanner de Longo Alcance
 ComponentCategory ScannerShortRange		;Scanner de Curto Alcance
-ComponentCategory ScannerRoleMasking		;Máscara de Função de Scanner
-ComponentCategory ScannerTrace		;Rastreador de Scanner
+ComponentCategory ScannerRoleMasking		;Scanner de Máscara de Função
+ComponentCategory ScannerTrace		;Scanner Rastreador
 ComponentCategory Shields		;Escudos
 ComponentCategory ShieldEnhancement		;Aprimoramento de Escudo
 ComponentCategory Stealth		;Furtividade
@@ -1157,23 +1157,23 @@ Can only build at PLANETTYPES		;Só pode construir em {0}
 Can only build with GOVERNMENTS		;Só pode construir com governos {0}
 
 ColonyCorruptionReductionProjectionRange		;Alcance de Redução de Corrupção
-ColonyIncomeDrainRatio		;Taxa de Drenagem de Renda da Colônia
+ColonyIncomeDrainRatio		;Taxa Drenagem de Renda da Colônia
 ColonyInfluenceLevelToBuild		;Nível de Influência para Construir
-FighterBuildRate		;Taxa de Construção de Caças
+FighterBuildRate		;Taxa Construção de Caças
 FighterCapacity		;Capacidade de Caças
-FighterRepairRate		;Taxa de Reparo de Caças
-PlanetaryShieldMaximumDamageAbsorbed		;Dano Máximo Absorvido pelo Escudo Planetário
+FighterRepairRate		;Taxa Reparo de Caças
+PlanetaryShieldMaximumDamageAbsorbed		;Dano Máx. Absorvido pelo Escudo Planetário
 PlanetaryShieldPenetrationChance		;Chance de Penetração do Escudo Planetário
-TerraformingDamageRepairRate		;Taxa de Reparo de Danos na Terraformação
-TerraformingQualityImprovementRate		;Taxa de Melhoria da Qualidade na Terraformação
-TerraformingQualityMaximum		;Máximo de Melhoria da Qualidade na Terraformação
-EmpireBonusSharingRate		;Taxa de Compartilhamento de Bônus do Império
+TerraformingDamageRepairRate		;Taxa Reparo de Danos na Terraformação
+TerraformingQualityImprovementRate		;Taxa Melhoria da Qualidade na Terraformação
+TerraformingQualityMaximum		;Máx. de Melhoria da Qualidade na Terraformação
+EmpireBonusSharingRate		;Taxa Compartilhamento de Bônus do Império
 QualityBoost		;Aumento de Qualidade
 SlaveryIncomeFactor		;Fator de Renda da Escravidão
 SlaveryUnhappinessFactor		;Fator de Infelicidade da Escravidão
 WeaponCount		;Contagem de Armas
 Allows Troop Recruitment		;Permite Recrutamento de Tropas
-Allows Cloning Best Infantry Units		;Permite Clonagem das Melhores Unidades de Infantaria
+Allows Cloning Best Infantry Units		;Permite Clonagem Melhores Unidades de Infantaria
 Empire Bonuses		;Bônus do Império
 Colony Bonuses		;Bônus da Colônia
 Location Bonuses		;Bônus de Localização
@@ -1198,7 +1198,7 @@ ComponentBayType Abbreviation Weapon		;Arm
 
 ComponentBayCount STANDARD/LARGE		;{0} Padrão, {1} Grande
 Level		;Nível
-Maximum Size		;Tamanho Máximo
+Maximum Size		;Tamanho Máx.
 Cost		;Custo
 Type		;Tipo
 Defense		;Defesa
@@ -1341,8 +1341,8 @@ Crew		;Tripulação
 Highest Tech Level		;Nível de Tecnologia Mais Alto
 Lowest Tech Level		;Nível de Tecnologia Mais Baixo
 damaged		;danificado
-Peak Weapons Energy Usage		;Uso Máximo de Energia por Armas
-Maximum Engine Energy Usage		;Uso Máximo de Energia por Motor
+Peak Weapons Energy Usage		;Uso Máx. de Energia por Armas
+Maximum Engine Energy Usage		;Uso Máx. de Energia por Motor
 Standard		;Padrão
 Ion		;Íon
 Point Defense		;Defesa de Ponto
@@ -1380,11 +1380,11 @@ WeaponDamageCategory BombardPopulation		;População
 WeaponDamageCategory BombardQuality		;Qualidade do Planeta
 WeaponDamageCategory BoardingAssault		;Abordagem
 
-Maximum Weapons Energy use per second		;Máximo de Energia por segundo para Armas
-Maximum Range DPS		;DPS Máximo de Alcance
+Maximum Weapons Energy use per second		;Máx. de Energia por segundo para Armas
+Maximum Range DPS		;DPS Máx. de Alcance
 Point Blank DPS		;DPS de Ponta
-Peak Damage Rate		;Taxa de Dano Máximo
-Sustained Damage Rate		;Taxa de Dano Sustentado
+Peak Damage Rate		;Taxa Dano Máx.
+Sustained Damage Rate		;Taxa Dano Sustentado
 Peak		;Pico
 Sustained		;Sustentado
 Peak DPS		;DPS Pico
@@ -1395,7 +1395,7 @@ Max Energy		;Energia Máx.
 VALUE per second		;{0} por segundo
 
 Point Blank Accuracy		;Precisão em Ponta em Branco
-Max Range Accuracy		;Precisão em Alcance Máximo
+Max Range Accuracy		;Precisão em Alcance Máx.
 
 Excess Energy Output		;Saída Excessiva de Energia
 Hull Size		;Tamanho do Casco
@@ -1408,7 +1408,7 @@ Hyper		;Hiper
 Energy Curve		;Curva de Energia
 X sectors		;{0} setores
 X by Y sectors		;{0} por {1} setores
-Turn Rate		;Taxa de Viragem
+Turn Rate		;Taxa de Giro
 Acceleration		;Aceleração
 Degree Abbreviation		;deg
 X seconds		;{0} segundos
@@ -1492,7 +1492,7 @@ Select Ship Hull		;Selecionar Casco da Nave
 Select Ship Hull Explanation		;Selecione um casco de nave no qual basear seu novo projeto. Cascos de nave definem um conjunto de compartimentos nos quais você pode adicionar componentes como motores, armas, escudos, etc.
 Add New		;Adicionar Novo
 Copy As New		;Copiar Como Novo
-Max Size		;Tamanho Máximo
+Max Size		;Tamanho Máx.
 New ROLE		;Novo {0}
 Select Ship Hull and create new Design		;Selecionar Casco da Nave e Criar Novo Projeto
 Delete Selected		;Excluir Selecionado
@@ -1918,8 +1918,8 @@ State Ships Under Construction		;Naves Estatais em Construção
 Civilian Ships Under Construction		;Naves Civis em Construção
 Spaceports		;Portos Espaciais
 Wait Time		;Tempo de Espera
-Build Speed		;Velocidade de Construção
-Repair Speed		;Velocidade de Reparo
+Build Speed		;Vel. de Construção
+Repair Speed		;Vel. de Reparo
 Bases		;Bases
 Target already part of our empire		;Alvo já parte do nosso império
 Target destroyed		;Alvo destruído
@@ -1990,8 +1990,8 @@ Amount for FUNDING based on current cashflow		;Quantidade para {0} com base no f
 Amount for FUNDING based on current income		;Quantidade para {0} com base na renda atual
 Amount currently used for FUNDING		;Quantidade atualmente utilizada para {0}
 Amount Used is more than Available		;Quantidade Utilizada é maior do que Disponível
-Potential maximum is more than Available		;Máximo potencial é maior do que Disponível
-Maximum for FUNDING vs AVAILABLE		;Máximo {0} Usável = {1} vs Quantidade Disponível = {2}
+Potential maximum is more than Available		;Máx. potencial é maior do que Disponível
+Maximum for FUNDING vs AVAILABLE		;Máx. {0} Usável = {1} vs Quantidade Disponível = {2}
 Empire Funding Reserved		;Reservado
 Empire Funding Reserved Explanation		;Porcentagem da sua renda que está sobrando, acumulando um estoque de caixa para compras e outros gastos.
 Funding Area		;Área de financiamento
@@ -2055,9 +2055,9 @@ Hyperdrive energy requirements combined with static energy requirements are high
 Energy collection rate is lower than static energy requirements		;A taxa de coleta de energia é inferior aos requisitos de energia estática
 Total size is greater than hull allows		;O tamanho total é maior do que o casco permite
 Empire has no supply of resources X		;Nosso império não tem suprimento de recursos: {0}
-Maneuvering turn rate is lower than average for non-military ships X		;A taxa de viragem de manobra é inferior à média para naves não militares (média do império é {0} deg/seg)
-Maneuvering turn rate is lower than average for military ships X		;A taxa de viragem de manobra é inferior à média para naves militares (média do império é {0} deg/seg)
-Maneuvering turn rate is lower than average for fighters X		;A taxa de viragem de manobra é inferior à média para caças (média do império é {0} deg/seg)
+Maneuvering turn rate is lower than average for non-military ships X		;A taxa de giro de manobra é inferior à média para naves não militares (média do império é {0} deg/seg)
+Maneuvering turn rate is lower than average for military ships X		;A taxa de giro de manobra é inferior à média para naves militares (média do império é {0} deg/seg)
+Maneuvering turn rate is lower than average for fighters X		;A taxa de giro de manobra é inferior à média para caças (média do império é {0} deg/seg)
 Top Speed is lower than average for non-military ships X		;A Velocidade Máxima é inferior à média para naves não militares (média do império é {0})
 Top Speed is lower than average for military ships X		;A Velocidade Máxima é inferior à média para naves militares (média do império é {0})
 Top Speed is lower than average for fighters X		;A Velocidade Máxima é inferior à média para caças (média do império é {0})
@@ -2268,7 +2268,7 @@ Aggression		;Agressão
 Caution		;Cautela
 Dependability		;Confiabilidade
 Difficulty		;Dificuldade
-Research Speed		;Velocidade de Pesquisa
+Research Speed		;Vel. de Pesquisa
 Research Visibility		;Visibilidade de Pesquisa
 Research Pathing		;Caminhos de Pesquisa
 
@@ -2644,7 +2644,7 @@ Monitoring Station Priority		;Prioridade de Estação de Monitoramento
 Military Ship Priority		;Prioridade de Nave Militar
 Exploration Ship Priority		;Prioridade de Nave de Exploração
 Construction Ship Priority		;Prioridade de Nave de Construção
-Build Ratio ROLE		;Taxa de Construção de {0}
+Build Ratio ROLE		;Taxa Construção de {0}
 Buy Ships instead of Build		;Comprar Naves em Vez de Construir
 Repair Independent Ships		;Reparar Naves Independentes
 Build Independent Ships		;Construir Naves Independentes
@@ -2854,10 +2854,10 @@ Victory Condition BuildFacility		;Construir {0} em uma colônia
 Victory Condition ConquerMostEnemyColonies		;Conquistar a maioria das colônias inimigas
 Victory Condition DestroyMostEnemyColonies		;Destruir a maioria das colônias inimigas
 Victory Condition ControlHomeworld		;Controle seu Planeta Natal {0}
-Victory Condition ControlLargestColoniesByType		;Controle os {0} maiores {1} Colônias na galáxia
+Victory Condition ControlLargestColoniesByType		;Controle {0} maior(es) colônia(s) com planetas do tipo {1} na galáxia
 Victory Condition ControlMostRuins		;Controle a maioria das Ruínas na galáxia
-Victory Condition ControlPlanetTypePercentage		;Controle {0} de todas as {1} Colônias na galáxia
-Victory Condition ControlRestrictedResourceSupply		;Controle {0} localizações que fornecem recursos de alto valor ({1})
+Victory Condition ControlPlanetTypePercentage		;Controle {0} de todas as colônias em planetas do tipo {1} na galáxia
+Victory Condition ControlRestrictedResourceSupply		;Controle {0} localização(ões) que forneçam recursos de alto valor ({1})
 Victory Condition DestroyMoreEnemyTroopsThanLoseTimesFactor		;Destrua {0} vezes mais tropas inimigas do que você perde
 Victory Condition DestroyMoreEnemyTroopsThanLoseTimesFactorSingle		;Destrua mais tropas inimigas do que você perde
 Victory Condition DestroyMoreShipsBySizeThanLoseTimesFactor		;Destrua {0} vezes mais naves inimigas por tamanho do que você perde
@@ -2935,7 +2935,7 @@ Victory Condition MostResearchTreaties		;Empate em número máximo de Tratados d
 Victory Condition PossessArtifact		;Possuir o artefato {0}
 Victory Condition AllianceMemberCount		;Ser membro da Aliança diplomática com o maior número de membros na galáxia
 Victory Condition WinWarsProportion		;Vencer pelo menos {0} das nossas guerras
-Victory Condition EmpireBonusLevel		;Alcançar o nível de bônus do império {0} em {1}
+Victory Condition EmpireBonusLevel		;Alcançar nível bônus de império igual a {0} em {1}
 Victory Condition MostColonies		;Empate em número máximo de colônias na galáxia
 
 Victory Condition Detail EmpireBonusLevel		;{0} nível de bônus {1}
@@ -3137,7 +3137,7 @@ Automate Tax Rates		;Automatizar Taxas de Impostos
 
 Click to move view to bay		;Clique para mover a visualização para a baía
 Toggle component bay indicators		;Alternar indicadores da baía de componentes
-Speed and Maneuverability		;Velocidade e Manobrabilidade
+Speed and Maneuverability		;Vel. e Manobrabilidade
 Scanners		;Sensores
 Attack Strength Explanation		;Inclui os seguintes fatores:\nArmas padrão e de íons modificadas por bônus de mira\nCaças (Interceptadores e Bombardeiros)
 Defend Strength Explanation		;Inclui os seguintes fatores:\nArmas de defesa pontual modificadas por bônus de mira\nCaças interceptadores\nEscudos e Armaduras modificados por bônus de contramedidas
@@ -3405,7 +3405,7 @@ Show Military Ships		;Mostrar Naves Militares
 Show Spaceports		;Mostrar Portos Espaciais
 Show Other Bases		;Mostrar Outras Bases
 Show Exploration Ships		;Mostrar Naves de Exploração
-Show Colony Ships		;Mostrar Naves Colonizadoras
+Show Colony Ships		;Mostrar Naves Coloniais
 Show Construction Ships		;Mostrar Naves de Construção
 Show Civilian Ships		;Mostrar Naves Civis
 Show Unknown Ships		;Mostrar Naves Desconhecidas
@@ -3950,7 +3950,7 @@ Foreign Mission Against Us		;Missão Estrangeira Contra Nós
 Mission Completed, but Exposed		;Missão Concluída, mas Exposta
 Mission Completed		;Missão Concluída
 
-Counter Intelligence Ratio		;Taxa de Contra-Inteligência
+Counter Intelligence Ratio		;Taxa Contra-Inteligência
 Targeting Aggressiveness		;Agressividade no Alvo
 Mission Difficulty Caution		;Cuidado com a Dificuldade da Missão
 Allow Sabotage Construction		;Permitir Sabotagem de Construção
@@ -4059,7 +4059,7 @@ X years		;{0} anos
 Applies Empire-wide		;Aplica-se a todo o Império
 Applies only to Location		;Aplica-se apenas à Localização
 
-No buildable Colony Ship designs		;Não há projetos de Nave Colonizadora construíveis
+No buildable Colony Ship designs		;Não há projetos de Nave Colonial construíveis
 
 Reactor Offline		;Reator Desligado
 HyperDrive Offline		;Hiperpropulsor Desligado
@@ -4663,9 +4663,9 @@ Missing Image		;Imagem Ausente
 DamageAbsorbtionFactor		;Fator de Absorção de Dano
 DamageAbsorbtionThreshold		;Limiar de Absorção de Dano
 HealRate		;Taxa de Cura
-IonWeaponsSensitivityFactor		;Fator de Sensibilidade a Armas de Íons
+IonWeaponsSensitivityFactor		;Fator de Sensibilidade a Armas Iônicas
 StandardWeaponsSensitivityFactor		;Fator de Sensibilidade a Armas Padrão
-MovementSpeed		;Velocidade de Movimento
+MovementSpeed		;Vel. de Movimento
 Stealth		;Camuflagem
 Native Locations		;Locais Nativos
 Common Bonuses		;Bônus Comuns
@@ -4754,7 +4754,7 @@ In exchange for this peace however we demand that you give us the following		;Em
 
 Strategy		;Estratégia
 Invasion		;Invasão
-Independent Colony Strategy Explanation Diplomacy		;Quando a Diplomacia é automatizada, faremos amizade com esta colônia através de presentes antes de enviar uma nave colonizadora para adquiri-la
+Independent Colony Strategy Explanation Diplomacy		;Quando a Diplomacia é automatizada, faremos amizade com esta colônia através de presentes antes de enviar uma nave colonial para adquiri-la
 Independent Colony Strategy Explanation Invasion		;Quando os Ataques Militares são automatizados, enviaremos uma frota de invasão para tomar esta colônia à força
 
 Admirals		;Almirantes
@@ -5002,7 +5002,7 @@ General Hive Reencounter Description		;Despertamos uma nave do perigoso Enxame e
 Hive Encounter Title		;Alerta Urgente de {0}
 Hive Encounter Description		;Uma de nossas naves relatou a descoberta de uma nave antiga de tamanho imenso. A nave está coberta com o que parece ser camadas de quitina orgânica e teias.\n\nAssim que seus sensores começaram a escanear a nave, detectaram uma assinatura de energia aumentando rapidamente. Parece estar despertando e parece ser hostil!
 Hive Encounter Ship Destroyed Title		;Mensagem Final de {0}
-Hive Encounter Ship Destroyed Description		;Nossa nave [LOCATION]{0}[/LOCATION] foi destruída pela antiga nave hostil que descobriram!\n\nAntes de sua destruição, enviaram uma última transmissão. Grande parte dela foi corrompida por algum tipo de interferência, mas o que conseguiu passar foi dados parciais do encontro.\n\nA transmissão sugere um nível de energia além de tudo o que podemos construir. Também revelou um número massivo de assinaturas de vida a bordo, equivalente ao que uma nave colonizadora poderia transportar.\n\nNossos estrategistas e cientistas concordam que esta nave representa uma ameaça alarmante. Devemos começar a nos preparar imediatamente se quisermos ter alguma esperança de sobrevivência!
+Hive Encounter Ship Destroyed Description		;Nossa nave [LOCATION]{0}[/LOCATION] foi destruída pela antiga nave hostil que descobriram!\n\nAntes de sua destruição, enviaram uma última transmissão. Grande parte dela foi corrompida por algum tipo de interferência, mas o que conseguiu passar foi dados parciais do encontro.\n\nA transmissão sugere um nível de energia além de tudo o que podemos construir. Também revelou um número massivo de assinaturas de vida a bordo, equivalente ao que uma nave colonial poderia transportar.\n\nNossos estrategistas e cientistas concordam que esta nave representa uma ameaça alarmante. Devemos começar a nos preparar imediatamente se quisermos ter alguma esperança de sobrevivência!
 The Scourge of the Stars		;O Flagelo das Estrelas
 Hive Pirates Offer Help Description		;[FACTION]{0}[/FACTION] envia uma mensagem urgente: Saudações, Terrestre.\n\nNossos informantes nos dizem que você pode ter despertado a Colmeia. Embora não sejamos amigos ou aliados, a primeira parte de nosso código nos diz que, acima de tudo, devemos lutar contra a Colmeia e lutar ao lado daqueles que o fazem.\n\nA Colmeia está em nossos contos mais antigos. Há muito tempo, diz-se que eram uma espécie insetóide que vivia abaixo e viajava pelas estrelas. Suas mentes foram escravizadas pelo Inimigo Ancião e, quando o Inimigo caiu, as mentes da Colmeia se quebraram. Eles não conhecem nada além de guerra e massacre. Sua fome e ódio são devoradores.\n\nNossos ancestrais lutaram por séculos contra a Colmeia. Muitos de nosso povo foram destruídos, assim como muitos da Colmeia. Pensávamos que a Colmeia tinha desaparecido completamente - não tínhamos notícias deles há vários séculos. Mas parece que pelo menos alguns ainda permaneciam, adormecidos, reparando e ganhando força para atacar novamente.\n\nDebaixo de toda essa matéria orgânica ainda há uma nave antiga que pode ser destruída. Se você os atingir com poder de fogo suficiente, eles morrerão. Mas são necessárias muitas naves para atravessar sua armadura orgânica e sua capacidade de reparo. Nossos ancestrais se reuniam em grandes frotas quando enfrentavam a Colmeia. Essa era a única maneira de derrubar as poderosas naves da Colmeia.\n\nA Colmeia também usa muitos drones, tanto para destruir quanto para abordar e saquear. Sem defesas adequadas e defesas planetárias, eles destroem suas naves e consomem seu povo. Conforme você enfraquece, eles crescem em força. A Colmeia pode se reparar e reabastecer se você der a eles uma chance. Devemos atacar em grande número e manter a luta até que o porta-naves da Colmeia seja destruído.\n\nSe você deseja nossa ajuda, nos juntaremos à sua luta, mas apenas por um preço. Pague-nos {1} créditos e você receberá toda a ajuda que pudermos enviar.
 Pay X credits for help against the Hive		;Pague {0} créditos pela ajuda contra a Colmeia
@@ -5393,7 +5393,7 @@ Galaxy Star Amount Warning Template		;[WARN]Aviso:[/WARN] {2} estrelas podem cau
 
 No Ambassador assigned to our capital		;Você deve designar um Embaixador para nossa capital.
 
-Diplomacy Factor Assimilation Rate Improvement		;Taxa de Assimilação da População
+Diplomacy Factor Assimilation Rate Improvement		;Taxa Assimilação da População
 
 You have no active ROLE design		;Você não tem nenhum design ativo para {0}.
 Build base at LOCATION		;Construir base em {0}
@@ -5586,7 +5586,7 @@ Settings Explanation NebulaStormDisplayEffectsEnabled		;Ativa ou desativa os fla
 
 GameSettingsChangeNotice Title       ;Configurações Alteradas
 GameSettingsChangeNotice Description ;Algumas configurações só terão efeito na próxima vez que você reiniciar o jogo, como o Modo de Renderização e o Formato.
-GraphicsFpsLimit        ;Limite Máximo de FPS
+GraphicsFpsLimit        ;Limite Máx. de FPS
 Settings Explanation GraphicsFpsLimit		;Define o limite superior para a taxa de renderização, permitindo limitar a carga da GPU
 Limited to GameSpeed    ;Limitado a Velocidade do Jogo
 
@@ -5609,9 +5609,9 @@ MusicTrackSwitchType WhenSceneChanges		;Quando a Cena Muda
 MusicTrackSwitchType WhenTrackEnds		;Quando a Faixa Termina
 
 LocationEffect Description Permeability		;Retardo ao Saltar na Nebulosa: {0}
-LocationEffect Description DirectDamage		;Dano Padrão Máximo (ignora Escudos e Armaduras): {0}
-LocationEffect Description StandardDamage		;Dano Padrão Máximo: {0}
-LocationEffect Description IonDamage		;Dano Máximo de Íons: {0}
+LocationEffect Description DirectDamage		;Dano Padrão Máx. (ignora Escudos e Armaduras): {0}
+LocationEffect Description StandardDamage		;Dano Padrão Máx.: {0}
+LocationEffect Description IonDamage		;Dano Iônico Máx.: {0}
 LocationEffect Description EnergyDrain		;Dreno de Energia por segundo: {0}
 LocationEffect Description JumpBlocking		;Poder de Bloqueio de Salto: {0}
 LocationEffect Description PullTowardsCenter		;Atração Gravitacional: {0}
@@ -5656,11 +5656,11 @@ Expend Scientist		;Expendir Cientista
 Expend Scientist Warning NAME		;Tem certeza de que deseja gastar seu cientista {0}?
 ResearchMaximumConcurrentProjects Race Limit		;Sua raça dominante do império ({0}) limita isso a {1}
 
-ColonyPopulationGrowthRateForRace		;Taxa de Crescimento Populacional para {0}
+ColonyPopulationGrowthRateForRace		;Taxa Crescimento Populacional para {0}
 ColonyEvent CharacterRivalry Title		;Rivalidades
 ColonyEvent CharacterRivalry Description		;Uma luta de poder ocorreu entre dois de nossos personagens, {0} e {1}.\n\nSua rivalidade saiu de controle e agora somos forçados a escolher entre os dois.\n\nDevemos selecionar um vencedor nesta luta de poder. O vencedor ganhará uma habilidade extra e um traço positivo. O perdedor será dispensado.\n\nNosso império também sofrerá um período de infelicidade à medida que os apoiadores do perdedor se ajustam à nova situação.\n\nQuem você escolhe para vencer esta luta?
 
-Government LuxuryResourceConsumptionRateFactor		;Taxa de Consumo de Recursos de Luxo
+Government LuxuryResourceConsumptionRateFactor		;Taxa Consumo de Recursos de Luxo
 Government LuxuryResourceConsumptionRateFactor Explanation		;Modifica a taxa que as colônias consomem recursos de luxo.\n\nRecursos de luxo são importantes para elevar os níveis de desenvolvimento da colônia, melhorando assim a felicidade, a taxa de crescimento e a renda.\n\nPortanto, taxas de consumo reduzidas fazem com que esses recursos de luxo durem mais tempo e, como resultado, podem ajudar a melhorar o desenvolvimento da colônia.\n\nEm contraste, taxas de consumo aumentadas podem tornar mais difícil manter o desenvolvimento da colônia em um nível alto.
 Government CharacterTraitFactorInspiringPresence		;Probabilidade de Traço de Presença Inspiradora de Personagem
 Government CharacterTraitFactorInspiringPresence Explanation		;Um modificador para a chance de aparecimento do traço de Presença Inspiradora para personagens.\n\nO traço de Presença Inspiradora aumenta lentamente as habilidades de todos os outros personagens no mesmo local ou na mesma frota.
@@ -5762,7 +5762,7 @@ Hive Repair Attempt		;Ao tentar reparar a nave abandonada {0}, ela liga seus mot
 Hive Attack Attempt		;Ao atacar a nave abandonada {0}, ela liga seus motores e se prepara para nos atacar! A {0} é uma [DESCOBERTA]nave mortal da Grande Colmeia[/DESCOBERTA]!\n\nPrepare-se para repelir o fogo inimigo entrante!
 Hive Board Attempt		;Ao tentar abordar a nave abandonada {0}, ela liga seus motores e se prepara para nos atacar! A {0} é uma [DESCOBERTA]nave mortal da Grande Colmeia[/DESCOBERTA]!\n\nPrepare-se para repelir o fogo inimigo entrante!
 
-AreaShieldRecharge Rate		;Taxa de Recarga do Escudo de Área
+AreaShieldRecharge Rate		;Taxa Recarga do Escudo de Área
 
 Default Event PreWarp Homesystem		;Sistema de Origem Pré-Dobra
 Default Event Abandoned Ships		;Naves Abandonadas
@@ -5809,8 +5809,8 @@ Selected Object                 ;Objeto selecionado
 X Distance away from Y          ;{0} de distância de {1}
 Distance Ruler System Active    ;Exibindo distâncias...
 
-MinimumEffectRate                       ;Taxa de Efeito Mínimo
-MaximumEffectRate                       ;Taxa de Efeito Máximo
+MinimumEffectRate                       ;Taxa Efeito Mínimo
+MaximumEffectRate                       ;Taxa Efeito Máx.
 Settings Explanation MinimumEffectRate  ;A taxa mínima e valor de escala do efeito gráfico. Isso pode ser usado para reduzir o impacto da maioria dos efeitos gráficos.
 Settings Explanation MaximumEffectRate  ;A taxa máxima e valor de escala do efeito gráfico. Isso pode ser usado para reduzir o impacto da maioria dos efeitos gráficos.
 
@@ -5951,7 +5951,7 @@ Invasion Fleets		;Frotas de Invasão
 Raid Fleets		;Frotas de Incursão
 
 Creature Breeding		;Criação de Criaturas
-Creature Breed Rate		;Taxa de Criação de Criaturas
+Creature Breed Rate		;Taxa Criação de Criaturas
 
 Outposts do not have taxes		;Os Postos Avançados não têm impostos
 Colony Ship already establishing Outpost here		;Nave Colônia já está estabelecendo um Posto Avançado aqui
