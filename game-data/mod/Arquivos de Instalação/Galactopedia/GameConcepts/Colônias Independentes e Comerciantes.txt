@@ -7,7 +7,7 @@ Embora as populações independentes comecem não pertencendo a um império, ela
 [H3]Colonizando Mundos Independentes[/H3]
 A maioria das colônias independentes não aceitará a colonização a menos que você tenha primeiro construído uma amizade com elas.
 
-Você pode melhorar as relações com colônias independentes formando tratados comerciais e oferecendo presentes. Eventualmente, elas podem se aquecer o suficiente para estender um convite para colonizar. Nesse ponto, você pode enviar uma Nave Colonizadora para o planeta e colonizá-lo, integrando o mundo ao seu império.
+Você pode melhorar as relações com colônias independentes formando tratados comerciais e oferecendo presentes. Eventualmente, elas podem se aquecer o suficiente para estender um convite para colonizar. Nesse ponto, você pode enviar uma Nave Colonial para o planeta e colonizá-lo, integrando o mundo ao seu império.
 
 [H3]Invadindo Mundos Independentes[/H3]
 Infelizmente, algumas espécies podem ser tão hostis que nunca se aquecerão com sua diplomacia.

@@ -3,7 +3,7 @@ Colônias são os mundos povoados em seu império. Elas são o elemento crítico
 Colônias fornecem renda de impostos para financiar seu governo. No entanto, elas demoram para crescer, então tenha cuidado para concentrar suas defesas (tropas e naves) em suas colônias bem estabelecidas. Essas colônias centrais são a chave para seu crescimento inicial.
 
 [H3]Colonizando novos mundos[/H3]
-Para criar novas colônias, você deve construir naves colonizadoras e enviá-las para reivindicar planetas para seu império. Quando uma nova colônia é estabelecida, a nave colonizadora é consumida e desaparece.
+Para criar novas colônias, você deve construir naves coloniais e enviá-las para reivindicar planetas para seu império. Quando uma nova colônia é estabelecida, a nave colonial é consumida e desaparece.
 
 As colônias geralmente só podem ser estabelecidas em sistemas que não fazem parte do território de outro império.
 
@@ -46,7 +46,7 @@ Há outro bônus importante ao visar colônias independentes para colonização:
 [H3]Colonizando Mundos Independentes[/H3]
 A maioria das colônias independentes não receberá bem a colonização, a menos que você tenha primeiro construído uma amizade com elas.
 
-Você pode melhorar as relações com colônias independentes formando tratados comerciais e oferecendo presentes. Eventualmente, eles podem se tornar amigáveis o suficiente para que estendam um convite para colonizar. Nesse ponto, você pode enviar uma Nave Colonizadora para o planeta e colonizar, integrando o mundo ao seu império.
+Você pode melhorar as relações com colônias independentes formando tratados comerciais e oferecendo presentes. Eventualmente, eles podem se tornar amigáveis o suficiente para que estendam um convite para colonizar. Nesse ponto, você pode enviar uma Nave Colonial para o planeta e colonizar, integrando o mundo ao seu império.
 
 [H3]Invadindo Mundos Independentes[/H3]
 Infelizmente, algumas espécies podem ser tão hostis que nunca aceitarão sua diplomacia.

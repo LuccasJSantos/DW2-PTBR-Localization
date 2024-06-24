@@ -102,12 +102,12 @@ Antes de construir uma nova base, as Naves de Construção devem primeiro carreg
 
 Ciclo por todas as suas Naves de Construção usando a tecla U, ou Shift-U para retroceder.
 
-[H3]Nave Colonizadora[/H3]
-As naves colonizadoras permitem que você colonize outros planetas, fundando novos mundos para seu império.
+[H3]Nave Colonial[/H3]
+As naves coloniais permitem que você colonize outros planetas, fundando novos mundos para seu império.
 
 A nave é consumida quando uma nova colônia é estabelecida. Os recursos da nave são utilizados para iniciar a colônia.
 
-Uma vez que uma Nave Colonizadora seja construída, ela carregará a população de uma colônia próxima. Esses servirão como colonos do novo mundo fundado pela Nave Colonizadora.
+Uma vez que uma Nave Colonial seja construída, ela carregará a população de uma colônia próxima. Esses servirão como colonos do novo mundo fundado pela Nave Colonial.
 
 No início do jogo, você só pode colonizar planetas que são muito adequados, geralmente o tipo de planeta nativo para sua raça.
 
@@ -115,7 +115,7 @@ Mas à medida que sua pesquisa descobre novas tecnologias, você pode progressiv
 
 Você sempre pode colonizar planetas onde há uma população alienígena independente existente, independentemente do tipo ou adequação do planeta.
 
-No entanto, nessas situações, é provável que a população pré-existente resista à sua tentativa de colonização, resultando na perda de sua nave colonizadora e em um ponto negativo em sua reputação diplomática.
+No entanto, nessas situações, é provável que a população pré-existente resista à sua tentativa de colonização, resultando na perda de sua nave colonial e em um ponto negativo em sua reputação diplomática.
 
 Portanto, antes de tentar colonizar um mundo independente, você deve primeiro estabelecer boas relações com eles através de presentes diplomáticos e tratados comerciais. Uma vez que eles gostem de você, suas chances de sucesso na colonização aumentarão, e eles podem até convidá-lo para colonizar.
 

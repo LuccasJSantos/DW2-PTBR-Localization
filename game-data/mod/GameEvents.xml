@@ -38753,7 +38753,7 @@ Os artefatos que encontramos nas ruínas podem ajudar. Parece que alguns de noss
     <TriggerActions>
       <GameEventAction>
         <Type>TriggerEvent</Type>
-        <MessageTitle>Nave Colonizadora Antiga</MessageTitle>
+        <MessageTitle>Nave Colonial Antiga</MessageTitle>
         <Description>Descobrimos uma espaçonave antiga em {0}. Esta nave é de um design avançado, mas está em condições muito precárias. Nossos levantamentos sugerem que apenas partes da nave estão intactas, mas alguns desses fragmentos são maiores do que a nave abandonada que descobrimos anteriormente.
 
 É Haakonish ou alienígena? Será que este é, talvez, o restante de uma frota de invasão antiga, e se tal invasão foi tentada, poderia acontecer novamente? O que quer que essa nave contenha pode ser interessante e valioso, e ainda assim o conhecimento de uma espécie alienígena avançada e ameaçadora poderia agitar a população. Já existem rumores circulando sobre a descoberta, e será difícil silenciá-los.</Description>
@@ -38827,7 +38827,7 @@ Os artefatos que encontramos nas ruínas podem ajudar. Parece que alguns de noss
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Resultados da Pesquisa</MessageTitle>
-        <Description>Nossos arqueólogos e engenheiros dedicaram-se a descobrir a nave espacial acidentada. As descobertas são igualmente preocupantes e intrigantes. Os destroços parecem ser de uma nave colonizadora, transportando dezenas de milhares de colonos Haakonish, dirigindo-se a este sistema. Claramente, ela não conseguiu chegar, embora devamos assumir que outros o fizeram, caso contrário não haveria civilização Haakonish em {1}.
+        <Description>Nossos arqueólogos e engenheiros dedicaram-se a descobrir a nave espacial acidentada. As descobertas são igualmente preocupantes e intrigantes. Os destroços parecem ser de uma nave colonial, transportando dezenas de milhares de colonos Haakonish, dirigindo-se a este sistema. Claramente, ela não conseguiu chegar, embora devamos assumir que outros o fizeram, caso contrário não haveria civilização Haakonish em {1}.
 
 A estranha linguagem dos registros e sua condição danificada apresentam obstáculos para interpretação, mas está claro que esses Haakonish estavam fugindo de alienígenas hostis e de um cataclismo que abrangeu a galáxia de alguma forma. O que poderia ter sido tão terrível a ponto de fazer com que esses Haakonish abandonassem seus lares e negócios e se aventurassem no desconhecido? Será que esse perigo ainda está lá fora?
 

@@ -773,33 +773,33 @@ Cada item da lista mostra o tamanho e a adequação para colonização do planet
 Se a potencial nova colônia já for habitada por uma raça alienígena independente (uma colônia independente), então a raça e o nível populacional são mostrados, juntamente com a chance atual de colonizar com sucesso a colônia independente, ou seja, o quão provável é que eles aceitem se unir ao seu império.
 
 [H3]Enfileirando Colonização[/H3]
-O botão à direita permite que você enfileire a colonização do planeta ou lua. Isso construirá uma nova nave colonizadora, a preencherá com colonos de uma de suas colônias e então enviará a nova nave colonizadora para o mundo alvo para colonizá-lo.
+O botão à direita permite que você enfileire a colonização do planeta ou lua. Isso construirá uma nova nave colonial, a preencherá com colonos de uma de suas colônias e então enviará a nova nave colonial para o mundo alvo para colonizá-lo.
 
-Alternativamente, se já houver uma nave colonizadora adequada em seu império, ela poderá ser usada para colonizar o novo mundo.
+Alternativamente, se já houver uma nave colonial adequada em seu império, ela poderá ser usada para colonizar o novo mundo.
 
 [H3]Localizações Perigosas[/H3]
 Um símbolo de raio vermelho será mostrado ao lado do nome da localização se esta for considerada perigosa. Uma localização é perigosa quando há ameaças não eliminadas presentes, como piratas ou criaturas espaciais mortais.
 
-Naves não militares não viajarão para uma localização perigosa. As ameaças devem ser eliminadas primeiro por naves militares ou uma frota. Isso significa que, enquanto você pode enfileirar a construção de novas colônias em uma localização perigosa, as naves colonizadoras não irão para lá até que as ameaças sejam eliminadas.</MarkupText>
+Naves não militares não viajarão para uma localização perigosa. As ameaças devem ser eliminadas primeiro por naves militares ou uma frota. Isso significa que, enquanto você pode enfileirar a construção de novas colônias em uma localização perigosa, as naves coloniais não irão para lá até que as ameaças sejam eliminadas.</MarkupText>
         <RelatedControlNames>
           <string>ColonyNewColonies_SubSection</string>
         </RelatedControlNames>
       </TourStep>
       <TourStep>
-        <StepTitle>Naves Colonizadoras</StepTitle>
-        <MarkupText>Naves Colonizadoras são naves de transporte especiais que podem carregar grandes números de colonos enviados para colonizar um novo mundo para seu império.
+        <StepTitle>Naves Coloniais</StepTitle>
+        <MarkupText>Naves Coloniais são naves de transporte especiais que podem carregar grandes números de colonos enviados para colonizar um novo mundo para seu império.
 
-Quando as naves colonizadoras alcançam seu destino, elas são desmontadas e os recursos brutos são usados para estabelecer a nova colônia. Assim, as naves colonizadoras só podem ser usadas para colonizar um único mundo. Você deve construir uma nova nave colonizadora para cada mundo que deseja colonizar.
+Quando as naves coloniais alcançam seu destino, elas são desmontadas e os recursos brutos são usados para estabelecer a nova colônia. Assim, as naves coloniais só podem ser usadas para colonizar um único mundo. Você deve construir uma nova nave colonial para cada mundo que deseja colonizar.
 
-[H3]Lista de Naves Colonizadoras[/H3]
-Esta tela lista todas as naves colonizadoras em seu império. Verifique as opções de ordenação e filtragem no topo do painel.
+[H3]Lista de Naves Coloniais[/H3]
+Esta tela lista todas as naves coloniais em seu império. Verifique as opções de ordenação e filtragem no topo do painel.
 
-Quando ampliado para o nível da galáxia ou do sistema, as localizações das naves colonizadoras são destacadas no mapa. Passar o mouse sobre um item na lista marcará a localização no mapa. Clicar no item o selecionará. Duplo-clique no item moverá a visão para essa localização.
+Quando ampliado para o nível da galáxia ou do sistema, as localizações das naves coloniais são destacadas no mapa. Passar o mouse sobre um item na lista marcará a localização no mapa. Clicar no item o selecionará. Duplo-clique no item moverá a visão para essa localização.
 
 Cada item da lista mostra o nível de construção, missão atual e quaisquer colonos carregados a bordo.
 
 [H3]Status de Automação[/H3]
-Você pode alterar o status de automação da nave colonizadora usando o botão à extrema direita do item da lista.</MarkupText>
+Você pode alterar o status de automação da nave colonial usando o botão à extrema direita do item da lista.</MarkupText>
         <RelatedControlNames>
           <string>ColonyColonyShips_SubSection</string>
         </RelatedControlNames>
