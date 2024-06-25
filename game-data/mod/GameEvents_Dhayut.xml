@@ -3648,7 +3648,7 @@ Há muito debate entre nossos líderes. Devemos tentar enganar os Boskara para e
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Resultado da Enganação</MessageTitle>
-        <Description>Nós conseguimos avançar com alguns locais influentes Boskaranos em {0}, mas a suspeita sobre nossa natureza e nossos motivos está crescendo. Não podemos continuar este programa sem mais investimentos.</Description>
+        <Description>Nós saqueamos os vários armazéns desses alienígenas tolos antes da nossa retirada estratégica. Eles nunca mais confundirão os Dhayut com outros alienígenas, e agora eles irão tremer ao ouvir nosso nome.</Description>
 
         <ImageFilepath />
         <MusicFilepath />

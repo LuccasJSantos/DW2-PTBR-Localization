@@ -107,7 +107,7 @@
   <Resource>
     <ResourceId>13</ResourceId>
     <Name>Carbonita</Name>
-    <Description>Carbonita é um composto de carbono superforte. É tipicamente usado em componentes que requerem grande resistência e resistência a altas temperaturas. Carbonita é encontrada em mundos de Pântanos Pantanosos, Florestas de Mangue, Continentais e Carbonáceos.</Description>
+    <Description>Carbonita é um composto de carbono extremamente resistente, frequentemente empregado em componentes que exigem alta durabilidade e capacidade de suportar temperaturas elevadas. Esse material é encontrado em mundos de Pântanos Pantanosos, Florestas de Mangue, além de ambientes Continentais e Carbonáceos.</Description>
     <BaseCost>9</BaseCost>
     <ImageFilename>Environment/Resources/Carbonite</ImageFilename>
     <Bonuses />

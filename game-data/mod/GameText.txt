@@ -292,7 +292,7 @@ Ship Automation AutoPatrol		;Auto-Patrulha
 Ship Automation AutoEscort		;Auto-Escolta
 Ship Automation AutoRaid		;Auto-Raide
 Ship Automation AutoExplore		;Auto-Exploração
-Ship Automation AutoScout		;Sistemas de Auto-Escote
+Ship Automation AutoScout		;Auto-Recon de Sistemas
 Ship Automation AutoSpy		;Auto-Espionagem nos Inimigos
 Ship Automation AutoMigration		;Auto-Migração
 Ship Automation AutoTourism		;Auto-Turismo
@@ -790,7 +790,7 @@ AreaShieldRechargeAmount		;Qtd. Máx. de Recarga
 AreaShieldRechargeEnergyUsedPerUnitCharged		;Energia Necessária
 AreaShieldRechargeRange		;Alcance de Recarga
 ArmorBlastRating		;Classificação
-ArmorReactiveRating		;Classificação Reactiva
+ArmorReactiveRating		;Classificação Reativa
 AssaultDefense		;Defesa de Assalto
 AssaultPodBoardingRange		;Alcance de Embarque
 AssaultPodEnergyPerLaunch		;Energia Usada pela Cápsula
@@ -975,7 +975,7 @@ BonusType ShipMaintenanceAll		;Economia Manutenção Nave
 BonusType ConstructionSpeedAllShips		;Vel. Construção Nave
 BonusType ConstructionSpeedCivilian		;Vel. Construção Nave Civil
 BonusType ConstructionSpeedMilitary		;Vel. Construção Nave Militar
-BonusType ConstructionSpeedColonyShip	;Vel. Construção Nave Colonial
+BonusType ConstructionSpeedColonyShip		;Vel. Construção Nave Colonial
 BonusType ConstructionSpeedFacility		;Vel. Construção Instalação
 BonusType ColonyCorruptionReduction		;Redução Corrupção da Colônia
 BonusType ColonyHappiness		;Felicidade da Colônia
@@ -1031,7 +1031,7 @@ BonusType TradeIncome		;Renda do Comércio
 BonusType TroopExperienceGain		;Ganho de Experiência Tropas
 BonusType TroopGroundAttack		;Força de Ataque Terrestre
 BonusType TroopGroundDefense		;Força de Defesa Terrestre
-BonusType TroopMaintenance		;Economia de Manutenção Tropas
+BonusType TroopMaintenance		;Economia Manutenção Tropas
 BonusType TroopRecoveryRate		;Taxa Recuperação Tropas
 BonusType TroopRecruitment		;Taxa Recrutamento Tropas
 BonusType WarWearinessReduction		;Redução da Fadiga de guerra
@@ -1067,7 +1067,7 @@ BonusType Scenery		;Cenário
 BonusType RaidIncome		;Renda de Incursão
 BonusType ScanEvasion		;Evasão de Escaneamento
 BonusType ScanFocusing		;Focalização de Escaneamento
-BonusType PlanetaryFacilityMaintenance		;Economia de Manutenção Instalação Planetária
+BonusType PlanetaryFacilityMaintenance		;Economia Manutenção Instalação Planetária
 BonusType PlagueCuring		;Cura de Praga
 BonusType PlagueContainment		;Contenção de Praga
 
@@ -1156,30 +1156,30 @@ Can only build X per galaxy		;Só pode construir {0} na galáxia
 Can only build at PLANETTYPES		;Só pode construir em {0}
 Can only build with GOVERNMENTS		;Só pode construir com governos {0}
 
-ColonyCorruptionReductionProjectionRange		;Alcance de Redução de Corrupção
-ColonyIncomeDrainRatio		;Taxa Drenagem de Renda da Colônia
-ColonyInfluenceLevelToBuild		;Nível de Influência para Construir
+ColonyCorruptionReductionProjectionRange		;Alcance Redução Corrupção
+ColonyIncomeDrainRatio		;Drenagem Renda Colônia
+ColonyInfluenceLevelToBuild		;Influência p/ Construir
 FighterBuildRate		;Taxa Construção de Caças
 FighterCapacity		;Capacidade de Caças
 FighterRepairRate		;Taxa Reparo de Caças
-PlanetaryShieldMaximumDamageAbsorbed		;Dano Máx. Absorvido pelo Escudo Planetário
-PlanetaryShieldPenetrationChance		;Chance de Penetração do Escudo Planetário
-TerraformingDamageRepairRate		;Taxa Reparo de Danos na Terraformação
-TerraformingQualityImprovementRate		;Taxa Melhoria da Qualidade na Terraformação
-TerraformingQualityMaximum		;Máx. de Melhoria da Qualidade na Terraformação
+PlanetaryShieldMaximumDamageAbsorbed		;Dano Absorvido pelo Escudo
+PlanetaryShieldPenetrationChance		;Chance de Penetração do Escudo
+TerraformingDamageRepairRate		;Taxa Reparo de Danos
+TerraformingQualityImprovementRate		;Taxa Melhoria da Qualidade
+TerraformingQualityMaximum		;Máx. de Melhoria da Qualidade
 EmpireBonusSharingRate		;Taxa Compartilhamento de Bônus do Império
 QualityBoost		;Aumento de Qualidade
-SlaveryIncomeFactor		;Fator de Renda da Escravidão
-SlaveryUnhappinessFactor		;Fator de Infelicidade da Escravidão
+SlaveryIncomeFactor		;Renda da Escravidão
+SlaveryUnhappinessFactor		;Infelicidade por Escravidão
 WeaponCount		;Contagem de Armas
 Allows Troop Recruitment		;Permite Recrutamento de Tropas
-Allows Cloning Best Infantry Units		;Permite Clonagem Melhores Unidades de Infantaria
+Allows Cloning Best Infantry Units		;Permite Clonagem Melhores Unid. de Infantaria
 Empire Bonuses		;Bônus do Império
 Colony Bonuses		;Bônus da Colônia
 Location Bonuses		;Bônus de Localização
 Shared Bonuses from other empires		;Bônus Compartilhados de outros impérios (Tratados de Livre Comércio e Pesquisa)
-LeaderExtraPositiveTraitCount		;Contagem Extra de Traços Positivos do Líder
-ScientistExtraPositiveTraitCount		;Contagem Extra de Traços Positivos do Cientista
+LeaderExtraPositiveTraitCount		;Traços Positivos Extra do Líder
+ScientistExtraPositiveTraitCount		;Traços Positivos Extra do Cientista
 PreventPeriodicLeadershipChanges		;Impede Mudanças Periódicas de Liderança
 
 ComponentBayType Defense		;Defesa
@@ -1218,7 +1218,7 @@ TroopImprovement Attack		;{0} Força de Ataque
 TroopImprovement Intercept		;{0} Nível de Força de Interceptação
 TroopImprovement Sabotage		;{0} Força de Sabotagem
 TroopImprovement Recovery		;Taxa de Recuperação de {0}
-TroopImprovement Maintenance		;Economia de Manutenção de {0}
+TroopImprovement Maintenance		;Economia Manutenção de {0}
 
 ColonizationMinimumLevel		;Limiar de Qualidade de Colonização de {0}
 ColonizationSuitabilityModifier		;Modificador de Adequação de Colonização de {0}
@@ -2062,8 +2062,8 @@ Top Speed is lower than average for non-military ships X		;A Velocidade Máxima 
 Top Speed is lower than average for military ships X		;A Velocidade Máxima é inferior à média para naves militares (média do império é {0})
 Top Speed is lower than average for fighters X		;A Velocidade Máxima é inferior à média para caças (média do império é {0})
 This design has no problems		;Este projeto não tem problemas
-X Recommendations		;{0} Recomendações
-X Defects		;{0} Defeitos
+X Recommendations		;{0} Recomendação(ões)
+X Defects		;{0} Defeito(s)
 Defensive bases must have weapons or fighters		;Bases defensivas devem ter armas ou caças
 Military ships must have weapons or fighters		;Naves militares devem ter armas ou caças
 Need more crew		;Precisa de mais tripulação
@@ -2427,7 +2427,7 @@ Colony Attack Description		;Nossa colônia [LOCATION]{0}[/LOCATION] está sendo 
 SHIPROLE being Boarded		;{0} sendo abordado
 X is being boarded by EMPIRE		;[LOCATION]{0}[/LOCATION] está sendo abordado pela [FACTION]{1}[/FACTION]!
 X Y is being boarded by EMPIRE		;[LOCATION]{0} {1}[/LOCATION] está sendo abordado pela [FACTION]{2}[/FACTION]!
-X is being boarded by EMPIRE LOCATION SYSTEM		;[LOCATION]{0}[/LOCATION] está sendo abord
+X is being boarded by EMPIRE LOCATION SYSTEM		;[LOCATION]{0}[/LOCATION] está sendo abordado pela [FACTION]{1}[/FACTION] em {2} no sistema {3}!
 X Y is being boarded by EMPIRE LOCATION SYSTEM		;[LOCATION]{0} {1}[/LOCATION] está sendo abordado pela [FACTION]{2}[/FACTION] em {3} no sistema {4}!
 Our forces are invading COLONY of EMPIRE		;Nossas forças estão invadindo a colônia [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION]
 Our forces are invading the independent colony COLONY		;Nossas forças estão invadindo a colônia independente [LOCATION]{0}[/LOCATION]
@@ -2524,7 +2524,7 @@ Colony Overthrown		;Colônia Derrubada!
 Colony Overthrown Description		;Os habitantes de [LOCATION]{0}[/LOCATION] se cansaram de nosso governo opressivo e proclamaram independência!
 Colony Overthrown Description Other Empire		;Os habitantes de [LOCATION]{0}[/LOCATION] se cansaram de nosso governo opressivo e mudaram de lealdade para a [FACTION]{1}[/FACTION]!
 Colony Joins Us		;Colônia se Junta a Nós!
-Colony Joins Us Description		;Os habitantes oprimidos de [LOCATION]{0}[/LOCATION] mudaram de leald
+Colony Joins Us Description		;Os habitantes oprimidos de [LOCATION]{0}[/LOCATION] mudaram sua lealdade da [FACTION]{1}[/FACTION] e se juntaram a nós!
 Colony Raided		;Colônia Saqueada!
 Base Raided		;Base Saqueada!
 Colony Raided EMPIRE		;Colônia saqueada pela {0}!
@@ -2727,7 +2727,7 @@ Build Event Facility		;A construção de {0} em {1} resultou em uma descoberta c
 Build Event Base		;A construção de {0} em {1} resultou em uma descoberta curiosa:
 
 EmpireRelationChange Event FirstContact		;Nosso primeiro contato com os {0} resultou em uma descoberta curiosa:
-EmpireRelationChange Event		;Nosso relacionamento recentemente iniciado com os {0} resultou em uma descoberta curiosa:
+EmpireRelationChange Event		;Nosso {0} recentemente iniciado com os {1} resultou em uma descoberta curiosa:
 
 ResearchBreakthrough Event		;Nosso avanço de pesquisa em {0} resultou em uma descoberta curiosa:
 ResearchBreakthrough Event No Project		;Nosso avanço de pesquisa resultou em uma descoberta curiosa:
@@ -2991,7 +2991,7 @@ Victory Condition Detail PopulationHighest		;População total de {0}
 Victory Condition Detail ResearchLeastAdvanced		;Pesquisa total menos avançada {0}
 Victory Condition Detail ResearchMostAdvanced		;Pesquisa total mais avançada {0}
 Victory Condition Detail ResearchMostCompletedBranches		;Ramos de pesquisa completados {0}
-Victory Condition Detail ResearchMostCompletedBranchesByIndustry		;Ramos de pesquisa {1} completados
+Victory Condition Detail ResearchMostCompletedBranchesByIndustry		;{0} concluiu {1} ramos de pesquisa
 Victory Condition Detail MineMostResourcesLuxury		;Recursos de luxo mais extraídos {0}
 Victory Condition Detail MineMostResourcesConstruction		;Recursos de construção mais extraídos {0}
 Victory Condition Detail MineMostResourcesFuel		;Recursos de combustível mais extraídos {0}
@@ -3041,7 +3041,7 @@ Define a porcentagem das Condições de Vitória que devem ser cumpridas para ve
 Victory Threshold		;Limiar de Vitória
 Victory Conditions Time Limit		;Limite de Tempo das Condições de Vitória
 Victory Conditions Time Limit Explanation		;O jogo termina após {0} anos
-Victory Conditions Start Date		;Condições de Vitória A partir de
+Victory Conditions Start Date		;Aplicar depois de {0} ano(s)
 Victory Conditions Start Date Explanation		;As Condições de Vitória só se aplicam após {0} anos passarem no jogo
 
 Victory Conditions Time Limit Years		;Limite de Tempo (em Anos)
@@ -4118,8 +4118,8 @@ PIRATE offers us Protection		;{0} nos oferece proteção
 
 End of War with EMPIRE		;Fim da Guerra com {0}
 We have ended the war with the EMPIRE		;Encerramos a guerra com [FACTION]{0}[/FACTION]
-TREATY signed with EMPIRE		;Tratado assinado com {0}
-We have signed a TREATY with the EMPIRE		;Assinamos um tratado com [FACTION]{0}[/FACTION]
+TREATY signed with EMPIRE		;{0} assinado com {1}
+We have signed a TREATY with the EMPIRE		;Assinamos um(a) {0} com [FACTION]{1}[/FACTION]
 Gift from EMPIRE		;Presente de {0}
 We have accepted the following gift from EMPIRE		;Aceitamos o seguinte presente de [FACTION]{0}[/FACTION]
 Trade Deal with EMPIRE		;Acordo de Comércio com {0}
@@ -4240,7 +4240,7 @@ Independent Colony Neutral		;Podemos tentar colonizá-la enviando uma Nave Colon
 The colony has unique features that provide bonuses		;A colônia possui características únicas que fornecem bônus
 The RACE possess powerful artifacts		;Os {0}s possuem artefatos poderosos
 
-Initial communications with RACE have been catastrophically bad		;As comunicações iniciais com os {0}s foram catastróficamente ruins. Uma tradução inadequada de nossa saudação padrão em sua língua os levou a acreditar erroneamente que estávamos convidando-os a se tornarem nossos escravos. Apesar de nossas subsequentes garantias, eles se sentiram profundamente ofendidos.
+Initial communications with RACE have been catastrophically bad		;As comunicações iniciais com os {0} foram catastróficamente ruins. Uma tradução inadequada de nossa saudação padrão em sua língua os levou os {0} a acreditarem erroneamente que estávamos convidando-os a se tornarem nossos escravos. Apesar de nossas subsequentes garantias, eles se sentiram profundamente ofendidos.
 Initial communications with RACE have been catastrophically bad - same species		;As comunicações iniciais com os {0}s foram catastróficamente ruins. Um mal-entendido sobre seus costumes causou grande ofensa.
 Initial communications with RACE have gone very poorly		;As comunicações iniciais com os {0}s foram muito ruins. Acidentalmente insultamos os {0}s, causando grande ofensa.
 Initial communications with RACE have gone poorly		;As comunicações iniciais com os {0}s foram ruins. Os {0}s estão bastante descontentes conosco.
@@ -4497,7 +4497,7 @@ Display ship symbols at location level		;Exibir símbolos de nave e base no nív
 
 Annual Income		;Rendimento Anual
 Annual Expenses		;Despesas Anuais
-Annual Bonus Income		;Rendimento Anual de Bônus
+Annual Bonus Income		;Rendimento Bônus Anual
 
 Population Growth Rate Explanation		;A taxa de crescimento não inclui perdas por pragas, desastres ou emigração. Também não inclui ganhos por imigração.
 Population at COLONY		;População em {0}
@@ -5357,7 +5357,7 @@ EMPIRE becomes Vassal of OTHER Explanation		;[FACTION]{0}[/FACTION] se tornou um
 EMPIRE becomes Vassal of OTHER After War		;A guerra termina com {0} se tornando Vassalo de {1}
 EMPIRE becomes Vassal of OTHER After War Explanation		;A guerra entre [FACTION]{0}[/FACTION] e [FACTION]{1}[/FACTION] terminou com {0} concordando em se tornar um estado vassalo de {1}.\n\nComo resultado, todos os tratados com {0} foram cancelados. A partir de agora, todas as suas relações exteriores serão tratadas por {1}.
 Vassal EMPIRE Rebels Against OTHER		;Vassalo {0} se Rebela Contra {1}
-Vassal EMPIRE Rebels Against OTHER Explanation		;O [FACTION]{0}[/FACTION], nosso vassalo, se rebelou contra seus governantes, [FACTION]{1}[/FACTION].\n\nEles se recusam a pagar tributos e se separaram da {1}, seguindo seu próprio caminho independente.\n\nComo resultado, agora existe um estado de guerra entre nós e a {0}.
+Vassal EMPIRE Rebels Against OTHER Explanation		;O [FACTION]{0}[/FACTION], nosso vassalo, se rebelou contra seus governantes, [FACTION]{1}[/FACTION].\n\nEles se recusam a pagar tributos e se separaram da {1}, seguindo seu próprio caminho independente.\n\nComo resultado, agora existe um estado de guerra entre os {0} e os {1}.
 Your empire is a vassal of EMPIRE explanation		;Seu império é vassalo de {0} e, portanto, não pode interagir com outras facções
 Parent empire EMPIRE is pursuing strategy STRATEGY		;O império pai {0} está seguindo a estratégia '{1}' para esta facção
 We pay monthly tribute of X to EMPIRE		;Pagamos um tributo mensal de {0} créditos para {1} como seu Vassalo
