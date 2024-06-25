@@ -242,7 +242,7 @@ Revenue		;Receita
 Base Revenue		;Receita Base
 Support Costs		;Custos de Suporte
 Corruption		;Corrupção
-Corruption Losses		;Perdas por Corrupção.
+Corruption Losses		;Perdas por Corrupção
 Diameter		;Diâmetro
 X% of empire		;{0} do império
 Tax		;Imposto
@@ -823,10 +823,10 @@ DockingBayThroughput		;Taxa Transferência
 EnergyCollectionRate		;Taxa Coleta Energia
 EnergyFuelProductionRate		;Taxa Produção Combustível
 EngineMainCruiseThrust		;Empuxo de Cruzeiro
-EngineMainCruiseThrustEnergyUsage		;Uso de Energia de Cruzeiro
+EngineMainCruiseThrustEnergyUsage		;Uso Energia de Cruzeiro
 EngineMainMaximumThrust		;Empuxo Máx.
 EngineMainMaximumThrustEnergyUsage		;Uso Máx. de Energia
-EngineVectoringEnergyUsage		;Uso de Energia do Vetor
+EngineVectoringEnergyUsage		;Uso Energia do Vetor
 EngineVectoringThrust		;Empuxo do Vetor
 ExtractionRate		;Taxa Extração
 ExtractionRangeAsteroid		;Alcance de Mineração Asteróides
@@ -836,11 +836,11 @@ FighterBayBuildRate		;Taxa Construção de Caças
 FighterBayCapacity		;Espaço do Hangar de Caças
 FighterBayRepairRate		;Taxa Reparo do Hangar de Caças
 FuelStorageCapacity		;Armazenamento de Combustível
-HyperDenyEnergyUsage		;Uso de Energia do HyperDeny
+HyperDenyEnergyUsage		;Uso Energia do HyperDeny
 HyperDenyRange		;Alcance do HyperDeny
 HyperDenyStrength		;Força do HyperDeny
 HyperDriveBlockingInsulation		;Isolamento de Bloqueio
-HyperDriveEnergyUsage		;Uso de Energia do HyperDrive
+HyperDriveEnergyUsage		;Uso Energia do HyperDrive
 HyperDriveJumpInitiationTime		;Tempo de Início do Salto
 HyperDriveJumpRange		;Alcance de Salto
 HyperDriveJumpAccuracy		;Precisão do Salto
@@ -968,16 +968,16 @@ WeaponFireType Seeking		;Busca
 WeaponFireType FullLengthBeam		;Feixe de Comprimento Total
 
 BonusType Assassination		;Assassinato
-BonusType ShipMaintenanceCivilian		;Economia de Manutenção de Nave Civil
-BonusType ShipMaintenanceMilitary		;Economia de Manutenção de Nave Militar
-BonusType ShipMaintenanceBases		;Economia de Manutenção Base
-BonusType ShipMaintenanceAll		;Economia de Manutenção Nave
+BonusType ShipMaintenanceCivilian		;Economia Manutenção Nave Civil
+BonusType ShipMaintenanceMilitary		;Economia Manutenção Nave Militar
+BonusType ShipMaintenanceBases		;Economia Manutenção Base
+BonusType ShipMaintenanceAll		;Economia Manutenção Nave
 BonusType ConstructionSpeedAllShips		;Vel. Construção Nave
 BonusType ConstructionSpeedCivilian		;Vel. Construção Nave Civil
 BonusType ConstructionSpeedMilitary		;Vel. Construção Nave Militar
-BonusType ConstructionSpeedColonyShip		;Vel. Construção de Nave Colonial
-BonusType ConstructionSpeedFacility		;Vel. Construção de Instalação
-BonusType ColonyCorruptionReduction		;Redução de Corrupção em Colônia
+BonusType ConstructionSpeedColonyShip	;Vel. Construção Nave Colonial
+BonusType ConstructionSpeedFacility		;Vel. Construção Instalação
+BonusType ColonyCorruptionReduction		;Redução Corrupção da Colônia
 BonusType ColonyHappiness		;Felicidade da Colônia
 BonusType ColonyIncome		;Renda da Colônia
 BonusType Concealment		;Ocultação
@@ -1023,7 +1023,7 @@ BonusType ResearchAncientKnowledge		;Conhecimento Antigo
 
 BonusType Sabotage		;Sabotagem
 BonusType ShieldRechargeRate		;Taxa Recarga de Escudo
-BonusType ShipEnergyUsage		;Economia de Uso de Energia da Nave
+BonusType ShipEnergyUsage		;Economia Uso de Energia da Nave
 BonusType ShipManeuvering		;Manobrabilidade da Nave
 BonusType Targeting		;Mira
 BonusType TourismIncome		;Renda do Turismo
@@ -1425,13 +1425,13 @@ Distance		;Distância
 Static		;Estático
 Static Energy Usage		;Uso Estático de Energia
 Energy Usage		;Uso de Energia
-Energy Usage - General		;Uso de Energia - Geral
-Energy Usage - Hyperjump		;Uso de Energia - Salto Hiperespacial
-Cruise Speed Energy Usage		;Uso de Energia em Velocidade de Cruzeiro
-Top Speed Energy Usage		;Uso de Energia em Velocidade Máxima
+Energy Usage - General		;Uso Energia - Geral
+Energy Usage - Hyperjump		;Uso Energia do Hiper Salto
+Cruise Speed Energy Usage		;Uso Energia em Vel. de Cruzeiro
+Top Speed Energy Usage		;Uso Energia em Vel. Máxima
 Engines (Sprint)		;Motores (Sprint)
 Engines (Cruise)		;Motores (Cruzeiro)
-Weapons Energy Usage		;Uso de Energia por Armas
+Weapons Energy Usage		;Uso Energia por Armas
 Hyperdrive Energy Usage		;Uso de Energia
 Energy Overuse		;Excesso de Energia
 Overuse		;Excesso
@@ -1727,11 +1727,11 @@ ExpenseType Information		;Informação
 ExpenseType Tribute		;Tributo Pago
 ExpenseType Missions		;Missões
 ExpenseType EnemyRaids		;Raiders Inimigos
-ExpenseType PrivateGeneralExpenditure		;Despesas Gerais Privadas
-ExpenseType PrivateColonyTax		;Impostos Colônias Privadas
-ExpenseType PrivateShipMaintenance		;Manut. Naves Privadas
+ExpenseType PrivateGeneralExpenditure		;Despesas Gerais Priv.
+ExpenseType PrivateColonyTax		;Impostos Colônias Priv.
+ExpenseType PrivateShipMaintenance		;Manut. Naves Priv.
 ExpenseType PrivateTourism		;Turismo Privado
-ExpenseType PrivateShipBuilding		;Construção de Naves Privadas
+ExpenseType PrivateShipBuilding		;Construção de Naves Priv.
 ExpenseType PrivateFuel		;Combustível Privado
 
 ExpenseType ColonyGrowthFunding Explanation		;As colônias normalmente crescem lentamente, mas você pode acelerar seu crescimento alocando financiamento
@@ -2410,7 +2410,7 @@ No Buildable Designs		;Sem Designs Construíveis
 No Buildable Designs for ROLE		;Sem Designs Construíveis para {0}
 No Buildable Designs Explanation		;Você deve primeiro pesquisar um Casco de Nave para essa função e depois criar um Design que use o Casco de Nave
 
-Cannot cancel crash programs		;Não é possível cancelar programas de falha
+Cannot cancel crash programs		;Não é possível cancelar programas emergenciais
 Under Attack		;Sob Ataque
 X is under attack from ATTACKER		;[LOCATION]{0}[/LOCATION] está sob ataque de um(a) {1}!
 X Y is under attack from ATTACKER		;[LOCATION]{0} {1}[/LOCATION] está sob ataque de um(a) {2}!
@@ -2819,7 +2819,7 @@ AutomationCategory FleetPostures		;Posturas da Frota
 AutomationCategory FleetTopup		;Gerenciamento de Naves da Frota
 AutomationCategory MilitaryAttack		;Ataques Militares
 AutomationCategory Research		;Pesquisa
-AutomationCategory ResearchCrash		;Pesquisa Rápida
+AutomationCategory ResearchCrash		;Pesquisa Emergencial
 AutomationCategory ShipDesigns		;Design de Naves e Bases
 AutomationCategory TroopGeneration		;Recrutamento de Tropas
 AutomationCategory FundingLevels		;Níveis de Financiamento
@@ -3034,7 +3034,7 @@ Portion		;Parte
 Enable Race-specific events		;Ativar eventos específicos da raça
 Victory Threshold Percent		;Percentual do Limiar de Vitória
 Race-specific Events		;Eventos Específicos da Raça
-Race-specific Story Events		;Eventos de História Específicos da Raça
+Race-specific Story Events		;Eventos de História da Raça
 Enables Race-specific Events in the game		;Ativa eventos de história específicos da raça no jogo
 Victory Threshold Percentage		;Percentual do Limiar de Vitória
 Define a porcentagem das Condições de Vitória que devem ser cumpridas para vencer o jogo		;Define a porcentagem das Condições de Vitória que devem ser cumpridas para vencer o jogo
@@ -3044,9 +3044,9 @@ Victory Conditions Time Limit Explanation		;O jogo termina após {0} anos
 Victory Conditions Start Date		;Condições de Vitória A partir de
 Victory Conditions Start Date Explanation		;As Condições de Vitória só se aplicam após {0} anos passarem no jogo
 
-Victory Conditions Time Limit Years		;Anos de Limite de Tempo das Condições de Vitória
+Victory Conditions Time Limit Years		;Limite de Tempo (em Anos)
 Victory Conditions Time Limit Years Explanation		;O jogo termina após o número especificado de anos. O vencedor é o império com o maior valor estratégico neste momento
-Victory Conditions Start Date Years		;Anos de Início das Condições de Vitória
+Victory Conditions Start Date Years		;Data de Início (em Anos)
 Victory Conditions Start Date Years Explanation		;As Condições de Vitória só se aplicam após o número especificado de anos ter passado no jogo
 
 Victory Conditions Threshold Win		;Você alcançou a vitória
@@ -4787,7 +4787,7 @@ Ctrl-Mouse-Scrollwheel		;Roda de Rolagem Ctrl-Mouse
 Only From Locations		;Somente de Locais
 We have X (Y for TYPE, Z for ALL)		;Nós temos {0} ({1} de {2} + {3} de Todos os Pesquisas)
 Maximum Population		;População Máxima
-Max Pop		;Max Pop
+Max Pop		;Máx. Pop
 Maximum Population Explanation		;Nível máximo de população para este planeta. Note que este é um limite geral, mas pode ser excedido por algumas raças quando o planeta é particularmente adequado para elas.
 Research Project Hover Detail		;Detalhe de Sobreposição do Projeto de Pesquisa
 Immediately show full project detail		;Mostrar imediatamente detalhes completos do projeto
@@ -5159,7 +5159,7 @@ PolicyExplanation AutomationFleetTopup		;Automatizar o reabastecimento de naves 
 PolicyExplanation AutomationFleetPostures		;Automatizar a seleção de bases principais, alcances de engajamento e alvos de ataque para frotas ou controlar esta área manualmente.
 PolicyExplanation MilitaryShipsNotInFleetRatio		;Especifica a proporção de naves militares que não devem ser alocadas em frotas, mas devem operar por conta própria, realizando missões de escolta e guarda.\n\nObserve que isso simplesmente define um limite para a proporção de suas naves militares [B]que podem[/B] ser atribuídas a frotas. Isso [B]não[/B] significa necessariamente que todas as outras naves militares [B]serão[/B] atribuídas a frotas. Portanto, definir esse valor como zero não significa que todas as suas naves militares serão atribuídas a frotas. Isso depende de quantas frotas seu império possui e da composição dessas frotas.
 PolicyExplanation AutomationResearch		;Automatizar a seleção de novos projetos de pesquisa ou controlar esta área manualmente.
-PolicyExplanation AutomationResearchCrash		;Automatizar decisões sobre quando realizar projetos de pesquisa intensiva ou controlar esta área manualmente. A pesquisa intensiva gasta dinheiro para dobrar a taxa de pesquisa de um projeto, permitindo adquirir novas tecnologias mais rapidamente.
+PolicyExplanation AutomationResearchCrash		;Automatizar decisões sobre quando realizar projetos de pesquisa emergencial ou controlar esta área manualmente. A pesquisa emergencial gasta dinheiro para dobrar a taxa de pesquisa de um projeto, permitindo adquirir novas tecnologias mais rapidamente.
 PolicyExplanation ResearchMaximumConcurrentProjects		;O número máximo de projetos simultâneos que podem ser pesquisados. Quando maior que um, múltiplos projetos podem ser pesquisados simultaneamente, dividindo sua produção de pesquisa entre esses projetos. Observe que pesquisar múltiplos projetos simultaneamente também requer várias estações de pesquisa.
 PolicyExplanation AutomationCharacterMissions		;Automatizar a atribuição de missões de inteligência para seus espiões ou controlar esta área manualmente. Observe que você também pode alternar a automação de personagens individuais.
 PolicyExplanation AutomationCharacterLocations		;Automatizar o movimento de seus personagens para sua localização ideal ou controlar esta área manualmente. Observe que você também pode alternar a automação de personagens individuais.
