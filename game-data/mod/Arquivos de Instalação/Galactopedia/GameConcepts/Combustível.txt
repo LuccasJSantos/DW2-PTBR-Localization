@@ -1,6 +1,6 @@
 Todas as naves requerem combustível para se movimentar pela galáxia. O combustível é um recurso crítico que permite a expansão do seu império.
 
-O recurso universal de combustível é o Caslon. Trata-se de um gás azul claro encontrado principalmente em planetas Gas Giant.
+O recurso universal de combustível é o Caslon. Trata-se de um gás azul claro encontrado principalmente em Gigantes Gasosos.
 
 [H3]Como o combustível é utilizado[/H3]
 O combustível é consumido pelos componentes do reator para gerar energia bruta. Essa energia é então utilizada por todos os componentes em uma nave ou base que a requerem. Isso inclui energia para motores e hyperdrives para mover uma nave. Outros componentes que consomem energia incluem: escudos (durante o recarregamento), armas, estaleiros de construção e muitos outros.
