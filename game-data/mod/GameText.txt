@@ -74,20 +74,20 @@ ShipMission Description LoadPopulation		;Carregar colonos em {0}
 ShipMission Description LoadPopulation RACE		;Carregar colonos em {0} ({1})
 ShipMission Description LoadCargo		;Carregar combustível em {0}
 ShipMission Description TransferFuel		;Transferir combustível para {0}
-ShipMission Description Mine		;Mineração {0}, descarregar em {1}
-ShipMission Description MineLoad		;Mineração de combustível em {0}
+ShipMission Description Mine		;Minerar {0}, descarregar em {1}
+ShipMission Description MineLoad		;Minerar combustível em {0}
 ShipMission Description Move		;Mover para {0}
 ShipMission Description Move Coordinates		;Mover para {0}, {1}
 ShipMission Description Patrol		;Patrulhar {0}
 ShipMission Description Pickup		;Pegar {0}
-ShipMission Description Raid		;Atacar {0}
-ShipMission Description Raid Prepare		;Preparar e Atacar {0}
-ShipMission Description Raid Prepare Waypoint		;Atacar {0} (ponto de referência em {1})
-ShipMission Description Raid Prepare Refuel		;Atacar {0} (reabastecer em {1})
+ShipMission Description Raid		;Assaltar {0}
+ShipMission Description Raid Prepare		;Preparar e Assaltar {0}
+ShipMission Description Raid Prepare Waypoint		;Assaltar {0} (ponto de referência em {1})
+ShipMission Description Raid Prepare Refuel		;Assaltar {0} (reabastecer em {1})
 ShipMission Description Refuel		;Reabastecer em {0}
 ShipMission Description Repair		;Reparar em {0}
-ShipMission Description Retire Target		;Retirar em {0}
-ShipMission Description Retire		;Retirar
+ShipMission Description Retire Target		;Recura em {0}
+ShipMission Description Retire		;Recuar
 ShipMission Description Retrofit		;Modernizar em {0}
 ShipMission Description Retrofit With Design		;Modernizar para {1} em {0}
 ShipMission Description Scout		;Explorar {0}
@@ -145,7 +145,7 @@ ShipMission Description With Distance Raid Prepare Waypoint		;Atacar {0} ({2} de
 ShipMission Description With Distance Raid Prepare Refuel		;Atacar {0} ({2} de distância, reabastecer em {1}, {3} de distância)
 ShipMission Description With Distance Refuel		;Reabastecer em {0} ({1} de distância)
 ShipMission Description With Distance Repair		;Reparar em {0} ({1} de distância)
-ShipMission Description With Distance Retire Target		;Retirar em {0} ({1} de distância)
+ShipMission Description With Distance Retire Target		;Recuar para {0} ({1} de distância)
 ShipMission Description With Distance Retrofit		;Modernizar em {0} ({1} de distância)
 ShipMission Description With Distance Retrofit With Design		;Modernizar para {1} em {0} ({2} de distância)
 ShipMission Description With Distance Scout		;Explorar {0} ({1} de distância)
@@ -2661,7 +2661,7 @@ AutomationLevel SuggestWait		;Sugerir
 
 AutomationLevel Explanation Automated		;Automatizar completamente esta área
 AutomationLevel Explanation Manual		;Controlar manualmente esta área
-AutomationLevel Explanation SuggestExecute		;Os consultores farão sugestões que serão implementadas automaticamente após um curto período de espera para sua aprovação; isto é, as sugestões serão implementadas a menos que você as cancele
+AutomationLevel Explanation SuggestExecute		;Os consultores farão sugestões que serão implementadas automaticamente após um curto período de espera para sua aprovação. Isto é, as sugestões serão implementadas a menos que você as cancele
 AutomationLevel Explanation SuggestWait		;Os consultores farão sugestões, mas não as implementarão a menos que você as aprove
 
 
@@ -4549,7 +4549,7 @@ Upgrade		;Atualizar
 
 Cannot build Mining Stations at colonies		;Não é possível construir Estações de Mineração em colônias
 Cannot build Research Stations at own colonies		;Não é possível construir Estações de Pesquisa em colônias próprias
-While salvaging a SPACEITEM in the SYSTEM system we have made the following discovery		;Enquanto recuperávamos um(a) {0} no sistema {1), fizemos a seguinte descoberta
+While salvaging a SPACEITEM in the SYSTEM system we have made the following discovery		;Enquanto recuperávamos um(a) {0} no sistema {1}, fizemos a seguinte descoberta
 CHARACTERROLE Recovered		;{0} Recuperado
 Enemy CHARACTERROLE Captured		;Inimigo {0} Capturado
 Foreign CHARACTERROLE Recovered		;{0} Estrangeiro Recuperado
@@ -4777,7 +4777,7 @@ EngagementRange		;Alcance de Engajamento
 FleetEngagementRange		;Alcance de Engajamento da Frota
 FleetRetreatOverwhelmed		;Estratégia de Retirada da Frota
 InvasionTactics		;Invadir Colônias
-ShipRetreatOptions		;Retirar Quando
+ShipRetreatOptions		;Recuar Quando
 ShipRoleInFleet		;Posição dentro da Frota
 FleetAllowShipRoleReassignment		;Permitir Reatribuição de Posição
 Fleet Ships Tactical Overrides		;Frota - Substituições Táticas de Naves
@@ -5276,7 +5276,7 @@ EMPIRE reports		;Relatórios de {0}
 FleetEngagementRange Explanation		;A Faixa de Engajamento da Frota especifica quando uma frota irá engajar alvos.\n\nNão Engajar: a frota nunca irá engajar inimigos\nEngajar Quando Atacado: irá engajar inimigos somente quando diretamente atacada por eles\nPróximo: irá engajar alvos inimigos próximos\nMesmo Local: irá engajar alvos inimigos no mesmo local (planeta e luas)\nMesmo Sistema: irá engajar alvos inimigos no mesmo sistema estelar\n50M de alcance: irá engajar alvos inimigos dentro de 50 milhões de unidades\n100M de alcance: irá engajar alvos inimigos dentro de 100 milhões de unidades\n200M de alcance: irá engajar alvos inimigos dentro de 200 milhões de unidades\n300M de alcance: irá engajar alvos inimigos dentro de 300 milhões de unidades\n33% do Alcance de Combustível: irá engajar alvos inimigos dentro de 33% do alcance de combustível da frota\n50% do Alcance de Combustível: irá engajar alvos inimigos dentro de 50% do alcance de combustível da frota\n\nNote que a faixa de engajamento da frota substitui as faixas de engajamento das naves individuais na frota. Ou seja, quando uma nave faz parte de uma frota, ela usa a faixa de engajamento da frota em vez de sua própria faixa de engajamento.
 Explicação Coerência de Formação da Frota		;Especifica a proximidade das naves de Escolta Próxima e Piquete em relação às suas naves Núcleo escoltadas na frota.
 Explicação Permite Reatribuição de Função de Nave na Frota		;Isso determina se as naves podem ter sua 'Função Dentro da Frota' reatribuída automaticamente ou não. Isso significa que sempre que uma nova nave líder de frota for selecionada (por exemplo, quando uma nave melhor se juntar à frota ou quando a nave líder anterior se perder), então as naves Núcleo, Escolta Próxima e Piquete podem mudar.
-FleetRetreatOverwhelmed Explanation		;Determina quando toda a frota decidirá se retirar de uma batalha.
+FleetRetreatOverwhelmed Explanation		;Determina quando toda a frota decidirá recuar de uma batalha.
 
 FleetOverrideShipTacticsWithFleet Explanation		;Especifica se as naves em uma frota usam táticas individuais próprias, ou em vez disso, usam um conjunto comum de substituições táticas de sua frota.
 
@@ -5890,7 +5890,7 @@ Government TradeIncomePerYearPerFreeTradeTreaty		;Bônus de Renda Anual para Aco
 Government TradeIncomePerYearPerFreeTradeTreaty Explanation		;Quantidade de bônus de renda anual para cada acordo de comércio livre que o império tem com outras facções
 
 Government BonusesPerTreatyType		;Bônus de Tratado
-Government BonusesPerTreatyType Explanation		;Bônus especiais para tratados. Esses bônus se aplicam quando o império possui o tipo específico de tratado com outra facção. Os bônus se aplicam para cada tratado desse tipo; por exemplo, se o império tiver 2 tratados desse tipo, eles receberão o dobro dos montantes de bônus. No entanto, os montantes totais de bônus terão um limite suave a partir de 4 vezes o montante base.
+Government BonusesPerTreatyType Explanation		;Bônus especiais para tratados. Esses bônus se aplicam quando o império possui o tipo específico de tratado com outra facção. Os bônus se aplicam para cada tratado desse tipo. por exemplo, se o império tiver 2 tratados desse tipo, eles receberão o dobro dos montantes de bônus. No entanto, os montantes totais de bônus terão um limite suave a partir de 4 vezes o montante base.
 
 Chance of Positive Character Traits		;Chance de Traços de Personagem Positivos quando o Líder Muda
 Chance of Negative Character Traits		;Chance de Traços de Personagem Negativos quando o Líder Muda
