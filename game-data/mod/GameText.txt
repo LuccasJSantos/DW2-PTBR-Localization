@@ -86,10 +86,10 @@ ShipMission Description Raid Prepare Waypoint		;Assaltar {0} (ponto de referênc
 ShipMission Description Raid Prepare Refuel		;Assaltar {0} (reabastecer em {1})
 ShipMission Description Refuel		;Reabastecer em {0}
 ShipMission Description Repair		;Reparar em {0}
-ShipMission Description Retire Target		;Recura em {0}
+ShipMission Description Retire Target		;Aposentar em {0}
 ShipMission Description Retire		;Recuar
-ShipMission Description Retrofit		;Modernizar em {0}
-ShipMission Description Retrofit With Design		;Modernizar para {1} em {0}
+ShipMission Description Retrofit		;Retrofit em {0}
+ShipMission Description Retrofit With Design		;Retrofit para {1} em {0}
 ShipMission Description Scout		;Explorar {0}
 ShipMission Description Scrap		;Desmantelar em {0}
 ShipMission Description Transport		;Transportar carga de {0} para {1}
@@ -146,8 +146,8 @@ ShipMission Description With Distance Raid Prepare Refuel		;Atacar {0} ({2} de d
 ShipMission Description With Distance Refuel		;Reabastecer em {0} ({1} de distância)
 ShipMission Description With Distance Repair		;Reparar em {0} ({1} de distância)
 ShipMission Description With Distance Retire Target		;Recuar para {0} ({1} de distância)
-ShipMission Description With Distance Retrofit		;Modernizar em {0} ({1} de distância)
-ShipMission Description With Distance Retrofit With Design		;Modernizar para {1} em {0} ({2} de distância)
+ShipMission Description With Distance Retrofit		;Retrofit em {0} ({1} de distância)
+ShipMission Description With Distance Retrofit With Design		;Retrofit para {1} em {0} ({2} de distância)
 ShipMission Description With Distance Scout		;Explorar {0} ({1} de distância)
 ShipMission Description With Distance Scrap		;Desmantelar em {0} ({1} de distância)
 ShipMission Description With Distance Transport		;Transportar carga de {0} ({2} de distância) para {1} ({3} de distância)
@@ -917,8 +917,8 @@ WeaponInterceptDamageDirectFire		;Tiro Direto de Interceptação
 WeaponInterceptDamageDirectFireRate		;Taxa Dano de Tiro Direto de Interceptação
 WeaponInterceptDamageFighter		;Dano Interceptação à Caças
 WeaponInterceptDamageFighterRate		;Taxa Dano de Interceptação à Caças
-WeaponInterceptDamageFullLengthBeam		;Dano Interceptação Feixe Comprimento Total
-WeaponInterceptDamageFullLengthBeamRate		;Taxa Dano Interceptação Feixe Comprimento Total
+WeaponInterceptDamageFullLengthBeam		;Dano Interceptação Raio Comprimento Total
+WeaponInterceptDamageFullLengthBeamRate		;Taxa Dano Interceptação Raio Comprimento Total
 WeaponInterceptDamageSeeking		;Dano Interceptação a Teleguiados
 WeaponInterceptDamageSeekingRate		;Taxa Dano de Interceptação a Teleguiados
 WeaponInterceptEnergyPerShot		;Energia por Tiro de Interceptação
@@ -965,7 +965,7 @@ WeaponDamageType AreaEffect		;Efeito de Área
 
 WeaponFireType DirectFire		;Tiro Direto
 WeaponFireType Seeking		;Busca
-WeaponFireType FullLengthBeam		;Feixe de Comprimento Total
+WeaponFireType FullLengthBeam		;Raio de Comprimento Total
 
 BonusType Assassination		;Assassinato
 BonusType ShipMaintenanceCivilian		;Economia Manutenção Nave Civil
@@ -1373,7 +1373,7 @@ WeaponDamageCategory IonGeneral		;Outro
 WeaponDamageCategory InterceptFighter		;Contra Caça
 WeaponDamageCategory InterceptSeeking		;Contra Rastreadores
 WeaponDamageCategory InterceptDirectFire		;Contra Fogo Direto
-WeaponDamageCategory InterceptFullLengthBeam		;Contra Feixe de Comprimento Total
+WeaponDamageCategory InterceptFullLengthBeam		;Contra Raio de Comprimento Total
 WeaponDamageCategory BombardInfrastructure		;Infraestrutura
 WeaponDamageCategory BombardMilitary		;Militar
 WeaponDamageCategory BombardPopulation		;População
@@ -1729,10 +1729,10 @@ ExpenseType Missions		;Missões
 ExpenseType EnemyRaids		;Raiders Inimigos
 ExpenseType PrivateGeneralExpenditure		;Despesas Gerais Priv.
 ExpenseType PrivateColonyTax		;Impostos Colônias Priv.
-ExpenseType PrivateShipMaintenance		;Manut. Naves Priv.
-ExpenseType PrivateTourism		;Turismo Privado
+ExpenseType PrivateShipMaintenance		;Manutenção Naves Priv.
+ExpenseType PrivateTourism		;Turismo Priv.
 ExpenseType PrivateShipBuilding		;Construção de Naves Priv.
-ExpenseType PrivateFuel		;Combustível Privado
+ExpenseType PrivateFuel		;Combustível Priv.
 
 ExpenseType ColonyGrowthFunding Explanation		;As colônias normalmente crescem lentamente, mas você pode acelerar seu crescimento alocando financiamento
 ExpenseType Research Explanation		;A velocidade de pesquisa é bastante aumentada ao alocar financiamento para pesquisa
@@ -1934,9 +1934,9 @@ X Debris Field		;Campo de Destroços {0}
 Secret Construction Project		;Projeto Secreto de Construção
 X Construction Project		;Projeto de Construção {0}
 Special Location Discovered		;{0} Descoberto
-Debris Field Encounter		;Descobrimos um [DESCOBERTA]vasto campo de destroços espaciais[/DESCOBERTA] no sistema [LOCATION]{0}[/LOCATION]. Parece ser o resultado de uma batalha épica.\n\nOs destroços incluem muitas naves militares poderosos que parecem ser recuperáveis. Devemos enviar naves de construção para esta localização imediatamente para reparar e recuperar o máximo possível dessas naves valiosos.\n\nReparar a tecnologia avançada dessas naves certamente proporcionaria bônus de pesquisa ao nosso império.\n\nTambém pode ser prudente enviar um escolta armada - queremos dissuadir qualquer outra pessoa de reivindicar essas naves. Vamos manter essa descoberta em segredo...
-Debris Field Encounter Small		;Descobrimos um [DESCOBERTA]campo de destroços espaciais[/DESCOBERTA] no sistema [LOCATION]{0}[/LOCATION]. Parece ser o resultado de uma batalha.\n\nOs destroços incluem naves militares poderosos que parecem ser recuperáveis. Devemos enviar naves de construção para esta localização imediatamente para reparar e recuperar o máximo possível dessas naves valiosas.\n\nReparar a tecnologia avançada dessas naves certamente proporcionaria bônus de pesquisa ao nosso império.\n\nTambém pode ser prudente enviar um escolta armada - queremos dissuadir qualquer outra pessoa de reivindicar essas naves. Vamos manter essa descoberta em segredo...
-Secret Construction Project Encounter		;Descobrimos um [DESCOBERTA]enorme projeto de construção inacabado[/DESCOBERTA] no sistema [LOCATION]{0}[/LOCATION]. Em construção está uma enorme base militar móvel que abriga uma superarma projetada para destruir um planeta inteiro! A base, chamada {1}, parece ter sido abandonada quando estava apenas pela metade.\n\nUma vez concluída, essa base permitiria ao possuidor dominar a galáxia. Além disso, examinar a tecnologia avançada desse projeto certamente proporcionaria significativos bônus de pesquisa ao nosso império.\n\nDevemos nos apressar para concluir a construção dessa enorme arma!
+Debris Field Encounter		;Descobrimos um [DISCOVERY]vasto campo de destroços espaciais[/DISCOVERY] no sistema [LOCATION]{0}[/LOCATION]. Parece ser o resultado de uma batalha épica.\n\nOs destroços incluem muitas naves militares poderosas que parecem ser recuperáveis. Devemos enviar naves de construção para esta localização imediatamente para reparar e recuperar o máximo possível dessas naves valiosos.\n\nReparar a tecnologia avançada dessas naves certamente proporcionaria bônus de pesquisa ao nosso império.\n\nTambém pode ser prudente enviar um escolta armada - queremos dissuadir qualquer outra pessoa de reivindicar essas naves. Vamos manter essa descoberta em segredo...
+Debris Field Encounter Small		;Descobrimos um [DISCOVERY]campo de destroços espaciais[/DISCOVERY] no sistema [LOCATION]{0}[/LOCATION]. Parece ser o resultado de uma batalha.\n\nOs destroços incluem naves militares poderosas que parecem ser recuperáveis. Devemos enviar naves de construção para esta localização imediatamente para reparar e recuperar o máximo possível dessas naves valiosas.\n\nReparar a tecnologia avançada dessas naves certamente proporcionaria bônus de pesquisa ao nosso império.\n\nTambém pode ser prudente enviar um escolta armada - queremos dissuadir qualquer outra pessoa de reivindicar essas naves. Vamos manter essa descoberta em segredo...
+Secret Construction Project Encounter		;Descobrimos um [DISCOVERY]enorme projeto de construção inacabado[/DISCOVERY] no sistema [LOCATION]{0}[/LOCATION]. Em construção está uma enorme base militar móvel que abriga uma superarma projetada para destruir um planeta inteiro! A base, chamada {1}, parece ter sido abandonada quando estava apenas pela metade.\n\nUma vez concluída, essa base permitiria ao possuidor dominar a galáxia. Além disso, examinar a tecnologia avançada desse projeto certamente proporcionaria significativos bônus de pesquisa ao nosso império.\n\nDevemos nos apressar para concluir a construção dessa enorme arma!
 
 Fully Explored Systems		;Sistemas Totalmente Explorados
 Partially Explored Systems		;Sistemas Parcialmente Explorados
@@ -1999,7 +1999,7 @@ Funding Area		;Área de financiamento
 Available from Cashflow		;Disponível do Fluxo de Caixa
 % of Income		;% da Renda
 Available from Income		;Disponível da Renda
-Amount Used		;Quantidade Usada
+Amount Used		;Quantidade Utilizada
 Unallocated Income		;Renda Não Alocada
 Unallocated Income Explanation		;Parte da renda do seu império está não alocada. Você deve aumentar os níveis de financiamento em suas áreas preferidas até que a alocação de renda atinja 100%. A renda não alocada permanecerá não gasta.
 Empire Funding Levels		;Níveis de Financiamento do Império
@@ -2541,9 +2541,9 @@ Facility Destroyed during Invasion Description		;O [FACILITY]{0}[/FACILITY] em n
 Character Killed during Invasion		;{0} Morto durante a Invasão
 Character Killed during Invasion Description		;Nosso [CHARACTER]{0} {1}[/CHARACTER] foi morto pelas forças inimigas durante uma batalha terrestre em [LOCATION]{2}[/LOCATION].
 New Ship Completed		;{0} está pronta
-New Ship Completed Description		;A construção de uma nova {0} foi concluída em [LOCATION]{1}[/LOCATION].
+New Ship Completed Description		;A construção de um(a) novo(a) {0} foi concluída em [LOCATION]{1}[/LOCATION].
 Retrofit Ship Completed		;Retrofit de {0} Concluído
-Retrofit Ship Completed Description		;O retrofit de uma {0} foi concluído em [LOCATION]{1}[/LOCATION].
+Retrofit Ship Completed Description		;O retrofit de um(a) {0} foi concluído em [LOCATION]{1}[/LOCATION].
 Tech Bonus From Scrapping Ship		;Avanço Tecnológico ao Desmontar {0}
 Tech Bonus From Scrapping Ship Description		;Nós fizemos um avanço na pesquisa em [RESEARCH]{0}[/RESEARCH] ao examinar a tecnologia avançada ao desmontar o [LOCATION]{1} {2}[/LOCATION]
 Tech Bonus From Repairing Ship		;Avanço Tecnológico ao Reparar {0}
@@ -2570,8 +2570,8 @@ Should we investigate the ruins?		;Devemos investigar as ruínas?
 We have discovered hidden items		;Nós descobrimos itens escondidos em [LOCATION]{0}[/LOCATION] no sistema {1}.
 We have discovered new resources		;Nós descobrimos novos recursos em [LOCATION]{0}[/LOCATION] no sistema {1}.
 
-We have encountered an abandoned SHIPTYPE		;Nós encontramos uma [DISCOVERY]{0} abandonada[/DISCOVERY], à deriva perto de {1} no sistema {2}
-We have completed repairs to an abandoned SHIPTYPE		;Nós concluímos os reparos em um [LOCATION] {0} abandonado [/LOCATION], à deriva perto de {1} no sistema {2}
+We have encountered an abandoned SHIPTYPE		;Nós encontramos um(a) [DISCOVERY]{0} abandonado(a)[/DISCOVERY], à deriva perto de {1} no sistema {2}
+We have completed repairs to an abandoned SHIPTYPE		;Nós concluímos os reparos em um(a) [LOCATION]{0} abandonado(a)[/LOCATION], à deriva perto de {1} no sistema {2}
 Should we investigate the ship?		;Devemos investigar a nave?
 Should we investigate the base?		;Devemos investigar a base?
 Should we board the base and investigate further?		;Devemos abordar a base e investigar mais?
@@ -4225,10 +4225,10 @@ hostile		;hostil
 very hostile		;muito hostil
 The RACE are naturally FEELING towards us		;Os {0}s têm naturalmente um sentimento {1} em relação a nós
 This empire is predominantly composed of SAME RACE		;Este império é predominantemente composto por {0}s, os mesmos de nosso império.
-This pirate faction is predominantly composed of SAME RACE		;Esta facção pirata é predominantemente composta por {0}s, os mesmos de nosso império.
+This pirate faction is predominantly composed of SAME RACE		;Esta facção pirata é predominantemente composta por {0}, os mesmos de nosso império.
 They would likely be favourable towards a treaty with us		;Eles provavelmente seriam favoráveis a um tratado conosco no futuro
 This empire is predominantly composed of RACE		;Este império é predominantemente composto por {0}s.
-This pirate faction is predominantly composed of RACE		;Esta facção pirata é predominantemente composta por {0}s.
+This pirate faction is predominantly composed of RACE		;Esta facção pirata é predominantemente composta por {0}.
 EMPIRE encountered		;Encontrado o {0}
 Independent Colony of RACE encountered		;Colônia Independente dos {0}s encontrada
 They could prove useful allies if handled properly		;Eles podem se tornar aliados úteis se forem tratados adequadamente
@@ -4678,7 +4678,7 @@ ComponentCategory Description CargoBay		;Os componentes de armazenamento de carg
 ComponentCategory Description Colonization		;Os módulos de colonização incluem tudo o que é necessário para estabelecer uma colônia em um novo planeta.\n\nOs módulos de colonização são muito grandes e requerem muitos recursos para serem construídos. Esses recursos proporcionam um pontapé inicial para os colonos da nova colônia.\n\nOs colonos são colocados em hibernação de estase no módulo de colonização. Eles podem sobreviver indefinidamente até serem revividos uma vez que cheguem à nova colônia.
 ComponentCategory Description CommandCenter		;Os Centros de Comando são o centro de controle de uma nave, base ou caça, ou seja, a ponte ou cockpit.\n\nOs Centros de Comando podem fornecer bônus e outros modificadores que melhoram as capacidades de uma nave.
 ComponentCategory Description CommerceCenter		;Os Centros Comerciais permitem que uma base seja um centro de comércio, comprando e vendendo recursos e combustível.\n\nOs Centros Comerciais podem fornecer renda de comércio extra quando recursos ou combustível são negociados no local.
-ComponentCategory Description Construction		;Os Estaleiros permitem a construção de novas naves e bases. Eles também fornecem instalações para reparo e modernização de naves e bases existentes.\n\nOs componentes de Estaleiro de Construção são tipicamente incorporados em portos espaciais.\n\nEstaleiros de alta tecnologia geralmente constroem e reparam naves mais rapidamente do que tecnologias anteriores. Alguns estaleiros de construção podem até construir várias naves simultaneamente.
+ComponentCategory Description Construction		;Os Estaleiros permitem a construção de novas naves e bases. Eles também fornecem instalações para reparo e retrofit de naves e bases existentes.\n\nOs componentes de Estaleiro de Construção são tipicamente incorporados em portos espaciais.\n\nEstaleiros de alta tecnologia geralmente constroem e reparam naves mais rapidamente do que tecnologias anteriores. Alguns estaleiros de construção podem até construir várias naves simultaneamente.
 ComponentCategory Description Countermeasures		;Os componentes de Contramedidas aumentam a probabilidade de evitar disparos de armas inimigas durante o combate. Essas contramedidas eletrônicas poderosas desviam todos os tipos de armas, permitindo que você evite o fogo inimigo.
 ComponentCategory Description CountermeasuresFleet		;As Contramedidas de Frota beneficiam todas as naves de uma frota, permitindo que todas as naves da frota evitem mais efetivamente o fogo de armas inimigas.
 ComponentCategory Description CrewQuarters		;Os Alojamentos da Tripulação fornecem moradias para a tripulação a bordo de uma nave ou base. Eles também incorporam todos os sistemas vitais de suporte à vida para a sobrevivência da tripulação.\n\nTodas as naves e bases requerem alojamentos da tripulação suficientes para acomodar os requisitos totais de tripulação para todos os componentes no design.
@@ -4710,22 +4710,22 @@ ComponentCategory Description ScannerLongRange		;Os scanners de longo alcance es
 ComponentCategory Description ScannerShortRange		;Os scanners de curto alcance escaneiam uma área local, permitindo ver qualquer nave ou base dentro do alcance.\n\nOs scanners de curto alcance normalmente não veem muito além de um único sistema.\n\nOutros componentes (máscara de scanner, furtividade) podem limitar a eficácia dos scanners de curto alcance. Isso pode derrotar os scanners de curto alcance, escondendo uma nave ou base para que não seja visível, especialmente em alcances maiores.\n\nAs nuvens de nebulosa também limitam a eficácia dos scanners de curto alcance. O alcance de digitalização é muito reduzido dentro ou através de uma nuvem de nebulosa.\n\nItens escaneados podem ser detectados, mas pode não ser possível identificá-los: sua função ou império podem ser desconhecidos. Isso é especialmente verdadeiro quando os itens escaneados estão perto dos limites de alcance do scanner de curto alcance.
 ComponentCategory Description ScannerRoleMasking		;Os Jammer de Ocultação de Função escondem o tipo de nave ou base dos scanners de longo alcance. Isso permite que uma nave ou base evite detecção ou apareça como um tipo genérico de nave inofensiva (por exemplo, em vez de sua verdadeira função como uma nave militar).
 ComponentCategory Description ScannerTrace		;Os Scanners de Rastreamento permitem escanear outra nave ou base próxima para determinar sua carga, tropas a bordo e status dos componentes.\n\nOs Scanners de Rastreamento podem ser derrotados por componentes de Jammer de Scanner, que bloqueiam o escaneamento.
-ComponentCategory Description Shields		;Escudos são barreiras defensivas de energia que protegem uma nave ou base contra disparos de armas inimigas.\n\nOs escudos podem ser gradualmente reduzidos pelo dano de disparos de armas inimigas. Todos os componentes de escudo têm uma taxa inerente de regeneração - eles restauram sua força gradualmente ao longo do tempo, embora geralmente a uma taxa muito menor do que o dano entrante de disparos de armas inimigas.\n\nAlguns componentes de escudo podem também ter um nível de Resistência abaixo do qual o dano inimigo não afeta os escudos. Em outras palavras, o nível de dano deve ser acima do nível de Resistência para reduzir a força do escudo.\n\nCada tipo de componente de escudo tem uma especialidade diferente: alguns têm uma maior resistência protetora, enquanto outros são mais ajustados para uma regeneração mais rápida.\n\nOs escudos muitas vezes não são 100% eficazes em bloquear disparos de armas, algum dano pode 'vazar' para atingir a nave ou base. Além disso, alguns tipos de armas têm a capacidade inerente de passar parcialmente pelos escudos.
+ComponentCategory Description Shields		;Escudos são barreiras defensivas de energia que protegem uma nave ou base contra disparos de armas inimigas.\n\nOs escudos podem ser gradualmente reduzidos pelo dano de disparos de armas inimigas. Todos os componentes de escudo têm uma taxa inerente de regeneração - eles restauram sua força gradualmente ao longo do tempo, embora geralmente a uma taxa muito menor do que o dano recebido de disparos de armas inimigas.\n\nAlguns componentes de escudo podem também ter um nível de Resistência abaixo do qual o dano inimigo não afeta os escudos. Em outras palavras, o nível de dano deve ser acima do nível de Resistência para reduzir a força do escudo.\n\nCada tipo de componente de escudo tem uma especialidade diferente: alguns têm uma maior resistência protetora, enquanto outros são mais ajustados para uma regeneração mais rápida.\n\nOs escudos muitas vezes não são 100% eficazes em bloquear disparos de armas, algum dano pode 'vazar' para atingir a nave ou base. Além disso, alguns tipos de armas têm a capacidade inerente de passar parcialmente pelos escudos.
 ComponentCategory Description ShieldEnhancement		;Os Aprimoramentos de Escudo complementam os componentes completos de Escudo ao fornecer barreiras defensivas de energia que protegem uma nave ou base contra disparos de armas inimigas.\n\nOs Aprimoramentos de Escudo normalmente aumentam a taxa de regeneração do escudo, mas não fornecem nenhuma força de escudo própria.
 ComponentCategory Description Stealth		;Componentes de Furtividade minimizam a visibilidade de uma nave, permitindo que ela evite detecção - especialmente a longo alcance.\n\nObserve que os componentes de furtividade não tornam uma nave completamente invisível. Eles simplesmente reduzem sua detectabilidade pelos sensores inimigos, aumentando o alcance em que pode ser detectada.\n\nAlém disso, quando uma nave ou base equipada com furtividade é detectada, a habilidade de Furtividade reduz o quão fácil é identificar a função e o império da nave ou base. Assim, a nave ou base pode aparecer apenas como um item desconhecido, especialmente quando detectado próximo aos limites de alcance do scanner.
 ComponentCategory Description TargetingComputer		;Componentes de Mirador aumentam a precisão de disparo das armas durante o combate.\n\nEsses computadores poderosos calculam rapidamente trajetórias ideais para atingir um alvo inimigo. Isso aumenta suas chances de acertar um inimigo durante o combate.
 ComponentCategory Description TargetingComputerFleet		;O Mirador de Frota afeta toda uma frota, aumentando a precisão de mira de todas as naves na frota.
-ComponentCategory Description TractorBeam		;Feixes Tratores são usados para puxar naves inimigas em direção ao atirador para atacar, ou para afastar um atacante inimigo.\n\nEles têm um efeito maior em alvos menores e próximos. Múltiplos feixes tratores podem ser usados para fornecer maior poder de puxar ou empurrar.\n\nFeixes tratores são especialmente úteis para abordar e capturar naves inimigas. Eles também são eficazes para impedir que inimigos em fuga escapem.\n\nObserve que os feixes tratores não causam qualquer dano a um alvo, eles simplesmente o puxam ou empurram.
+ComponentCategory Description TractorBeam		;Raios Tratores são usados para puxar naves inimigas em direção ao atirador para atacar, ou para afastar um atacante inimigo.\n\nEles têm um efeito maior em alvos menores e próximos. Múltiplos raios tratores podem ser usados para fornecer maior poder de puxar ou empurrar.\n\nRaios tratores são especialmente úteis para abordar e capturar naves inimigas. Eles também são eficazes para impedir que inimigos em fuga escapem.\n\nObserve que os raios tratores não causam qualquer dano a um alvo, eles simplesmente o puxam ou empurram.
 ComponentCategory Description TroopCompartment		;Componentes de Armazenamento de Tropas fornecem instalações básicas de vida para tropas de combate enquanto estão a bordo de uma nave ou base.\n\nVocê deve ter espaço de armazenamento de tropas suficiente para conter o tamanho total de todas as unidades de tropas que deseja transportar em uma nave.
 ComponentCategory Description Troops		;N/A
 ComponentCategory Description Diplomacy		;N/A
 ComponentCategory Description AncientKnowledge		;N/A
 ComponentCategory Description WeaponArea		;Armas de área emitem uma onda de explosão destrutiva em todas as direções a partir de um único ponto no espaço.\n\nA onda de explosão pode ser centrada na nave de disparo, ou mais comumente a arma primeiro viaja até um ponto próximo ao alvo, então detona e desencadeia a onda de explosão.\n\nAlgumas armas de área também são armas de íons e, portanto, visam componentes eletrônicos, semelhante a uma arma de pulso eletromagnético (EMP).
 ComponentCategory Description WeaponBombard		;Armas de bombardeio são usadas para exterminar a infraestrutura e a população de uma colônia inimiga, além de danificar o próprio planeta, diminuindo sua qualidade.\n\nCada arma de bombardeio diferente pode se especializar em áreas específicas: algumas são melhores para atacar infraestrutura militar e tropas, outras são melhores para atacar população ou a qualidade do planeta.
-ComponentCategory Description WeaponCloseIn		;Armas de proximidade vêm em vários tipos, mas todas têm um alcance mais curto e geralmente são rápidas com uma alta taxa de disparo.\n\nDiferentes tipos de armas de proximidade têm forças diferentes. Algumas podem ter alcance mais longo, enquanto outras podem ter mais dano bruto, e ainda outras podem ter taxas de disparo mais altas.\n\nAs armas de proximidade incluem: blasters de energia, canhões ferroviários, feixes de faser, canhões de laser, armas de gravidade e até alguns tipos de torpedos de energia.
-ComponentCategory Description WeaponIntercept		;Armas de interceptação são sistemas de armas de proximidade que disparam rajadas mortais contra disparos de armas inimigas entrantes ou caças inimigos próximos, desabilitando ou destruindo-os.\n\nAs armas de interceptação são equipamentos essenciais para naves militares, especialmente ao enfrentar oponentes com caças estelares.\n\nAs armas de interceptação podem especializar suas capacidades de interceptação nas seguintes categorias de alvo: caças, armas procuradoras, armas de tiro direto e armas de feixe de comprimento total.
-ComponentCategory Description WeaponIon		;Armas de Íons disparam explosões de partículas ionizadas nos alvos inimigos, desabilitando temporariamente suas armas, motores ou outros componentes.\n\nAlgumas armas de íons disparam um único raio de desativação em seus alvos (como armas de feixe), enquanto outras armas de íons emitem uma onda de explosão omni-direcional que desabilita tudo dentro do alcance (como armas de área).\n\nArmas de íons podem especializar seus efeitos de desativação nas seguintes categorias específicas de componentes: armas, motores, hyperdrives, escudos e sensores.
-ComponentCategory Description WeaponStandoff		;Armas de distância são armas de longo alcance que permitem que um atacante atinja um inimigo de longe, tentando assim evitar danos a si mesmo.\n\nElas são tipicamente armas procuradoras, que seguem um alvo em movimento. Elas são frequentemente mais lentas e com uma taxa de disparo mais baixa do que as armas de proximidade.\n\nAs armas de distância incluem: mísseis, torpedos de energia, alguns tipos de feixes de faser e alguns tipos de armas de gravidade.
+ComponentCategory Description WeaponCloseIn		;Armas de proximidade vêm em vários tipos, mas todas têm um alcance mais curto e geralmente são rápidas com uma alta taxa de disparo.\n\nDiferentes tipos de armas de proximidade têm forças diferentes. Algumas podem ter alcance mais longo, enquanto outras podem ter mais dano bruto, e ainda outras podem ter taxas de disparo mais altas.\n\nAs armas de proximidade incluem: blasters de energia, canhões ferroviários, raios de faser, canhões de laser, armas de gravidade e até alguns tipos de torpedos de energia.
+ComponentCategory Description WeaponIntercept		;Armas de interceptação são sistemas de armas de proximidade que disparam rajadas mortais contra disparos recebidos de armas inimigas ou caças inimigos próximos, desabilitando ou destruindo-os.\n\nAs armas de interceptação são equipamentos essenciais para naves militares, especialmente ao enfrentar oponentes com caças estelares.\n\nAs armas de interceptação podem especializar suas capacidades de interceptação nas seguintes categorias de alvo: caças, armas procuradoras, armas de tiro direto e armas de raio de comprimento total.
+ComponentCategory Description WeaponIon		;Armas de Íons disparam explosões de partículas ionizadas nos alvos inimigos, desabilitando temporariamente suas armas, motores ou outros componentes.\n\nAlgumas armas de íons disparam um único raio de desativação em seus alvos (como armas de raio), enquanto outras armas de íons emitem uma onda de explosão omni-direcional que desabilita tudo dentro do alcance (como armas de área).\n\nArmas de íons podem especializar seus efeitos de desativação nas seguintes categorias específicas de componentes: armas, motores, hyperdrives, escudos e sensores.
+ComponentCategory Description WeaponStandoff		;Armas de distância são armas de longo alcance que permitem que um atacante atinja um inimigo de longe, tentando assim evitar danos a si mesmo.\n\nElas são tipicamente armas procuradoras, que seguem um alvo em movimento. Elas são frequentemente mais lentas e com uma taxa de disparo mais baixa do que as armas de proximidade.\n\nAs armas de distância incluem: mísseis, torpedos de energia, alguns tipos de raios de faser e alguns tipos de armas de gravidade.
 
 Alien Races		;Raças Alienígenas
 Star and Planet Types		;Tipos de Estrelas e Planetas
@@ -5758,9 +5758,9 @@ Hive Sighting News Title		;Enxame de Colmeia Avistado
 Hive Sighting News Description		;Os {2} avistaram o Enxame de Colmeia perto de {0} no sistema {1}.\n\nDevemos enviar nossas forças para interceptar essa ameaça grave!
 
 Hive Ship Awakes!		;Nave da Colmeia Desperta!
-Hive Repair Attempt		;Ao tentar reparar a nave abandonada {0}, ela liga seus motores e se prepara para nos atacar! A {0} é uma [DESCOBERTA]nave mortal da Grande Colmeia[/DESCOBERTA]!\n\nPrepare-se para repelir o fogo inimigo entrante!
-Hive Attack Attempt		;Ao atacar a nave abandonada {0}, ela liga seus motores e se prepara para nos atacar! A {0} é uma [DESCOBERTA]nave mortal da Grande Colmeia[/DESCOBERTA]!\n\nPrepare-se para repelir o fogo inimigo entrante!
-Hive Board Attempt		;Ao tentar abordar a nave abandonada {0}, ela liga seus motores e se prepara para nos atacar! A {0} é uma [DESCOBERTA]nave mortal da Grande Colmeia[/DESCOBERTA]!\n\nPrepare-se para repelir o fogo inimigo entrante!
+Hive Repair Attempt		;Ao tentar reparar a nave abandonada {0}, ela liga seus motores e se prepara para nos atacar! A {0} é uma [DISCOVERY]nave mortal da Grande Colmeia[/DISCOVERY]!\n\nPrepare-se para repelir o fogo inimigo recebido!
+Hive Attack Attempt		;Ao atacar a nave abandonada {0}, ela liga seus motores e se prepara para nos atacar! A {0} é uma [DISCOVERY]nave mortal da Grande Colmeia[/DISCOVERY]!\n\nPrepare-se para repelir o fogo inimigo recebido!
+Hive Board Attempt		;Ao tentar abordar a nave abandonada {0}, ela liga seus motores e se prepara para nos atacar! A {0} é uma [DISCOVERY]nave mortal da Grande Colmeia[/DISCOVERY]!\n\nPrepare-se para repelir o fogo inimigo recebido!
 
 AreaShieldRecharge Rate		;Taxa Recarga do Escudo de Área
 
@@ -5890,7 +5890,7 @@ Government TradeIncomePerYearPerFreeTradeTreaty		;Bônus de Renda Anual para Aco
 Government TradeIncomePerYearPerFreeTradeTreaty Explanation		;Quantidade de bônus de renda anual para cada acordo de comércio livre que o império tem com outras facções
 
 Government BonusesPerTreatyType		;Bônus de Tratado
-Government BonusesPerTreatyType Explanation		;Bônus especiais para tratados. Esses bônus se aplicam quando o império possui o tipo específico de tratado com outra facção. Os bônus se aplicam para cada tratado desse tipo. por exemplo, se o império tiver 2 tratados desse tipo, eles receberão o dobro dos montantes de bônus. No entanto, os montantes totais de bônus terão um limite suave a partir de 4 vezes o montante base.
+Government BonusesPerTreatyType Explanation		;Bônus especiais para tratados. Esses bônus se aplicam quando o império possui o tipo específico de tratado com outra facção. Os bônus se aplicam para cada tratado desse tipo. por exemplo, se o império tiver 2 tratados desse tipo, eles receberão o dobro dos montantes de bônus. No entanto, os montantes totais de bônus serão limitados a partir de 4 vezes o montante base.
 
 Chance of Positive Character Traits		;Chance de Traços de Personagem Positivos quando o Líder Muda
 Chance of Negative Character Traits		;Chance de Traços de Personagem Negativos quando o Líder Muda
