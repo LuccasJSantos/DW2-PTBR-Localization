@@ -645,9 +645,9 @@ EmpireRelationType Peace		;Paz
 
 EmpireRelationType Short FirstContact		;Contato
 EmpireRelationType Short Defense		;Defesa
-EmpireRelationType Short RestrictedTrade		;Com. Restrito
-EmpireRelationType Short LimitedTrade		;Com. Limitado
-EmpireRelationType Short FreeTrade		;Livre Com.
+EmpireRelationType Short RestrictedTrade		;ACR
+EmpireRelationType Short LimitedTrade		;ACL
+EmpireRelationType Short FreeTrade		;ALC
 EmpireRelationType Short IntelligenceSharing		;Intel
 EmpireRelationType Short Exploration		;Exploração
 EmpireRelationType Short TerritoryMapSharing		;Mapa Terr.
@@ -894,7 +894,7 @@ TroopRecruitmentRate		;Taxa Recrutamento Tropas
 Troops Produced		;Tropas Produzidas
 WeaponAreaEffectRange		;Alcance do Efeito em Área
 WeaponAreaBlastWaveSpeed		;Vel. da Explosão em Área
-WeaponArmorBypass		;Desvio de Armadura
+WeaponArmorBypass		;Penetração de Armadura
 WeaponBombardDamageInfrastructure		;Bombardeio à Infra
 WeaponBombardDamageInfrastructureRate		;Taxa Bombardeio à Infra
 WeaponBombardDamageMilitary		;Bombardeio a Militares
@@ -938,7 +938,7 @@ WeaponIonGeneralDamage		;Dano Iônico Geral
 WeaponIonGeneralDamageRate		;Taxa Dano Iônico Geral
 WeaponRange		;Alcance de Arma
 WeaponRawDamage		;Dano Bruto
-WeaponShieldBypass		;Desvio de Escudo
+WeaponShieldBypass		;Penetração de Escudo
 WeaponSpeed		;Vel. de Arma
 WeaponVolleyAmount		;Tiros por Saraivada
 WeaponVolleyFireRate		;Taxa Fogo de Saraivada
@@ -1382,19 +1382,19 @@ WeaponDamageCategory BoardingAssault		;Abordagem
 
 Maximum Weapons Energy use per second		;Máx. de Energia por segundo para Armas
 Maximum Range DPS		;DPS Máx. de Alcance
-Point Blank DPS		;DPS de Ponta
+Point Blank DPS		;DPS à Queima-Roupa
 Peak Damage Rate		;Taxa Dano Máx.
 Sustained Damage Rate		;Taxa Dano Sustentado
 Peak		;Pico
 Sustained		;Sustentado
 Peak DPS		;DPS Pico
 Sustained DPS		;DPS Sustentado
-Point Blank		;Queima-poupa
+Point Blank		;à Queima-Roupa
 Maximum Range		;Alcance Máx.
 Max Energy		;Energia Máx.
 VALUE per second		;{0} por segundo
 
-Point Blank Accuracy		;Precisão em Ponta em Branco
+Point Blank Accuracy		;Precisão à Queima-Roupa
 Max Range Accuracy		;Precisão em Alcance Máx.
 
 Excess Energy Output		;Saída Excessiva de Energia
@@ -1556,11 +1556,11 @@ No colony with troops required by Army		;Nenhuma colônia com tropas desguarneci
 No troop space available		;Sem espaço disponível para tropas
 No Troop Capacity		;Sem Capacidade de Tropas
 
-FleetFormationCoherence VeryTight		;Muito Firme
-FleetFormationCoherence Tight		;Firme
+FleetFormationCoherence VeryTight		;Muito Estreita
+FleetFormationCoherence Tight		;Estreita
 FleetFormationCoherence Normal		;Normal
-FleetFormationCoherence Loose		;Frouxo
-FleetFormationCoherence VeryLoose		;Muito Frouxo
+FleetFormationCoherence Loose		;Espaçada
+FleetFormationCoherence VeryLoose		;Muito Espaçada
 
 here	;aqui
 Right-click to X		;Clique com o botão direito para {0}
@@ -2498,7 +2498,7 @@ X Empires		;{0} Impérios
 Raiders Withdraw		;Retirada dos Saqueadores
 Raiders Withdraw Description		;Os saqueadores da [FACTION]{0}[/FACTION] foram repelidos e se retiraram de nossa colônia [LOCATION]{1}[/LOCATION]!
 Raid Fails		;Falha no Raid
-Raiders Steal Despite Defeat		;Apesar da nossa derrota, os saqueadores conseguiram roubar o seguinte
+Raiders Steal Despite Defeat		;Apesar da nossa vitória contra esses saqueadores, eles conseguiram roubar o seguinte
 Raid Fails Description		;Nosso raid contra [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION] correu mal. Nossas forças se retiraram.
 Invaders Repulsed		;Invasores Repelidos!
 Invaders Repulsed Description		;Nós derrotamos os invasores da [FACTION]{0}[/FACTION] em nossa colônia [LOCATION]{1}[/LOCATION]!
