@@ -6,7 +6,7 @@ Cada compartimento possui um tipo e tamanho. Você só pode colocar componentes 
 
 Existem 6 tipos de compartimentos de bay. Cada tipo de compartimento permite apenas certos tipos de componentes:
 [ULI]Geral: centros de comando, alojamentos da tripulação, células de combustível, reatores, hiperdrives, porões de carga, compartimentos de passageiros, compartimentos de tropas, motores de mineração, coletores de energia e outros[/ULI]
-[ULI]Armas: armas ou feixes tratores[/ULI]
+[ULI]Armas: armas ou raios tratores[/ULI]
 [ULI]Motores: motores e motores vetoriais[/ULI]
 [ULI]Defesa: armadura, escudos ou controle de danos[/ULI]
 [ULI]Hangares: docas, estaleiros ou hangares de caça[/ULI]

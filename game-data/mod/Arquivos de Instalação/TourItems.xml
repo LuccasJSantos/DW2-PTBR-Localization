@@ -1154,7 +1154,7 @@ Cada compartimento possui um tipo e tamanho. Você só pode colocar componentes 
 
 Existem 6 tipos de compartimentos de componentes. Cada tipo de compartimento permite apenas certos tipos de componentes:
 [ULI]Geral: centros de comando, alojamentos da tripulação, células de combustível, reatores, hiperpropulsores, compartimentos de carga, compartimentos de passageiros, compartimentos de tropas, motores de mineração, coletores de energia e outros[/ULI]
-[ULI]Armas: armas ou feixes de tração[/ULI]
+[ULI]Armas: armas ou raios de tração[/ULI]
 [ULI]Motores: motores e motores vetoriais[/ULI]
 [ULI]Defesa: armaduras, escudos ou controle de danos[/ULI]
 [ULI]Hangares: baías de acoplamento, estaleiros de construção ou baías de caça[/ULI]

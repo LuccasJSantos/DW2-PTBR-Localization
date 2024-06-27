@@ -57,7 +57,7 @@
     <FacilityFamilyId>3</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Defesa de Feixe Planetário</Name>
+    <Name>Defesa de Raio Planetário</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Beam Defense</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -210,7 +210,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Defesa de Feixe Planetário Mk2</Name>
+    <Name>Defesa de Raio Planetário Mk2</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Beam Defense</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2143,7 +2143,7 @@
       <short>60</short>
       <short>64</short>
     </TroopIdsRecruitable>
-    <Name>Barracas de Armadura</Name>
+    <Name>Quartel de Blindados</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Armor Barracks</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2216,7 +2216,7 @@
       <short>62</short>
       <short>66</short>
     </TroopIdsRecruitable>
-    <Name>Barracas de Operações Especiais</Name>
+    <Name>Quartel de Operações Especiais</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Special Operations Barracks</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2291,7 +2291,7 @@
       <short>63</short>
       <short>67</short>
     </TroopIdsRecruitable>
-    <Name>Centro de Manufatura de Titãs</Name>
+    <Name>Centro de Fabricação de Titãs</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Titan Manufacturing Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>

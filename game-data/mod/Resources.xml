@@ -91,7 +91,7 @@
   <Resource>
     <ResourceId>11</ResourceId>
     <Name>Cuprica</Name>
-    <Description>Cuprica é um metal brilhante fundido a partir de minério de Cuprica. É extremamente forte e leve e tem uma aparência vermelho-acastanhada brilhante. Cuprica é comumente usado em armas de feixe e torpedos. É encontrado em alguns planetas Rochosos Metálicos e em asteroides.</Description>
+    <Description>Cuprica é um metal brilhante fundido a partir de minério de Cuprica. É extremamente forte e leve e tem uma aparência vermelho-acastanhada brilhante. Cuprica é comumente usado em armas de raio e torpedos. É encontrado em alguns planetas Rochosos Metálicos e em asteroides.</Description>
     <BaseCost>18</BaseCost>
     <ImageFilename>Environment/Resources/Cuprica</ImageFilename>
     <Bonuses />
