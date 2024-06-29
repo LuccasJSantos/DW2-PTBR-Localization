@@ -709,7 +709,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>19</ResearchProjectId>
-    <Name>Armamento de Canhão Rail</Name>
+    <Name>Armamento de Canhão Eletromagnético</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>150</Size>
     <InitiationCost>
@@ -3432,7 +3432,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>73</ResearchProjectId>
-    <Name>Canhões Rail Massivos</Name>
+    <Name>Canhões Eletromagnéticos Massivos</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>1600</Size>
     <InitiationCost>
@@ -7032,7 +7032,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>136</ResearchProjectId>
-    <Name>Rede de Defesa de Canhão Rail</Name>
+    <Name>Rede de Defesa de Canhão Eletromagnético</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>9600</Size>
     <InitiationCost>
@@ -10125,7 +10125,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>189</ResearchProjectId>
-    <Name>Defesas Fortificadas de Canhão Rail</Name>
+    <Name>Defesas Fortificadas de Canhão Eletromagnético</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>153600</Size>
     <InitiationCost>
@@ -50924,7 +50924,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>681</ResearchProjectId>
-    <Name>Destruidores Interestelares</Name>
+    <Name>Destróiers Interestelares</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>800</Size>
     <InitiationCost>

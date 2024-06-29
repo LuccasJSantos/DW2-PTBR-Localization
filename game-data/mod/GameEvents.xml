@@ -1241,7 +1241,7 @@ Conforme nossa tecnologia avança, devemos atualizar nosso porto espacial com ou
         <MessageTitle>Tecnologia de Colonização Descoberta</MessageTitle>
         <Description>Com o desenvolvimento de {5}, adquirimos a tecnologia necessária para colonizar novos mundos!
 
-Devemos identificar planetas hospitaleiros que são bons candidatos para novas colônias. Em seguida, começar a construir Colossais Naves-Colônia para enviá-las a esses novos mundos.
+Devemos identificar planetas habitáveis que são bons candidatos para novas colônias. Em seguida, começar a construir colossais Naves Coloniais para enviá-las a esses novos mundos.
 
 Neste ponto, realmente nos tornamos uma civilização espacial. À medida que avançamos pela galáxia, continuaremos a crescer e a ganhar vantagem sobre piratas e mercenários.
 
@@ -12518,7 +12518,7 @@ Qual caminho você escolherá - pagar para tentar estabilizar o casco enterrado 
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
         <MessageTitle>Uma Fenda se Abre</MessageTitle>
-        <Description>Infelizmente, os eventos sísmicos continuaram, com um terremoto importante abrindo uma nova fenda que engoliu a maior parte dos restos da nave antiga para sempre.\n\nNo entanto, esta fenda também descobriu uma segunda, menor nave que estava enterrada perto da primeira. Parece que ela estava escoltando o Nave Naves até que algum evento fez com que ambas aterrissassem neste planeta.\n\nSuas equipes conseguem recuperar alguma tecnologia avançada de Hyperdrive da única peça restante da nave maior. Uma exploração da nave menor revela ser o Destruidor Humano SRS Intrepid antigo. O estado do casco e dos restos dentro sugerem que ele estava em uma batalha de algum tipo antes de cair aqui e que sua tripulação pereceu junto.\n\nFelizmente, grande parte do reator do Destruidor permaneceu intacto e você também consegue recuperar insights valiosos sobre a tecnologia de reator a partir deste destroço.</Description>
+        <Description>Infelizmente, os eventos sísmicos continuaram, com um terremoto importante abrindo uma nova fenda que engoliu a maior parte dos restos da nave antiga para sempre.\n\nNo entanto, esta fenda também descobriu uma segunda, menor nave que estava enterrada perto da primeira. Parece que ela estava escoltando a nave até que algum evento fez com que ambas aterrissassem neste planeta.\n\nSuas equipes conseguem recuperar alguma tecnologia avançada de Hyperdrive da única peça restante da nave maior. Uma exploração da nave menor revela ser o Destróier Humano SRS Intrepid antigo. O estado do casco e dos restos dentro sugerem que ele estava em uma batalha de algum tipo antes de cair aqui e que sua tripulação pereceu junto.\n\nFelizmente, grande parte do reator do Destróier permaneceu intacto e você também consegue recuperar insights valiosos sobre a tecnologia de reator a partir deste destroço.</Description>
         <ImageFilepath />
         <MusicFilepath />
         <ActionLocationHint>TriggeringItem</ActionLocationHint>
@@ -45316,7 +45316,7 @@ As fontes de energia neste mundo são muito limitadas e não podemos conectar no
     <TriggerActions>
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
-        <MessageTitle>Facilidade de Terraformação Recuperada</MessageTitle>
+        <MessageTitle>Instalação de Terraformação Recuperada</MessageTitle>
         <Description>Já se passaram cinco anos desde que despertamos os dorminhocos criogênicos em nosso mundo colonial, {0}. Finalmente temos energia e infraestrutura suficientes para ativar os mecanismos antigos de terraformação. Nossos cientistas nos asseguram que o processo não causará danos aos Teekanos nem aos Bakdur que atualmente habitam o planeta. Podemos esperar que isso torne nossa colônia um lugar ainda mais atraente para se estabelecer.</Description>
 
         <ImageFilepath />

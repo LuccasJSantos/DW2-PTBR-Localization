@@ -1707,7 +1707,7 @@
     <FacilityFamilyLevel>3</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Facilidade de Terraformação Avançada</Name>
+    <Name>Instalação de Terraformação Avançada</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Terraforming Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1730,7 +1730,7 @@
     <FacilityFamilyLevel>4</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Facilidade de Terraformação Completa</Name>
+    <Name>Instalação de Terraformação Completa</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Terraforming Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2544,7 +2544,7 @@
     <FacilityFamilyId>21</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Facilidade de Terraformação Limitada</Name>
+    <Name>Instalação de Terraformação Limitada</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Terraforming Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2567,7 +2567,7 @@
 	<FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Facilidade de Terraformação</Name>
+    <Name>Instalação de Terraformação</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Terraforming Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>

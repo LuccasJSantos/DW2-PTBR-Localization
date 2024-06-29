@@ -811,7 +811,7 @@ ConstructionYardCount		;Estaleiros de Construção
 CountermeasuresBonus		;Contramedidas
 CountermeasuresFleetBonus		;Contramedidas da Frota
 CrewCapacity		;Capacidade da Tripulação
-CrewRequirement		;Requisito de Tripulação
+CrewRequirement		;Req. Tripulação
 DamageReduction		;Redução de Dano
 DamageRepair		;Reparo de Dano
 DestroyedRepair		;Chance de Reparo pós Destruição
@@ -922,7 +922,7 @@ WeaponInterceptDamageFullLengthBeamRate		;Taxa Dano Interceptação Raio Comprim
 WeaponInterceptDamageSeeking		;Dano Interceptação a Teleguiados
 WeaponInterceptDamageSeekingRate		;Taxa Dano de Interceptação a Teleguiados
 WeaponInterceptEnergyPerShot		;Energia por Tiro de Interceptação
-WeaponInterceptFireRate		;Taxa Fogo de Interceptação
+WeaponInterceptFireRate		;Cadência Tiro de Interceptação
 WeaponInterceptRange		;Alcance de Interceptação
 WeaponIonEngineDamage		;Dano Iônico a Motor
 WeaponIonEngineDamageRate		;Taxa Dano Iônico a Motor
@@ -941,7 +941,7 @@ WeaponRawDamage		;Dano Bruto
 WeaponShieldBypass		;Penetração de Escudo
 WeaponSpeed		;Vel. de Arma
 WeaponVolleyAmount		;Tiros por Saraivada
-WeaponVolleyFireRate		;Taxa Fogo de Saraivada
+WeaponVolleyFireRate		;Cadência Tiro de Saraivada
 PsychicDamage		;Dano Psíquico
 PsychicControl		;Controle Psíquico
 PsychicEnergyPerShot		;Energia Psíquica por Tiro
@@ -1150,7 +1150,7 @@ Not RACE		;Não {0}
 
 Maintenance		;Manutenção
 COST per year		;{0}/ano
-Build Cost		;Custo de Construção
+Build Cost		;Custo Construção
 Can only build X per empire		;Só pode construir {0} no seu império
 Can only build X per galaxy		;Só pode construir {0} na galáxia
 Can only build at PLANETTYPES		;Só pode construir em {0}
@@ -1225,8 +1225,8 @@ ColonizationSuitabilityModifier		;Modificador de Adequação de Colonização de
 
 Click to queue research		;Clique para enfileirar pesquisa
 Completed		;Concluído
-Right-click to cancel		;Clique com o botão direito para cancelar
-Click to initiate Crash Program		;Clique para iniciar o Programa de Emergência por {0} créditos de Dinheiro em Mãos de {1} créditos
+Right-click to cancel		;Botão direito para cancelar
+Click to initiate Crash Program		;Clique para iniciar o Programa de Emergência por {0} créditos a partir do Dinheiro em Mãos de {1} créditos
 CRASH PROGRAM (X speed)		;PROGRAMA DE EMERGÊNCIA ({0}x velocidade)
 X% Complete		;{0} Completo
 Must first research PROJECTS		;Primeiro deve pesquisar {0}
@@ -2106,7 +2106,7 @@ Ore Prospector		;Prospector de Minério
 Ore Hauler		;Transportador de Minério
 Miner		;Minerador
 Mineral Miner		;Minerador de Minerais
-Supply Tanker		;Nave-Tanque de Suprimentos
+Supply Tanker		;Nave-Tanque de Supr.
 Fuel Transport		;Transporte de Combustível
 Fuel Barge		;Barcaça de Combustível
 Constructor		;Construtor
@@ -4039,7 +4039,7 @@ Counter intelligence against all empires		;Contra-inteligência contra todos os 
 
 OFFERER does not desire this treaty		;{0} não deseja este tratado
 Other faction does not desire this treaty		;A outra facção não deseja este tratado
-This offer is too soon after our last change		;Esta oferta é muito cedo após nossa última mudança
+This offer is too soon after our last change		;Esta oferta é muito precoce desde nossa última mudança
 This treaty does not align with our goals		;Este tratado não está alinhado com nossos objetivos
 We do not like you enough		;Não gostamos o suficiente de você
 
@@ -4050,14 +4050,14 @@ Spies		;Espiões
 Non Spies		;Não Espiões
 Reputation Factors		;Fatores de Reputação
 
-Research Time In Days Description		;{0} dias para pesquisar ({1} projetos concorrentes)
-Research Time In Years Description		;{0} anos para pesquisar ({1} projetos concorrentes)
+Research Time In Days Description		;{0} dia(s) p/ pesquisar ({1} projeto(s) concorrente(s))
+Research Time In Years Description		;{0} ano(s) p/ pesquisar ({1} projeto(s) concorrente(s))
 Research Time Suffix		;para pesquisar ({0} projetos concorrentes)
 No Projects Queued		;Nenhum Projeto na Fila
 X days		;{0} dias
 X years		;{0} anos
 Applies Empire-wide		;Aplica-se a todo o Império
-Applies only to Location		;Aplica-se apenas à Localização
+Applies only to Location		;Aplica-se apenas ao Local
 
 No buildable Colony Ship designs		;Não há projetos de Nave Colonial construíveis
 
@@ -5839,13 +5839,13 @@ WeaponLevelFighters		;Prioridade de Hangares de Caças
 PolicyExplanation WeaponLevelFighters		;Nível de prioridade para hangares de caças ao projetar novas naves em seu império. Maior prioridade significa mais hangares de caças serão utilizados. Você pode evitar o uso de hangares de caças em qualquer um dos designs de suas naves militares definindo isso como 'Não Utilizar'
 
 WeaponLowestRoleIon		;Função Inicial Para Armas de Íons
-PolicyExplanation WeaponLowestRoleIon		;Função militar inicial onde armas de íons serão adicionadas. Armas de íons não serão adicionadas aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão essas armas.
+PolicyExplanation WeaponLowestRoleIon		;Função militar inicial onde armas de íons serão adicionadas. Armas de íons não serão adicionadas aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destróier', então os designs de Escolta e Fragata não usarão essas armas.
 WeaponLowestRoleArea		;Função Inicial Para Armas de Área
-PolicyExplanation WeaponLowestRoleArea		;Função militar inicial onde armas de área serão adicionadas. Armas de área não serão adicionadas aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão essas armas.
+PolicyExplanation WeaponLowestRoleArea		;Função militar inicial onde armas de área serão adicionadas. Armas de área não serão adicionadas aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destróier', então os designs de Escolta e Fragata não usarão essas armas.
 WeaponLowestRoleBombard		;Função Inicial Para Armas de Bombardeio
-PolicyExplanation WeaponLowestRoleBombard		;Função militar inicial onde armas de bombardeio serão adicionadas. Armas de bombardeio não serão adicionadas aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão essas armas.
+PolicyExplanation WeaponLowestRoleBombard		;Função militar inicial onde armas de bombardeio serão adicionadas. Armas de bombardeio não serão adicionadas aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destróier', então os designs de Escolta e Fragata não usarão essas armas.
 WeaponLowestRoleFighters		;Função Inicial Para Hangares de Caças
-PolicyExplanation WeaponLowestRoleFighters		;Função militar inicial onde hangares de caças serão adicionados. Hangares de caças não serão adicionados aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destruidor', então os designs de Escolta e Fragata não usarão hangares de caças.
+PolicyExplanation WeaponLowestRoleFighters		;Função militar inicial onde hangares de caças serão adicionados. Hangares de caças não serão adicionados aos designs de naves militares abaixo desta função, por exemplo, se definido como 'Destróier', então os designs de Escolta e Fragata não usarão hangares de caças.
 
 ComponentFocusReactor		;Foco de Reator
 PolicyExplanation ComponentFocusReactor		;Especifica o foco ao selecionar projetos de pesquisa de Reator e componentes de Reator em designs de nave. Para um foco equilibrado, selecione 'Neutro'
