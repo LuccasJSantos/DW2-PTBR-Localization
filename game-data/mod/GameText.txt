@@ -401,9 +401,9 @@ GameTaskType SetArmyTemplate		;Modelo de Exército: {0}
 GameTaskType SetFleetFormationCoherence		;Formação: {0}
 GameTaskType SetFleetAllowShipRoleReassignment			;Reatribuição de posição de nave na frota: {0}
 GameTaskType SetFleetOverrideShipTacticsWithFleet		;Táticas - Usar Frota ou Nave: {0}
-GameTaskType SetFleetAllowShipRoleUpgrade			;Melhoria/Rebaixamento de Função da Nave: {0}
-GameTaskType SetFleetAllowTrimmingExcessShips			;Eliminar Naves Excedentes: {0}
-GameTaskType SetFleetAllowAutoUpgradingSpecificDesigns			;Atualização Automática de Designs Obsoletos Específicos: {0}
+GameTaskType SetFleetAllowShipRoleUpgrade			;Upgrade/Downgrade de Função da Nave: {0}
+GameTaskType SetFleetAllowTrimmingExcessShips			;Remover Naves Excedentes: {0}
+GameTaskType SetFleetAllowAutoUpgradingSpecificDesigns			;Auto-Att. Designs Obsoletos: {0}
 GameTaskType SetCapital		;Definir {0} como nova capital do império
 GameTaskType AbandonColony		;Abandonar {0}, permitindo que se torne independente
 GameTaskType SetColonyPopulationPolicy		;
@@ -653,11 +653,11 @@ EmpireRelationType Short Exploration		;Exploração
 EmpireRelationType Short TerritoryMapSharing		;Mapa Terr.
 EmpireRelationType Short GalaxyMapSharing		;Mapa Gal.
 EmpireRelationType Short Migration		;Migração
-EmpireRelationType Short MilitaryRefuelling		;Mil Ref
+EmpireRelationType Short MilitaryRefuelling		;Abs. Mil.
 EmpireRelationType Short MiningRights		;Mineração
 EmpireRelationType Short PirateProtection		;Proteção
-EmpireRelationType Short NonAggression		;Não Agg
-EmpireRelationType Short OperationsMapSharing		;Mapa Ops
+EmpireRelationType Short NonAggression		;Não Agr.
+EmpireRelationType Short OperationsMapSharing		;Mapa Ops.
 EmpireRelationType Short Research		;Pesquisa
 EmpireRelationType Short ResourceSupply		;Recursos
 EmpireRelationType Short Subjugation		;Vassal
@@ -704,7 +704,7 @@ FleetRole Invade		;Invasão
 FleetRole Manual		;Manual
 
 TacticsInvasion InvadeImmediately		;Imediatamente
-TacticsInvasion InvadeWhenClear		;Quando Estiver Claro
+TacticsInvasion InvadeWhenClear		;Quando Estiver Limpo
 TacticsInvasion NeverInvade		;Nunca
 
 TacticsRetreatType EnemyNearby		;Inimigo Próximo
@@ -835,7 +835,7 @@ RemoteFuelTransferRange		;Alcance de Transf. Combustível
 FighterBayBuildRate		;Taxa Construção de Caças
 FighterBayCapacity		;Espaço do Hangar de Caças
 FighterBayRepairRate		;Taxa Reparo do Hangar de Caças
-FuelStorageCapacity		;Armazenamento de Combustível
+FuelStorageCapacity		;Armazenamento Combustível
 HyperDenyEnergyUsage		;Uso Energia do HyperDeny
 HyperDenyRange		;Alcance do HyperDeny
 HyperDenyStrength		;Força do HyperDeny
@@ -1102,7 +1102,7 @@ ComponentCategory EngineVectoring		;Motor de Vetorização
 ComponentCategory Extractor		;Extrator
 ComponentCategory RemoteFuelTransfer		;Transferência Remota de Combustível
 ComponentCategory FighterBay		;Baía de Caças
-ComponentCategory FuelStorage		;Armazenamento de Combustível
+ComponentCategory FuelStorage		;Armazenamento Combustível
 ComponentCategory HyperBlock		;Bloqueio Hiper
 ComponentCategory HyperDeny		;Negação Hiper
 ComponentCategory HyperDrive		;Hyperdrive
@@ -1227,7 +1227,7 @@ Click to queue research		;Clique para enfileirar pesquisa
 Completed		;Concluído
 Right-click to cancel		;Botão direito para cancelar
 Click to initiate Crash Program		;Clique para iniciar o Programa de Emergência por {0} créditos a partir do Dinheiro em Mãos de {1} créditos
-CRASH PROGRAM (X speed)		;PROGRAMA DE EMERGÊNCIA ({0}x velocidade)
+CRASH PROGRAM (X speed)		;PROG. EMERG. ({0}x+ rápido)
 X% Complete		;{0} Completo
 Must first research PROJECTS		;Primeiro deve pesquisar {0}
 We have X		;Temos {0}
@@ -3909,8 +3909,8 @@ Character Mission Description InfluenceEmpireNegatively Us		;Reduzir nossa avali
 
 Character Mission Outcome Success		;Nosso agente [CHARACTER]{0}[/CHARACTER] escapou da detecção após realizar com sucesso sua missão para {1}
 Character Mission Outcome Fail		;Nosso agente [CHARACTER]{0}[/CHARACTER] escapou da detecção após falhar em {1}
-Character Mission Outcome FailDetect		;Nosso agente [CHARACTER]{0}[/CHARACTER] foi detectado após falhar em {1}. Felizmente, eles conseguiram escapar, mas a exposição desta missão terá consequências diplomáticas.
-Character Mission Outcome FailDetect Internal		;Nosso agente [CHARACTER]{0}[/CHARACTER] foi detectado após falhar em {1}. Felizmente, eles conseguiram escapar.
+Character Mission Outcome FailDetect		;Nosso(a) agente [CHARACTER]{0}[/CHARACTER] foi detectado(a) após falhar em {1}. Felizmente, ele(a) conseguiu escapar, mas a exposição desta missão terá consequências diplomáticas.
+Character Mission Outcome FailDetect Internal		;Nosso(a) agente [CHARACTER]{0}[/CHARACTER] foi detectado(a) após falhar em {1}. Felizmente, ele(a) conseguiu escapar.
 Character Mission Outcome SucceedDetect		;Nosso agente [CHARACTER]{0}[/CHARACTER] foi detectado após realizar com sucesso sua missão para {1}. Embora a missão tenha sido um sucesso, a exposição de nosso agente terá consequências diplomáticas.
 Character Mission Outcome Capture		;Nosso agente [CHARACTER]{0}[/CHARACTER] foi capturado enquanto se preparava para {1}. A exposição desta missão terá consequências diplomáticas.
 Character Mission Outcome CaptureInAct		;Nosso agente [CHARACTER]{0}[/CHARACTER] foi capturado ao tentar {1}. A exposição desta missão terá consequências diplomáticas.
@@ -4052,10 +4052,10 @@ Reputation Factors		;Fatores de Reputação
 
 Research Time In Days Description		;{0} dia(s) p/ pesquisar ({1} projeto(s) concorrente(s))
 Research Time In Years Description		;{0} ano(s) p/ pesquisar ({1} projeto(s) concorrente(s))
-Research Time Suffix		;para pesquisar ({0} projetos concorrentes)
+Research Time Suffix		;p/ pesquisar ({0} projeto(s) concorrente(s))
 No Projects Queued		;Nenhum Projeto na Fila
-X days		;{0} dias
-X years		;{0} anos
+X days		;{0} dia(s)
+X years		;{0} ano(s)
 Applies Empire-wide		;Aplica-se a todo o Império
 Applies only to Location		;Aplica-se apenas ao Local
 
@@ -4785,7 +4785,7 @@ FleetOverrideShipTacticsWithFleet		;Substituir Táticas de Nave por Táticas de 
 
 Ctrl-Mouse-Scrollwheel		;Roda de Rolagem Ctrl-Mouse
 Only From Locations		;Somente de Locais
-We have X (Y for TYPE, Z for ALL)		;Nós temos {0} ({1} de {2} + {3} de Todos os Pesquisas)
+We have X (Y for TYPE, Z for ALL)		;Nós temos {0} ({1} de {2} + {3} de Todas as Pesquisas)
 Maximum Population		;População Máxima
 Max Pop		;Máx. Pop
 Maximum Population Explanation		;Nível máximo de população para este planeta. Note que este é um limite geral, mas pode ser excedido por algumas raças quando o planeta é particularmente adequado para elas.
