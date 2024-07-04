@@ -660,7 +660,7 @@ EmpireRelationType Short NonAggression		;Não Agr.
 EmpireRelationType Short OperationsMapSharing		;Mapa Ops.
 EmpireRelationType Short Research		;Pesquisa
 EmpireRelationType Short ResourceSupply		;Recursos
-EmpireRelationType Short Subjugation		;Vassal
+EmpireRelationType Short Subjugation		;Vassalo
 EmpireRelationType Short War		;Guerra
 EmpireRelationType Short Peace		;Paz
 
