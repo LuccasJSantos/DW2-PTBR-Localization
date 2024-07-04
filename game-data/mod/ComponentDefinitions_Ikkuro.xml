@@ -994,7 +994,7 @@
         <WeaponVolleyFireRate>0</WeaponVolleyFireRate>
       </ComponentStats>
     </Values>
-    <Name>Raio de Fusão [Ftr]</Name>
+    <Name>Feixe de Fusão [Ftr]</Name>
 
     <ImageFilename>Environment/Components/252-Fusion Beam</ImageFilename>
   </ComponentDefinition>
@@ -1560,7 +1560,7 @@
         <WeaponVolleyFireRate>0</WeaponVolleyFireRate>
       </ComponentStats>
     </Values>
-    <Name>Raio de Fusão [G]</Name>
+    <Name>Feixe de Fusão [G]</Name>
     <ImageFilename>Environment/Components/252-Fusion Beam</ImageFilename>
   </ComponentDefinition>
   <ComponentDefinition>
@@ -2125,7 +2125,7 @@
         <WeaponVolleyFireRate>0</WeaponVolleyFireRate>
       </ComponentStats>
     </Values>
-    <Name>Raio de Fusão [S]</Name>
+    <Name>Feixe de Fusão [S]</Name>
     <ImageFilename>Environment/Components/252-Fusion Beam</ImageFilename>
   </ComponentDefinition>
   <ComponentDefinition>
@@ -2690,7 +2690,7 @@
         <WeaponVolleyFireRate>0.25</WeaponVolleyFireRate>
       </ComponentStats>
     </Values>
-    <Name>Raio de Fusão [M]</Name>
+    <Name>Feixe de Fusão [M]</Name>
     <ImageFilename>Environment/Components/252-Fusion Beam</ImageFilename>
   </ComponentDefinition>
   <ComponentDefinition>

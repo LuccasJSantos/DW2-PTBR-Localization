@@ -2,7 +2,7 @@
 <ArrayOfResearchProjectDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ResearchProjectDefinition>
     <ResearchProjectId>0</ResearchProjectId>
-    <Name>Armas de Raio Iniciais</Name>
+    <Name>Armas de Feixe Iniciais</Name>
     <Description />
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>75</Size>
@@ -212,7 +212,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>8</ResearchProjectId>
-    <Name>Armas de Raio Contínuo</Name>
+    <Name>Armas de Feixe Contínuo</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>150</Size>
     <InitiationCost>
@@ -1225,7 +1225,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>29</ResearchProjectId>
-    <Name>Armas de Raio Eficientes</Name>
+    <Name>Armas de Feixe Eficientes</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>640</Size>
     <InitiationCost>
@@ -1463,7 +1463,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>34</ResearchProjectId>
-    <Name>Raios Gravitacionais Aprimorados</Name>
+    <Name>Feixes Gravitacionais Aprimorados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -1515,7 +1515,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>35</ResearchProjectId>
-    <Name>Raios Tratores</Name>
+    <Name>Feixes Tratores</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>75</Size>
     <EnabledByDefault>true</EnabledByDefault>
@@ -2231,7 +2231,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>50</ResearchProjectId>
-    <Name>Raios de Longo Alcance</Name>
+    <Name>Feixes de Longo Alcance</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>1600</Size>
     <InitiationCost>
@@ -2651,7 +2651,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>58</ResearchProjectId>
-    <Name>Raios Tratores Avançados</Name>
+    <Name>Feixes Tratores Avançados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>120</Size>
     <InitiationCost>
@@ -4046,7 +4046,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>85</ResearchProjectId>
-    <Name>Focalização Avançada de Raios</Name>
+    <Name>Focalização Avançada de Feixes</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>1920</Size>
     <InitiationCost>
@@ -4296,7 +4296,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>89</ResearchProjectId>
-    <Name>Raios Eletromagnéticos</Name>
+    <Name>Feixes Eletromagnéticos</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>2400</Size>
     <InitiationCost>
@@ -4520,7 +4520,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>93</ResearchProjectId>
-    <Name>Raios Tratores de Longo Alcance</Name>
+    <Name>Feixes Tratores de Longo Alcance</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>800</Size>
     <InitiationCost>
@@ -4564,7 +4564,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>94</ResearchProjectId>
-    <Name>Raios Tratores de Alta Potência</Name>
+    <Name>Feixes Tratores de Alta Potência</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>800</Size>
     <InitiationCost>
@@ -5334,7 +5334,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>107</ResearchProjectId>
-    <Name>Raios de Energia Massivos</Name>
+    <Name>Feixes de Energia Massivos</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>9600</Size>
     <InitiationCost>
@@ -5404,7 +5404,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>108</ResearchProjectId>
-    <Name>Raios de Alta Intensidade</Name>
+    <Name>Feixes de Alta Intensidade</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>7680</Size>
     <InitiationCost>
@@ -7823,7 +7823,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>149</ResearchProjectId>
-    <Name>Raios EM Avançados</Name>
+    <Name>Feixes EM Avançados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>30720</Size>
     <InitiationCost>
@@ -8643,7 +8643,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>163</ResearchProjectId>
-    <Name>Raios de Energia Vinculados ao Núcleo</Name>
+    <Name>Feixes de Energia Vinculados ao Núcleo</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>153600</Size>
     <InitiationCost>
@@ -8690,7 +8690,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>164</ResearchProjectId>
-    <Name>Raios de Fase Superiores</Name>
+    <Name>Feixes de Fase Superiores</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>38400</Size>
     <InitiationCost>
@@ -10961,7 +10961,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>203</ResearchProjectId>
-    <Name>Superfluxo de Raio</Name>
+    <Name>Superfluxo de Feixe</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>307200</Size>
     <InitiationCost>
@@ -20849,7 +20849,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>243</ResearchProjectId>
-    <Name>Super Raio</Name>
+    <Name>Super Feixe</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>38400</Size>
     <InitiationCost>
@@ -24396,7 +24396,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>315</ResearchProjectId>
-    <Name>Armas de Raio Múltiplo</Name>
+    <Name>Armas de Feixe Múltiplo</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>1000</Size>
     <InitiationCost>
@@ -24566,7 +24566,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>318</ResearchProjectId>
-    <Name>Raios Estelares Aprimorados</Name>
+    <Name>Feixes Estelares Aprimorados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3000</Size>
     <InitiationCost>
@@ -24761,7 +24761,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>322</ResearchProjectId>
-    <Name>Raios Tratores de Alcance Estendido</Name>
+    <Name>Feixes Tratores de Alcance Estendido</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>880</Size>
     <InitiationCost>
@@ -32644,7 +32644,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>487</ResearchProjectId>
-    <Name>Raios Estelares Avançados</Name>
+    <Name>Feixes Estelares Avançados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>48000</Size>
     <InitiationCost>
@@ -32774,7 +32774,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>489</ResearchProjectId>
-    <Name>Raios de Grapple Aprimorados</Name>
+    <Name>Feixes de Grapple Aprimorados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>2640</Size>
     <InitiationCost>
@@ -34791,7 +34791,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>528</ResearchProjectId>
-    <Name>Raios de Grapple Avançados</Name>
+    <Name>Feixes de Grapple Avançados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>42240</Size>
     <InitiationCost>
@@ -39096,7 +39096,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>612</ResearchProjectId>
-    <Name>Dano de Raio Melhorado</Name>
+    <Name>Dano de Feixe Melhorado</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>38400</Size>
     <InitiationCost>
@@ -39748,7 +39748,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>613</ResearchProjectId>
-    <Name>Custo de Energia de Raio Reduzido</Name>
+    <Name>Custo de Energia de Feixe Reduzido</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>38400</Size>
     <InitiationCost>
@@ -40400,7 +40400,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>614</ResearchProjectId>
-    <Name>Alcance de Raio Melhorado</Name>
+    <Name>Alcance de Feixe Melhorado</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>38400</Size>
     <InitiationCost>
@@ -54189,7 +54189,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>775</ResearchProjectId>
-    <Name>Custo de Energia de Raio/Blaster Reduzido</Name>
+    <Name>Custo de Energia de Feixe/Blaster Reduzido</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>38400</Size>
     <InitiationCost>
@@ -55442,7 +55442,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>776</ResearchProjectId>
-    <Name>Alcance de Raio/Blaster Melhorado</Name>
+    <Name>Alcance de Feixe/Blaster Melhorado</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>38400</Size>
     <InitiationCost>
@@ -56695,7 +56695,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>777</ResearchProjectId>
-    <Name>Taxa de Fogo de Raio/Blaster Melhorada</Name>
+    <Name>Taxa de Fogo de Feixe/Blaster Melhorada</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>38400</Size>
     <InitiationCost>
@@ -58586,7 +58586,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>788</ResearchProjectId>
-    <Name>Super Raios</Name>
+    <Name>Super Feixes</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>38400</Size>
     <InitiationCost>

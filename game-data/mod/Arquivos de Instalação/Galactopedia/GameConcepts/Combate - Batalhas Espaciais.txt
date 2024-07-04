@@ -28,13 +28,13 @@ Diversos tipos de armas e outros componentes podem ser instalados em suas naves 
 [ULI]Armas de Intercepção: sistemas de armas de curto alcance que disparam rajadas letais contra armas inimigas ou caças próximos, desabilitando-os ou destruindo-os. Muitas armas de interceptação também podem ser usadas para atacar alvos inimigos, embora sejam mais especializadas na defesa[/ULI]
 [ULI]Defesa de Íons: protege uma nave ou base contra os efeitos desabilitadores de armas de Íons[/ULI]
 [ULI]Controle de Dano: reduz a quantidade de dano causado a uma nave pelo fogo de armas inimigas. Alguns componentes de controle de dano também fornecem uma função de reparo, permitindo que suas naves realizem reparos básicos rapidamente, mesmo durante o combate[/ULI]
-[ULI]Raios Tratores: podem ser usados para afastar atacantes ao escapar[/ULI]
+[ULI]Feixes Tratores: podem ser usados para afastar atacantes ao escapar[/ULI]
 [ULI]Cápsulas de Assalto: fornecem forças defensivas para combater partes de abordagem inimigas que tentam capturar sua nave ou base[/ULI]
 
 [H3]Tecnologias de Ataque[/H3]
 [ULI]Armas de Tiro Direto: inclui blasters a laser, canhões de trilho e outros. As armas de tiro direto têm capacidade limitada de manobra ou mudança de curso depois de disparadas. As armas de tiro direto frequentemente têm um alcance mais curto, mas com uma alta taxa de disparo e velocidade maior, podem causar muito dano[/ULI]
 [ULI]Busca: inclui mísseis e torpedos. Armas de busca se dirigem, manobrando para atingir seu alvo. Armas de busca frequentemente têm alcance longo, o que permite ataques de longo alcance contra alvos bem defendidos como portos espaciais. No entanto, podem ser bastante lentas, o que as torna menos eficazes contra naves rápidas e ágeis[/ULI]
-[ULI]Raio de Comprimento Total: inclui muitos tipos de armas. Raios de comprimento total disparam um raio contínuo de energia que se estende do atirador ao alvo. Eles podem ter muitos alcances diferentes: alguns são de curto alcance, outros são mais longos[/ULI]
+[ULI]Feixe de Comprimento Total: inclui muitos tipos de armas. Feixes de comprimento total disparam um feixe contínuo de energia que se estende do atirador ao alvo. Eles podem ter muitos alcances diferentes: alguns são de curto alcance, outros são mais longos[/ULI]
 [ULI]Armas de Bombardeio: exterminam a população e tropas de uma colônia inimiga, além de danificar o próprio planeta, reduzindo sua qualidade. Algumas armas de bombardeio têm mira mais específica, preferencialmente danificando população, nível de desenvolvimento da colônia, qualidade do planeta, tropas ou instalações planetárias[/ULI]
 [ULI]Armas de Íons: disparam rajadas de partículas ionizadas contra alvos inimigos, desabilitando temporariamente vários tipos de componentes. Algumas armas de Íons têm mira mais específica, desabilitando alguns componentes mais do que outros: armas, motores, hiperpropulsores, sensores e escudos[/ULI]
 [ULI]Armas de Área: disparam uma bola de energia para um ponto no espaço próximo a um inimigo e então iniciam uma explosão que envia uma onda de energia destrutiva omnidirecional para fora desse ponto. Essas armas geralmente são muito poderosas, mas têm alcance curto e consomem grandes quantidades de energia. Armas de área não podem ser direcionadas; elas danificam qualquer coisa dentro do alcance, incluindo suas próprias forças. Portanto, devem ser usadas com cuidado[/ULI]
@@ -42,7 +42,7 @@ Diversos tipos de armas e outros componentes podem ser instalados em suas naves 
 [ULI]Caças: caças e bombardeiros são pequenas espaçonaves tripuladas que são transportadas a bordo de uma nave ou base militar maior. São rápidos e ágeis e podem atacar um alvo enquanto a nave-mãe mantém uma distância segura. As perdas de caças são reconstruídas nos hangares da Baía de Caças a bordo do porta-naves[/ULI]
 [ULI]Sensores de Alvo de Combate: aumentam a probabilidade de que suas armas atinjam seus alvos[/ULI]
 [ULI]Alvo da Frota: aumenta a precisão de mira de todas as naves próximas na frota[/ULI]
-[ULI]Raios Tratores: podem ser usados para puxar alvos inimigos para mais perto[/ULI]
+[ULI]Feixes Tratores: podem ser usados para puxar alvos inimigos para mais perto[/ULI]
 [ULI]Cápsulas de Assalto: usadas para lançar grupos de abordagem contra uma nave ou base inimiga na tentativa de capturá-la. A nave inimiga deve estar dentro do alcance de abordagem e ter seus escudos suficientemente reduzidos[/ULI]
 
 Outros fatores que influenciam o combate são:

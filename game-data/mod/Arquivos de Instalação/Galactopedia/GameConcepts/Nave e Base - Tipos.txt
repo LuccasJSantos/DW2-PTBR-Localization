@@ -36,7 +36,7 @@ Cruzadores também podem usar hangares, permitindo que sirvam como pequenos port
 [H3]Encouraçado[/H3]
 Encouraçados são o maior tipo de nave militar. São pesadamente armados e defendidos.
 
-Com muitos compartimentos de armas, têm espaço suficiente para adicionar qualquer tipo de arma, incluindo armas de íons, armas de bombardeio, armas de área e raios tratores.
+Com muitos compartimentos de armas, têm espaço suficiente para adicionar qualquer tipo de arma, incluindo armas de íons, armas de bombardeio, armas de área e feixes tratores.
 
 Podem também utilizar componentes HyperDeny para evitar a fuga de naves inimigas.
 
