@@ -21,7 +21,7 @@ Small Freighter		;Cargueiro Pequeno
 Medium Freighter		;Cargueiro Médio
 Large Freighter		;Cargueiro Grande
 Mining Ship		;Nave de Mineração
-Fuel Tanker		;Nave Tanker
+Fuel Tanker		;Nave-Tanque
 Construction Ship		;Nave de Construção
 Exploration Ship		;Nave de Exploração
 Passenger Ship		;Nave de Passageiros
@@ -269,7 +269,7 @@ We are in awe of nearby colonies of other empires		;Estamos maravilhados com as 
 We are proud of our empire's good reputation		;Estamos orgulhosos da boa reputação de nosso império
 We are concerned about our empire's poor reputation		;Estamos preocupados com a má reputação de nosso império
 We have no racial unhappiness		;Não temos infelicidade racial
-RACE are unhappy being part of our RACE empire		;{0}s estão infelizes por serem parte de nosso império {1}
+RACE are unhappy being part of our RACE empire		;Os {0} estão infelizes por fazerem parte do império {1}
 You are not at war with empires of our race		;Você não está em guerra com impérios de nossa raça
 RACE are upset that we are at war with their species		;{0}s estão chateados por estarmos em guerra com sua espécie
 We enjoy our colony's high quality environment		;Gostamos do ambiente de alta qualidade de nossa colônia
@@ -4083,7 +4083,7 @@ Zoom to Selected Item		;Aproximar para o Item Selecionado
 
 War!		;Guerra!
 We declare WAR on you!		;Declaramos GUERRA a você!
-EMPIRE declares WAR on us!		;[FACTION]{0} declara GUERRA a nós!
+EMPIRE declares WAR on us!		;[FACTION]{0}[/FACTION] declara GUERRA a nós!
 Please consider this trade offer		;Por favor, considere esta oferta de comércio
 We accept your proposal		;Aceitamos sua proposta
 We agree that this war should end - we will cease hostilities immediately		;Concordamos que esta guerra deve acabar - cessaremos imediatamente as hostilidades

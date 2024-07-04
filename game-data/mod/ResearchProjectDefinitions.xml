@@ -50343,7 +50343,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>668</ResearchProjectId>
-    <Name>Defesa Puntual Avançada</Name>
+    <Name>Defesa de Ponto Avançada</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>1280</Size>
     <InitiationCost>
@@ -54002,7 +54002,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>770</ResearchProjectId>
-    <Name>Defesa Puntual Aumentada</Name>
+    <Name>Defesa de Ponto Aumentada</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>7680</Size>
     <InitiationCost>
@@ -54101,7 +54101,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>772</ResearchProjectId>
-    <Name>Defesa Puntual de Área</Name>
+    <Name>Defesa de Ponto de Área</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>7680</Size>
     <InitiationCost>
@@ -54141,7 +54141,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>773</ResearchProjectId>
-    <Name>Defesa Puntual Precisa</Name>
+    <Name>Defesa de Ponto Precisa</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>150</Size>
     <InitiationCost>

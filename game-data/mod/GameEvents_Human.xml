@@ -767,7 +767,7 @@ Deveríamos enviar um Espião para obter esses bônus temporários de Contraespi
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText>Deixar os Espiões Quietos</ChoiceButtonText>
+				<ChoiceButtonText>Manter Espiões</ChoiceButtonText>
 				<GeneratedItemName></GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
