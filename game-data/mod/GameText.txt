@@ -790,7 +790,7 @@ AreaShieldRechargeAmount		;Qtd. Máx. de Recarga
 AreaShieldRechargeEnergyUsedPerUnitCharged		;Energia Necessária
 AreaShieldRechargeRange		;Alcance de Recarga
 ArmorBlastRating		;Classificação
-ArmorReactiveRating		;Classificação Reativa
+ArmorReactiveRating		;Classif. Reativa
 AssaultDefense		;Defesa de Assalto
 AssaultPodBoardingRange		;Alcance de Embarque
 AssaultPodEnergyPerLaunch		;Energia Usada pela Cápsula
@@ -805,7 +805,7 @@ CommerceTradeBonus		;Bônus de Comércio
 ComponentCountermeasuresBonus		;Contramedidas da Arma
 ComponentIonDefense		;Defesa Iônica
 ComponentTargetingBonus		;Bônus de Mira
-ConstructionBuildSpeed		;Vel. de Construção
+ConstructionBuildSpeed		;Vel. Construção
 ConstructionRepairSpeed		;Vel. de Reparo
 ConstructionYardCount		;Estaleiros de Construção
 CountermeasuresBonus		;Contramedidas
@@ -1398,7 +1398,7 @@ Point Blank Accuracy		;Precisão à Queima-Roupa
 Max Range Accuracy		;Precisão em Alcance Máx.
 
 Excess Energy Output		;Saída Excessiva de Energia
-Hull Size		;Tamanho do Casco
+Hull Size		;Tamanho Casco
 Crew Description		;{0}/{1}
 Movement		;Movimento
 Slow		;Lento
@@ -1918,7 +1918,7 @@ State Ships Under Construction		;Naves Estatais em Construção
 Civilian Ships Under Construction		;Naves Civis em Construção
 Spaceports		;Portos Espaciais
 Wait Time		;Tempo de Espera
-Build Speed		;Vel. de Construção
+Build Speed		;Vel. Construção
 Repair Speed		;Vel. de Reparo
 Bases		;Bases
 Target already part of our empire		;Alvo já parte do nosso império
