@@ -40,6 +40,8 @@ Obs.: O jogo apresentará um erro durante o carregamento da galáxia, apenas cli
 [/olist]
 
 [hr]
+[h2]Colaboração[/h2]
+O projeto está disponível no [url=https://github.com/LuccasJSantos/DW2-PTBR-Localization]GitHub[/url] caso você tenha interesse em colaborar com a tradução.
 
 [i]Obs¹.: Devido ao suporte ainda básico para implementar mods no jogo, alguns textos e ordem de palavras não puderam ser traduzidos devidamente, pois estão embutidos na lógica interna do código, não sendo acessíveis por arquivos de texto. No entanto, 99% dos textos importantes para a gameplay foram traduzidos com o máximo de atenção aos detalhes do contexto do jogo.[/i]
 [i]Obs².: Alguns textos ainda precisam ser ajustados para caberem melhor em alguns locais da interface, uma vez que palavras em português tendem a ser mais longas quando comparadas ao inglês.[/i]
