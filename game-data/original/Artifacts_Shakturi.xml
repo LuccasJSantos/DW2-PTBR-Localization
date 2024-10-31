@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<ArrayOfArtifact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Artifact>
+		<ArtifactId>58</ArtifactId> <!-- Memory of Shaktur -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ColonyDevelopment</Type>
+				<Amount>0.2</Amount>
+				<AppliesTo>Item</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0.2</QualityBoost>
+		<Name>Memory of Shaktur</Name>
+		<Description>An ancient Shakturi relic that projects a strange power across the entire planet where it is located. The relic evokes nostalgic memories of the Shakturi homeworld, somehow improving the development and quality of the planet itself. Or at least that is the perception of those on the planet.</Description>
+		<ImageFilename>Artifacts/Memory of Shaktur</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>59</ArtifactId> <!-- Concealment Crystal -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ResearchPsychic</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>PsychicDefense</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Concealment Crystal</Name>
+		<ImageFilename>Artifacts/Concealment Crystal</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>60</ArtifactId> <!-- Statuette of Genetic Engineering -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ResearchGenetic</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Statuette of Genetic Engineering</Name>
+		<ImageFilename>Artifacts/Statuette of Genetic Engineering</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>61</ArtifactId> <!-- Sphere of Aggression -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ResearchBioWarfare</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Sphere of Aggression</Name>
+		<ImageFilename>Artifacts/Sphere of Aggression</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>62</ArtifactId> <!-- Helmet of Shakturi Understanding -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ResearchPsychic</Type>
+				<Amount>0.15</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchGenetic</Type>
+				<Amount>0.15</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchBioWarfare</Type>
+				<Amount>0.15</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<ResearchProjectUnlockIds>
+			<short>956</short> <!-- Experimental Xaraktor Virus -->
+			<short>957</short> <!-- Improved Xaraktor Virus -->
+			<short>958</short> <!-- Optimized Xaraktor Virus -->
+		</ResearchProjectUnlockIds>
+		<QualityBoost>0</QualityBoost>
+		<Name>Helmet of Shakturi Understanding</Name>
+		<ImageFilename>Artifacts/Helmet of Shakturi Understanding</ImageFilename>
+	</Artifact>
+</ArrayOfArtifact>

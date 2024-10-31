@@ -336,7 +336,7 @@
     </WeaponFirePosition>
     <DeathDuration>4</DeathDuration>
     <MinimumSize>200</MinimumSize>
-    <MaximumSize>800</MaximumSize>
+    <MaximumSize>1000</MaximumSize>
     <HealthToSizeRatio>1.5</HealthToSizeRatio>
     <HealRate>0.1</HealRate>
     <ReproductionRate>0.05</ReproductionRate>
@@ -658,16 +658,16 @@
     
     <MinimumSize>500</MinimumSize>
     <MaximumSize>700</MaximumSize>
-    <HealRate>0.4</HealRate>
-    <ReproductionRate>0.015</ReproductionRate>
+    <HealRate>0.5</HealRate>
+    <ReproductionRate>0.017</ReproductionRate>
     <Prevalence>0.25</Prevalence>
     <ColonyAttackStrengthMinimum>0</ColonyAttackStrengthMinimum>
     <ColonyAttackStrengthMaximum>0</ColonyAttackStrengthMaximum>
     <EngagementRange>100000</EngagementRange>
     <AttackRange>1200</AttackRange>
-    <ShieldRechargeRate>1</ShieldRechargeRate>
-    <ShieldResistance>3</ShieldResistance>
-    <ShieldStrength>200</ShieldStrength>
+    <ShieldRechargeRate>2</ShieldRechargeRate>
+    <ShieldResistance>4</ShieldResistance>
+    <ShieldStrength>300</ShieldStrength>
     <DamageAbsorbtionFactor>0</DamageAbsorbtionFactor>
     <DamageAbsorbtionThreshold>0</DamageAbsorbtionThreshold>
     <StandardWeaponsSensitivityFactor>1</StandardWeaponsSensitivityFactor>
@@ -1124,7 +1124,7 @@
     <DeathDuration>3.4</DeathDuration>
     <MinimumSize>160</MinimumSize>
     <MaximumSize>500</MaximumSize>
-    <HealRate>0.3</HealRate>
+    <HealRate>5</HealRate>
     <ReproductionRate>0.05</ReproductionRate>
     <Prevalence>0.5</Prevalence>
     <ColonyAttackStrengthMinimum>0</ColonyAttackStrengthMinimum>
@@ -1463,7 +1463,7 @@
     <DeathDuration>3.4</DeathDuration>
     <MinimumSize>160</MinimumSize>
     <MaximumSize>500</MaximumSize>
-    <HealRate>0.3</HealRate>
+    <HealRate>5</HealRate>
     <ReproductionRate>0.05</ReproductionRate>
     <Prevalence>0.5</Prevalence>
     <ColonyAttackStrengthMinimum>0</ColonyAttackStrengthMinimum>
@@ -1928,7 +1928,7 @@
     <DeathDuration>3.4</DeathDuration>
     <MinimumSize>160</MinimumSize>
     <MaximumSize>500</MaximumSize>
-    <HealRate>0.3</HealRate>
+   <HealRate>5</HealRate>
     <ReproductionRate>0.05</ReproductionRate>
     <Prevalence>0.5</Prevalence>
     <ColonyAttackStrengthMinimum>0</ColonyAttackStrengthMinimum>
@@ -2393,7 +2393,7 @@
     <DeathDuration>3.4</DeathDuration>
     <MinimumSize>160</MinimumSize>
     <MaximumSize>500</MaximumSize>
-    <HealRate>0.3</HealRate>
+	<HealRate>5</HealRate>
     <ReproductionRate>0.05</ReproductionRate>
     <Prevalence>0.5</Prevalence>
     <ColonyAttackStrengthMinimum>0</ColonyAttackStrengthMinimum>
@@ -2858,7 +2858,7 @@
     <DeathDuration>3.4</DeathDuration>
     <MinimumSize>160</MinimumSize>
     <MaximumSize>500</MaximumSize>
-    <HealRate>0.3</HealRate>
+    <HealRate>5</HealRate>
     <ReproductionRate>0.05</ReproductionRate>
     <Prevalence>0.5</Prevalence>
     <ColonyAttackStrengthMinimum>0</ColonyAttackStrengthMinimum>
@@ -3323,7 +3323,7 @@
     <DeathDuration>3.4</DeathDuration>
     <MinimumSize>160</MinimumSize>
     <MaximumSize>500</MaximumSize>
-    <HealRate>0.3</HealRate>
+    <HealRate>5</HealRate>
     <ReproductionRate>0.05</ReproductionRate>
     <Prevalence>0.5</Prevalence>
     <ColonyAttackStrengthMinimum>0</ColonyAttackStrengthMinimum>
@@ -3780,9 +3780,9 @@
       <Z>-0.6566</Z>
     </WeaponFirePosition>
     <DeathDuration>3.4</DeathDuration>
-    <MinimumSize>160</MinimumSize>
-    <MaximumSize>500</MaximumSize>
-    <HealRate>0.3</HealRate>
+    <MinimumSize>500</MinimumSize>
+    <MaximumSize>750</MaximumSize>
+    <HealRate>5</HealRate>
     <ReproductionRate>0.05</ReproductionRate>
     <Prevalence>0.5</Prevalence>
     <ColonyAttackStrengthMinimum>0</ColonyAttackStrengthMinimum>

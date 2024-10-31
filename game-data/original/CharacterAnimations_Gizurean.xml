@@ -1,0 +1,254 @@
+<ArrayOfCharacterAnimation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<CharacterAnimation>
+		<CharacterAnimationId>70</CharacterAnimationId>
+		<Role>Leader</Role>
+		<RaceId>11</RaceId>
+		<DataPath>data\CharacterAnimations\Gizurean\Gizurean</DataPath>
+		<SkinName>Leader</SkinName>
+		<ImagePath>Characters/Gizurean_Leader</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Idle_Neutral_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Idle_Neutral_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Idle_Neutral_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Idle_Happy_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Idle_Happy_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Idle_Happy_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleHappy>
+		<AnimationNamesIdleAngry>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Idle_Angry_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Idle_Angry_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Idle_Angry_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleAngry>
+		<AnimationNamesIncidentHappy>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Incident_Happy_1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Incident_Happy_2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentHappy>
+		<AnimationNamesIncidentAngry>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Incident_Angry_1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Leader_Incident_Angry_2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentAngry>
+		<Scale>1.5</Scale>
+		<BottomCropRatio>0.3</BottomCropRatio>
+		<CharacterRoomId>13</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>71</CharacterAnimationId>
+		<Role>Pirate</Role>
+		<RaceId>11</RaceId>
+		<DataPath>data\CharacterAnimations\Gizurean\Gizurean</DataPath>
+		<SkinName>Pirate</SkinName>
+		<ImagePath>Characters/Gizurean_Pirate</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Idle_Neutral_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Idle_Neutral_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Idle_Neutral_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Idle_Happy_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Idle_Happy_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Idle_Happy_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleHappy>
+		<AnimationNamesIdleAngry>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Idle_Angry_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Idle_Angry_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Idle_Angry_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleAngry>
+		<AnimationNamesIncidentHappy>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Incident_Happy_1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Incident_Happy_2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentHappy>
+		<AnimationNamesIncidentAngry>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Incident_Angry_1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Gizurean_Pirate_Incident_Angry_2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentAngry>
+		<Scale>1.5</Scale>
+		<BottomCropRatio>0.3</BottomCropRatio>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>72</CharacterAnimationId>
+		<Role>Ambassador</Role>
+		<RaceId>11</RaceId>
+		<DataPath>data\CharacterAnimations\Gizurean\Gizurean</DataPath>
+		<SkinName>Ambassador</SkinName>
+		<ImagePath>Characters/Gizurean_Ambassador</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Gizurean_Ambassador_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.03</BottomCropRatio>
+		<CharacterRoomId>13</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>73</CharacterAnimationId>
+		<Role>FleetAdmiral</Role>
+		<RaceId>11</RaceId>
+		<DataPath>data\CharacterAnimations\Gizurean\Gizurean</DataPath>
+		<SkinName>Admiral</SkinName>
+		<ImagePath>Characters/Gizurean_Admiral</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Gizurean_Admiral_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1.2</Scale>
+		<BottomCropRatio>0.16</BottomCropRatio>
+		<CharacterRoomId>13</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>74</CharacterAnimationId>
+		<Role>TroopGeneral</Role>
+		<RaceId>11</RaceId>
+		<DataPath>data\CharacterAnimations\Gizurean\Gizurean</DataPath>
+		<SkinName>General</SkinName>
+		<ImagePath>Characters/Gizurean_General</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Gizurean_General_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.04</BottomCropRatio>
+		<CharacterRoomId>13</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>75</CharacterAnimationId>
+		<Role>Scientist</Role>
+		<RaceId>11</RaceId>
+		<DataPath>data\CharacterAnimations\Gizurean\Gizurean</DataPath>
+		<SkinName>Scientist</SkinName>
+		<ImagePath>Characters/Gizurean_Scientist</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Gizurean_Scientist_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.04</BottomCropRatio>
+		<CharacterRoomId>13</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>76</CharacterAnimationId>
+		<Role>Spy</Role>
+		<RaceId>11</RaceId>
+		<DataPath>data\CharacterAnimations\Gizurean\Gizurean</DataPath>
+		<SkinName>Spy</SkinName>
+		<ImagePath>Characters/Gizurean_Spy</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Gizurean_Spy_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.04</BottomCropRatio>
+		<CharacterRoomId>13</CharacterRoomId>
+	</CharacterAnimation>
+
+</ArrayOfCharacterAnimation>

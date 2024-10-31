@@ -38,7 +38,8 @@
       <short>2</short>
       <short>4</short>
       <short>13</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -51,6 +52,11 @@
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 
 	  <TreatyLevelModifier>10</TreatyLevelModifier>

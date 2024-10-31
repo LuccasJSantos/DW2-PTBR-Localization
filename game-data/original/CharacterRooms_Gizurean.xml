@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<ArrayOfCharacterRoom xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<CharacterRoom>
+		<RoomId>13</RoomId>
+		<Name>Gizurean_Default</Name>
+		<RoomImageFilename>Characters/Rooms/Gizurean_Default</RoomImageFilename>
+		<WindowRatioRegion>
+			<X>0.3</X>
+			<Y>0.16</Y>
+			<Width>0.65</Width>
+			<Height>0.665</Height>
+			<Left>0.3</Left>
+			<Top>0.16</Top>
+			<Location>
+				<X>0.3</X>
+				<Y>0.16</Y>
+			</Location>
+			<Size>
+				<Width>0.65</Width>
+				<Height>0.665</Height>
+			</Size>
+		</WindowRatioRegion>
+		<Offset>
+			<X>0</X>
+			<Y>0</Y>
+		</Offset>
+		<ScaleXY>
+			<X>1</X>
+			<Y>1</Y>
+		</ScaleXY>
+		<DataPath>data\CharacterRooms\Gizurean\Gizurean_backround</DataPath>
+		<AnimationNames>
+			<SortableTextValue>
+				<Text>animation</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNames>
+	</CharacterRoom>
+
+</ArrayOfCharacterRoom>

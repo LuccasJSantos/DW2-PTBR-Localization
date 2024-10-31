@@ -56,6 +56,7 @@
 		  <short>2</short>
 		  <short>3</short>
 		  <short>11</short>
+		  <short>32759</short>
 	  </AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
@@ -69,6 +70,11 @@
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>

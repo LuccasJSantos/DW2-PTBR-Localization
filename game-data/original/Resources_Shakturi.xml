@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Resource>
+		<ResourceId>79</ResourceId>
+		<Name>Rift Crystal</Name>
+		<Description>Rift Crystal is an organic crystalline structure with a deep pink color. It grows as part of the exoskeleton of the Rift Strider creature. Rift Striders emerge from gravitic tears in space that are portals to a mysterious psychic dimension. It is thought that Rift Crystal is formed from the interaction of psychic and gravitic energy. The crystals have unique properties that can accelerate population growth.</Description>
+		<BaseCost>8</BaseCost>
+		<ImageFilename>Environment/Resources/Rift Crystal</ImageFilename>
+		<Bonuses />
+	</Resource>
+	<Resource>
+		<ResourceId>80</ResourceId>
+		<Name>Strider Brain Plasma</Name>
+		<Description>Rift Striders are enormous creatures that emerge from gravitic tears in space that are portals to a mysterious psychic dimension. Their brain plasma has unique properties that make it very effective at curing plagues. Rift Strider brains appear to have intense psychic powers, with residual traces of this in their brain plasma even after they are destroyed. Strider Brain Plasma has a bright pink color and is slightly luminous.</Description>
+		<BaseCost>8</BaseCost>
+		<ImageFilename>Environment/Resources/Strider Brain Plasma</ImageFilename>
+		<Bonuses />
+	</Resource>
+</ArrayOfResource>

@@ -1,0 +1,254 @@
+<ArrayOfCharacterAnimation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<CharacterAnimation>
+		<CharacterAnimationId>77</CharacterAnimationId>
+		<Role>Leader</Role>
+		<RaceId>20</RaceId>
+		<DataPath>data\CharacterAnimations\Shakturi\Shakturi</DataPath>
+		<SkinName>Leader</SkinName>
+		<ImagePath>Characters/Shakturi_Leader</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Idle_Neutral_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Idle_Neutral_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Idle_Neutral_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Idle_Happy_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Idle_Happy_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Idle_Happy_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleHappy>
+		<AnimationNamesIdleAngry>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Idle_Angry_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Idle_Angry_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Idle_Angry_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleAngry>
+		<AnimationNamesIncidentHappy>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Incident_Happy1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Incident_Happy2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentHappy>
+		<AnimationNamesIncidentAngry>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Incident_Angry1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Leader_Incident_Angry2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentAngry>
+		<Scale>1.2</Scale>
+		<BottomCropRatio>0.05</BottomCropRatio>
+		<CharacterRoomId>14</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>78</CharacterAnimationId>
+		<Role>Pirate</Role>
+		<RaceId>20</RaceId>
+		<DataPath>data\CharacterAnimations\Shakturi\Shakturi</DataPath>
+		<SkinName>Pirate</SkinName>
+		<ImagePath>Characters/Shakturi_Pirate</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Idle_Neutral_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Idle_Neutral_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Idle_Neutral_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Idle_Happy_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Idle_Happy_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Idle_Happy_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleHappy>
+		<AnimationNamesIdleAngry>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Idle_Angry_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Idle_Angry_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Idle_Angry_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleAngry>
+		<AnimationNamesIncidentHappy>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Incident_Happy1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Incident_Happy2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentHappy>
+		<AnimationNamesIncidentAngry>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Incident_Angry1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Shakturi_Pirate_Incident_Angry2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentAngry>
+		<Scale>1.2</Scale>
+		<BottomCropRatio>0.05</BottomCropRatio>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>79</CharacterAnimationId>
+		<Role>Ambassador</Role>
+		<RaceId>20</RaceId>
+		<DataPath>data\CharacterAnimations\Shakturi\Shakturi</DataPath>
+		<SkinName>Ambassador</SkinName>
+		<ImagePath>Characters/Shakturi_Ambassador</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Shakturi_Ambassador_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.1</BottomCropRatio>
+		<CharacterRoomId>14</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>80</CharacterAnimationId>
+		<Role>FleetAdmiral</Role>
+		<RaceId>20</RaceId>
+		<DataPath>data\CharacterAnimations\Shakturi\Shakturi</DataPath>
+		<SkinName>Admiral</SkinName>
+		<ImagePath>Characters/Shakturi_Admiral</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Shakturi_Admiral_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.1</BottomCropRatio>
+		<CharacterRoomId>14</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>81</CharacterAnimationId>
+		<Role>TroopGeneral</Role>
+		<RaceId>20</RaceId>
+		<DataPath>data\CharacterAnimations\Shakturi\Shakturi</DataPath>
+		<SkinName>General</SkinName>
+		<ImagePath>Characters/Shakturi_General</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Shakturi_General_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.1</BottomCropRatio>
+		<CharacterRoomId>14</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>82</CharacterAnimationId>
+		<Role>Scientist</Role>
+		<RaceId>20</RaceId>
+		<DataPath>data\CharacterAnimations\Shakturi\Shakturi</DataPath>
+		<SkinName>Scientist</SkinName>
+		<ImagePath>Characters/Shakturi_Scientist</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Shakturi_Scientist_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.1</BottomCropRatio>
+		<CharacterRoomId>14</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>83</CharacterAnimationId>
+		<Role>Spy</Role>
+		<RaceId>20</RaceId>
+		<DataPath>data\CharacterAnimations\Shakturi\Shakturi</DataPath>
+		<SkinName>Spy</SkinName>
+		<ImagePath>Characters/Shakturi_Spy</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Shakturi_Spy_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.1</BottomCropRatio>
+		<CharacterRoomId>14</CharacterRoomId>
+	</CharacterAnimation>
+
+</ArrayOfCharacterAnimation>

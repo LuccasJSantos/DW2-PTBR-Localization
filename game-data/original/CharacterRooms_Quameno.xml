@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<ArrayOfCharacterRoom xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<CharacterRoom>
+		<RoomId>12</RoomId>
+		<Name>Quameno_Default</Name>
+		<RoomImageFilename>Characters/Rooms/Quameno_Default</RoomImageFilename>
+		<WindowRatioRegion>
+			<X>0.475</X>
+			<Y>0.22</Y>
+			<Width>0.3</Width>
+			<Height>0.54</Height>
+			<Left>0.475</Left>
+			<Top>0.22</Top>
+			<Location>
+				<X>0.475</X>
+				<Y>0.22</Y>
+			</Location>
+			<Size>
+				<Width>0.3</Width>
+				<Height>0.54</Height>
+			</Size>
+		</WindowRatioRegion>
+		<Offset>
+			<X>0</X>
+			<Y>0</Y>
+		</Offset>
+		<ScaleXY>
+			<X>1</X>
+			<Y>1</Y>
+		</ScaleXY>
+		<DataPath>data\CharacterRooms\Quameno\Quameno_backround</DataPath>
+		<AnimationNames>
+			<SortableTextValue>
+				<Text>animation</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNames>
+	</CharacterRoom>
+
+</ArrayOfCharacterRoom>

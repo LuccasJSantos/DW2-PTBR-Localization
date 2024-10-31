@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<ArrayOfCreatureType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CreatureType>
+		<CreatureTypeId>9</CreatureTypeId>
+		<ModelName>Creatures/Shakturi Creature/creature</ModelName>
+		<PrefabName></PrefabName>
+		<IdleAnimationNames>
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_idle_01_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_idle_02_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+		</IdleAnimationNames>
+		<MoveAnimationNames>
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_move_01_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_move_02_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+		</MoveAnimationNames>
+		<AttackAnimationNames>
+			<!--
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_attack_01_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_attack_02_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_attack_03_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_attack_04_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+			-->
+		</AttackAnimationNames>
+		
+		<WeaponFireAnimationNames>
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_attack_01_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_attack_02_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_attack_03_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Creatures/Shakturi Creature/Animations/creature_attack_04_anim</Text>
+				<Value>1</Value>
+				<Value2>0</Value2>
+			</SortableTextValue>
+		</WeaponFireAnimationNames>
+
+	<ReproduceAnimationNames />
+	<DeathAnimationNames>
+		<SortableTextValue>
+			<Text>Creatures/Shakturi Creature/Animations/creature_death_01_anim</Text>
+			<Value>1</Value>
+			<Value2>0</Value2>
+		</SortableTextValue>
+		<SortableTextValue>
+			<Text>Creatures/Shakturi Creature/Animations/creature_death_02_anim</Text>
+			<Value>1</Value>
+			<Value2>0</Value2>
+		</SortableTextValue>
+	</DeathAnimationNames>
+	<IdleEffects />
+	<MoveEffects />
+	<AttackEffects />
+	<WeaponFireEffects>
+		<EffectEntity>
+			<EntityPath>Creatures/Shakturi Creature/Fx/Beam_Muzzle</EntityPath>
+			<SoundEffectPath>Sounds/Creatures/GravillexAttack</SoundEffectPath>
+			<Duration>3</Duration>
+			<StartDelay>0</StartDelay>
+			<Scale>0.5</Scale>
+			<NegateZ>true</NegateZ>
+			<TintColor>
+				<B>255</B>
+				<G>255</G>
+				<R>255</R>
+				<A>255</A>
+			</TintColor>
+		</EffectEntity>
+		<EffectEntity>
+			<EntityPath>Creatures/Shakturi Creature/Fx/Fog</EntityPath>
+			<Duration>5</Duration>
+			<StartDelay>0</StartDelay>
+			<Scale>7</Scale>
+			<NegateZ>true</NegateZ>
+			<TintColor>
+				<B>255</B>
+				<G>255</G>
+				<R>255</R>
+				<A>255</A>
+			</TintColor>
+		</EffectEntity>
+		<EffectEntity>
+			<EntityPath>Creatures/Shakturi Creature/Fx/Energy_Field_Charge</EntityPath>
+			<Duration>3</Duration>
+			<StartDelay>0</StartDelay>
+			<Scale>2</Scale>
+			<NegateZ>true</NegateZ>
+			<TintColor>
+				<B>255</B>
+				<G>255</G>
+				<R>255</R>
+				<A>255</A>
+			</TintColor>
+		</EffectEntity>
+	</WeaponFireEffects>
+	<ReproduceEffects />
+	<DeathEffects>
+		<EffectEntity>
+			<EntityPath>Creatures/Shakturi Creature/Fx/Fog</EntityPath>
+			<SoundEffectPath>Sounds/Creatures/GravillexDeath</SoundEffectPath>
+			<Duration>3</Duration>
+			<StartDelay>0</StartDelay>
+			<Scale>10</Scale>
+			<NegateZ>true</NegateZ>
+		</EffectEntity>
+		<EffectEntity>
+			<EntityPath>Creatures/Shakturi Creature/Fx/Flame_01</EntityPath>
+			<Duration>3</Duration>
+			<StartDelay>0</StartDelay>
+			<Scale>2</Scale>
+			<NegateZ>true</NegateZ>
+		</EffectEntity>
+		<EffectEntity>
+			<EntityPath>Creatures/Shakturi Creature/Fx/Energy_Field_Death</EntityPath>
+			<Duration>3</Duration>
+			<StartDelay>0</StartDelay>
+			<Scale>3.5</Scale>
+			<NegateZ>true</NegateZ>
+		</EffectEntity>
+		<EffectEntity>
+			<EntityPath>Creatures/Shakturi Creature/Fx/Explosion_01</EntityPath>
+			<Duration>3</Duration>
+			<StartDelay>0</StartDelay>
+			<Scale>0.3</Scale>
+			<NegateZ>true</NegateZ>
+			<TintColor>
+				<B>111</B>
+				<G>111</G>
+				<R>189</R>
+				<A>255</A>
+			</TintColor>
+		</EffectEntity>
+		<EffectEntity>
+			<EntityPath>Creatures/Shakturi Creature/Fx/Explosion_02</EntityPath>
+			<Duration>3</Duration>
+			<StartDelay>0</StartDelay>
+			<Scale>0.3</Scale>
+			<NegateZ>true</NegateZ>
+			<TintColor>
+				<B>255</B>
+				<G>255</G>
+				<R>255</R>
+				<A>255</A>
+			</TintColor>
+		</EffectEntity>
+	</DeathEffects>
+	
+	<!--
+	<NormalMaterialPath>Creatures/Gravillex/GravilexMaterial</NormalMaterialPath>
+	<DeadMaterialPath>Creatures/Gravillex/GravilexDeadMaterial</DeadMaterialPath>
+	-->
+	<WeaponFireEffectEndpointName />
+	<MoveTrailRevealTime>1</MoveTrailRevealTime>
+	<MoveTrailFadeTime>1</MoveTrailFadeTime>
+	<WeaponFireAngleAllowance>0.707</WeaponFireAngleAllowance>
+	<WeaponFirePrepareTime>2.2</WeaponFirePrepareTime>
+	<WeaponFirePosition>
+		<X>0</X>
+		<Y>0</Y>
+		<Z>-0.2</Z>
+	</WeaponFirePosition>
+	<DeathDuration>2.5</DeathDuration>
+	<MinimumSize>400</MinimumSize>
+	<MaximumSize>750</MaximumSize>
+	<HealRate>5</HealRate>
+	<ReproductionRate>0</ReproductionRate>
+	<Prevalence>0</Prevalence>
+	<ColonyAttackStrengthMinimum>0</ColonyAttackStrengthMinimum>
+	<ColonyAttackStrengthMaximum>0</ColonyAttackStrengthMaximum>
+	<EngagementRange>12000</EngagementRange>
+	<AttackRange>2200</AttackRange>
+	<ShieldRechargeRate>2</ShieldRechargeRate>
+	<ShieldResistance>4</ShieldResistance>
+	<ShieldStrength>500</ShieldStrength>
+	<DamageAbsorbtionFactor>0</DamageAbsorbtionFactor>
+	<DamageAbsorbtionThreshold>0</DamageAbsorbtionThreshold>
+	<StandardWeaponsSensitivityFactor>1</StandardWeaponsSensitivityFactor>
+	<IonWeaponsSensitivityFactor>0.1</IonWeaponsSensitivityFactor>
+	<Stealth>0</Stealth>
+	<WeaponComponentIds>
+		<short>391</short>
+	</WeaponComponentIds>
+	<TurnRate>2</TurnRate>
+	<AccelerationRate>20</AccelerationRate>
+	<MovementSpeed>90</MovementSpeed>
+	<MovementRange>9000</MovementRange>
+	<HyperJumpSpeed>370000</HyperJumpSpeed>
+	<HyperJumpRange>75000000</HyperJumpRange>
+	<HyperJumpRechargeTime>100</HyperJumpRechargeTime>
+
+		<TrackSystemExploration>true</TrackSystemExploration>
+		<StartPlagueAtColonyLocationId>32760</StartPlagueAtColonyLocationId>
+		<StartPlagueAtColonyLocationChance>12</StartPlagueAtColonyLocationChance>
+		<InfluenceRaceIds>
+			<unsignedByte>20</unsignedByte>
+		</InfluenceRaceIds>
+		<InfluenceAmounts>
+			<float>1</float>
+		</InfluenceAmounts>
+		
+	<NativeHabitatIds>
+		<!--
+		<unsignedByte>6</unsignedByte>
+		<unsignedByte>5</unsignedByte>
+		<unsignedByte>3</unsignedByte>
+		<unsignedByte>4</unsignedByte>
+		-->
+	</NativeHabitatIds>
+		<ResourceIdsYieldedWhenDie>
+			<short>79</short>
+			<short>80</short>
+		</ResourceIdsYieldedWhenDie>
+		<NativeHabitatBonuses>
+			<Bonus>
+				<Type>ShipManeuvering</Type>
+				<Amount>0.3</Amount>
+				<AppliesTo>Item</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+				<Description />
+			</Bonus>
+		</NativeHabitatBonuses>
+		<Name>Rift Strider</Name>
+		<Description />
+		<ImageFilename>Creatures/Shakturi Creature/Images/Creature</ImageFilename>
+	</CreatureType>
+</ArrayOfCreatureType>

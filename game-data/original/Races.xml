@@ -41,6 +41,7 @@
       <short>3</short>
       <short>4</short>
       <short>5</short>
+	  <short>32759</short>
     </AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
@@ -54,6 +55,11 @@
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
     <Bonuses>
       <Bonus>
@@ -485,7 +491,8 @@ Humans may lack the signature strengths of some space faring species, but their 
       <short>4</short>
       <short>5</short>
       <short>6</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -498,6 +505,11 @@ Humans may lack the signature strengths of some space faring species, but their 
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -836,7 +848,8 @@ Ackdarians also inhabit the small islands and shallow coastal areas of Ocean pla
       <short>3</short>
       <short>4</short>
       <short>5</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -849,6 +862,11 @@ Ackdarians also inhabit the small islands and shallow coastal areas of Ocean pla
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -1223,7 +1241,8 @@ Teekans inhabit the vast desert wastelands of Sandy Desert, Rocky Desert and Des
       <short>3</short>
       <short>4</short>
       <short>5</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -1236,6 +1255,11 @@ Teekans inhabit the vast desert wastelands of Sandy Desert, Rocky Desert and Des
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -1570,7 +1594,8 @@ Haakonish typically live in fully-enclosed biospheres in coastal areas of Marshy
       <short>3</short>
       <short>4</short>
       <short>5</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -1583,6 +1608,11 @@ Haakonish typically live in fully-enclosed biospheres in coastal areas of Marshy
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 
 	  <WarStartedByUsGameEventName>Warrior Wave Trigger (Mortalen)</WarStartedByUsGameEventName>
@@ -1695,7 +1725,7 @@ Haakonish typically live in fully-enclosed biospheres in coastal areas of Marshy
       </OrbTypeFactor>
 	  <OrbTypeFactor>
         <OrbTypeId>19</OrbTypeId>
-        <Factor>0.35</Factor>
+        <Factor>0.3</Factor>
       </OrbTypeFactor>
       <OrbTypeFactor>
         <OrbTypeId>20</OrbTypeId>
@@ -2004,7 +2034,8 @@ For the Mortalen, honor is paramount, and the galaxy itself is their proving gro
       <short>3</short>
       <short>4</short>
       <short>5</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -2017,6 +2048,11 @@ For the Mortalen, honor is paramount, and the galaxy itself is their proving gro
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -2251,7 +2287,8 @@ They typically live in tree-dwellings high in the forest canopies on Forest, Con
       <short>4</short>
       <short>5</short>
       <short>7</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -2264,6 +2301,11 @@ They typically live in tree-dwellings high in the forest canopies on Forest, Con
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -2328,7 +2370,7 @@ They typically live in tree-dwellings high in the forest canopies on Forest, Con
       </OrbTypeFactor>
 	  <OrbTypeFactor>
         <OrbTypeId>12</OrbTypeId>
-        <Factor>0.3</Factor>
+        <Factor>0.35</Factor>
       </OrbTypeFactor>
       <OrbTypeFactor>
         <OrbTypeId>17</OrbTypeId>
@@ -2356,7 +2398,7 @@ They typically live in tree-dwellings high in the forest canopies on Forest, Con
       </OrbTypeFactor>
 	  <OrbTypeFactor>
         <OrbTypeId>29</OrbTypeId>
-        <Factor>0.1</Factor>
+        <Factor>0.15</Factor>
       </OrbTypeFactor>
 	  <OrbTypeFactor>
         <OrbTypeId>30</OrbTypeId>
@@ -2661,7 +2703,8 @@ Boskara typically inhabit the forbidding terrain of Volcanic planets. Communitie
       <short>4</short>
       <short>5</short>
 	  <short>6</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -2674,6 +2717,11 @@ Boskara typically inhabit the forbidding terrain of Volcanic planets. Communitie
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3063,6 +3111,11 @@ Zenox inhabit the tundra wastelands of Ice Tundra, Ice or Frozen Ice planets. Th
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3228,6 +3281,11 @@ Wekkarus are a generally peaceful species that like to keep to themselves.</Desc
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3386,6 +3444,11 @@ Atuuks live in crude tree-huts on Forest or Continental planets.</Description>
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3581,6 +3644,11 @@ The natural habitats of Dhayuts are rocky retreats on Desert Savanna, Rocky Dese
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3784,6 +3852,11 @@ Gizureans typically build their cavernous underground homes on in rocky areas of
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3965,6 +4038,11 @@ Ketarovs are usually found in large communities dwelling on the open plains of G
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -4149,6 +4227,11 @@ The typical habitats of Kiadians are the mountains and low plains of Continental
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -4345,6 +4428,11 @@ Naxxilians normally live on the tundra wastelands of Ice Tundra and Ice planets,
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -4537,6 +4625,11 @@ Quameno communities typically live in semi-submerged, high-tech biodomes in the 
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -4709,6 +4802,11 @@ Securans inhabit the vast open plains of Desert Savanna, Sandy Desert or Rocky D
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -4863,6 +4961,11 @@ Though they often industriously mine for gemstones, they generally take little i
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -5045,6 +5148,11 @@ Sluken are found on Marshy Swamp and Mangrove Forest planets.</Description>
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>

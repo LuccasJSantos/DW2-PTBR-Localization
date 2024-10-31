@@ -50,6 +50,7 @@
 		  <short>5</short>
 		  <short>7</short>
 		  <short>12</short>
+		  <short>32759</short>
 	  </AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
@@ -66,6 +67,11 @@
 		  <CharacterMissionType>InfluenceEmpirePositively</CharacterMissionType>
 		  <CharacterMissionType>InfluenceEmpireNegatively</CharacterMissionType>
 		  <CharacterMissionType>CaptureBase</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>

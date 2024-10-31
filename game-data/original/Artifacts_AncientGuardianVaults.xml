@@ -1,395 +1,297 @@
 <?xml version="1.0"?>
 <ArrayOfArtifact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Artifact>
-    <ArtifactId>48</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>false</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>true</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>ColonyCorruptionReduction</Type>
-        <Amount>0.2</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ResearchAll</Type>
-        <Amount>0.02</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>Priorities of Governance</Name>
-    <Description>By the 9th century, as reckoned by the old Teekan calendar, the vast Teekan Conglomerate began to experience an unprecedented economic decline. Their trade networks remained robust, but high inflation, unemployment, and shrinking incomes created a tenuous political situation for the ruling Board of Directors.
+	<Artifact>
+		<ArtifactId>48</ArtifactId> <!-- Priorities of Governance -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>false</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>true</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ColonyCorruptionReduction</Type>
+				<Amount>0.2</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.02</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Priorities of Governance</Name>
+		<Description>By the 9th century, as reckoned by the old Teekan calendar, the vast Teekan Conglomerate began to experience an unprecedented economic decline. Their trade networks remained robust, but high inflation, unemployment, and shrinking incomes created a tenuous political situation for the ruling Board of Directors.
 	
 	A Teekan fringe world called New Market broke away from the Conglomerate under the leadership of Rugural Deknir, who established her Priorities of Governance. While the rest of the Teekan Conglomerate continued to languish, New Market prospered as an independent world, drawing Ancient Guardian attention.
 	
 	Some thirty years after its succession, New Market eventually rejoined the Teekan Conglomerate, this time as its capital world and with Deknir as the new Executive Officer. Her Priorities of Governance became the key to Teekan prosperity for centuries to come until those methods came to be diluted, misrepresented, or distorted by a string of Executive Officers pursuing private agendas. Such is the way with all cultures. Though they disdain the accumulation of wealth for its own sake as a meaningless pursuit, the Ancient Guardians recognize that civilizations do not thrive without strong economies.  Thus they have deemed Deknir's methods worthy of preservation.</Description>
-    <ImageFilename>Artifacts/priorities of governance</ImageFilename>
-  </Artifact>
-  <Artifact>
-    <ArtifactId>49</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>ColonyPopulationGrowthRate</Type>
-        <Amount>0.2</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ResearchAll</Type>
-        <Amount>0.02</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>Zenox Fertility Treatment</Name>
-    <Description>The Eradication, as the virus later came to be called, spread for years before detection. The disease adapted to the genetic code of all life it encountered, regardless of species. Only as demographers began to notice a galaxy wide population decline – not only in sentient species, but also in animals and some plants -  did the search for a trans-species virus begin.
+		<ImageFilename>Artifacts/priorities of governance</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>49</ArtifactId> <!-- Zenox Fertility Treatment -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ColonyPopulationGrowthRate</Type>
+				<Amount>0.2</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.02</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Zenox Fertility Treatment</Name>
+		<Description>The Eradication, as the virus later came to be called, spread for years before detection. The disease adapted to the genetic code of all life it encountered, regardless of species. Only as demographers began to notice a galaxy wide population decline – not only in sentient species, but also in animals and some plants -  did the search for a trans-species virus begin.
 
 Once discovered, it soon became clear that the Eradication posed an existential threat not only to civilization but to life itself. Fortunately, the Eradication attacked only reproductive systems, and then only on a percentage basis. The galaxy had years, perhaps centuries, before population declined to the point of civilization collapse. Nevertheless, the sense that all was doomed pervaded most cultures, leading to a period to be known as the Great Decline.
 
 Some seventy years after the virus's discovery, the Zenox Institute for Advanced Medicine announced the development of a vaccine. Its dissemination launched a new era of galactic optimism and cooperation, and the years that followed were the most peaceful in recorded history. Unknown to the rest of the galaxy, the Zenox kept for themselves an additional fertility treatment they discovered as a possible workaround to the virus. This enabled them, and only them, to return to pre-Eradication levels faster than any other civilization.
 
 The Ancient Guardians were able to secure a sample of this remarkable serum in exchange for other secrets.</Description>
-    <ImageFilename>Artifacts/zenox fertility treatment</ImageFilename>
-  </Artifact>
-  <Artifact>
-    <ArtifactId>50</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>ColonyDefense</Type>
-        <Amount>0.25</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ResearchAll</Type>
-        <Amount>0.02</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>Kiraditu's Principles of Colonial Defense</Name>
-    <Description>The story has the quality of myth, but the ancient Guardians have verified its truth (though myths are often worthy of preservation). Two brothers, who grew up poor and friendless in the slums of Port Greataxe, somehow ingratiated themselves with the local militia and ended up as students in the prestigious Grand Mortalen Academy for Military Advancement.
+		<ImageFilename>Artifacts/zenox fertility treatment</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>50</ArtifactId> <!-- Kiraditu's Principles of Colonial Defense -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ColonyDefense</Type>
+				<Amount>0.25</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.02</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Kiraditu's Principles of Colonial Defense</Name>
+		<Description>The story has the quality of myth, but the ancient Guardians have verified its truth (though myths are often worthy of preservation). Two brothers, who grew up poor and friendless in the slums of Port Greataxe, somehow ingratiated themselves with the local militia and ended up as students in the prestigious Grand Mortalen Academy for Military Advancement.
 
 Never before had the Academy accept any students from an insignificant family, let alone two at once. Both brothers graduated with "violent distinction" and later rose through the ranks during the Second Haakonish Uprising, on the very same day, both were promoted to admiral. There is no definitive account of the cause of their rupture, though most historians believe it emerged from a friendly jest misconstrued as a deliberate and cruel insult of the sort that cannot be forgiven in the Mortalen culture. The brothers became bitter enemies, each recruiting Mortalen worlds to their cause. Perhaps it would have led to little had the Mortalen Interstellar Protectorate not already grown too large in too short a period of time, causing it to begin crumbling under its own administrative weight. As it happened, both brothers came to lead the two principal factions in the emerging civil war.
 
 Kiraditu, the elder brother, emerged as clearly superior in formulating situational tactics, where as Hudnar, the younger brother, was a master of grand strategy. Kiraditu's side was soon on the run, and he and his forces took refuge on the aptly-named backwater world of Desert Crag. Hudnar expected to eliminate his younger brother's forces in a matter of days, but, under the undetected gaze of the Ancient Guardians, the siege of Desert Crag lasted for more than two years as Kiraditu defied odds, expectations, and supply shortages. A program he devised and recorded, designed to maximize and amplify all available defensive measures, delayed the inevitable.
 
 When Kiraditu did fall in the end, Hudnar immediately set out to destroy his brother's Principles of Colonial Defense, which he feared could cause Kiraditu's name to become immortal. It could also make Hudnar's future conquests more difficult if the work fell into the wrong hands. Hudnar could not know that the Ancient Guardians had already preserved his brother's work.</Description>
-    <ImageFilename>Artifacts/kiraditu's principles of colonoal defence</ImageFilename>
-  </Artifact>
-  <Artifact>
-    <ArtifactId>51</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>ColonyDefense</Type>
-        <Amount>0.1</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ColonyHappiness</Type>
-        <Amount>0.1</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ResearchAll</Type>
-        <Amount>0.02</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>Laughter and Leadership</Name>
-    <Description>Many species employ various types of humor, some of which can even translate between cultures. Of all known species, humans are among the few who have turned the production of humor into full employment (though there has been some debate as to whether certain types of Dhayut public executioners serve a similar role).
+		<ImageFilename>Artifacts/kiraditu's principles of colonoal defence</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>51</ArtifactId> <!-- Laughter and Leadership -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ColonyDefense</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ColonyHappiness</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.02</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Laughter and Leadership</Name>
+		<Description>Many species employ various types of humor, some of which can even translate between cultures. Of all known species, humans are among the few who have turned the production of humor into full employment (though there has been some debate as to whether certain types of Dhayut public executioners serve a similar role).
 
 Such human humor laborers are known as comedians, and while their work was generally ignored by other species, the comedian known as Trang Pham rose to galactic prominence when she found herself trapped on an isolated colony during an unexpected crisis. The details remain unclear, but there were elements of disease and famine, and a massive war against the Boskarans meant no ships could be spared to rescue the inhabitants of Bandar IV.
 
 Though foreign to the world, and possessing no leadership experience, Pham used her interstellar fame as a humorist to galvanize the citizens of Bandar IV, helping them not only survive until they could receive aid, but to survive with a positive attitude and a good laugh. Pham later wrote of her experiences in a memoir entitled Laughter and Leadership. Even non-human leaders claim to have learned much from it.
 
 Despite extensive analysis, the Ancient Guardians have been unable to quantify the success of Pham's humor or, at times, to even detect when lines of text are meant to be humorous or serious. Nevertheless, several biological species have demonstrated an ability to glean much of value from the text.</Description>
-    <ImageFilename>Artifacts/laughter at leadership</ImageFilename>
-  </Artifact>
-  <Artifact>
-    <ArtifactId>52</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>ShieldRechargeRate</Type>
-        <Amount>0.1</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>HyperjumpSpeed</Type>
-        <Amount>0.1</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ResearchAll</Type>
-        <Amount>0.02</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>Thoughtful Retreat Archives</Name>
-    <Description>The Zenox world of Thoughtful Retreat was originally established as a research base, meant to house no more than a few thousand scientists along with their families and whatever secondary workers were required to maintain the outpost. Over the course of a century, it developed into the primary center of Zenox experimental scientific research, including many lines of inquiry the Ancient Guardians found both interesting and alarming.
+		<ImageFilename>Artifacts/laughter at leadership</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>52</ArtifactId> <!-- Thoughtful Retreat Archives -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ShieldRechargeRate</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>HyperjumpSpeed</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.02</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Thoughtful Retreat Archives</Name>
+		<Description>The Zenox world of Thoughtful Retreat was originally established as a research base, meant to house no more than a few thousand scientists along with their families and whatever secondary workers were required to maintain the outpost. Over the course of a century, it developed into the primary center of Zenox experimental scientific research, including many lines of inquiry the Ancient Guardians found both interesting and alarming.
 
 Among its most top-secret projects was experimentation with wormhole tech for the purposes of visiting other galaxies. The viability of this kind of technology was always dubious, but it nevertheless inevitably led to developments and innovations in only tangentially related fields. For example, research into alternating shield frequency to produce a single-ship wormhole generator failed miserably, but did lead to a new method for increasing shield recharge rates.
 
 There was some debate among the Ancient Guardians as to whether the Thoughtful Retreat Archives were worthy of preservation, or even if they were too dangerous to be preserved because of [CONTENT REDACTED]. At the Battle of Dactilla VII during the Shakturi War, when the fate of all life in the galaxy hung in the balance (even if the participants did not understand this was a turning point), it was the Zenox shield recharge rates that allowed the Freedom Alliance forces to survive. For that reason, a carefully edited version of the Thoughtful Retreat Archives was selected for Vault inclusion.</Description>
-    <ImageFilename>Artifacts/thoughtful retreat archives</ImageFilename>
-  </Artifact>
-  <Artifact>
-    <ArtifactId>53</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>MiningRate</Type>
-        <Amount>0.2</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ResearchAll</Type>
-        <Amount>0.02</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>The Maditor Method</Name>
-    <Description>The Teekans were celebrated throughout the galaxy for their mining prowess, an ability other cultures wished to emulate. Their cultural reputation as mining engineers was warranted, but it was also highly exaggerated to the point that some assumed all Teekans were gifted mining engineers.
+		<ImageFilename>Artifacts/thoughtful retreat archives</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>53</ArtifactId> <!-- The Maditor Method -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>MiningRate</Type>
+				<Amount>0.2</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.02</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>The Maditor Method</Name>
+		<Description>The Teekans were celebrated throughout the galaxy for their mining prowess, an ability other cultures wished to emulate. Their cultural reputation as mining engineers was warranted, but it was also highly exaggerated to the point that some assumed all Teekans were gifted mining engineers.
 
 The Ancient Guardians have observed that biological life forms are subject to generalizations. Because of these generalizations, the Teekan Birtum Maditor, a simple trader in ship parts, was abducted by pirates and sold to an independent Boskaran world that had been struggling to extract resources from its mines. The Boskarans sent Maditor to a penal mining colony with only thirty days' worth of food. Unless the mine's output increased during that period, the entire penal colony would be made to starve to death.
 
 Though he protested that he knew nothing of mining, the authorities would not listen to him. Legend states that Maditor drew upon his Teekan genetic knowledge to improve the colony's output, but this is false. In fact, he made use of a Boskaran prisoner who actually was a skilled engineer. Following their advice, Maditor was able to lead the mine to meet its quotas. Maditor was released and placed in charge of all mining operations across the Boskaran world. He protested, saying he still knew nothing of mining and begged the authorities to release the prisoner who had helped him, but the Boskarans would not believe him.
 
 When he failed to meet all future quotas, he was executed. Years later. The Boskaran prisoner escaped from the mining colony, sought out other Teekans and published their mining techniques under the assumed name of Birtum Maditor. This may have been to honor the Teekan, though we suspect this is a form of Boskaran irony we do not entirely understand. Regardless, the Ancient Guardians regard the Maditor Method too valuable to be lost.</Description>
-    <ImageFilename>Artifacts/the maditor method</ImageFilename>
-  </Artifact>
-  <Artifact>
-    <ArtifactId>54</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>Diplomacy</Type>
-        <Amount>0.1</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>Espionage</Type>
-        <Amount>0.1</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ResearchAll</Type>
-        <Amount>0.02</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>Diplomacy and Other Means</Name>
-    <Description>In the old galaxy, humans were often regarded as the most gifted diplomats. The Human Diplomatic Corps sent its representatives to major galactic conflicts where they believed peaceful resolutions were possible. It was widely suspected (and Ancient Guardian research bears out these suspicions) that the Human Diplomatic Corps was also motivated to deploy its services in ways that best furthered Human interests.
+		<ImageFilename>Artifacts/the maditor method</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>54</ArtifactId> <!-- Diplomacy and Other Means -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>Diplomacy</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>Espionage</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.02</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Diplomacy and Other Means</Name>
+		<Description>In the old galaxy, humans were often regarded as the most gifted diplomats. The Human Diplomatic Corps sent its representatives to major galactic conflicts where they believed peaceful resolutions were possible. It was widely suspected (and Ancient Guardian research bears out these suspicions) that the Human Diplomatic Corps was also motivated to deploy its services in ways that best furthered Human interests.
 
 Humans are particularly skilled at pursuing simultaneous, sometimes contradictory, goals. The case of the Great Boskara-Haakonish Confrontation makes for an illustrative example. The Boskara and Haakonish had been skirmishing along their borders for decades when full blown war broke out. It threatened to plunge the entire sector into chaos. The fact that there were several major Human Caslon mining facilities in that sector made the war of great importance to Human interests. Neither side was interested in working with the Humans or in a ceasefire. For both sides, it had become a grudge match.
 
 In order to protect their interests, as well as to burnish their reputations as skilled diplomats, the Humans were determined to bring the two warring parties to the negotiating table. When they succeeded, it earned them the admiration of much of the galaxy. It also attracted the attention of the Ancient Guardians, who did not quite believe the Boskarans and Haakonish could be so easily convinced to set aside their differences. Further investigation revealed that Human espionage was almost as impressive as Human diplomacy. Agents infiltrated both sides of the conflict, directed to spread the message that their adversaries were prepared to make common cause with the Humans.
 
 The Boskarans and Haakonish felt they had no choice but to attend the negotiations. At first glance, this story may seem to suggest that the humans were better tricksters than diplomats, but it is worth noting that once Boskarans and Haakonish attended the negotiations, the Humans were able, after many months, to secure a ceasefire. Their diplomatic principles, once they had created the conditions in which they could exercise them, were judged to be sound and worth recording.</Description>
-    <ImageFilename>Artifacts/diplomacy and other means</ImageFilename>
-  </Artifact>
-  <Artifact>
-    <ArtifactId>55</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>TroopMaintenance</Type>
-        <Amount>0.1</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ColonyDefense</Type>
-        <Amount>1</Amount>
-        <AppliesTo>Item</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ResearchAll</Type>
-        <Amount>0.02</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>Hattir's Training Manual</Name>
-    <Description>Within the span of a half century, three different Mortalen worlds came under siege by vastly superior invading armies. Outnumbered and overwhelmed, in each case the Mortalen worlds survived against nearly impossible odds. Consequently, the Mortalen gained a reputation not only as fierce warriors, but as unmatched defenders.
+		<ImageFilename>Artifacts/diplomacy and other means</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>55</ArtifactId> <!-- Hattir's Training Manual -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>TroopMaintenance</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ColonyDefense</Type>
+				<Amount>1</Amount>
+				<AppliesTo>Item</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.02</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Hattir's Training Manual</Name>
+		<Description>Within the span of a half century, three different Mortalen worlds came under siege by vastly superior invading armies. Outnumbered and overwhelmed, in each case the Mortalen worlds survived against nearly impossible odds. Consequently, the Mortalen gained a reputation not only as fierce warriors, but as unmatched defenders.
 
 In all three cases, the Mortalen survived because of a series of unique circumstances and fortunate random occurrences. In other words, there was no strategy or replicable process which Mortalen defenders could use to achieve the same results in similar circumstances. Nevertheless, when Hattir, Emperor of the Mortalen Grand Domain, foresaw the near imminent economic collapse of his empire, he recognized an opportunity to capitalize on his people's reputation, despite it being unearned. Hattir began to sell his armies services as defenders to worlds under siege. This eased some of Hattir's immediate financial stress, but it created new problems.
 
 With each world the Mortalen Grand Domain defended, it gained a new enemy. Soon a confederation of more than eight united enemies besieged Hattir's throne world, determined to destroy the myth of the great Mortalen defenders. Most of his armies were off world, selling their services to the highest bidder, and so Hattir faced not only death and the loss of him empire, but also the shame of being exposed as a fraud.
 
 Rather than admit weakness, Hattir began to forge a strategy based on the teachings of some brilliant but forgotten military thinkers from Mortalen history. If he could not survive the siege, Hattir was determined to at least mount a heroic defense that would preserve his reputation. The Ancient Guardians traveled to the Mortalen Grand Domain to observe the battle, in which Hattir maximized his planet's defensive capacity and held out long enough for his mercenary fleets to return home and drive off the invaders. Though he depended on ideas not his own, Hattir combined these strategies in unique and often ingenious ways, making his methods worthy of Ancient Guardian preservation.</Description>
-    <ImageFilename>Artifacts/hattir's training manual</ImageFilename>
-  </Artifact>
-  <Artifact>
-    <ArtifactId>56</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>ShipSpeed</Type>
-        <Amount>0.2</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ResearchAll</Type>
-        <Amount>0.02</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>The Itimai Method</Name>
-    <Description>"They're with Hadi Itimai." It's an old Ackdarian expression meaning that someone is lost and will never be found. But who was Hadi Itimai?
+		<ImageFilename>Artifacts/hattir's training manual</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>56</ArtifactId> <!-- The Itimai Method -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ShipSpeed</Type>
+				<Amount>0.2</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.02</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>The Itimai Method</Name>
+		<Description>"They're with Hadi Itimai." It's an old Ackdarian expression meaning that someone is lost and will never be found. But who was Hadi Itimai?
 
 In the years prior to the Shakturi War, Hadi Itimai emerged as the most brilliant ship designer in a culture known for its brilliant ship designs. A household name among Ackdarians, Hadi Itimai's fame soon spread across the galaxy as others wished to learn from the great master. Itimai refused all invitations to lecture and meet an adoring public, instead focusing on a project meant to improve Ackdarian ship speeds beyond what was currently believed possible. Then Itimai vanished.
 
 This disappearance became something of a cultural phenomenon. Rumors, conspiracy theories, and false sightings abounded. Fictional holovids purporting to explain Itimai's disappearance became popular among many species. When the Shakturi War began, the Freedom Alliance had cause to lament that it did not have Itimai's knowledge upon which to draw. It was only after the war that the Ancient Guardians were able to learn that Hadi Itimai was abducted by the Shakturi and forced to improve the Shakturi fleet. A terrible fate for a brilliant mind, but Itimai's insights remain fascinating and useful.</Description>
-    <ImageFilename>Artifacts/the itimai method</ImageFilename>
-  </Artifact>
-  <Artifact>
-    <ArtifactId>57</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>ConstructionSpeedAllShips</Type>
-        <Amount>0.2</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ResearchAll</Type>
-        <Amount>0.02</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>The Jhahtu Reforms</Name>
-    <Description>Once the Shakturi War had begun, and the full power of the invaders began to make itself known, a massive push began to increase the size of the Freedom Alliance fleets. Even those governments that had believed their defensives to be ample to the point of excessive now realized they were woefully unprepared for the threat of extinction they now faced.
+		<ImageFilename>Artifacts/the itimai method</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>57</ArtifactId> <!-- The Jhahtu Reforms -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ConstructionSpeedAllShips</Type>
+				<Amount>0.2</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.02</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>The Jhahtu Reforms</Name>
+		<Description>Once the Shakturi War had begun, and the full power of the invaders began to make itself known, a massive push began to increase the size of the Freedom Alliance fleets. Even those governments that had believed their defensives to be ample to the point of excessive now realized they were woefully unprepared for the threat of extinction they now faced.
 
 In the push to increase ship production, the Freedom Alliance received assistance from an unlikely source, a Dhayut engineer and defector named Jhahtu. This curious thinker, through the power of his will, had severed himself from his people's hive mind at an early age.
 
 Similarly, he rejected the values of his people and sought asylum on the Ikkuro homeworld, where he pursued a career in ship building. There he married and, because of Ikkuro-Dhayut genetic incompatibility, mourned that he was unable to have children. Instead, he dedicated himself to his work.
 
 At the time, there were rumors that Jhahtu's un-Dhayut nature was the result of some secret genetic engineering experiments, but this allegation has never been proved. Ancient Guardians possess the answer, but consider it irrelevant. To the Ancient Guardians, all that matters is that Jhahtu initiated several shipbuilding reforms that allowed the Freedom Alliance to hold out for as long as they did.</Description>
-    <ImageFilename>Artifacts/the jhahtu reforms</ImageFilename>
-  </Artifact>
+		<ImageFilename>Artifacts/the jhahtu reforms</ImageFilename>
+	</Artifact>
 </ArrayOfArtifact>

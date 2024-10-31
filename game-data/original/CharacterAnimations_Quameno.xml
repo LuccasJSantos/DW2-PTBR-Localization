@@ -1,0 +1,254 @@
+<ArrayOfCharacterAnimation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<CharacterAnimation>
+		<CharacterAnimationId>63</CharacterAnimationId>
+		<Role>Leader</Role>
+		<RaceId>15</RaceId>
+		<DataPath>data\CharacterAnimations\Quameno\Quameno</DataPath>
+		<SkinName>Leader</SkinName>
+		<ImagePath>Characters/Quameno_Leader</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Idle_Neutral_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Idle_Neutral_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Idle_Neutral_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Idle_Happy_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Idle_Happy_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Idle_Happy_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleHappy>
+		<AnimationNamesIdleAngry>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Idle_Angry_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Idle_Angry_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Idle_Angry_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleAngry>
+		<AnimationNamesIncidentHappy>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Incident_Happy_1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Incident_Happy_2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentHappy>
+		<AnimationNamesIncidentAngry>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Incident_Angry_1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Leader_Incident_Angry_2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentAngry>
+		<Scale>1</Scale>
+		<BottomCropRatio>0.04</BottomCropRatio>
+		<CharacterRoomId>12</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>64</CharacterAnimationId>
+		<Role>Pirate</Role>
+		<RaceId>15</RaceId>
+		<DataPath>data\CharacterAnimations\Quameno\Quameno</DataPath>
+		<SkinName>Pirate</SkinName>
+		<ImagePath>Characters/Quameno_Pirate</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Idle_Neutral_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Idle_Neutral_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Idle_Neutral_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Idle_Happy_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Idle_Happy_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Idle_Happy_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleHappy>
+		<AnimationNamesIdleAngry>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Idle_Angry_1</Text>
+				<Value>0.7</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Idle_Angry_2</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Idle_Angry_3</Text>
+				<Value>0.15</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleAngry>
+		<AnimationNamesIncidentHappy>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Incident_Happy_1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Incident_Happy_2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentHappy>
+		<AnimationNamesIncidentAngry>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Incident_Angry_1</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>Quameno_Pirate_Incident_Angry_2</Text>
+				<Value>0.5</Value>
+			</SortableTextValue>
+		</AnimationNamesIncidentAngry>
+		<Scale>1</Scale>
+		<BottomCropRatio>0.07</BottomCropRatio>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>65</CharacterAnimationId>
+		<Role>Ambassador</Role>
+		<RaceId>15</RaceId>
+		<DataPath>data\CharacterAnimations\Quameno\Quameno</DataPath>
+		<SkinName>Ambassador</SkinName>
+		<ImagePath>Characters/Quameno_Ambassador</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Quameno_Ambassador_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.05</BottomCropRatio>
+		<CharacterRoomId>12</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>66</CharacterAnimationId>
+		<Role>FleetAdmiral</Role>
+		<RaceId>15</RaceId>
+		<DataPath>data\CharacterAnimations\Quameno\Quameno</DataPath>
+		<SkinName>Admiral</SkinName>
+		<ImagePath>Characters/Quameno_Admiral</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Quameno_Admiral_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.05</BottomCropRatio>
+		<CharacterRoomId>12</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>67</CharacterAnimationId>
+		<Role>TroopGeneral</Role>
+		<RaceId>15</RaceId>
+		<DataPath>data\CharacterAnimations\Quameno\Quameno</DataPath>
+		<SkinName>General</SkinName>
+		<ImagePath>Characters/Quameno_General</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Quameno_General_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1.05</Scale>
+		<BottomCropRatio>0.07</BottomCropRatio>
+		<CharacterRoomId>12</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>68</CharacterAnimationId>
+		<Role>Scientist</Role>
+		<RaceId>15</RaceId>
+		<DataPath>data\CharacterAnimations\Quameno\Quameno</DataPath>
+		<SkinName>Scientist</SkinName>
+		<ImagePath>Characters/Quameno_Scientist</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Quameno_Scientist_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.05</BottomCropRatio>
+		<CharacterRoomId>12</CharacterRoomId>
+	</CharacterAnimation>
+	<CharacterAnimation>
+		<CharacterAnimationId>69</CharacterAnimationId>
+		<Role>Spy</Role>
+		<RaceId>15</RaceId>
+		<DataPath>data\CharacterAnimations\Quameno\Quameno</DataPath>
+		<SkinName>Spy</SkinName>
+		<ImagePath>Characters/Quameno_Spy</ImagePath>
+		<AnimationNamesIdleNeutral>
+			<SortableTextValue>
+				<Text>Quameno_Spy_Idle</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNamesIdleNeutral>
+		<AnimationNamesIdleHappy />
+		<AnimationNamesIdleAngry />
+		<AnimationNamesIncidentHappy />
+		<AnimationNamesIncidentAngry />
+		<Scale>1</Scale>
+		<BottomCropRatio>0.12</BottomCropRatio>
+		<CharacterRoomId>12</CharacterRoomId>
+	</CharacterAnimation>
+
+</ArrayOfCharacterAnimation>
