@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfColonyEventDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>35</ColonyEventDefinitionId>
@@ -30,8 +30,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Sucesso Diplomático</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>36</ColonyEventDefinitionId>
@@ -63,9 +63,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Guerra contra a Desarmonia</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>37</ColonyEventDefinitionId>
@@ -99,7 +98,6 @@
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Benefícios Harmoniosos</Name>
     <Description>A felicidade no mundo da colônia {0} promoveu um novo espírito de harmonia. Podemos esperar ver as taxas de corrupção diminuírem em 30% no próximo ano.</Description>
-
     <ImageFilename>Environment/Events/harmonious benefits</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -132,9 +130,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Inquietação com Bioagente</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>40</ColonyEventDefinitionId>
@@ -166,9 +163,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Bioagente Utilizado</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>41</ColonyEventDefinitionId>
@@ -200,9 +196,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Não Brincando de Ser Deus</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>50</ColonyEventDefinitionId>
@@ -225,9 +220,8 @@
     </OrbTypeFilters>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Seguindo Nosso Próprio Caminho</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
 
 	<ColonyEventDefinition>
@@ -250,9 +244,8 @@
 		<OrbTypeFilters>
 		</OrbTypeFilters>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Respeito pela Vida</Name>
-    <Description>Atrocidades recentes cometidas pelo nosso império chocaram nossos cidadãos e temporariamente reduziram sua felicidade</Description>
-
+		<Name>Respeito pela Vida</Name>
+		<Description>Atrocidades recentes cometidas pelo nosso império chocaram nossos cidadãos e temporariamente reduziram sua felicidade</Description>
 		<ImageFilename>Environment/Events/respect for life</ImageFilename>
 	</ColonyEventDefinition>
 
@@ -285,9 +278,8 @@
 			</Bonus>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Segredos da Vida</Name>
-    <Description>A recente colonização de um novo tipo de mundo entusiasmou nossos cidadãos e temporariamente aumentou sua felicidade e taxa de crescimento</Description>
-
+		<Name>Segredos da Vida</Name>
+		<Description>A recente colonização de um novo tipo de mundo entusiasmou nossos cidadãos e temporariamente aumentou sua felicidade e taxa de crescimento</Description>
 		<ImageFilename>Environment/Events/secrets of life</ImageFilename>
 	</ColonyEventDefinition>
 
@@ -311,9 +303,8 @@
 		<OrbTypeFilters>
 		</OrbTypeFilters>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Proteção da Vida</Name>
-    <Description>A recente assinatura de um novo tratado entusiasmou nossos cidadãos e temporariamente aumentou sua felicidade</Description>
-
+		<Name>Proteção da Vida</Name>
+		<Description>A recente assinatura de um novo tratado entusiasmou nossos cidadãos e temporariamente aumentou sua felicidade</Description>
 		<ImageFilename>Environment/Events/protection of life</ImageFilename>
 	</ColonyEventDefinition>
 
@@ -337,9 +328,8 @@
 		<OrbTypeFilters>
 		</OrbTypeFilters>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Desarmonia</Name>
-    <Description>O recente surto de guerra deixou nossos cidadãos consternados e temporariamente diminuiu sua felicidade</Description>
-
+		<Name>Desarmonia</Name>
+		<Description>O recente surto de guerra deixou nossos cidadãos consternados e temporariamente diminuiu sua felicidade</Description>
 		<ImageFilename>Environment/Events/disharmony</ImageFilename>
 	</ColonyEventDefinition>
 

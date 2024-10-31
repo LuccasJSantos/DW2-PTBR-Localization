@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfRace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Race>
     <RaceId>0</RaceId>
@@ -41,6 +41,7 @@
       <short>3</short>
       <short>4</short>
       <short>5</short>
+	  <short>32759</short>
     </AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
@@ -54,6 +55,11 @@
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
     <Bonuses>
       <Bonus>
@@ -189,16 +195,16 @@
 	</AdditionalCharacterTraits>
 
 	  <FeatureExplanations>
-      <string>[HL]Grande Exposição de Arte:[/HL] Ao assinar um Acordo de Livre Comércio ou construir uma nova Base de Resort, obtenha um impulso de 2 anos na renda de Comércio e Turismo em todo o seu império, juntamente com um aumento na renda da Colônia e no Turismo para a colônia onde a Grande Exposição de Arte é realizada. Não pode ser acionado mais de uma vez a cada 5 anos.</string>
-      <string>[HL]Herói da Hora:[/HL] Quando a guerra é declarada contra você, escolha um novo Almirante ou novo General com dois traços positivos.</string>
-      <string>[HL]Debates Internos:[/HL] Ao assinar um novo tratado de Defesa, obtenha um novo Embaixador capaz, mas também uma redução de 2 anos na Felicidade da Colônia em todo o seu império.</string>
-      <string>[HL]Segurança Reforçada:[/HL] Quando uma missão de inteligência estrangeira contra você tem sucesso (mas é detectada), você pode optar por gastar um Espião para obter um impulso de 2 anos na Contra-Espionagem, junto com uma redução na Felicidade da Colônia em todo o seu império.</string>
-      <string>[HL]Novos Mundos:[/HL] Ao colonizar ou conquistar um planeta Continental, obtenha gratuitamente um avanço tecnológico aleatório em Colonização.</string>
-      <string>[HL]Porta-Naves Grande:[/HL] Todos os cascos de Porta-Naves +50 de tamanho.</string>
-      <string>[HL]Traço de Líder Único - Construtor de Alianças:[/HL] +10% em Diplomacia.</string>
-      <string>[HL]Traço de Embaixador Único - Empreendedor:[/HL] +10% na Renda de Comércio.</string>
-      <string>[HL]Traço de Espião Único - Agente Industrial:[/HL] +5% em Espionagem.</string>
-      <string>[HL]Traço de Cientista Único - Destrutivo:[/HL] +10% em Pesquisa de Armas.</string>
+		  <string>[HL]Grande Exposição de Arte:[/HL] Ao assinar um Acordo de Livre Comércio ou construir uma nova Base de Resort, obtenha um impulso de 2 anos na renda de Comércio e Turismo em todo o seu império, juntamente com um aumento na renda da Colônia e no Turismo para a colônia onde a Grande Exposição de Arte é realizada. Não pode ser acionado mais de uma vez a cada 5 anos.</string>
+		  <string>[HL]Herói da Hora:[/HL] Quando a guerra é declarada contra você, escolha um novo Almirante ou novo General com dois traços positivos.</string>
+		  <string>[HL]Debates Internos:[/HL] Ao assinar um novo tratado de Defesa, obtenha um novo Embaixador capaz, mas também uma redução de 2 anos na Felicidade da Colônia em todo o seu império.</string>
+		  <string>[HL]Segurança Reforçada:[/HL] Quando uma missão de inteligência estrangeira contra você tem sucesso (mas é detectada), você pode optar por gastar um Espião para obter um impulso de 2 anos na Contra-Espionagem, junto com uma redução na Felicidade da Colônia em todo o seu império.</string>
+		  <string>[HL]Novos Mundos:[/HL] Ao colonizar ou conquistar um planeta Continental, obtenha gratuitamente um avanço tecnológico aleatório em Colonização.</string>
+		  <string>[HL]Porta-Naves Grande:[/HL] Todos os cascos de Porta-Naves +50 de tamanho.</string>
+		  <string>[HL]Traço de Líder Único - Construtor de Alianças:[/HL] +10% em Diplomacia.</string>
+		  <string>[HL]Traço de Embaixador Único - Empreendedor:[/HL] +10% na Renda de Comércio.</string>
+		  <string>[HL]Traço de Espião Único - Agente Industrial:[/HL] +5% em Espionagem.</string>
+		  <string>[HL]Traço de Cientista Único - Destrutivo:[/HL] +10% em Pesquisa de Armas.</string>
 	  </FeatureExplanations>
 
 	  <Biases>
@@ -485,7 +491,8 @@ Os humanos podem não ter as forças características de algumas espécies inter
       <short>4</short>
       <short>5</short>
       <short>6</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -498,6 +505,11 @@ Os humanos podem não ter as forças características de algumas espécies inter
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -836,7 +848,8 @@ Além das cidades subaquáticas, os Ackdarianos também habitam pequenas ilhas e
       <short>3</short>
       <short>4</short>
       <short>5</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -849,6 +862,11 @@ Além das cidades subaquáticas, os Ackdarianos também habitam pequenas ilhas e
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -1223,7 +1241,8 @@ Os Teekanos habitam os vastos desertos dos planetas Deserto Arenoso, Deserto Roc
       <short>3</short>
       <short>4</short>
       <short>5</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -1236,6 +1255,11 @@ Os Teekanos habitam os vastos desertos dos planetas Deserto Arenoso, Deserto Roc
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -1570,7 +1594,8 @@ Os Haakonish geralmente vivem em biosferas totalmente fechadas em áreas costeir
       <short>3</short>
       <short>4</short>
       <short>5</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -1583,6 +1608,11 @@ Os Haakonish geralmente vivem em biosferas totalmente fechadas em áreas costeir
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 
 	  <WarStartedByUsGameEventName>Warrior Wave Trigger (Mortalen)</WarStartedByUsGameEventName>
@@ -1597,15 +1627,15 @@ Os Haakonish geralmente vivem em biosferas totalmente fechadas em áreas costeir
 	  </AdditionalCharacterTraits>
 
 	  <FeatureExplanations>
-      <string>[HL]Onda Guerreira:[/HL] Ao declarar guerra, obtenha um impulso de 2 anos no Crescimento Populacional Mortalen, juntamente com a escolha entre um grande impulso na Taxa de Recrutamento de Tropas ou um impulso na Força de Ataque das Tropas.</string>
-      <string>[HL]Onda Patriótica:[/HL] Quando a guerra é declarada contra você, obtenha um impulso de 2 anos no Crescimento Populacional Mortalen, juntamente com a escolha entre a Redução de Corrupção na Colônia ou a Redução do Desgaste de Guerra.</string>
-      <string>[HL]Conheça Seu Inimigo:[/HL] Ao invadir e conquistar um mundo inimigo, escolha um impulso de 2 anos em Espionagem e Contra-Espionagem ou em Mirar e Contramedidas.</string>
-      <string>[HL]Prove-se:[/HL] Periodicamente escolha entre 2 personagens (de Líderes, Almirantes, Generais) para passar por um julgamento de armas. Se bem-sucedido, o personagem selecionado ganha um traço positivo; caso contrário, um traço negativo.</string>
-      <string>[HL]Casco Reforçado:[/HL] Todos os cascos de naves e espaçopostos têm +1 de Armadura Reativa.</string>
-      <string>[HL]Traço de Líder Único - Mestre de Guerra:[/HL] +10% de Economia de Manutenção de Tropas, +20% de Economia de Manutenção de Naves.</string>
-      <string>[HL]Traço de Almirante Único - Grande Almirante:[/HL] +10% de Dano de Armas, +10% de Mirar.</string>
-      <string>[HL]Traço de General Único - Discípulo da Guerra:[/HL] +20% de Força de Ataque das Tropas, +10% de Economia de Manutenção de Tropas.</string>
-      <string>[HL]Traço de Embaixador Único - Presença Intimidante:[/HL] +10% em Diplomacia.</string>
+		  <string>[HL]Onda Guerreira:[/HL] Ao declarar guerra, obtenha um impulso de 2 anos no Crescimento Populacional Mortalen, juntamente com a escolha entre um grande impulso na Taxa de Recrutamento de Tropas ou um impulso na Força de Ataque das Tropas.</string>
+		  <string>[HL]Onda Patriótica:[/HL] Quando a guerra é declarada contra você, obtenha um impulso de 2 anos no Crescimento Populacional Mortalen, juntamente com a escolha entre a Redução de Corrupção na Colônia ou a Redução do Desgaste de Guerra.</string>
+		  <string>[HL]Conheça Seu Inimigo:[/HL] Ao invadir e conquistar um mundo inimigo, escolha um impulso de 2 anos em Espionagem e Contra-Espionagem ou em Mirar e Contramedidas.</string>
+		  <string>[HL]Prove-se:[/HL] Periodicamente escolha entre 2 personagens (de Líderes, Almirantes, Generais) para passar por um julgamento de armas. Se bem-sucedido, o personagem selecionado ganha um traço positivo; caso contrário, um traço negativo.</string>
+		  <string>[HL]Casco Reforçado:[/HL] Todos os cascos de naves e espaçopostos têm +1 de Armadura Reativa.</string>
+		  <string>[HL]Traço de Líder Único - Mestre de Guerra:[/HL] +10% de Economia de Manutenção de Tropas, +20% de Economia de Manutenção de Naves.</string>
+		  <string>[HL]Traço de Almirante Único - Grande Almirante:[/HL] +10% de Dano de Armas, +10% de Mirar.</string>
+		  <string>[HL]Traço de General Único - Discípulo da Guerra:[/HL] +20% de Força de Ataque das Tropas, +10% de Economia de Manutenção de Tropas.</string>
+		  <string>[HL]Traço de Embaixador Único - Presença Intimidante:[/HL] +10% em Diplomacia.</string>
 	  </FeatureExplanations>
 
 	  <Bonuses>
@@ -1695,7 +1725,7 @@ Os Haakonish geralmente vivem em biosferas totalmente fechadas em áreas costeir
       </OrbTypeFactor>
 	  <OrbTypeFactor>
         <OrbTypeId>19</OrbTypeId>
-        <Factor>0.35</Factor>
+        <Factor>0.3</Factor>
       </OrbTypeFactor>
       <OrbTypeFactor>
         <OrbTypeId>20</OrbTypeId>
@@ -1976,7 +2006,7 @@ Para os Mortalen, a honra é primordial, e a própria galáxia é seu campo de p
   </Race>
   <Race>
     <RaceId>5</RaceId>
-	<BundleName></BundleName>
+	<BundleName/>
     <FlagFilename>UserInterface/Flags/Ikkuro</FlagFilename>
     <MainColor>
       <R>21</R>
@@ -2004,7 +2034,8 @@ Para os Mortalen, a honra é primordial, e a própria galáxia é seu campo de p
       <short>3</short>
       <short>4</short>
       <short>5</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -2017,6 +2048,11 @@ Para os Mortalen, a honra é primordial, e a própria galáxia é seu campo de p
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -2251,7 +2287,8 @@ Tipicamente, eles vivem em habitações nas árvores, elevadas nas copas das flo
       <short>4</short>
       <short>5</short>
       <short>7</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -2264,6 +2301,11 @@ Tipicamente, eles vivem em habitações nas árvores, elevadas nas copas das flo
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -2328,7 +2370,7 @@ Tipicamente, eles vivem em habitações nas árvores, elevadas nas copas das flo
       </OrbTypeFactor>
 	  <OrbTypeFactor>
         <OrbTypeId>12</OrbTypeId>
-        <Factor>0.3</Factor>
+        <Factor>0.35</Factor>
       </OrbTypeFactor>
       <OrbTypeFactor>
         <OrbTypeId>17</OrbTypeId>
@@ -2356,7 +2398,7 @@ Tipicamente, eles vivem em habitações nas árvores, elevadas nas copas das flo
       </OrbTypeFactor>
 	  <OrbTypeFactor>
         <OrbTypeId>29</OrbTypeId>
-        <Factor>0.1</Factor>
+        <Factor>0.15</Factor>
       </OrbTypeFactor>
 	  <OrbTypeFactor>
         <OrbTypeId>30</OrbTypeId>
@@ -2661,7 +2703,8 @@ Os Boskara tipicamente habitam terrenos inóspitos de planetas vulcânicos. Comu
       <short>4</short>
       <short>5</short>
 	  <short>6</short>
-    </AllowableGovernmentIds>
+		<short>32759</short>
+	</AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
 		  <CharacterMissionType>StealTerritoryMap</CharacterMissionType>
@@ -2674,6 +2717,11 @@ Os Boskara tipicamente habitam terrenos inóspitos de planetas vulcânicos. Comu
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3063,6 +3111,11 @@ Os Zenox habitam os terrenos baldios de tundra em planetas como Tundra de Gelo, 
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3228,6 +3281,11 @@ Os Wekkarus são uma espécie geralmente pacífica que prefere manter-se isolada
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3349,7 +3407,7 @@ Os Atuuks vivem em cabanas rudimentares nas árvores de planetas como Floresta o
   </Race>
   <Race>
     <RaceId>10</RaceId>
-	<BundleName></BundleName>
+	<BundleName/>
     <MainColor>
       <R>0</R>
       <G>0</G>
@@ -3386,6 +3444,11 @@ Os Atuuks vivem em cabanas rudimentares nas árvores de planetas como Floresta o
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3581,6 +3644,11 @@ Os habitats naturais dos Dhayuts são retiros rochosos em planetas como Savana D
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3784,6 +3852,11 @@ Os Gizureanos geralmente constroem suas cavernosas casas subterrâneas em áreas
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -3821,7 +3894,7 @@ Os Gizureanos geralmente constroem suas cavernosas casas subterrâneas em áreas
         <Factor>0.1</Factor>
       </OrbTypeFactor>
 	</ColonizationSuitabilityModifiers>
-	<MinimumSuitabilityForColonization />
+	<MinimumSuitabilityForColonization/>
 	<Biases>
       <RaceFactor>
         <RaceId>0</RaceId>
@@ -3965,6 +4038,11 @@ Os Ketarovs são geralmente encontrados em grandes comunidades que habitam as pl
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -4002,7 +4080,7 @@ Os Ketarovs são geralmente encontrados em grandes comunidades que habitam as pl
         <Factor>0.05</Factor>
       </OrbTypeFactor>
 	</ColonizationSuitabilityModifiers>
-	<MinimumSuitabilityForColonization />
+	<MinimumSuitabilityForColonization/>
 	<Biases>
       <RaceFactor>
         <RaceId>0</RaceId>
@@ -4149,6 +4227,11 @@ Os habitats típicos dos Kiadianos são as montanhas e planícies baixas de plan
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -4345,6 +4428,11 @@ Normalmente, os Naxxilianos vivem nos desertos gelados dos planetas de Tundra de
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -4391,7 +4479,7 @@ Normalmente, os Naxxilianos vivem nos desertos gelados dos planetas de Tundra de
         <Factor>0.15</Factor>
       </OrbTypeFactor>
     </ColonizationSuitabilityModifiers>
-    <MinimumSuitabilityForColonization />
+    <MinimumSuitabilityForColonization/>
     <Biases>
       <RaceFactor>
         <RaceId>0</RaceId>
@@ -4537,6 +4625,11 @@ As comunidades Quamenos geralmente vivem em biodomos semissubmersos de alta tecn
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -4709,6 +4802,11 @@ Os Securanos habitam as vastas planícies abertas de planetas de Desert Savanna,
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -4863,6 +4961,11 @@ Embora frequentemente se dediquem à mineração de gemas, geralmente têm pouco
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -5045,6 +5148,11 @@ Os Sluken são encontrados em planetas de Pântano Pantanoso e Floresta de Mangu
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -5318,7 +5426,7 @@ Os Ugnari habitam os terrenos baldios gelados dos planetas de Gelo e Tundra de G
     </CharacterLastNames>
     <Name>Crazed Hive Insectoids</Name>
     <ImageFilename>UserInterface/Races/Gizurean</ImageFilename>
-    <Description></Description>
+    <Description/>
   </Race>
 
   <Race>
@@ -5392,7 +5500,7 @@ Os Ugnari habitam os terrenos baldios gelados dos planetas de Gelo e Tundra de G
     </CharacterLastNames>
     <Name>Berserk AI</Name>
     <ImageFilename>UserInterface/Races/Mortalen</ImageFilename>
-    <Description></Description>
+    <Description/>
   </Race>
   <!--Race>
     <RaceId>21</RaceId>

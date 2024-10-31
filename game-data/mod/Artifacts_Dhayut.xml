@@ -1,85 +1,56 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfArtifact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Artifact>
-    <ArtifactId>38</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>PlanetaryFacilityMaintenance</Type>
-        <Amount>0.1</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>O Mordomo Esperto</Name>
-
-    <Description></Description>
-    <ImageFilename>Artifacts/the clever steward</ImageFilename>
-  </Artifact>
-  <Artifact>
-    <ArtifactId>39</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>Diplomacy</Type>
-        <Amount>0.1</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>O Grande Enganador</Name>
-
-    <Description></Description>
-    <ImageFilename>Artifacts/the great deceiver</ImageFilename>
-  </Artifact>
-  <Artifact>
-    <ArtifactId>40</ArtifactId>
-    <DiscoveryLevel>0</DiscoveryLevel>
-    <BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
-    <BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
-    <BonusesToOwner>
-      <Bonus>
-        <Type>ResearchAll</Type>
-        <Amount>0.05</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>CounterEspionage</Type>
-        <Amount>0.1</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-    </BonusesToOwner>
-    <ResearchProjectUnlockIds />
-    <ResearchProjectCompleteIds />
-    <GovernmentUnlockIds />
-    <ResearchProjectsUnlockDescription />
-    <ResearchProjectsCompleteDescription />
-    <GovernmentsUnlockDescription />
-    <Name>Os Fios da Pesquisa</Name>
-
-    <Description></Description>
-    <ImageFilename>Artifacts/the threads of research</ImageFilename>
-  </Artifact>
+	<Artifact>
+		<ArtifactId>38</ArtifactId> <!-- The Clever Steward -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>PlanetaryFacilityMaintenance</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>O Mordomo Esperto</Name>
+		<ImageFilename>Artifacts/the clever steward</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>39</ArtifactId> <!-- The Great Deceiver -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>Diplomacy</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>O Grande Enganador</Name>
+		<ImageFilename>Artifacts/the great deceiver</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>40</ArtifactId> <!-- The Threads of Research -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.05</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>CounterEspionage</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Os Fios da Pesquisa</Name>
+		<ImageFilename>Artifacts/the threads of research</ImageFilename>
+	</Artifact>
 </ArrayOfArtifact>

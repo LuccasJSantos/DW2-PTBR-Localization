@@ -1,31 +1,30 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfColonyEventDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>0</ColonyEventDefinitionId>
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.02</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0005</RandomInitiationChance>
+    <RandomInitiationChance>0.001</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Terremoto Colossal</Name>
     <Description>O terremoto nivelou muitas cidades e abriu vastas fissuras na superfície do planeta. Grande parte da infraestrutura planetária foi reduzida a escombros.
 
 Como resultado, houve uma perda extensa de vidas e o terremoto até danificou a qualidade do próprio planeta.</Description>
-
     <ImageFilename>Environment/Events/earthquake</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -33,16 +32,16 @@ Como resultado, houve uma perda extensa de vidas e o terremoto até danificou a 
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.015</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.01</RandomInitiationChance>
+    <RandomInitiationChance>0.001</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
@@ -75,13 +74,12 @@ Como resultado, houve uma perda extensa de vidas e o terremoto até danificou a 
         <Factor>1</Factor>
       </OrbTypeFactor>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Tsunami</Name>
     <Description>Poderosas ondas submarinas varreram muitas cidades suboceânicas e centros de manufatura.
 
 Como resultado, houve uma perda extensa de vidas e o tsunami até danificou a qualidade do próprio planeta.</Description>
-
     <ImageFilename>Environment/Events/tsunami</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -89,16 +87,16 @@ Como resultado, houve uma perda extensa de vidas e o tsunami até danificou a qu
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.015</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0015</RandomInitiationChance>
+    <RandomInitiationChance>0.001</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
@@ -111,13 +109,12 @@ Como resultado, houve uma perda extensa de vidas e o tsunami até danificou a qu
         <Factor>0.7</Factor>
       </OrbTypeFactor>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Vasta Cratera</Name>
     <Description>Um continente inteiro sofreu um colapso crustal extenso, enviando cidades inteiras para vastas poças subterrâneas de lama e destroços.
 
 Como resultado, houve uma perda extensa de vidas e a cratera até danificou a qualidade do próprio planeta.</Description>
-
     <ImageFilename>Environment/Events/sinkhole</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -125,16 +122,16 @@ Como resultado, houve uma perda extensa de vidas e a cratera até danificou a qu
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.015</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0035</RandomInitiationChance>
+    <RandomInitiationChance>0.003</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
@@ -151,13 +148,12 @@ Como resultado, houve uma perda extensa de vidas e a cratera até danificou a qu
         <Factor>0.5</Factor>
       </OrbTypeFactor>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Tempestade de Areia Enorme</Name>
     <Description>Ventos tempestuosos colossais enviaram uma parede de areia através de metade da superfície do planeta, enterrando irremediavelmente muitas cidades.
 
 Como resultado, houve uma perda extensa de vidas e a tempestade de areia até danificou a qualidade do próprio planeta.</Description>
-
     <ImageFilename>Environment/Events/sandstorm</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -165,16 +161,16 @@ Como resultado, houve uma perda extensa de vidas e a tempestade de areia até da
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.015</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0015</RandomInitiationChance>
+    <RandomInitiationChance>0.003</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
@@ -191,13 +187,12 @@ Como resultado, houve uma perda extensa de vidas e a tempestade de areia até da
         <Factor>1</Factor>
       </OrbTypeFactor>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Nevasca Supergelada</Name>
     <Description>Poderosos ventos tempestuosos e enormes pedaços de gelo supergelado destruíram muitas instalações acima do solo e até danificaram algumas cidades em cavernas subterrâneas de gelo.
 
 Como resultado, houve uma perda extensa de vidas e a nevasca até danificou a qualidade do próprio planeta.</Description>
-
     <ImageFilename>Environment/Events/blizzard</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -205,16 +200,16 @@ Como resultado, houve uma perda extensa de vidas e a nevasca até danificou a qu
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.05</PopulationAmount>
+    <PopulationAmount>-0.1</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.03</DamageRepair>
+    <DamageRepair>-0.1</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.002</RandomInitiationChance>
+    <RandomInitiationChance>0.003</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
@@ -231,151 +226,156 @@ Como resultado, houve uma perda extensa de vidas e a nevasca até danificou a qu
         <Factor>0.8</Factor>
       </OrbTypeFactor>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Erupção Vulcânica Catastrófica</Name>
     <Description>Múltiplos novos supervulcões irromperam pela crosta do planeta, lançando enormes oceanos de lava por continentes inteiros.
 
 Como resultado, houve uma perda extensa de vidas e a erupção até danificou a qualidade do próprio planeta.</Description>
-
     <ImageFilename>Environment/Events/eruption</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>6</ColonyEventDefinitionId>
     <Type>Plague</Type>
-    <DurationMinimum>0.15</DurationMinimum>
-    <DurationMaximum>0.35</DurationMaximum>
-    <PopulationAmount>-0.11</PopulationAmount>
+    <DurationMinimum>1.5</DurationMinimum>
+    <DurationMaximum>3</DurationMaximum>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
     <DamageRepair>0</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>-5</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
-    <SpreadToOtherColoniesChance>2.0</SpreadToOtherColoniesChance>
-    <SpreadToOtherColoniesRange>150000000</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0008</RandomInitiationChance>
-    <RaceFilterIds>
+    <SpreadToOtherColoniesChance>1</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>250000000</SpreadToOtherColoniesRange>
+    <RandomInitiationChance>0.01</RandomInitiationChance>
+	<RaceFilterIds>
     </RaceFilterIds>
-    <OrbTypeFilters>
+    <OrbTypeFilters>	
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
+	<PlagueCuringFactor>1</PlagueCuringFactor>
     <Name>Febre de Hekretos</Name>
     <Description>A Febre de Hekretos é uma infecção mortal que ataca os órgãos internos, causando rápida degeneração e morte. Um surto de Febre de Hekretos geralmente dura cerca de 3 meses.</Description>
-
     <ImageFilename>Environment/Events/HekretosFever</ImageFilename>
     <IconFilename>Environment/Events/Icons/HekretosFever</IconFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>7</ColonyEventDefinitionId>
     <Type>Plague</Type>
-    <DurationMinimum>0.6</DurationMinimum>
-    <DurationMaximum>0.9</DurationMaximum>
-    <PopulationAmount>-0.08</PopulationAmount>
+    <DurationMinimum>2</DurationMinimum>
+    <DurationMaximum>4</DurationMaximum>
+    <PopulationAmount>-0.06</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
     <DamageRepair>0</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>-8</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
-    <SpreadToOtherColoniesChance>1.2</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesChance>1.3</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>250000000</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0007</RandomInitiationChance>
-    <RaceFilterIds>
+    <RandomInitiationChance>0.005</RandomInitiationChance>
+	<RaceFilterIds>				
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
+	<PlagueCuringFactor>1.1</PlagueCuringFactor>
     <Name>Vírus de Dekara</Name>
     <Description>O Vírus de Dekara é uma doença muito dolorosa que lentamente incapacita o sistema nervoso central de qualquer criatura que infecta, levando, por fim, à morte. Um surto do Vírus de Dekara geralmente dura cerca de 9 meses.</Description>
-
     <ImageFilename>Environment/Events/DekaraVirus</ImageFilename>
     <IconFilename>Environment/Events/Icons/DekaraVirus</IconFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>8</ColonyEventDefinitionId>
     <Type>Plague</Type>
-    <DurationMinimum>0.05</DurationMinimum>
-    <DurationMaximum>0.12</DurationMaximum>
-    <PopulationAmount>-0.35</PopulationAmount>
-    <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>0</DamageRepair>
-    <MigrationFactor>0</MigrationFactor>
-    <ResourceAbundance>0</ResourceAbundance>
-    <ColonyHappiness>-12</ColonyHappiness>
-    <EmpireHappiness>0</EmpireHappiness>
-    <SpreadToOtherColoniesChance>4.5</SpreadToOtherColoniesChance>
-    <SpreadToOtherColoniesRange>250000000</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0004</RandomInitiationChance>
-    <RaceFilterIds>
-    </RaceFilterIds>
-    <OrbTypeFilters>
-    </OrbTypeFilters>
-    <Bonuses />
-    <ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Síndrome de Reorganização Genética</Name>
-    <Description>A Síndrome de Reorganização Genética ataca o código genético em todas as células de uma criatura infectada, eliminando qualquer instrução biológica útil. Isso leva a uma desintegração muito rápida da criatura infectada, que acaba se transformando em uma poça de lodo proteico. Um surto da Síndrome de Reorganização Genética geralmente dura apenas um mês. No entanto, é altamente infecciosa e pode se espalhar rapidamente.</Description>
-
-    <ImageFilename>Environment/Events/GeneticScramblingSyndrome</ImageFilename>
-    <IconFilename>Environment/Events/Icons/GeneticScramblingSyndrome</IconFilename>
-  </ColonyEventDefinition>
-  <ColonyEventDefinition>
-    <ColonyEventDefinitionId>9</ColonyEventDefinitionId>
-    <Type>Plague</Type>
-    <DurationMinimum>0.25</DurationMinimum>
-    <DurationMaximum>0.4</DurationMaximum>
-    <PopulationAmount>-0.28</PopulationAmount>
-    <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>0</DamageRepair>
-    <MigrationFactor>0</MigrationFactor>
-    <ResourceAbundance>0</ResourceAbundance>
-    <ColonyHappiness>-15</ColonyHappiness>
-    <EmpireHappiness>0</EmpireHappiness>
-    <SpreadToOtherColoniesChance>3.0</SpreadToOtherColoniesChance>
-    <SpreadToOtherColoniesRange>300000000</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0003</RandomInitiationChance>
-    <RaceFilterIds>
-    </RaceFilterIds>
-    <OrbTypeFilters>
-    </OrbTypeFilters>
-    <Bonuses />
-    <ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Peste de Merturov</Name>
-    <Description>A Peste de Merturov é a doença mais mortal da galáxia conhecida. Ela rapidamente consome o cérebro da criatura infectada, causando progressivamente insanidade, imobilização e eventual morte. A Peste de Merturov é um vírus altamente resistente transmitido pelo ar e, portanto, muito infecciosa. Um surto da Peste de Merturov geralmente dura 4 meses.</Description>
-
-    <ImageFilename>Environment/Events/MerturovPlague</ImageFilename>
-    <IconFilename>Environment/Events/Icons/MerturovPlague</IconFilename>
-  </ColonyEventDefinition>
-  <ColonyEventDefinition>
-    <ColonyEventDefinitionId>10</ColonyEventDefinitionId>
-    <Type>Plague</Type>
-    <DurationMinimum>2</DurationMinimum>
-    <DurationMaximum>3</DurationMaximum>
-    <PopulationAmount>-0.08</PopulationAmount>
+    <DurationMinimum>1.5</DurationMinimum>
+    <DurationMaximum>2</DurationMaximum>
+    <PopulationAmount>-0.15</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
     <DamageRepair>0</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>-10</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
-    <SpreadToOtherColoniesChance>8.0</SpreadToOtherColoniesChance>
-    <SpreadToOtherColoniesRange>50000000</SpreadToOtherColoniesRange>
+    <SpreadToOtherColoniesChance>1.6</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>300000000</SpreadToOtherColoniesRange>
+    <RandomInitiationChance>0.002</RandomInitiationChance>
+	<RaceFilterIds>
+    </RaceFilterIds>
+    <OrbTypeFilters>
+    </OrbTypeFilters>
+    <Bonuses/>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+	<PlagueCuringFactor>1.2</PlagueCuringFactor>
+    <Name>Síndrome de Reorganização Genética</Name>
+    <Description>A Síndrome de Reorganização Genética ataca o código genético em todas as células de uma criatura infectada, eliminando qualquer instrução biológica útil. Isso leva a uma desintegração muito rápida da criatura infectada, que acaba se transformando em uma poça de lodo proteico. Um surto da Síndrome de Reorganização Genética geralmente dura apenas um mês. No entanto, é altamente infecciosa e pode se espalhar rapidamente.</Description>
+    <ImageFilename>Environment/Events/GeneticScramblingSyndrome</ImageFilename>
+    <IconFilename>Environment/Events/Icons/GeneticScramblingSyndrome</IconFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>9</ColonyEventDefinitionId>
+    <Type>Plague</Type>
+    <DurationMinimum>2</DurationMinimum>
+    <DurationMaximum>3</DurationMaximum>
+    <PopulationAmount>-0.12</PopulationAmount>
+    <DevelopmentChange>0</DevelopmentChange>
+    <DamageRepair>0</DamageRepair>
+    <MigrationFactor>0</MigrationFactor>
+    <ResourceAbundance>0</ResourceAbundance>
+    <ColonyHappiness>-12</ColonyHappiness>
+    <EmpireHappiness>0</EmpireHappiness>
+    <SpreadToOtherColoniesChance>2</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>300000000</SpreadToOtherColoniesRange>
+    <RandomInitiationChance>0.001</RandomInitiationChance>
+    <RaceFilterIds>
+    </RaceFilterIds>
+    <OrbTypeFilters>
+    </OrbTypeFilters>
+    <Bonuses/>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+	<PlagueCuringFactor>1.4</PlagueCuringFactor>
+    <Name>Peste de Merturov</Name>
+    <Description>A Peste de Merturov é a doença mais mortal da galáxia conhecida. Ela rapidamente consome o cérebro da criatura infectada, causando progressivamente insanidade, imobilização e eventual morte. A Peste de Merturov é um vírus altamente resistente transmitido pelo ar e, portanto, muito infecciosa. Um surto da Peste de Merturov geralmente dura 4 meses.</Description>
+    <ImageFilename>Environment/Events/MerturovPlague</ImageFilename>
+    <IconFilename>Environment/Events/Icons/MerturovPlague</IconFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>10</ColonyEventDefinitionId>
+    <Type>Plague</Type>
+    <DurationMinimum>4</DurationMinimum>
+    <DurationMaximum>5</DurationMaximum>
+    <PopulationAmount>-0.1</PopulationAmount>
+    <DevelopmentChange>0</DevelopmentChange>
+    <DamageRepair>0</DamageRepair>
+    <MigrationFactor>0</MigrationFactor>
+    <ResourceAbundance>0</ResourceAbundance>
+    <ColonyHappiness>-15</ColonyHappiness>
+    <EmpireHappiness>0</EmpireHappiness>
+    <SpreadToOtherColoniesChance>0.3</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>150000000</SpreadToOtherColoniesRange>
     <RandomInitiationChance>0</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
+	<PlagueModifiersPerRaceId>
+      <unsignedByte>20</unsignedByte>
+    </PlagueModifiersPerRaceId>
+    <PlagueModifiersPerRaceAmount>
+      <float>0</float>
+    </PlagueModifiersPerRaceAmount>
+    <PlagueCuringFactor>1.5</PlagueCuringFactor>
     <Name>Vírus Psíquico Shakturi</Name>
     <Description>O Vírus Psíquico Shakturi torna uma espécie mais vulnerável aos poderes psíquicos dos Shakturi.
 
 Embora não seja particularmente mortal, sua letalidade está correlacionada com a resistência de uma espécie aos ataques psíquicos.
 
 As vítimas infectadas são submetidas a uma forma de sugestão psíquica, fazendo-as comportar-se de maneiras que maximizem a propagação do vírus. Portanto, o Vírus Psíquico Shakturi é altamente infeccioso e pode se espalhar rapidamente.</Description>
-
     <ImageFilename>Environment/Events/PsionicMindVirus</ImageFilename>
     <IconFilename>Environment/Events/Icons/PsionicMindVirus</IconFilename>
   </ColonyEventDefinition>
@@ -413,14 +413,14 @@ As vítimas infectadas são submetidas a uma forma de sugestão psíquica, fazen
     <DurationMaximum>0</DurationMaximum>
     <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.03</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.00125</RandomInitiationChance>
+    <RandomInitiationChance>0.001</RandomInitiationChance>
     <RaceFilterIds>
       <unsignedByte>1</unsignedByte>
     </RaceFilterIds>
@@ -441,7 +441,6 @@ As vítimas infectadas são submetidas a uma forma de sugestão psíquica, fazen
     <Description>A principal cidade subaquática de nossa colônia {0} sofreu um ataque devastador por um enorme monstro marinho Darkhul!
 
 Muitas vidas foram perdidas em {0}, e a qualidade da colônia também foi reduzida.</Description>
-
     <ImageFilename>Environment/Events/Underwater Leviathan</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -476,7 +475,6 @@ Muitas vidas foram perdidas em {0}, e a qualidade da colônia também foi reduzi
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Visão de Pesquisa</Name>
     <Description>As mentes brilhantes de nossos cientistas e engenheiros em {0} tiveram uma série de insights brilhantes. Nossos esforços de pesquisa em todo o império receberão um impulso de +10% no próximo ano!</Description>
-
     <ImageFilename>Environment/Events/Research Insight</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -520,7 +518,6 @@ Muitas vidas foram perdidas em {0}, e a qualidade da colônia também foi reduzi
     <Description>Nossos exércitos estão se preparando para uma onda de novas tropas em nossa colônia {0}.
 
 Todas as tropas recrutadas no próximo ano serão treinadas 20% mais rapidamente e serão 10% mais fortes.</Description>
-
     <ImageFilename>Environment/Events/Warrior Wave</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -557,7 +554,6 @@ Todas as tropas recrutadas no próximo ano serão treinadas 20% mais rapidamente
     <Description>Uma onda de intenso espírito patriótico varre nossa colônia {0}!
 
 O cansaço de guerra foi dramaticamente reduzido em todo o nosso império pelos próximos 2 anos.</Description>
-
     <ImageFilename>Environment/Events/Patriotic Wave</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -611,7 +607,6 @@ No próximo ano, nosso império desfrutará dos seguintes benefícios:
  - 20% mais precisão na mira em batalhas de naves
  - 20% mais eficácia em contramedidas em batalhas de naves
  - vantagens significativas em contra-espionagem</Description>
-
     <ImageFilename>Environment/Events/Predictive History</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -648,7 +643,6 @@ No próximo ano, nosso império desfrutará dos seguintes benefícios:
     <Description>Os astutos magos das finanças em nossa colônia {0} descobriram uma maneira de temporariamente aumentar a produção econômica através de uma contabilidade criativa!
 
 No próximo ano, nossa colônia {0} desfrutará de um aumento de +10% na renda.</Description>
-
     <ImageFilename>Environment/Events/Economic Boost</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -706,7 +700,6 @@ No próximo ano, nossa colônia {0} desfrutará de um aumento de +10% na renda.<
 Pelos próximos seis meses, todas as tropas recrutadas em nossa colônia {0} serão 10% mais fortes.
 
 Além disso, as festividades associadas na colônia proporcionarão um aumento de +10% na felicidade.</Description>
-
     <ImageFilename>Environment/Events/Great Hunt</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -714,7 +707,7 @@ Além disso, as festividades associadas na colônia proporcionarão um aumento d
     <Type>Undefined</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
     <DamageRepair>0</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
@@ -743,7 +736,6 @@ Além disso, as festividades associadas na colônia proporcionarão um aumento d
     <Description>A população em nossa colônia {0} foi levada a um frenesi insano. Devido a essa paranoia hiper-agressiva, ocorreu um canibalismo generalizado!
 
 Como resultado, a população de {0} foi reduzida.</Description>
-
     <ImageFilename>Environment/Events/Crazed Cannibalism</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -816,7 +808,6 @@ Como resultado, a população de {0} foi reduzida.</Description>
 Como resultado, nosso império desfrutará de um aumento de +10% na renda do comércio e do turismo pelos próximos 2 anos.
 
 {0} também se beneficiará com +10% na renda da colônia e +10% de bônus de cenário durante esse período.</Description>
-
     <ImageFilename>Environment/Events/Great Art Exposition</ImageFilename>
   </ColonyEventDefinition>
   
@@ -850,7 +841,7 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Bônus de Mineração</Name>
-    <Description></Description>
+    <Description/>
     <ImageFilename>Environment/Events/earthquake</ImageFilename>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
@@ -869,14 +860,14 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
     <RandomInitiationChance>0</RandomInitiationChance>
     <RaceFilterIds>
-    </RaceFilterIds>s
+    </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>true</ValuesDecayGradually>
     <Name>Não estamos sozinhos no universo...</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>23</ColonyEventDefinitionId>
@@ -897,11 +888,11 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Nossa Campanha de Relações Públicas</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>24</ColonyEventDefinitionId>
@@ -922,11 +913,11 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Pagamos os Piratas</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>25</ColonyEventDefinitionId>
@@ -947,11 +938,11 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Eliminamos a Ameaça</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>26</ColonyEventDefinitionId>
@@ -972,11 +963,11 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Ajudamos os Alienígenas</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>27</ColonyEventDefinitionId>
@@ -1008,8 +999,8 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Nosso Povo foi Inspirado</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>28</ColonyEventDefinitionId>
@@ -1041,8 +1032,8 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </Bonuses>
     <ValuesDecayGradually>true</ValuesDecayGradually>
     <Name>Iniciativa de Melhoria da Moral</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>29</ColonyEventDefinitionId>
@@ -1081,8 +1072,8 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </Bonuses>
     <ValuesDecayGradually>true</ValuesDecayGradually>
     <Name>Iniciativa de Competição</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>30</ColonyEventDefinitionId>
@@ -1103,11 +1094,11 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>true</ValuesDecayGradually>
     <Name>Os Clones Atacaram</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>31</ColonyEventDefinitionId>
@@ -1128,11 +1119,11 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Reparo de Danos Planetários</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>32</ColonyEventDefinitionId>
@@ -1153,11 +1144,11 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Recuperamos Conhecimento Antigo</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>33</ColonyEventDefinitionId>
@@ -1189,8 +1180,8 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </Bonuses>
     <ValuesDecayGradually>true</ValuesDecayGradually>
     <Name>Vírus de Cognição Zenox</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>  
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>34</ColonyEventDefinitionId>
@@ -1211,11 +1202,11 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
-    <Bonuses />
+    <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Encontro Alienígena</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>51</ColonyEventDefinitionId>
@@ -1238,7 +1229,33 @@ Como resultado, nosso império desfrutará de um aumento de +10% na renda do com
     </OrbTypeFilters>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Focando no que importa</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>99</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1</DurationMinimum>
+		<DurationMaximum>1</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>5</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Happiness from Completed War Mission</Name>
+		<Description>Our recent completion of a War Mission has temporarily increased happiness throughout our empire</Description>
+		<ImageFilename>Environment/Events/Happiness Boost</ImageFilename>
+	</ColonyEventDefinition>
+
 </ArrayOfColonyEventDefinition>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfTroopDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TroopDefinition>
     <TroopDefinitionId>60</TroopDefinitionId>
@@ -15,7 +15,6 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0.4</EvasionSpecialForces>
     <Name>Força Blindada Behemoth</Name>
-
     <ImageFilename>Extras/TroopSymbols/Armor</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -51,7 +50,6 @@
     <EvasionArmor>0.35</EvasionArmor>
     <EvasionPlanetaryDefense>0.35</EvasionPlanetaryDefense>
     <Name>Força de Demolição</Name>
-
     <ImageFilename>Extras/TroopSymbols/Special_forces</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -70,7 +68,27 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0.4</EvasionSpecialForces>
     <Name>Companhia de Caçadores</Name>
-
     <ImageFilename>Extras/TroopSymbols/Titans</ImageFilename>
   </TroopDefinition>
+
+	<TroopDefinition>
+		<TroopDefinitionId>73</TroopDefinitionId>
+		<RaceId>15</RaceId>
+		<Type>Infantry</Type>
+		<Size>4000</Size>
+		<RecruitmentCost>
+			<Money>0</Money>
+		</RecruitmentCost>
+		<MaintenanceCost>70</MaintenanceCost>
+		<AttackStrength>70</AttackStrength>
+		<DefendStrength>85</DefendStrength>
+		<EvasionInfantry>0</EvasionInfantry>
+		<EvasionArmor>0.25</EvasionArmor>
+		<EvasionTitan>0.25</EvasionTitan>
+		<EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
+		<EvasionSpecialForces>0</EvasionSpecialForces>
+		<Name>Autobot Brigade</Name>
+		<ImageFilename>Extras/TroopSymbols/Robotic_troops</ImageFilename>
+	</TroopDefinition>
+
 </ArrayOfTroopDefinition>

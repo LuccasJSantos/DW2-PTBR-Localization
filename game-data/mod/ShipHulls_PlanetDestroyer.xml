@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfShipHull xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ShipHull>
     <ShipHullId>760</ShipHullId>
-    <RaceId>247</RaceId>
+    <RaceId>248</RaceId>
     <Role>PlanetDestroyer</Role>
     <Level>0</Level>
     <DesignTemplateId>-1</DesignTemplateId>
@@ -10,7 +10,7 @@
     <MaximumSize>6000</MaximumSize>
     <DisplaySize>4167</DisplaySize>
     <ModelName>PlanetDestroyer/Ship/Planet_Destroyer</ModelName>
-    <CockpitImageFilename />
+    <CockpitImageFilename/>
     <BaseCost>150000</BaseCost>
     <ArmorReactiveRating>15</ArmorReactiveRating>
     <IonDefense>15</IonDefense>

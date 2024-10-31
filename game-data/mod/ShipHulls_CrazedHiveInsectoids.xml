@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfShipHull xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ShipHull>
     <ShipHullId>737</ShipHullId>
@@ -10,7 +10,7 @@
     <MaximumSize>3200</MaximumSize>
     <DisplaySize>1800</DisplaySize>
     <ModelName>Ships/Hive/Hive_Ship_Carrier</ModelName>
-    <CockpitImageFilename />
+    <CockpitImageFilename/>
     <BaseCost>0</BaseCost>
     <ArmorReactiveRating>8</ArmorReactiveRating>
     <IonDefense>6</IonDefense>
@@ -1249,7 +1249,7 @@
     <MaximumSize>86</MaximumSize>
     <DisplaySize>19</DisplaySize>
     <ModelName>Creatures/Menace/Hive_Drone_Bomber</ModelName>
-    <CockpitImageFilename />
+    <CockpitImageFilename/>
     <BaseCost>0</BaseCost>
     <ArmorReactiveRating>2</ArmorReactiveRating>
     <IonDefense>2</IonDefense>
@@ -1453,7 +1453,7 @@
     <MaximumSize>64</MaximumSize>
     <DisplaySize>14</DisplaySize>
     <ModelName>Creatures/Menace/Hive_Drone_Fighter</ModelName>
-    <CockpitImageFilename />
+    <CockpitImageFilename/>
     <BaseCost>0</BaseCost>
     <ArmorReactiveRating>1</ArmorReactiveRating>
     <IonDefense>1</IonDefense>

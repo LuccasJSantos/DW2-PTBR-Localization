@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfSpaceItemDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <!--
   <SpaceItemDefinition>
@@ -414,9 +414,9 @@
     <SpaceItemDefinitionId>0</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Conduto de Energia</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage001</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage001</ImageFilename>
     <DefaultSize>12</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -464,9 +464,9 @@
     <SpaceItemDefinitionId>1</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Reforço Estrutural</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage002</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage002</ImageFilename>
     <DefaultSize>24</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -514,9 +514,9 @@
     <SpaceItemDefinitionId>2</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Blindagem do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage003</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage003</ImageFilename>
     <DefaultSize>32</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -564,9 +564,9 @@
     <SpaceItemDefinitionId>3</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Seção do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage004</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage004</ImageFilename>
     <DefaultSize>28</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -614,9 +614,9 @@
     <SpaceItemDefinitionId>4</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Fragmento de Radome</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage005</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage005</ImageFilename>
     <DefaultSize>48</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -664,9 +664,9 @@
     <SpaceItemDefinitionId>5</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Blindagem do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage006</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage006</ImageFilename>
     <DefaultSize>56</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -714,9 +714,9 @@
     <SpaceItemDefinitionId>6</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Blindagem do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage007</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage007</ImageFilename>
     <DefaultSize>40</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -764,9 +764,9 @@
     <SpaceItemDefinitionId>7</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Blindagem do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage008</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage008</ImageFilename>
     <DefaultSize>32</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -814,9 +814,9 @@
     <SpaceItemDefinitionId>8</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Viga Estrutural</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage009</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage009</ImageFilename>
     <DefaultSize>16</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -864,9 +864,9 @@
     <SpaceItemDefinitionId>9</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Montante Reforçado</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage010</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage010</ImageFilename>
     <DefaultSize>20</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -914,9 +914,9 @@
     <SpaceItemDefinitionId>10</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Blindagem do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage011</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage011</ImageFilename>
     <DefaultSize>16</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -964,9 +964,9 @@
     <SpaceItemDefinitionId>11</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Seção de Caverna</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage012</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage012</ImageFilename>
     <DefaultSize>24</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1014,9 +1014,9 @@
     <SpaceItemDefinitionId>12</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Super Capacitor</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage013</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage013</ImageFilename>
     <DefaultSize>28</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1064,9 +1064,9 @@
     <SpaceItemDefinitionId>13</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Núcleo do Reator</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage014</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage014</ImageFilename>
     <DefaultSize>20</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1114,9 +1114,9 @@
     <SpaceItemDefinitionId>14</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Sucata de Desvio de Energia</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage015</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage015</ImageFilename>
     <DefaultSize>12</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1164,9 +1164,9 @@
     <SpaceItemDefinitionId>15</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Seção do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage016</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage016</ImageFilename>
     <DefaultSize>16</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1214,9 +1214,9 @@
     <SpaceItemDefinitionId>16</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Blindagem do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage017</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage017</ImageFilename>
     <DefaultSize>16</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1264,9 +1264,9 @@
     <SpaceItemDefinitionId>17</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Seção do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage018</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage018</ImageFilename>
     <DefaultSize>32</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1314,9 +1314,9 @@
     <SpaceItemDefinitionId>18</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Seção de Caverna</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage019</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage019</ImageFilename>
     <DefaultSize>20</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1364,9 +1364,9 @@
     <SpaceItemDefinitionId>19</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Relé de Energia</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage020</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage020</ImageFilename>
     <DefaultSize>36</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1410,9 +1410,9 @@
     <SpaceItemDefinitionId>20</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Galeria</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage021</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage021</ImageFilename>
     <DefaultSize>48</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1460,9 +1460,9 @@
     <SpaceItemDefinitionId>21</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Conduto de Energia</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage022</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage022</ImageFilename>
     <DefaultSize>12</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1510,9 +1510,9 @@
     <SpaceItemDefinitionId>22</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Grade Isogrid Estrutural</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage023</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage023</ImageFilename>
     <DefaultSize>16</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1560,9 +1560,9 @@
     <SpaceItemDefinitionId>23</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Reforço do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage024</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage024</ImageFilename>
     <DefaultSize>40</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1610,9 +1610,9 @@
     <SpaceItemDefinitionId>24</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Seção do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage025</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage025</ImageFilename>
     <DefaultSize>24</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1660,9 +1660,9 @@
     <SpaceItemDefinitionId>25</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Braçadeira do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage026</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage026</ImageFilename>
     <DefaultSize>20</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1710,9 +1710,9 @@
     <SpaceItemDefinitionId>26</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Blindagem do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage027</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage027</ImageFilename>
     <DefaultSize>20</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1760,9 +1760,9 @@
     <SpaceItemDefinitionId>027</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Blindagem do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage028</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage028</ImageFilename>
     <DefaultSize>20</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1810,9 +1810,9 @@
     <SpaceItemDefinitionId>28</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Superestrutura do Motor</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/hulk01</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/hulk01</ImageFilename>
     <DefaultSize>200</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1868,9 +1868,9 @@
     <SpaceItemDefinitionId>29</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Seção do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/hulk02</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/hulk02</ImageFilename>
     <DefaultSize>120</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1926,9 +1926,9 @@
     <SpaceItemDefinitionId>30</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Superestrutura do Casco</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/hulk03</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/hulk03</ImageFilename>
     <DefaultSize>150</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -1985,9 +1985,9 @@
     <SpaceItemDefinitionId>31</SpaceItemDefinitionId>
     <Type>ComputerCore</Type>
     <Name>Núcleo do Computador</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Computer Core/computercore</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Computer Core/Images/CoreIcon</ImageFilename>
     <DefaultSize>25</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2020,9 +2020,9 @@
     <SpaceItemDefinitionId>32</SpaceItemDefinitionId>
     <Type>EscapePod</Type>
     <Name>Cápsula de Fuga</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Escape Pod/escape pod</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Escape Pod/Images/PodIcon</ImageFilename>
     <DefaultSize>30</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2055,9 +2055,9 @@
     <SpaceItemDefinitionId>33</SpaceItemDefinitionId>
     <Type>CargoContainer</Type>
     <Name>Contêiner de Carga</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Cargo/cargo1</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Cargo/Images/cargo1</ImageFilename>
     <DefaultSize>40</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2089,9 +2089,9 @@
     <SpaceItemDefinitionId>34</SpaceItemDefinitionId>
     <Type>CargoContainer</Type>
     <Name>Armazenamento Pressurizado</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Cargo/cargo2</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Cargo/Images/cargo2</ImageFilename>
     <DefaultSize>40</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2123,9 +2123,9 @@
     <SpaceItemDefinitionId>35</SpaceItemDefinitionId>
     <Type>CargoContainer</Type>
     <Name>Armazenamento Volátil</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Cargo/cargo3</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Cargo/Images/cargo3</ImageFilename>
     <DefaultSize>40</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2157,9 +2157,9 @@
     <SpaceItemDefinitionId>36</SpaceItemDefinitionId>
     <Type>CargoContainer</Type>
     <Name>Contêiner de Carga</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Cargo/cargo4</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Cargo/Images/cargo4</ImageFilename>
     <DefaultSize>40</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2191,9 +2191,9 @@
     <SpaceItemDefinitionId>37</SpaceItemDefinitionId>
     <Type>CargoContainer</Type>
     <Name>Contêiner de Carga</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Cargo/cargo5</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Cargo/Images/cargo5</ImageFilename>
     <DefaultSize>40</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2226,9 +2226,9 @@
     <SpaceItemDefinitionId>38</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Gravillex</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Gravillex/FX/GravilexChunk_01</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Gravillex/Images/GravilexChunk_01</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2272,9 +2272,9 @@
     <SpaceItemDefinitionId>39</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Gravillex</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Gravillex/FX/GravilexChunk_02</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Gravillex/Images/GravilexChunk_02</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2318,9 +2318,9 @@
     <SpaceItemDefinitionId>40</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Gravillex</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Gravillex/FX/GravilexChunk_03</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Gravillex/Images/GravilexChunk_03</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2364,9 +2364,9 @@
     <SpaceItemDefinitionId>41</SpaceItemDefinitionId>
     <Type>CreatureCarcass</Type>
     <Name>Carcassa de Gravillex</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Gravillex/Gravillex - Death - v02_LastFrame</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Gravillex/Images/gravillex_dead</ImageFilename>
     <DefaultSize>200</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2413,9 +2413,9 @@
     <SpaceItemDefinitionId>42</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Ardilus</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Ardilus/DeadBodyFragments/GelyFish_Part_0</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Ardilus/Images/GelyFish_Part_0</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2453,9 +2453,9 @@
     <SpaceItemDefinitionId>43</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Ardilus</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Ardilus/DeadBodyFragments/GelyFish_Part_1</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Ardilus/Images/GelyFish_Part_1</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2493,9 +2493,9 @@
     <SpaceItemDefinitionId>44</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Ardilus</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Ardilus/DeadBodyFragments/GelyFish_Part_2</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Ardilus/Images/GelyFish_Part_2</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2533,9 +2533,9 @@
     <SpaceItemDefinitionId>45</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Ardilus</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Ardilus/DeadBodyFragments/GelyFish_Part_3</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Ardilus/Images/GelyFish_Part_3</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2573,9 +2573,9 @@
     <SpaceItemDefinitionId>46</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Ardilus</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Ardilus/DeadBodyFragments/GelyFish_Part_9</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Ardilus/Images/GelyFish_Part_9</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2613,9 +2613,9 @@
     <SpaceItemDefinitionId>47</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Ardilus</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Ardilus/DeadBodyFragments/GelyFish_Part_10</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Ardilus/Images/GelyFish_Part_10</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2653,9 +2653,9 @@
     <SpaceItemDefinitionId>48</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Ardilus</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Ardilus/DeadBodyFragments/GelyFish_Part_11</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Ardilus/Images/GelyFish_Part_11</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2693,9 +2693,9 @@
     <SpaceItemDefinitionId>49</SpaceItemDefinitionId>
     <Type>CreatureCarcass</Type>
     <Name>Carcassa de Ardilus</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Ardilus/Creature - GellyFish_deadproperskeleton</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Ardilus/Images/ardilus_carcass</ImageFilename>
     <DefaultSize>300</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2736,9 +2736,9 @@
     <SpaceItemDefinitionId>50</SpaceItemDefinitionId>
     <Type>CreatureCarcass</Type>
     <Name>Carcassa de Vordikar</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Vordikar/Slug_death_orig_LastFrame_01</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Vordikar/Images/Vordikar_Dead</ImageFilename>
     <DefaultSize>300</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2787,9 +2787,9 @@
     <SpaceItemDefinitionId>51</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Vordikar</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Vordikar/DeadBodyFragments/SpaceSlug_WingPart_0</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Vordikar/Images/SpaceSlug_WingPart_0</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2836,9 +2836,9 @@
     <SpaceItemDefinitionId>52</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Vordikar</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Vordikar/DeadBodyFragments/SpaceSlug_WingPart_7</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Vordikar/Images/SpaceSlug_WingPart_7</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2885,9 +2885,9 @@
     <SpaceItemDefinitionId>53</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Vordikar</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Vordikar/DeadBodyFragments/SpaceSlug_WingPart_9</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Vordikar/Images/SpaceSlug_WingPart_9</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2933,9 +2933,9 @@
     <SpaceItemDefinitionId>54</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Vordikar</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Vordikar/DeadBodyFragments/SpaceSlug_WingPart_10</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Vordikar/Images/SpaceSlug_WingPart_10</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -2981,9 +2981,9 @@
     <SpaceItemDefinitionId>55</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Vordikar</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Vordikar/DeadBodyFragments/SpaceSlug_WingPart_14</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Vordikar/Images/SpaceSlug_WingPart_14</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -3029,9 +3029,9 @@
     <SpaceItemDefinitionId>56</SpaceItemDefinitionId>
     <Type>CreatureDebris</Type>
     <Name>Restos de Vordikar</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Creatures/Vordikar/DeadBodyFragments/SpaceSlug_WingPart_15</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Creatures/Vordikar/Images/SpaceSlug_WingPart_15</ImageFilename>
     <DefaultSize>15</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>
@@ -3079,9 +3079,9 @@
     <SpaceItemDefinitionId>57</SpaceItemDefinitionId>
     <Type>ShipDebris</Type>
     <Name>Míssil Colmeia</Name>
-    <Description></Description>
+    <Description/>
     <ModelName>Extras/Debris/wreckage001</ModelName>
-    <MeshName></MeshName>
+    <MeshName/>
     <ImageFilename>Extras/Debris/Images/wreckage001</ImageFilename>
     <DefaultSize>12</DefaultSize>
     <SizeRatioFactor>0</SizeRatioFactor>

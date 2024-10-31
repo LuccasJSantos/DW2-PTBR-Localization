@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfColonyEventDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ColonyEventDefinition>
 		<ColonyEventDefinitionId>82</ColonyEventDefinitionId>
@@ -29,15 +29,14 @@
 			</Bonus>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-		<Name>Surto em Pesquisa e Desenvolvimento</Name>
-		<Description>Nossa forma de governo [B]Democrática[/B] tem incentivado o espírito empreendedor de nosso povo.
+		<Name>Research and Development Surge</Name>
+		<Description>Our [B]Democratic form of government[/B] has encouraged the enterprising spirit of our people.
+			
+Research and Development spending by our private corporations has soared.
+			
+Thus for the next year our empire will enjoy the following bonuses:
 
-Os gastos em Pesquisa e Desenvolvimento por nossas corporações privadas dispararam.
-
-Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
-
-[ULI][BONUS]+10% de aumento em Todas as Pesquisas[/BONUS][/ULI]</Description>
-
+[ULI][BONUS]+10% boost to All Research[/BONUS][/ULI]</Description>
 		<ImageFilename>Environment/Events/Democracy Positive Boost</ImageFilename>
 	</ColonyEventDefinition>
 	<ColonyEventDefinition>
@@ -69,15 +68,14 @@ Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
 			</Bonus>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-		<Name>Energia Cooperativa</Name>
-		<Description>Nossa forma de governo [B]Democrática[/B] tem incentivado o espírito empreendedor de nosso povo.
+		<Name>Cooperative Energy</Name>
+		<Description>Our [B]Democratic form of government[/B] has encouraged the enterprising spirit of our people.
 
-Um forte desejo de unidade e cooperação está crescendo em toda nossa população.
+A strong desire for unity and cooperation is growing throughout our population.
 
-Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
+Thus for the next year our empire will enjoy the following bonuses:
 
-[ULI][BONUS]+10% de aumento na Diplomacia[/BONUS][/ULI]</Description>
-
+[ULI][BONUS]+10% boost to Diplomacy[/BONUS][/ULI]</Description>
 		<ImageFilename>Environment/Events/Democracy Positive Boost</ImageFilename>
 	</ColonyEventDefinition>
 	<ColonyEventDefinition>
@@ -109,15 +107,14 @@ Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
 			</Bonus>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-		<Name>Suspenses de Espionagem</Name>
-		<Description>Nossa forma de governo [B]Democrática[/B] tem incentivado o espírito empreendedor de nosso povo.
+		<Name>Spy Thrillers</Name>
+		<Description>Our [B]Democratic form of government[/B] has encouraged the enterprising spirit of our people.
 
-Uma fascinação popular por romances e filmes de espionagem tem causado um foco em missões de espionagem e inteligência.
+A popular fascination with spy thriller novels and movies has caused a focus on espionage and intelligence missions.
 
-Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
+Thus for the next year our empire will enjoy the following bonuses:
 
-[ULI][BONUS]+10% de aumento na Espionagem[/BONUS][/ULI]</Description>
-
+[ULI][BONUS]+10% boost to Espionage[/BONUS][/ULI]</Description>
 		<ImageFilename>Environment/Events/Democracy Positive Boost</ImageFilename>
 	</ColonyEventDefinition>
 	<ColonyEventDefinition>
@@ -156,16 +153,15 @@ Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
 			</Bonus>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-		<Name>Filmes de Ação</Name>
-		<Description>Nossa forma de governo [B]Democrática[/B] tem incentivado o espírito empreendedor de nosso povo.
+		<Name>Action Movies</Name>
+		<Description>Our [B]Democratic form of government[/B] has encouraged the enterprising spirit of our people.
 
-Uma fascinação popular por filmes de ação patrióticos tem causado um foco em assuntos militares.
+A popular fascination with patriotic action movies has caused a focus on military matters.
 
-Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
+Thus for the next year our empire will enjoy the following bonuses:
 
-[ULI][BONUS]+10% de aumento na Taxa de Recrutamento de Tropas[/BONUS][/ULI]
-[ULI][BONUS]+10% de economia na Manutenção de Tropas[/BONUS][/ULI]</Description>
-
+[ULI][BONUS]+10% boost to Troop Recruitment Rate[/BONUS][/ULI]
+[ULI][BONUS]+10% boost to Troop Maintenance Savings[/BONUS][/ULI]</Description>
 		<ImageFilename>Environment/Events/Democracy Positive Boost</ImageFilename>
 	</ColonyEventDefinition>
 
@@ -221,8 +217,8 @@ Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
 			</Bonus>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-		<Name>Mundo em Guerra</Name>
-		<Description></Description>
+		<Name>War World</Name>
+		<Description/>
 		<ImageFilename>Environment/Events/War World</ImageFilename>
 	</ColonyEventDefinition>
 
@@ -245,9 +241,8 @@ Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
 		<Bonuses>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-		<Name>Nave Capitânia Destruída</Name>
-		<Description>Nossa nave capitânia do império foi perdida em batalha.\n\nEste evento catastrófico gerou uma onda de luto, reduzindo a felicidade pelo próximo ano.</Description>
-
+		<Name>Flag Ship Destroyed</Name>
+		<Description>Our empire flag ship has been lost in battle.\n\nThis catastrophic event has produced a wave of mourning, lowering happiness for the next year.</Description>
 		<ImageFilename>Environment/Events/flagship negative</ImageFilename>
 	</ColonyEventDefinition>
 	<ColonyEventDefinition>
@@ -269,9 +264,8 @@ Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
 		<Bonuses>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-		<Name>Nave Capitânia Triunfa</Name>
-		<Description>Nossa nave capitânia do império triunfou em uma batalha decisiva.\n\nEste grande feito gerou uma onda de sentimento patriótico, aumentando a felicidade pelo próximo ano.</Description>
-
+		<Name>Flag Ship Triumphs</Name>
+		<Description>Our empire flag ship has triumphed in a decisive battle.\n\nThis great exploit has produced a wave of patriotic sentiment, raising happiness for the next year.</Description>
 		<ImageFilename>Environment/Events/flagship positive</ImageFilename>
 	</ColonyEventDefinition>
 
@@ -301,8 +295,8 @@ Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
 			</Bonus>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-		<Name>Desencadeamento de Guerra</Name>
-		<Description></Description>
+		<Name>War Spawning</Name>
+		<Description/>
 		<ImageFilename>Environment/Events/Hive Mind Population Boost</ImageFilename>
 	</ColonyEventDefinition>
 
@@ -332,8 +326,8 @@ Portanto, pelo próximo ano, nosso império desfrutará dos seguintes bônus:
 			</Bonus>
 		</Bonuses>
 		<ValuesDecayGradually>false</ValuesDecayGradually>
-		<Name>Obrigação Feudal</Name>
-		<Description></Description>
+		<Name>Feudal Obligation</Name>
+		<Description/>
 		<ImageFilename>Environment/Events/Feudalism Troop Boost</ImageFilename>
 	</ColonyEventDefinition>
 

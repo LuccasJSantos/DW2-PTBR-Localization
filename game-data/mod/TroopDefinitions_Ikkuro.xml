@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfTroopDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TroopDefinition>
     <TroopDefinitionId>38</TroopDefinitionId>
@@ -32,7 +32,6 @@
     <EvasionArmor>0.1</EvasionArmor>
     <InterceptWeaponComponentId>324</InterceptWeaponComponentId>
     <Name>Grupo Repulsor de Aterrissagem</Name>
-
     <ImageFilename>Extras/TroopSymbols/Planetary_defence</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -51,7 +50,6 @@
     <EvasionArmor>0.35</EvasionArmor>
     <EvasionPlanetaryDefense>0.35</EvasionPlanetaryDefense>
     <Name>Grupo de Comando Adaptativo</Name>
-
     <ImageFilename>Extras/TroopSymbols/Special_forces</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -70,7 +68,6 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0.4</EvasionSpecialForces>
     <Name>Elemental Vivo</Name>
-
     <ImageFilename>Extras/TroopSymbols/Titans</ImageFilename>
   </TroopDefinition>
 </ArrayOfTroopDefinition>

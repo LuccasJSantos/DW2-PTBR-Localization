@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfGovernment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<Government>
 		<GovernmentId>14</GovernmentId>
@@ -13,89 +13,88 @@ A sociedade em si é dividida em muitos grupos que são capazes de compartilhar 
 Esses Hegemons então formam uma Célula maior que toma decisões para a sociedade. Normalmente, os Hegemons são capazes de formar conexões entre si, mas nem sempre tão fortes quanto dentro de sua própria Célula. Este Conselho de Hegemons governa a Hegemonia Celular com base na vontade coletiva deles e das várias Células, expressada através deles.
 
 Uma Hegemonia Celular é de certa forma uma forma diferente de Mente Colmeia, mais limitada no que pode compartilhar e mais dividida, mas ainda baseada no princípio de que essas conexões empáticas são a melhor base para a unidade geral e uma governança eficaz. Na prática, as diferenças entre as Células e os Hegemons resultam em mais individualismo do que é encontrado em uma Mente Colmeia completa, mas também tendem para a oligarquia.</Description>
-
-		<ImageFilename />
+		<ImageFilename/>
 		<LeaderTitle>Soberano</LeaderTitle>
-		<CabinetTitle />
-		<EconomicFactors />
-		<Biases />
+		<CabinetTitle/>
+		<EconomicFactors/>
+		<Biases/>
 		<Bonuses>
 			<Bonus>
 				<Type>ColonyPopulationGrowthRate</Type>
 				<Amount>0.05</Amount>
 				<AppliesTo>Empire</AppliesTo>
 				<DiscoveryLevel>0</DiscoveryLevel>
-				<Description />
+				<Description/>
 			</Bonus>
 			<Bonus>
 				<Type>WarWearinessReduction</Type>
 				<Amount>0.1</Amount>
 				<AppliesTo>Empire</AppliesTo>
 				<DiscoveryLevel>0</DiscoveryLevel>
-				<Description />
+				<Description/>
 			</Bonus>
 			<Bonus>
 				<Type>CounterEspionage</Type>
 				<Amount>0.1</Amount>
 				<AppliesTo>Empire</AppliesTo>
 				<DiscoveryLevel>0</DiscoveryLevel>
-				<Description />
+				<Description/>
 			</Bonus>
 			<Bonus>
 				<Type>ResearchAll</Type>
 				<Amount>-0.05</Amount>
 				<AppliesTo>Empire</AppliesTo>
 				<DiscoveryLevel>0</DiscoveryLevel>
-				<Description />
+				<Description/>
 			</Bonus>
 			<Bonus>
 				<Type>ColonyHappiness</Type>
 				<Amount>0.05</Amount>
 				<AppliesTo>Empire</AppliesTo>
 				<DiscoveryLevel>0</DiscoveryLevel>
-				<Description />
+				<Description/>
 			</Bonus>
 			<Bonus>
 				<Type>TroopRecruitment</Type>
 				<Amount>0.1</Amount>
 				<AppliesTo>Empire</AppliesTo>
 				<DiscoveryLevel>0</DiscoveryLevel>
-				<Description />
+				<Description/>
 			</Bonus>
 			<Bonus>
 				<Type>TroopMaintenance</Type>
 				<Amount>0.1</Amount>
 				<AppliesTo>Empire</AppliesTo>
 				<DiscoveryLevel>0</DiscoveryLevel>
-				<Description />
+				<Description/>
 			</Bonus>
 			<Bonus>
 				<Type>ColonyCorruptionReduction</Type>
 				<Amount>0.15</Amount>
 				<AppliesTo>Empire</AppliesTo>
 				<DiscoveryLevel>0</DiscoveryLevel>
-				<Description />
+				<Description/>
 			</Bonus>
 			<Bonus>
 				<Type>ShipMaintenanceAll</Type>
 				<Amount>0.1</Amount>
 				<AppliesTo>Empire</AppliesTo>
 				<DiscoveryLevel>0</DiscoveryLevel>
-				<Description />
+				<Description/>
 			</Bonus>
 			<Bonus>
 				<Type>PlanetaryFacilityMaintenance</Type>
 				<Amount>0.1</Amount>
 				<AppliesTo>Empire</AppliesTo>
 				<DiscoveryLevel>0</DiscoveryLevel>
-				<Description />
+				<Description/>
 			</Bonus>
 			<Bonus>
 				<Type>TradeIncome</Type>
 				<Amount>-0.1</Amount>
 				<AppliesTo>Empire</AppliesTo>
 				<DiscoveryLevel>0</DiscoveryLevel>
-				<Description />
+				<Description/>
 			</Bonus>
 		</Bonuses>
 
@@ -120,18 +119,18 @@ Uma Hegemonia Celular é de certa forma uma forma diferente de Mente Colmeia, ma
 		<CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
 		<CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 		<EmpireNameAdjectives>
-			<string>Grande</string>
-			<string>Expansivo</string>
-			<string>Existente</string>
-			<string>Ascendente</string>
+			<string>Great</string>
+			<string>Expansive</string>
+			<string>Living</string>
+			<string>Rising</string>
 		</EmpireNameAdjectives>
 		<EmpireNameNouns>
-			<string>(Horda)</string>
-			<string>(Enxame)</string>
-			<string>(Nexo)</string>
-			<string>(Coletiva)</string>
-			<string>(Ninho)</string>
+			<string>Horde</string>
+			<string>Swarm</string>
+			<string>Nexus</string>
+			<string>Collective</string>
+			<string>Nest</string>
 		</EmpireNameNouns>
-		<ExtraIntelligenceMissionTypes />
+		<ExtraIntelligenceMissionTypes/>
 	</Government>
 </ArrayOfGovernment>

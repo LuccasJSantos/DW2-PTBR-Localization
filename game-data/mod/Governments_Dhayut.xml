@@ -1,23 +1,21 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfGovernment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Government>
     <GovernmentId>12</GovernmentId>
     <Name>Oligarquia de Vigilância</Name>
-
 	<StartingGameEventNames>
 		<string>Initialise Government (Surveillance Oligarchy)</string>
 	</StartingGameEventNames>
-  <Description>Os governos de Oligarquia de Vigilância destacam-se na manipulação de outros, tanto dentro de suas próprias fronteiras quanto além delas.
+    <Description>Os governos de Oligarquia de Vigilância destacam-se na manipulação de outros, tanto dentro de suas próprias fronteiras quanto além delas.
 
 Normalmente envolvem uma estrutura de poder na qual um pequeno grupo exerce controle sobre uma grande população por meio de monitoramento extensivo e intrusivo de suas atividades e dados. Isso pode ser feito por motivos corruptos ou egoístas, como manter sua riqueza e influência, ou suprimir dissidências e oposições.
 
 Aqueles no poder geralmente veem aqueles abaixo deles como peões a serem controlados em todos os aspectos por meio do uso de propaganda cuidadosamente elaborada. Eles também empregam um constante processo de criação de divisões, utilizando estas como alavanca para manter o poder.
 
 As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas habilidades para fora, tendem a ser bastante capazes de infiltrar e manipular outros, pois aperfeiçoaram os métodos necessários em suas próprias populações.</Description>
-
-    <ImageFilename />
-    <LeaderTitle>Inquisidor Supremo</LeaderTitle>
-    <CabinetTitle />
+    <ImageFilename/>
+	  <LeaderTitle>Inquisidor Supremo</LeaderTitle>
+    <CabinetTitle/>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float> <!-- Undefined, i.e. Unused -->
@@ -53,7 +51,7 @@ As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas h
         <float>1</float> <!-- EnemyRaids -->
       </ExpenseFactors>
     </EconomicFactors>
-    <Biases />
+    <Biases/>
     <Bonuses>
       <Bonus>
         <Type>WarWearinessReduction</Type>
@@ -61,7 +59,7 @@ As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas h
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>Espionage</Type>
@@ -69,7 +67,7 @@ As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas h
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>CounterEspionage</Type>
@@ -77,7 +75,7 @@ As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas h
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchSensors</Type>
@@ -85,7 +83,7 @@ As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas h
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
@@ -93,7 +91,7 @@ As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas h
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecruitment</Type>
@@ -101,7 +99,7 @@ As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas h
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
@@ -109,7 +107,7 @@ As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas h
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TourismIncome</Type>
@@ -117,7 +115,7 @@ As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas h
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 	  <LeaderReplacementTypicalPeriod>60</LeaderReplacementTypicalPeriod>
@@ -138,20 +136,20 @@ As Oligarquias de Vigilância são sociedades fechadas. Mas quando voltam suas h
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 	  <EmpireNameAdjectives>
-      <string>Vigilante</string>
-      <string>Cauteloso</string>
-      <string>Astuto</string>
-      <string>Cauteloso</string>
-      <string>Grande</string>
+		  <string>Vigilant</string>
+		  <string>Watchful</string>
+		  <string>Wily</string>
+		  <string>Wary</string>
+		  <string>Grand</string>
 	  </EmpireNameAdjectives>
 	  <EmpireNameNouns>
-      <string>(Autocracia)</string>
-      <string>(Despotismo)</string>
-      <string>(Oligarquia)</string>
-      <string>(Totalidade)</string>
-      <string>(Dominação)</string>
-      <string>(Tirania)</string>
-      <string>(Inquisição)</string>
+		  <string>Autocracy</string>
+		  <string>Despotism</string>
+		  <string>Oligarchy</string>
+		  <string>Totality</string>
+		  <string>Domination</string>
+		  <string>Tyranny</string>
+		  <string>Inquisition</string>
 	  </EmpireNameNouns>
 	  <ExtraIntelligenceMissionTypes>
 		  <CharacterMissionType>InternalStabilization</CharacterMissionType>

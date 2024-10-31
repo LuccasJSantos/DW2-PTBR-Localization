@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfGovernment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Government>
     <GovernmentId>0</GovernmentId>
@@ -9,9 +9,9 @@
     <Description>As Repúblicas são governos liderados por um chefe de estado que geralmente é eleito. O chefe de estado, frequentemente chamado de Presidente, serve por um mandato definido, após o qual um novo presidente é eleito. Embora o presidente seja eleito, isso pode ocorrer de forma indireta, onde um conselho de algum tipo é eleito pelo povo e esse conselho então elege um presidente. Em muitos aspectos, as Repúblicas são semelhantes às Democracias e geralmente têm ideais comparáveis.
 
 Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direitos. As Repúblicas dividem inevitavelmente o poder governamental cuidadosamente entre as áreas executiva, legislativa e judiciária. O presidente controla a área executiva, enquanto outros representantes eleitos controlam a área legislativa. Os tribunais controlam a área judiciária.</Description>
-    <ImageFilename></ImageFilename>
+    <ImageFilename/>
     <LeaderTitle>Presidente</LeaderTitle>
-    <CabinetTitle></CabinetTitle>
+    <CabinetTitle/>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float> <!-- Undefined, i.e. Unused -->
@@ -96,7 +96,7 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>WarWearinessReduction</Type>
@@ -104,7 +104,7 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>CounterEspionage</Type>
@@ -112,7 +112,7 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>Diplomacy</Type>
@@ -120,7 +120,7 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
@@ -128,7 +128,7 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
@@ -136,7 +136,7 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecruitment</Type>
@@ -144,7 +144,7 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecoveryRate</Type>
@@ -152,7 +152,7 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TourismIncome</Type>
@@ -160,7 +160,7 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TradeIncome</Type>
@@ -168,7 +168,7 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 
@@ -205,7 +205,7 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
 	<LeaderReplacementTypicalPeriod>8</LeaderReplacementTypicalPeriod>
     <LeaderReplacementDisruption>0</LeaderReplacementDisruption>
     <LeaderReplacementBoost>10</LeaderReplacementBoost>
-    <LeaderReplacementCharacterPool></LeaderReplacementCharacterPool>
+    <LeaderReplacementCharacterPool/>
     <LeaderReplacementTypicalManner>Election</LeaderReplacementTypicalManner>
     <Stability>1.1</Stability>
     <ConcernForOwnReputation>1.3</ConcernForOwnReputation>
@@ -218,21 +218,21 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
-      <string>Livre</string>
-      <string>Unido</string>
-      <string>Combinada</string>
+      <string>Free</string>
+      <string>United</string>
+      <string>Combined</string>
       <string>Imperial</string>
-      <string>Grande</string>
+      <string>Great</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>(Império)</string>
-      <string>(República)</string>
-      <string>(Aliança)</string>
-      <string>(Território)</string>
-      <string>(Nação)</string>
-      <string>(Federação)</string>
-      <string>(Confederação)</string>
-      <string>(Coalizão)</string>
+      <string>Empire</string>
+      <string>Republic</string>
+      <string>Alliance</string>
+      <string>Territory</string>
+      <string>Nation</string>
+      <string>Federation</string>
+      <string>Confederacy</string>
+      <string>Coalition</string>
     </EmpireNameNouns>
   </Government>
 
@@ -246,9 +246,9 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
     <Description>As governanças das Guildas Mercantis são altamente focadas no comércio e na indústria. A estrutura de governo geralmente é solta e informal – uma coleção dos principais membros da comunidade empresarial toma decisões importantes que afetam todos os cidadãos.
 
 As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia para seus cidadãos. Direitos básicos e liberdades são garantidos por um conjunto simples de leis que podem ser aplicadas a muitas situações. A atividade empreendedora é muito comum, criando um ambiente de negócios dinâmico onde altos níveis de riqueza são gerados rapidamente.</Description>
-    <ImageFilename></ImageFilename>
+    <ImageFilename/>
     <LeaderTitle>Grande Mercador</LeaderTitle>
-    <CabinetTitle></CabinetTitle>
+    <CabinetTitle/>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float> <!-- Undefined, i.e. Unused -->
@@ -362,7 +362,7 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>Diplomacy</Type>
@@ -370,7 +370,7 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
@@ -378,7 +378,7 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchConstruction</Type>
@@ -386,7 +386,7 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
@@ -394,7 +394,7 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
@@ -402,7 +402,7 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>MiningRate</Type>
@@ -410,7 +410,7 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ShipMaintenanceAll</Type>
@@ -418,7 +418,7 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>PlanetaryFacilityMaintenance</Type>
@@ -426,7 +426,7 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TradeIncome</Type>
@@ -434,7 +434,7 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyIncome</Type>
@@ -442,18 +442,18 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 	  
 	  <TradeIncomePerYearPerRestrictedTradeTreaty>1000</TradeIncomePerYearPerRestrictedTradeTreaty>
-	  <TradeIncomePerYearPerLimitedTradeTreaty>3000</TradeIncomePerYearPerLimitedTradeTreaty>
-	  <TradeIncomePerYearPerFreeTradeTreaty>5000</TradeIncomePerYearPerFreeTradeTreaty>
+	  <TradeIncomePerYearPerLimitedTradeTreaty>2000</TradeIncomePerYearPerLimitedTradeTreaty>
+	  <TradeIncomePerYearPerFreeTradeTreaty>3000</TradeIncomePerYearPerFreeTradeTreaty>
 
 	  <LeaderReplacementTypicalPeriod>40</LeaderReplacementTypicalPeriod>
 	  <LeaderReplacementDisruption>0</LeaderReplacementDisruption>
 	  <LeaderReplacementBoost>10</LeaderReplacementBoost>
-	  <LeaderReplacementCharacterPool></LeaderReplacementCharacterPool>
+	  <LeaderReplacementCharacterPool/>
 	  <LeaderReplacementTypicalManner>Election</LeaderReplacementTypicalManner>
 	  <Stability>1.2</Stability>
     <ConcernForOwnReputation>1</ConcernForOwnReputation>
@@ -466,14 +466,14 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
-      <string>Livre</string>
+      <string>Free</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>(Sindicato)</string>
-      <string>(Consórcio)</string>
-      <string>(Corporação)</string>
-      <string>(Industries)</string>
-      <string>(Guildas)</string>
+      <string>Syndicate</string>
+      <string>Consortium</string>
+      <string>Corporation</string>
+      <string>Industries</string>
+      <string>Guilds</string>
     </EmpireNameNouns>
     <AllowControlMiningShips>true</AllowControlMiningShips>
   </Government>
@@ -487,9 +487,9 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
     <Description>Governos democráticos obtêm seu poder do povo que vive sob eles. Eleições competitivas são realizadas para selecionar representantes que governam por um período especificado.
 
 Os cidadãos em governos democráticos desfrutam de liberdades e direitos universalmente reconhecidos, tais como a liberdade de expressão política, de opinião e de imprensa. Além disso, esses governos geralmente defendem princípios fundamentais como a igualdade perante a lei, o devido processo legal e as liberdades civis.</Description>
-    <ImageFilename></ImageFilename>
+    <ImageFilename/>
     <LeaderTitle>Primeiro Ministro</LeaderTitle>
-    <CabinetTitle>Gabinete</CabinetTitle>
+    <CabinetTitle>Cabinet</CabinetTitle>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float>
@@ -613,7 +613,7 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>WarWearinessReduction</Type>
@@ -621,7 +621,7 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>CounterEspionage</Type>
@@ -629,7 +629,7 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
@@ -637,7 +637,7 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
@@ -645,7 +645,7 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecruitment</Type>
@@ -653,7 +653,7 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecoveryRate</Type>
@@ -661,7 +661,7 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopMaintenance</Type>
@@ -669,7 +669,7 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
@@ -677,7 +677,7 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TourismIncome</Type>
@@ -685,7 +685,7 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TradeIncome</Type>
@@ -693,13 +693,13 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 	  <LeaderReplacementTypicalPeriod>8</LeaderReplacementTypicalPeriod>
 	  <LeaderReplacementDisruption>0</LeaderReplacementDisruption>
 	  <LeaderReplacementBoost>10</LeaderReplacementBoost>
-	  <LeaderReplacementCharacterPool></LeaderReplacementCharacterPool>
+	  <LeaderReplacementCharacterPool/>
 	  <LeaderReplacementTypicalManner>Election</LeaderReplacementTypicalManner>
 
 	  <LeaderReplacementCharacterDismissChance>0.1</LeaderReplacementCharacterDismissChance>
@@ -716,25 +716,25 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 
 	  <FeatureExplanations>
-      <string>[HL]Espírito Empresarial:[/HL] chance de um evento positivo aleatório periódico que melhora temporariamente Pesquisa, Diplomacia, Espionagem ou a Militar. \nAcontece aproximadamente uma vez a cada 10 anos em média</string>
+		  <string>[HL]Enterprising Spirit:[/HL] chance of a periodic random positive event that temporarily improves Research, Diplomacy, Espionage or the Military.\nOccurs approximately once every 10 years on average</string>
 	  </FeatureExplanations>
 		  
     <EmpireNameAdjectives>
-      <string>Livre</string>
-      <string>Unida</string>
-      <string>Combinada</string>
-      <string>Grande</string>
-      <string>Grandiosa</string>
+      <string>Free</string>
+      <string>United</string>
+      <string>Combined</string>
+      <string>Great</string>
+      <string>Grand</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>(Império)</string>
-      <string>(República)</string>
-      <string>(Aliança)</string>
-      <string>(Território)</string>
-      <string>(Federação)</string>
-      <string>(Confederação)</string>
-      <string>(Coalizão)</string>
-      <string>(Colônias)</string>
+      <string>Empire</string>
+      <string>Republic</string>
+      <string>Alliance</string>
+      <string>Territory</string>
+      <string>Federation</string>
+      <string>Confederation</string>
+      <string>Coalition</string>
+      <string>Colonies</string>
     </EmpireNameNouns>
   </Government>
 
@@ -749,9 +749,9 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
 Sob os governos Feudalistas, uma classe nobre forma efetivamente um conselho governante. Eles concedem direitos e liberdades ao povo comum em troca de apoio militar deles.
 
 As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas estruturas sociais geralmente são muito estáticas. Cada um tem seu lugar predefinido na sociedade – eles se submetem ao seu chefe local.</Description>
-    <ImageFilename></ImageFilename>
+    <ImageFilename/>
     <LeaderTitle>Primeiro Lorde</LeaderTitle>
-      <CabinetTitle>Conselho Nobre</CabinetTitle>
+    <CabinetTitle>Noble Council</CabinetTitle>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float>
@@ -875,7 +875,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>WarWearinessReduction</Type>
@@ -883,7 +883,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>Diplomacy</Type>
@@ -891,7 +891,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
@@ -899,7 +899,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchWeapons</Type>
@@ -907,7 +907,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchTroops</Type>
@@ -915,7 +915,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchConstruction</Type>
@@ -923,7 +923,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
@@ -931,7 +931,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecruitment</Type>
@@ -939,7 +939,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecoveryRate</Type>
@@ -947,7 +947,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
 		<Bonus>
 			<Type>TroopExperienceGain</Type>
@@ -955,7 +955,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
 			<AppliesTo>Empire</AppliesTo>
 			<FilterId>0</FilterId>
 			<DiscoveryLevel>0</DiscoveryLevel>
-			<Description />
+			<Description/>
 		</Bonus>
 		<Bonus>
         <Type>TroopMaintenance</Type>
@@ -963,7 +963,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
@@ -971,7 +971,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>MiningRate</Type>
@@ -979,7 +979,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TourismIncome</Type>
@@ -987,7 +987,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ShipMaintenanceAll</Type>
@@ -995,7 +995,7 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 
@@ -1006,15 +1006,15 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
 	  </MilitaryShipRolesBuiltByPrivateSector>
 	  
 	  <FeatureExplanations>
-      <string>[HL]Milícia Aprimorada:[/HL] as tropas da milícia defensora são muito mais fortes do que o normal, proporcionando melhor defesa contra invasores. Quando uma de suas colônias é conquistada, qualquer rebelião contra os invasores também produzirá tropas de milícia mais fortes ao tentarem retornar ao seu império</string>
-      <string>[HL]Obrigação Feudal:[/HL] taxa de recrutamento de tropas dobrada por 2 anos após o início de uma guerra</string>
-      <string>[HL]Marinha de Corso:[/HL] Nobres dentro do seu império financiarão a construção e operação de um pequeno número de Escoltas para defender o transporte civil. Essas naves são financiadas pela sua economia privada (compra e manutenção). Elas não podem ser controladas manualmente</string>
+		  <string>[HL]Upgraded Militia:[/HL] defending militia troops are much stronger than usual, providing better defense against invaders. When one of your colonies is conquered, any rebellion against the invaders will also produce stronger militia troops as they attempt to return to your empire</string>
+		  <string>[HL]Feudal Obligation:[/HL] doubled Troop Recruitment Rate for 2 years after a war starts</string>
+		  <string>[HL]Privateer Navy:[/HL] Nobles within your empire will fund construction and operation of a small number of Escorts to defend civilian shipping. These ships are funded from your private economy (purchase and maintenance). They cannot be manually controlled</string>
 	  </FeatureExplanations>
 
 	  <LeaderReplacementTypicalPeriod>20</LeaderReplacementTypicalPeriod>
 	  <LeaderReplacementDisruption>20</LeaderReplacementDisruption>
 	  <LeaderReplacementBoost>0</LeaderReplacementBoost>
-	  <LeaderReplacementCharacterPool></LeaderReplacementCharacterPool>
+	  <LeaderReplacementCharacterPool/>
 	  <LeaderReplacementTypicalManner>CoupDetat</LeaderReplacementTypicalManner>
 	  <Stability>0.9</Stability>
     <ConcernForOwnReputation>0.9</ConcernForOwnReputation>
@@ -1027,19 +1027,19 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
-      <string>Unida</string>
-      <string>Combinada</string>
+      <string>United</string>
+      <string>Combined</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>(Império)</string>
-      <string>(Aliança)</string>
-      <string>(União)</string>
-      <string>(Grupo)</string>
-      <string>(Federação)</string>
-      <string>(Enclave)</string>
-      <string>(Conselho)</string>
-      <string>(Colônias)</string>
-      <string>(Alinhamento)</string>
+      <string>Empire</string>
+      <string>Alliance</string>
+      <string>Union</string>
+      <string>Group</string>
+      <string>Federation</string>
+      <string>Enclave</string>
+      <string>Council</string>
+      <string>Colonies</string>
+      <string>Alignment</string>
     </EmpireNameNouns>
   </Government>
 
@@ -1052,9 +1052,9 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
     <Description>As Monarquias investem o poder supremo em um indivíduo (o Monarca), que é o chefe de estado, frequentemente vitalício ou até abdicação. As Monarquias geralmente são hereditárias, com um filho do Monarca herdando o poder após a morte de seus pais.
 
 Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com um conselho governante de nobres ou representantes eleitos.</Description>
-    <ImageFilename></ImageFilename>
+    <ImageFilename/>
     <LeaderTitle>Imperador</LeaderTitle>
-    <CabinetTitle></CabinetTitle>
+    <CabinetTitle/>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float>
@@ -1175,7 +1175,7 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>CounterEspionage</Type>
@@ -1183,7 +1183,7 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
@@ -1191,7 +1191,7 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
 	   <Bonus>
         <Type>ResearchHighTech</Type>
@@ -1199,7 +1199,7 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecruitment</Type>
@@ -1207,7 +1207,7 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecoveryRate</Type>
@@ -1215,7 +1215,7 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopMaintenance</Type>
@@ -1223,7 +1223,7 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
@@ -1231,7 +1231,7 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TourismIncome</Type>
@@ -1239,7 +1239,7 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ShipMaintenanceAll</Type>
@@ -1247,7 +1247,7 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>PlanetaryFacilityMaintenance</Type>
@@ -1255,7 +1255,7 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 
@@ -1265,14 +1265,14 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
 	  <UnjustifiedWarsGiveNoPenaltyToWarWeariness>true</UnjustifiedWarsGiveNoPenaltyToWarWeariness>
 
 	  <FeatureExplanations>
-      <string>[HL]Nave Almirante:[/HL] pode designar uma nave militar como a nave almirante do seu império. Naves almirantes têm +10% em Direcionamento, Contramedidas, Manobras da Nave, Velocidade da Nave e Controle de Danos. Quando sua nave almirante destrói uma nave militar inimiga de tamanho igual ou maior, seu império recebe um bônus de felicidade de um ano. Quando sua nave almirante é destruída, seu império recebe uma penalidade de felicidade de um ano. Para designar uma nave militar como sua nave almirante, clique com o botão direito na nave para ver a opção no menu popup</string>
-      <string>[HL]Sempre Justificado:[/HL] todas as guerras que você declara são sempre consideradas justificadas pela sua população, reduzindo assim a taxa de cansaço de guerra</string>
+		  <string>[HL]Flag Ship:[/HL] can designate one military ship as your empire Flag ship. Flag ships have +10% Targeting, Countermeasures, Ship Maneuvering, Ship Speed and Damage Control. When your Flag ship destroys an enemy military ship of equal or greater size your empire receives a one-year happiness bonus. When your Flag ship is destroyed your empire receives a one-year happiness penalty. To assign a military ship as your Flag ship, right-click the ship for a popup menu option</string>
+		  <string>[HL]Always Justified:[/HL] all wars you declare are always considered justified by your population, thus slowing the growth rate of war weariness</string>
 	  </FeatureExplanations>
 
 	  <LeaderReplacementTypicalPeriod>60</LeaderReplacementTypicalPeriod>
 	  <LeaderReplacementDisruption>7</LeaderReplacementDisruption>
 	  <LeaderReplacementBoost>0</LeaderReplacementBoost>
-	  <LeaderReplacementCharacterPool></LeaderReplacementCharacterPool>
+	  <LeaderReplacementCharacterPool/>
 	  <LeaderReplacementTypicalManner>SimpleReplacement</LeaderReplacementTypicalManner>
 	  <Stability>0.85</Stability>
     <ConcernForOwnReputation>1.6</ConcernForOwnReputation>
@@ -1286,16 +1286,16 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
       <string>Imperial</string>
-      <string>Real</string>
-      <string>Grande</string>
+      <string>Royal</string>
+      <string>Great</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>(Dominium)</string>
-      <string>(Reino)</string>
-      <string>(Realm)</string>
-      <string>(Comunidade)</string>
-      <string>(Domínio)</string>
-      <string>(Dinastia)</string>
+      <string>Dominion</string>
+      <string>Kingdom</string>
+      <string>Realm</string>
+      <string>Commonwealth</string>
+      <string>Domain</string>
+      <string>Dynasty</string>
     </EmpireNameNouns>
   </Government>
 
@@ -1308,9 +1308,9 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
     <Description>A Ditadura Militar é uma forma autocrática de governo absoluto que não é restrita por leis, constituições ou outros fatores sociais e políticos.
 
 As Ditaduras Militares regulam quase todos os aspectos do comportamento público e privado de seus súditos. Sua estrutura política, social e civil é voltada para questões militares e guerra. Esses tipos de governos geralmente estão preocupados com a conquista e a expansão.</Description>
-    <ImageFilename></ImageFilename>
+    <ImageFilename/>
     <LeaderTitle>Senhor da Guerra</LeaderTitle>
-    <CabinetTitle>Conselho de Guerra</CabinetTitle>
+    <CabinetTitle>War Council</CabinetTitle>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float>
@@ -1431,7 +1431,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>WarWearinessReduction</Type>
@@ -1439,7 +1439,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>CounterEspionage</Type>
@@ -1447,7 +1447,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>Diplomacy</Type>
@@ -1455,7 +1455,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchWeapons</Type>
@@ -1463,7 +1463,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchTroops</Type>
@@ -1471,7 +1471,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
@@ -1479,7 +1479,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecruitment</Type>
@@ -1487,7 +1487,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecoveryRate</Type>
@@ -1495,7 +1495,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopMaintenance</Type>
@@ -1503,7 +1503,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
@@ -1511,7 +1511,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>MiningRate</Type>
@@ -1519,7 +1519,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TourismIncome</Type>
@@ -1527,7 +1527,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ShipMaintenanceAll</Type>
@@ -1535,7 +1535,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>PlanetaryFacilityMaintenance</Type>
@@ -1543,7 +1543,7 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TradeIncome</Type>
@@ -1551,13 +1551,13 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 	  
 	  <FeatureExplanations>
-      <string>[HL]Mundo de Guerra:[/HL] pode iniciar manualmente um evento temporário de Mundo de Guerra em uma de suas colônias para aumentos de +100% no Recrutamento de Tropas, Construção de Naves e Construção de Instalações, mas com redução na felicidade da colônia. Mundo de Guerra dura dois anos e custa 20.000 créditos para ser iniciado</string>
-      <string>[HL]Segurança Reconfortante:[/HL] alta presença de tropas em suas colônias adiciona até +5 de felicidade. Esse fator de aprovação da colônia começa quando você tem pelo menos metade dos níveis esperados de tropas para defender a colônia. Verifique os fatores de aprovação da colônia no Painel de Seleção para detalhes</string>
+		  <string>[HL]War World:[/HL] can manually initiate a temporary War World event at one of your colonies for +100% boosts to Troop Recruitment, Ship Construction and Facility Construction, but with reduced colony happiness. War World lasts for two years and costs 20,000 credits to initiate</string>
+		  <string>[HL]Reassuring Security:[/HL] high troop presence at your colonies adds up to +5 happiness. This colony approval factor starts when you have at least half the expected troop levels to defend the colony. Check the colony approval factors in the Selection Panel for details</string>
 	  </FeatureExplanations>
 
 	  <HighColonyTroopPresenceHappinessBoost>5</HighColonyTroopPresenceHappinessBoost>
@@ -1582,17 +1582,17 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
       <string>Imperial</string>
-      <string>Grande</string>
-      <string>Grandiosa</string>
+      <string>Great</string>
+      <string>Grand</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>(Império)</string>
-      <string>(Território)</string>
-      <string>(Nação)</string>
-      <string>(Supremacia)</string>
-      <string>(Autoridade)</string>
-      <string>(Soberania)</string>
-      <string>(Hegemonia)</string>
+      <string>Empire</string>
+      <string>Territory</string>
+      <string>Nation</string>
+      <string>Supremacy</string>
+      <string>Authority</string>
+      <string>Sovereignty</string>
+      <string>Hegemony</string>
     </EmpireNameNouns>
   </Government>
 
@@ -1607,9 +1607,9 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
 As Tecnocracias geralmente são altamente eficientes e livres de corrupção. No entanto, frequentemente impõem um controle rigoroso sobre o comportamento de seus cidadãos. Essa perda de liberdade pessoal às vezes pode levar a protestos.
 
 O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian e Zenox.</Description>
-    <ImageFilename></ImageFilename>
+    <ImageFilename/>
     <LeaderTitle>Administrador</LeaderTitle>
-    <CabinetTitle>Painel de Especialistas</CabinetTitle>
+    <CabinetTitle>Panel of Experts</CabinetTitle>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float>
@@ -1730,7 +1730,7 @@ O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>CounterEspionage</Type>
@@ -1738,7 +1738,7 @@ O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
@@ -1746,7 +1746,7 @@ O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchHighTech</Type>
@@ -1754,7 +1754,7 @@ O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
@@ -1762,7 +1762,7 @@ O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
@@ -1770,7 +1770,7 @@ O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>MiningRate</Type>
@@ -1778,7 +1778,7 @@ O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
 
 		<Bonus>
@@ -1857,12 +1857,12 @@ O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian 
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
-      <string>Unida</string>
+      <string>United</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>(Império)</string>
-      <string>(Tecnocracia)</string>
-      <string>(Ascendência)</string>
+      <string>Empire</string>
+      <string>Technocracy</string>
+      <string>Ascendancy</string>
     </EmpireNameNouns>
   </Government>
 
@@ -1877,9 +1877,9 @@ O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian 
 Nas Mentes Colmeia, todo trabalho é dividido entre castas sociais distintas. Algumas castas são responsáveis pela produção de alimentos, outras pela defesa, enquanto outras cuidam da administração. Em algumas sociedades alienígenas, até a reprodução é especializada em uma pequena casta, com uma ou mais "rainhas" produzindo cada nova geração.
 
 O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara e Dhayut.</Description>
-    <ImageFilename></ImageFilename>
+    <ImageFilename/>
     <LeaderTitle>Grande Supervisor</LeaderTitle>
-    <CabinetTitle></CabinetTitle>
+    <CabinetTitle/>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float>
@@ -2003,7 +2003,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>WarWearinessReduction</Type>
@@ -2011,7 +2011,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>CounterEspionage</Type>
@@ -2019,7 +2019,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>Diplomacy</Type>
@@ -2027,7 +2027,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
@@ -2035,7 +2035,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
@@ -2043,7 +2043,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecruitment</Type>
@@ -2051,7 +2051,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecoveryRate</Type>
@@ -2059,7 +2059,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopMaintenance</Type>
@@ -2067,7 +2067,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
@@ -2075,7 +2075,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TourismIncome</Type>
@@ -2083,7 +2083,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ShipMaintenanceAll</Type>
@@ -2091,7 +2091,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>PlanetaryFacilityMaintenance</Type>
@@ -2099,7 +2099,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TradeIncome</Type>
@@ -2107,7 +2107,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
 	</Bonuses>
 
@@ -2115,14 +2115,14 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
 	  <WartimeColonyEventDefinitionId>89</WartimeColonyEventDefinitionId>
 
 	  <FeatureExplanations>
-      <string>[HL]Saltos Intuitivos:[/HL] Precisão de salto hiperespacial dobrada ao sair de um salto em um local onde seu império tem presença estabelecida (colônia ou base)</string>
-      <string>[HL]Geração de Guerra:[/HL] Taxa de crescimento populacional aumenta em +50% durante períodos de guerra</string>
+		  <string>[HL]Intuitive Jumps:[/HL] Hyperjump accuracy doubled when exiting a jump at a location where your empire has an established presence (colony or base)</string>
+		  <string>[HL]War Spawning:[/HL] Population growth rate increases by +50% during war time</string>
 	  </FeatureExplanations>
 
 	  <LeaderReplacementTypicalPeriod>1000</LeaderReplacementTypicalPeriod>
 	  <LeaderReplacementDisruption>10</LeaderReplacementDisruption>
 	  <LeaderReplacementBoost>0</LeaderReplacementBoost>
-	  <LeaderReplacementCharacterPool></LeaderReplacementCharacterPool>
+	  <LeaderReplacementCharacterPool/>
 	  <LeaderReplacementTypicalManner>SimpleReplacement</LeaderReplacementTypicalManner>
 	  <Stability>1.3</Stability>
     <ConcernForOwnReputation>0.2</ConcernForOwnReputation>
@@ -2135,23 +2135,23 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
-      <string>Grande</string>
+      <string>Great</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>(Colmeia)</string>
-      <string>(Coletiva)</string>
-      <string>(Conformidade)</string>
-      <string>(Consciência)</string>
+      <string>Hive</string>
+      <string>Collective</string>
+      <string>Conformity</string>
+      <string>Consciousness</string>
     </EmpireNameNouns>
   </Government>
 
   <Government>
     <GovernmentId>8</GovernmentId>
     <Name>Caminho da Escuridão</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
     <LeaderTitle>Senhor das Trevas</LeaderTitle>
-    <CabinetTitle></CabinetTitle>
+    <CabinetTitle/>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float>
@@ -2275,7 +2275,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>WarWearinessReduction</Type>
@@ -2283,7 +2283,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>CounterEspionage</Type>
@@ -2291,7 +2291,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
@@ -2299,7 +2299,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
@@ -2307,7 +2307,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecruitment</Type>
@@ -2315,7 +2315,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecoveryRate</Type>
@@ -2323,7 +2323,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopMaintenance</Type>
@@ -2331,7 +2331,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ShipMaintenanceAll</Type>
@@ -2339,45 +2339,45 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
-      <Bonus>
+	  <Bonus>
         <Type>ColonyCorruptionReduction</Type>
         <Amount>0.2</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
-      <Bonus>
+	  <Bonus>
         <Type>PlanetaryFacilityMaintenance</Type>
         <Amount>0.1</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
-      <Bonus>
+	  <Bonus>
         <Type>TourismIncome</Type>
         <Amount>-0.5</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyIncome</Type>
-        <Amount>0</Amount>
+        <Amount>0.2</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 	  <LeaderReplacementTypicalPeriod>100</LeaderReplacementTypicalPeriod>
 	  <LeaderReplacementDisruption>20</LeaderReplacementDisruption>
 	  <LeaderReplacementBoost>0</LeaderReplacementBoost>
-	  <LeaderReplacementCharacterPool></LeaderReplacementCharacterPool>
+	  <LeaderReplacementCharacterPool/>
 	  <LeaderReplacementTypicalManner>CoupDetat</LeaderReplacementTypicalManner>
 	  <Stability>1</Stability>
     <ConcernForOwnReputation>0.1</ConcernForOwnReputation>
@@ -2394,10 +2394,10 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
   <Government>
     <GovernmentId>9</GovernmentId>
     <Name>Caminho dos Antigos</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
     <LeaderTitle>Líder Supremo</LeaderTitle>
-    <CabinetTitle>Gabinete</CabinetTitle>
+    <CabinetTitle>Cabinet</CabinetTitle>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float>
@@ -2518,7 +2518,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>WarWearinessReduction</Type>
@@ -2526,7 +2526,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>Diplomacy</Type>
@@ -2534,31 +2534,39 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
+      </Bonus>
+	  <Bonus>
+        <Type>CounterEspionage</Type>
+        <Amount>0.1</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <FilterId>0</FilterId>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
-        <Amount>0.2</Amount>
+        <Amount>0.1</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
-        <Amount>0.2</Amount>
+        <Amount>0.15</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
-        <Amount>0.3</Amount>
+        <Amount>0.1</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TourismIncome</Type>
@@ -2566,7 +2574,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ShipMaintenanceAll</Type>
@@ -2574,15 +2582,15 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>PlanetaryFacilityMaintenance</Type>
-        <Amount>0.1</Amount>
+        <Amount>0.2</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TradeIncome</Type>
@@ -2590,25 +2598,25 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyIncome</Type>
-        <Amount>0</Amount>
+        <Amount>0.05</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 	  <LeaderReplacementTypicalPeriod>300</LeaderReplacementTypicalPeriod>
 	  <LeaderReplacementDisruption>0</LeaderReplacementDisruption>
 	  <LeaderReplacementBoost>10</LeaderReplacementBoost>
-	  <LeaderReplacementCharacterPool></LeaderReplacementCharacterPool>
+	  <LeaderReplacementCharacterPool/>
 	  <LeaderReplacementTypicalManner>SimpleReplacement</LeaderReplacementTypicalManner>
 	  <Stability>1.4</Stability>
     <ConcernForOwnReputation>1.5</ConcernForOwnReputation>
-    <ImportanceOfOthersReputations>1.7</ImportanceOfOthersReputations>
+    <ImportanceOfOthersReputations>2</ImportanceOfOthersReputations>
     <UsesCabinet>true</UsesCabinet>
     <CabinetFactorNavalChief>0</CabinetFactorNavalChief>
     <CabinetFactorGroundForcesChief>0</CabinetFactorGroundForcesChief>
@@ -2620,10 +2628,10 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
 <Government>
     <GovernmentId>10</GovernmentId>
     <Name>Caminho dos Ancestrais</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
     <LeaderTitle>Líder Supremo</LeaderTitle>
-    <CabinetTitle>Gabinete</CabinetTitle>
+    <CabinetTitle>Cabinet</CabinetTitle>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float>
@@ -2744,7 +2752,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>WarWearinessReduction</Type>
@@ -2752,39 +2760,39 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>Diplomacy</Type>
-        <Amount>0.1</Amount>
+        <Amount>0.15</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
+        <Amount>0.05</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <FilterId>0</FilterId>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description/>
+      </Bonus>
+      <Bonus>
+        <Type>ColonyHappiness</Type>
         <Amount>0.1</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
-      <Bonus>
-        <Type>ColonyHappiness</Type>
-        <Amount>0.15</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <FilterId>0</FilterId>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
-        <Amount>0.15</Amount>
+        <Amount>0.05</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TourismIncome</Type>
@@ -2792,23 +2800,23 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ShipMaintenanceAll</Type>
-        <Amount>0</Amount>
+        <Amount>0.05</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>PlanetaryFacilityMaintenance</Type>
-        <Amount>0</Amount>
+        <Amount>0.1</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TradeIncome</Type>
@@ -2816,7 +2824,7 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyIncome</Type>
@@ -2824,25 +2832,25 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
 	   <Bonus>
         <Type>CounterEspionage</Type>
-        <Amount>-0.1</Amount>
+        <Amount>0.05</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 	<LeaderReplacementTypicalPeriod>300</LeaderReplacementTypicalPeriod>
 	<LeaderReplacementDisruption>0</LeaderReplacementDisruption>
 	<LeaderReplacementBoost>10</LeaderReplacementBoost>
-	<LeaderReplacementCharacterPool></LeaderReplacementCharacterPool>
+	<LeaderReplacementCharacterPool/>
 	<LeaderReplacementTypicalManner>SimpleReplacement</LeaderReplacementTypicalManner>
 	<Stability>1.4</Stability>
     <ConcernForOwnReputation>1.5</ConcernForOwnReputation>
-    <ImportanceOfOthersReputations>1.7</ImportanceOfOthersReputations>
+    <ImportanceOfOthersReputations>2</ImportanceOfOthersReputations>
     <UsesCabinet>true</UsesCabinet>
     <CabinetFactorNavalChief>0</CabinetFactorNavalChief>
     <CabinetFactorGroundForcesChief>0</CabinetFactorGroundForcesChief>

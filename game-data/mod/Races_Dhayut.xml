@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfRace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Race>
     <RaceId>10</RaceId>
@@ -50,6 +50,7 @@
 		  <short>5</short>
 		  <short>7</short>
 		  <short>12</short>
+		  <short>32759</short>
 	  </AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
@@ -66,6 +67,11 @@
 		  <CharacterMissionType>InfluenceEmpirePositively</CharacterMissionType>
 		  <CharacterMissionType>InfluenceEmpireNegatively</CharacterMissionType>
 		  <CharacterMissionType>CaptureBase</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -203,12 +209,12 @@
       </RaceFactor>
     </Biases>
 	  <FeatureExplanations>
-      <string>[HL]Desinformação:[/HL] O sucesso da missão de Cobertura Profunda contra outra facção também fornece a habilidade de criar desinformação em todos os níveis, fazendo com que a facção-alvo veja os Dhayuts de maneira mais positiva</string>
-      <string>[HL]Conluio Inspirado:[/HL] Sempre que uma missão difícil de inteligência obtém sucesso, proporciona um impulso a todas as missões de espionagem contra aquela facção no próximo ano</string>
-      <string>[HL]Traço de Líder Único - Escravizador:[/HL] +10% de renda da política de Escravidão</string>
-      <string>[HL]Traço de Líder Único - Dividir e Conquistar:[/HL] +5% de Felicidade</string>
-      <string>[HL]Traço de Espião Único - Tecelão Cauteloso:[/HL] +10% de Contra-espionagem</string>
-      <string>[HL]Traço de Espião Único - Golpes das Sombras:[/HL] +10% de Assassinato</string>
+		  <string>[HL]Desinformação:[/HL] O sucesso da missão de Cobertura Profunda contra outra facção também fornece a habilidade de criar desinformação em todos os níveis, fazendo com que a facção-alvo veja os Dhayuts de maneira mais positiva</string>
+		  <string>[HL]Conluio Inspirado:[/HL] Sempre que uma missão difícil de inteligência obtém sucesso, proporciona um impulso a todas as missões de espionagem contra aquela facção no próximo ano</string>
+		  <string>[HL]Traço de Líder Único - Escravizador:[/HL] +10% de renda da política de Escravidão</string>
+		  <string>[HL]Traço de Líder Único - Dividir e Conquistar:[/HL] +5% de Felicidade</string>
+		  <string>[HL]Traço de Espião Único - Tecelão Cauteloso:[/HL] +10% de Contra-espionagem</string>
+		  <string>[HL]Traço de Espião Único - Golpes das Sombras:[/HL] +10% de Assassinato</string>
 	  </FeatureExplanations>
     <VictoryConditions>
       <VictoryCondition>

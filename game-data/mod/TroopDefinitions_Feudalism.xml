@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfTroopDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<TroopDefinition>
 		<TroopDefinitionId>32700</TroopDefinitionId>
@@ -7,7 +7,7 @@
 		<Size>4000</Size>
 		<RecruitmentCost>
 			<Money>0</Money>
-			<Resources />
+			<Resources/>
 		</RecruitmentCost>
 		<MaintenanceCost>0</MaintenanceCost>
 		<AttackStrength>50</AttackStrength>

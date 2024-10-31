@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfColonyEventDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>38</ColonyEventDefinitionId>
@@ -46,7 +46,6 @@
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Conspiração Influenciada</Name>
     <Description>Nossos esforços bem-sucedidos de espionagem inspiraram nosso povo a abraçar nossos valores Dhayut! No próximo ano, podemos esperar que nossos esforços em Espionagem, Sabotagem e Evasão de Varredura sejam todos 20% mais bem-sucedidos.</Description>
-
     <ImageFilename>Environment/Events/inspired conniving</ImageFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
@@ -79,9 +78,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Engenheiros Elogiados</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>43</ColonyEventDefinitionId>
@@ -120,8 +118,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Engenheiros Executados</Name>
-    <Description></Description>
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>44</ColonyEventDefinitionId>
@@ -153,9 +151,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Engano Agradável</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>45</ColonyEventDefinitionId>
@@ -187,9 +184,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Sucesso no Saqueio</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>46</ColonyEventDefinitionId>
@@ -221,9 +217,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Sucesso na Enganação</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>47</ColonyEventDefinitionId>
@@ -255,9 +250,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Cientista Espalhando Medo</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>48</ColonyEventDefinitionId>
@@ -289,9 +283,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Mundo Natal Antigo Exposto</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>49</ColonyEventDefinitionId>
@@ -314,9 +307,8 @@
     </OrbTypeFilters>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Não Manipulado pelos Antigos Ikkuro</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>52</ColonyEventDefinitionId>
@@ -348,9 +340,8 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Os Dhayut corruptos estão mortos</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>53</ColonyEventDefinitionId>
@@ -382,8 +373,7 @@
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
     <Name>Os Dhayut corruptos são nossos escravos</Name>
-    <Description></Description>
-
-    <ImageFilename></ImageFilename>
+    <Description/>
+    <ImageFilename/>
   </ColonyEventDefinition>
 </ArrayOfColonyEventDefinition>

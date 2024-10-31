@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfTroopDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TroopDefinition>
     <TroopDefinitionId>64</TroopDefinitionId>
@@ -32,7 +32,6 @@
     <EvasionArmor>0.1</EvasionArmor>
     <InterceptWeaponComponentId>324</InterceptWeaponComponentId>
     <Name>Enxame de Defesa Exo</Name>
-
     <ImageFilename>Extras/TroopSymbols/Planetary_defence</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>

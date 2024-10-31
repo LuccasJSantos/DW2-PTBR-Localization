@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfTroopDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TroopDefinition>
     <TroopDefinitionId>0</TroopDefinitionId>
@@ -7,7 +7,7 @@
     <Size>4000</Size>
     <RecruitmentCost>
       <Money>1250</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>100</MaintenanceCost>
     <AttackStrength>60</AttackStrength>
@@ -28,7 +28,7 @@
     <Size>4000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>150</MaintenanceCost>
     <AttackStrength>120</AttackStrength>
@@ -49,7 +49,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>120</AttackStrength>
@@ -70,7 +70,7 @@
     <Size>10000</Size>
     <RecruitmentCost>
       <Money>3750</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>375</MaintenanceCost>
     <AttackStrength>288</AttackStrength>
@@ -91,7 +91,7 @@
     <Size>15000</Size>
     <RecruitmentCost>
       <Money>3500</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>350</MaintenanceCost>
     <AttackStrength>48</AttackStrength>
@@ -113,7 +113,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>5000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>500</MaintenanceCost>
     <AttackStrength>240</AttackStrength>
@@ -134,7 +134,7 @@
     <Size>20000</Size>
     <RecruitmentCost>
       <Money>15000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>1000</MaintenanceCost>
     <AttackStrength>600</AttackStrength>
@@ -155,7 +155,7 @@
     <Size>4000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>65</AttackStrength>
@@ -176,7 +176,7 @@
     <Size>8000</Size>
     <RecruitmentCost>
       <Money>3750</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>375</MaintenanceCost>
     <AttackStrength>156</AttackStrength>
@@ -197,7 +197,7 @@
     <Size>12000</Size>
     <RecruitmentCost>
       <Money>3500</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>350</MaintenanceCost>
     <AttackStrength>26</AttackStrength>
@@ -219,7 +219,7 @@
     <Size>4000</Size>
     <RecruitmentCost>
       <Money>5000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>500</MaintenanceCost>
     <AttackStrength>130</AttackStrength>
@@ -240,7 +240,7 @@
     <Size>16000</Size>
     <RecruitmentCost>
       <Money>15000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>1000</MaintenanceCost>
     <AttackStrength>325</AttackStrength>
@@ -261,7 +261,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>125</AttackStrength>
@@ -282,7 +282,7 @@
     <Size>10000</Size>
     <RecruitmentCost>
       <Money>3750</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>375</MaintenanceCost>
     <AttackStrength>300</AttackStrength>
@@ -303,7 +303,7 @@
     <Size>15000</Size>
     <RecruitmentCost>
       <Money>3500</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>350</MaintenanceCost>
     <AttackStrength>50</AttackStrength>
@@ -325,7 +325,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>5000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>500</MaintenanceCost>
     <AttackStrength>250</AttackStrength>
@@ -346,7 +346,7 @@
     <Size>20000</Size>
     <RecruitmentCost>
       <Money>15000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>1000</MaintenanceCost>
     <AttackStrength>625</AttackStrength>
@@ -367,7 +367,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>140</AttackStrength>
@@ -388,7 +388,7 @@
     <Size>10000</Size>
     <RecruitmentCost>
       <Money>3750</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>375</MaintenanceCost>
     <AttackStrength>336</AttackStrength>
@@ -409,7 +409,7 @@
     <Size>15000</Size>
     <RecruitmentCost>
       <Money>3500</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>350</MaintenanceCost>
     <AttackStrength>56</AttackStrength>
@@ -431,7 +431,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>5000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>500</MaintenanceCost>
     <AttackStrength>280</AttackStrength>
@@ -452,7 +452,7 @@
     <Size>20000</Size>
     <RecruitmentCost>
       <Money>15000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>1000</MaintenanceCost>
     <AttackStrength>700</AttackStrength>
@@ -473,7 +473,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>135</AttackStrength>
@@ -494,7 +494,7 @@
     <Size>10000</Size>
     <RecruitmentCost>
       <Money>3750</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>375</MaintenanceCost>
     <AttackStrength>324</AttackStrength>
@@ -515,7 +515,7 @@
     <Size>15000</Size>
     <RecruitmentCost>
       <Money>3500</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>350</MaintenanceCost>
     <AttackStrength>54</AttackStrength>
@@ -537,7 +537,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>5000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>500</MaintenanceCost>
     <AttackStrength>270</AttackStrength>
@@ -558,7 +558,7 @@
     <Size>20000</Size>
     <RecruitmentCost>
       <Money>15000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>1000</MaintenanceCost>
     <AttackStrength>675</AttackStrength>
@@ -579,7 +579,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>90</AttackStrength>
@@ -600,7 +600,7 @@
     <Size>10000</Size>
     <RecruitmentCost>
       <Money>3750</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>375</MaintenanceCost>
     <AttackStrength>216</AttackStrength>
@@ -621,7 +621,7 @@
     <Size>15000</Size>
     <RecruitmentCost>
       <Money>3500</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>350</MaintenanceCost>
     <AttackStrength>36</AttackStrength>
@@ -643,7 +643,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>5000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>500</MaintenanceCost>
     <AttackStrength>180</AttackStrength>
@@ -664,7 +664,7 @@
     <Size>20000</Size>
     <RecruitmentCost>
       <Money>15000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>1000</MaintenanceCost>
     <AttackStrength>450</AttackStrength>
@@ -685,7 +685,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>105</AttackStrength>
@@ -706,7 +706,7 @@
     <Size>10000</Size>
     <RecruitmentCost>
       <Money>3750</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>375</MaintenanceCost>
     <AttackStrength>252</AttackStrength>
@@ -727,7 +727,7 @@
     <Size>15000</Size>
     <RecruitmentCost>
       <Money>3500</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>350</MaintenanceCost>
     <AttackStrength>42</AttackStrength>
@@ -749,7 +749,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>5000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>500</MaintenanceCost>
     <AttackStrength>210</AttackStrength>
@@ -770,7 +770,7 @@
     <Size>20000</Size>
     <RecruitmentCost>
       <Money>15000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>1000</MaintenanceCost>
     <AttackStrength>525</AttackStrength>
@@ -808,7 +808,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>84</AttackStrength>
@@ -820,7 +820,7 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Brigada Guardiã</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -830,7 +830,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>68</AttackStrength>
@@ -842,7 +842,7 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Grupo de Caça</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -860,7 +860,7 @@
     <EvasionTitan>0.25</EvasionTitan>
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <Name>Brigada de Mercenários</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -870,7 +870,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>92</AttackStrength>
@@ -882,7 +882,7 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Enxame de Guerra</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -892,7 +892,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>72</AttackStrength>
@@ -904,7 +904,7 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Grupo de Batalha</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -914,7 +914,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>128</AttackStrength>
@@ -926,7 +926,7 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Brigada de Troopers de Batalha</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -936,7 +936,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>129</AttackStrength>
@@ -948,7 +948,7 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Clã de Combate</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -958,7 +958,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>96</AttackStrength>
@@ -970,7 +970,7 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Brigada de BattleMechs</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -980,7 +980,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>76</AttackStrength>
@@ -992,7 +992,7 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Grupo de Exploradores</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -1002,7 +1002,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>81</AttackStrength>
@@ -1014,7 +1014,7 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Força Protetora</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -1024,7 +1024,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>130</AttackStrength>
@@ -1036,7 +1036,7 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Brigada do Exterminador</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -1046,7 +1046,7 @@
     <Size>5000</Size>
     <RecruitmentCost>
       <Money>2000</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>200</MaintenanceCost>
     <AttackStrength>72</AttackStrength>
@@ -1058,27 +1058,30 @@
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Brigada WarBot</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
-  <TroopDefinition>
-    <TroopDefinitionId>54</TroopDefinitionId>
-    <RaceId>20</RaceId>
-    <Type>Infantry</Type>
-    <Size>5000</Size>
-    <MaintenanceCost>0</MaintenanceCost>
-    <AttackStrength>0</AttackStrength>
-    <DefendStrength>0</DefendStrength>
-    <SabotageStrength>0</SabotageStrength>
-    <EvasionInfantry>0</EvasionInfantry>
-    <EvasionArmor>0</EvasionArmor>
-    <EvasionTitan>0</EvasionTitan>
-    <EvasionPlanetaryDefense>0</EvasionPlanetaryDefense>
-    <EvasionSpecialForces>0</EvasionSpecialForces>
-    <Name>Enxame de Assassinos</Name>
-    <Description />
-    <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
-  </TroopDefinition>
+	<TroopDefinition>
+		<TroopDefinitionId>54</TroopDefinitionId>
+		<RaceId>20</RaceId>
+		<Type>Infantry</Type>
+		<Size>5000</Size>
+		<RecruitmentCost>
+			<Money>2000</Money>
+		</RecruitmentCost>
+		<MaintenanceCost>200</MaintenanceCost>
+		<AttackStrength>170</AttackStrength>
+		<DefendStrength>255</DefendStrength>
+		<SabotageStrength>0</SabotageStrength>
+		<EvasionInfantry>0</EvasionInfantry>
+		<EvasionArmor>0.25</EvasionArmor>
+		<EvasionTitan>0.25</EvasionTitan>
+		<EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
+		<EvasionSpecialForces>0</EvasionSpecialForces>
+		<Name>Enxame de Assassinos</Name>
+		<Description/>
+		<ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
+	</TroopDefinition>
   <TroopDefinition>
     <TroopDefinitionId>55</TroopDefinitionId>
     <RaceId>21</RaceId>
@@ -1094,7 +1097,7 @@
     <EvasionPlanetaryDefense>0</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
     <Name>Guardiões Mecânicos</Name>
-    <Description />
+    <Description/>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
@@ -1104,7 +1107,7 @@
     <Size>4000</Size>
     <RecruitmentCost>
       <Money>0</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>100</MaintenanceCost>
     <AttackStrength>30</AttackStrength>
@@ -1125,7 +1128,7 @@
     <Size>4000</Size>
     <RecruitmentCost>
       <Money>0</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>0</MaintenanceCost>
     <AttackStrength>40</AttackStrength>
@@ -1146,7 +1149,7 @@
     <Size>4000</Size>
     <RecruitmentCost>
       <Money>0</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>0</MaintenanceCost>
     <AttackStrength>10</AttackStrength>
@@ -1167,7 +1170,7 @@
     <Size>4000</Size>
     <RecruitmentCost>
       <Money>0</Money>
-      <Resources />
+      <Resources/>
     </RecruitmentCost>
     <MaintenanceCost>0</MaintenanceCost>
     <AttackStrength>40</AttackStrength>

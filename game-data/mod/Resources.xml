@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Resource>
     <ResourceId>0</ResourceId>
@@ -6,7 +6,7 @@
     <Description>Cristal Emeros é uma pedra preciosa verde brilhante. É tipicamente usada em componentes de armas. Cristal Emeros é encontrado em mundos Vulcânicos e ocasionalmente em mundos Carbonáceos.</Description>
     <BaseCost>8</BaseCost>
     <ImageFilename>Environment/Resources/EmerosCrystal</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>1</ResourceId>
@@ -14,7 +14,7 @@
     <Description>Pedra Nekros é uma pedra preciosa vermelha profunda usada em componentes de armas. Pedra Nekros é encontrada em mundos Vulcânicos e ocasionalmente em mundos Desérticos Rochosos.</Description>
     <BaseCost>5</BaseCost>
     <ImageFilename>Environment/Resources/NekrosStone</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>2</ResourceId>
@@ -22,7 +22,7 @@
     <Description>Osalia é uma pedra preciosa roxa usada em componentes de armas. Pedras Osalia são encontradas em mundos Vulcânicos, Desérticos e Continentais.</Description>
     <BaseCost>11</BaseCost>
     <ImageFilename>Environment/Resources/Osalia</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>3</ResourceId>
@@ -30,7 +30,7 @@
     <Description>Cristal Kaasiano é uma rara pedra preciosa azul-aqua. É tipicamente usada em componentes de armas de alta qualidade. Cristal Kaasiano é encontrado em mundos Oceânicos.</Description>
     <BaseCost>18</BaseCost>
     <ImageFilename>Environment/Resources/KaasianCrystal</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>4</ResourceId>
@@ -38,7 +38,7 @@
     <Description>Argônio é um gás inerte amarelo. É tipicamente usado em armas, blindagem e componentes de reatores. Argônio é encontrado em mundos de Gigantes Gasosos e Gigantes Gasosos Congelados.</Description>
     <BaseCost>7</BaseCost>
     <ImageFilename>Environment/Resources/Argon</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>5</ResourceId>
@@ -46,7 +46,7 @@
     <Description>Criptônio é um gás inerte verde. É tipicamente usado em armas, blindagem e componentes de reatores. Pequenas quantidades são encontradas em mundos de Gigantes Gasosos e Gigantes Gasosos Congelados.</Description>
     <BaseCost>10</BaseCost>
     <ImageFilename>Environment/Resources/Krypton</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>6</ResourceId>
@@ -54,7 +54,7 @@
     <Description>Tyderios é um gás inerte raro usado em armas, blindagem e componentes de reatores. Gás Tyderios tem um tom rosado. É mais pesado que o ar e afunda ao nível do solo, a menos que seja sustentado por outros gases ao redor. É encontrado em pequenas quantidades em mundos de Gelo e Gigantes Gasosos Congelados.</Description>
     <BaseCost>15</BaseCost>
     <ImageFilename>Environment/Resources/Tyderios</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>7</ResourceId>
@@ -62,7 +62,7 @@
     <Description>Silício é usado em componentes eletrônicos e coletores de energia. É encontrado em mundos Rochosos de Silício e Desérticos.</Description>
     <BaseCost>5</BaseCost>
     <ImageFilename>Environment/Resources/Silicon</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>8</ResourceId>
@@ -70,7 +70,7 @@
     <Description>Aço é um material de construção muito comum fundido a partir de minério de ferro. Grandes quantidades de aço são necessárias para construir a maioria das naves e bases. Minério de ferro é geralmente encontrado em mundos Rochosos Metálicos e Continentais, ou em asteroides.</Description>
     <BaseCost>5</BaseCost>
     <ImageFilename>Environment/Resources/Steel</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>9</ResourceId>
@@ -78,7 +78,7 @@
     <Description>Mebnar é um metal muito denso fundido a partir de minério de Mebnar. Tem uma aparência cinza escuro, quase preta. É particularmente útil como blindagem pesada em componentes de reatores. Mebnar é frequentemente encontrado em mundos Rochosos Metálicos e asteroides.</Description>
     <BaseCost>6</BaseCost>
     <ImageFilename>Environment/Resources/Mebnar</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>10</ResourceId>
@@ -86,7 +86,7 @@
     <Description>Aculon é um metal azul muito forte e resistente ao calor fundido a partir de minério de Aculon. É tipicamente usado em componentes que são expostos a temperaturas extremas. Minério de Aculon é encontrado em mundos Vulcânicos e Rochosos Metálicos e em asteroides.</Description>
     <BaseCost>12</BaseCost>
     <ImageFilename>Environment/Resources/Aculon</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>11</ResourceId>
@@ -94,7 +94,7 @@
     <Description>Cuprica é um metal brilhante fundido a partir de minério de Cuprica. É extremamente forte e leve e tem uma aparência vermelho-acastanhada brilhante. Cuprica é comumente usado em armas de feixe e torpedos. É encontrado em alguns planetas Rochosos Metálicos e em asteroides.</Description>
     <BaseCost>18</BaseCost>
     <ImageFilename>Environment/Resources/Cuprica</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>12</ResourceId>
@@ -102,7 +102,7 @@
     <Description>Polímeros são vários tipos de plásticos, geralmente produzidos a partir de petróleo. É tipicamente usado em componentes eletrônicos. Polímero é encontrado em mundos Oceânicos, Pântanos Pantanosos e Continentais.</Description>
     <BaseCost>6</BaseCost>
     <ImageFilename>Environment/Resources/Polymer</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>13</ResourceId>
@@ -110,7 +110,7 @@
     <Description>Carbonita é um composto de carbono extremamente resistente, frequentemente empregado em componentes que exigem alta durabilidade e capacidade de suportar temperaturas elevadas. Esse material é encontrado em mundos de Pântanos Pantanosos, Florestas de Mangue, além de ambientes Continentais e Carbonáceos.</Description>
     <BaseCost>9</BaseCost>
     <ImageFilename>Environment/Resources/Carbonite</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>14</ResourceId>
@@ -118,7 +118,7 @@
     <Description>Caslon é um gás comum que é um combustível universal para reatores. É encontrado em mundos de Gigantes Gasosos.</Description>
     <BaseCost>3</BaseCost>
     <ImageFilename>Environment/Resources/Caslon</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   
   <Resource>
@@ -1207,7 +1207,7 @@
     <Description>Quartzo Dyrillium é usado em componentes eletrônicos de alta qualidade e coletores de energia. É encontrado em mundos Vulcânicos de Enxofre.</Description>
     <BaseCost>12</BaseCost>
     <ImageFilename>Environment/Resources/DyrilliumQuartz</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
   <Resource>
     <ResourceId>78</ResourceId>
@@ -1215,6 +1215,6 @@
     <Description>Hexodório é um tipo único de polímero. É muito forte e resistente a danos. Tem muitos usos em vários componentes de alta qualidade. Hexodório é geralmente encontrado em mundos de Gelo Congelado, embora outros planetas de Gelo também possam ter pequenos depósitos.</Description>
     <BaseCost>19</BaseCost>
     <ImageFilename>Environment/Resources/Hexodorium</ImageFilename>
-    <Bonuses />
+    <Bonuses/>
   </Resource>
 </ArrayOfResource>

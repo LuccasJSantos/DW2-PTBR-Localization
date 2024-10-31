@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfRace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Race>
     <RaceId>5</RaceId>
@@ -56,6 +56,7 @@
 		  <short>2</short>
 		  <short>3</short>
 		  <short>11</short>
+		  <short>32759</short>
 	  </AllowableGovernmentIds>
 	  <AllowableIntelligenceMissionTypes>
 		  <CharacterMissionType>CounterIntelligence</CharacterMissionType>
@@ -69,6 +70,11 @@
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 	  <Bonuses>
       <Bonus>
@@ -219,11 +225,11 @@
       </RaceFactor>
     </Biases>
 	  <FeatureExplanations>
-		<string>[HL]Diplomacia de Consenso:[/HL] +5 no limite para assinar novos tratados, +2 de ganho de Confiança de Longo Prazo (ambos impérios) para todos os tratados com Ikkuro</string>
-		<string>[HL]Respeito pela Vida:[/HL] -10 de Felicidade se Bombardear ou Destruir um mundo, ou escolher Extermínio como política populacional para uma colônia</string>
-		<string>[HL]Segredos da Vida:[/HL] +10 de Felicidade e +10% na taxa de crescimento populacional para todas as colônias por um ano ao colonizar pela primeira vez um tipo novo de mundo. Também habilita novos projetos de pesquisa para melhorar ainda mais a adequação ao novo tipo de mundo</string>
-		<string>[HL]Proteção da Vida:[/HL] +5 de Felicidade para todas as colônias por um ano ao assinar um novo Tratado de Não-Agressão ou Defensivo com outra facção</string>
-		<string>[HL]Disonância:[/HL] -10 de Felicidade por um ano quando a guerra irrompe entre Ikkuro e outra facção</string>
+		  <string>[HL]Diplomacia de Consenso:[/HL] +5 no limite para assinar novos tratados, +2 de ganho de Confiança de Longo Prazo (ambos impérios) para todos os tratados com Ikkuro</string>
+		  <string>[HL]Respeito pela Vida:[/HL] -10 de Felicidade se Bombardear ou Destruir um mundo, ou escolher Extermínio como política populacional para uma colônia</string>
+		  <string>[HL]Segredos da Vida:[/HL] +10 de Felicidade e +10% na taxa de crescimento populacional para todas as colônias por um ano ao colonizar pela primeira vez um tipo novo de mundo. Também habilita novos projetos de pesquisa para melhorar ainda mais a adequação ao novo tipo de mundo</string>
+		  <string>[HL]Proteção da Vida:[/HL] +5 de Felicidade para todas as colônias por um ano ao assinar um novo Tratado de Não-Agressão ou Defensivo com outra facção</string>
+		  <string>[HL]Disonância:[/HL] -10 de Felicidade por um ano quando a guerra irrompe entre Ikkuro e outra facção</string>
 	  </FeatureExplanations>
     <VictoryConditions>
       <VictoryCondition>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfColonyEventDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 	<ColonyEventDefinition>
@@ -25,7 +25,6 @@
 		<ValuesDecayGradually>false</ValuesDecayGradually>
 		<Name>Debates Internos</Name>
 		<Description>Nossa recente assinatura de um tratado de defesa causou preocupação entre nossa população, provocando debates a favor e contra. Isso reduziu a felicidade em todo o nosso império.</Description>
-
 		<ImageFilename>Environment/Events/Internal Debates</ImageFilename>
 	</ColonyEventDefinition>
 	<ColonyEventDefinition>
@@ -59,7 +58,6 @@
 		<ValuesDecayGradually>false</ValuesDecayGradually>
 		<Name>Segurança Reforçada</Name>
 		<Description>O contra-espionagem melhorou, mas a felicidade deteriorou após os esforços recentes para melhorar a segurança interna, seguindo o sucesso de uma missão de inteligência estrangeira contra nós.</Description>
-
 		<ImageFilename>Environment/Events/Heightened Security</ImageFilename>
 	</ColonyEventDefinition>
 

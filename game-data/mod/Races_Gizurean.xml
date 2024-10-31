@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfRace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Race>
     <RaceId>11</RaceId>
@@ -35,6 +35,7 @@
       <short>14</short>
       <short>3</short>
 		<short>0</short>
+		<short>32759</short>
 	</AllowableGovernmentIds>
 	  <PreferredGovernmentIds>
 		  <short>14</short>
@@ -51,11 +52,16 @@
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 
-	  <SalvageAdvancedTechBoostFactor>0.25</SalvageAdvancedTechBoostFactor>
-	  <RetireAdvancedTechBoostFactor>0.25</RetireAdvancedTechBoostFactor>
-	  <RetireCompleteAdvancedTechBonusResearchAmount>50</RetireCompleteAdvancedTechBonusResearchAmount>
+	  <SalvageAdvancedTechBoostFactor>0.1</SalvageAdvancedTechBoostFactor>
+	  <RetireAdvancedTechBoostFactor>0.1</RetireAdvancedTechBoostFactor>
+	  <RetireCompleteAdvancedTechBonusResearchAmount>30</RetireCompleteAdvancedTechBonusResearchAmount>
 	  <ColonyConquestGameEventName>Scouring Choice (Gizurean)</ColonyConquestGameEventName>
 	  <OtherRaceExterminateGrowthRatePerColony>0</OtherRaceExterminateGrowthRatePerColony>
 	  <OtherRaceExterminateColonyEventDefinitionId>73</OtherRaceExterminateColonyEventDefinitionId>
@@ -69,16 +75,16 @@
 	  </AdditionalCharacterTraits>
 
 	  <FeatureExplanations>
-		<string>[HL]Nada é Desperdiçado:[/HL] Aumenta em 25% a chance de impulsionar tecnologia ao desmantelar ou aposentar uma nave com tecnologia avançada. Impulsiona adicionalmente a tecnologia ao aposentar completamente uma nave avançada</string>
-		<string>[HL]A Devastação:[/HL] Escolha "devastar" uma colônia inimiga recém-conquistada. A devastação reinicia o desenvolvimento da colônia, consome 10% da população, adiciona uma penalidade temporária de felicidade e danifica a reputação. Entretanto, proporciona um avanço tecnológico adicional de conquista, um grande estoque de recursos e aumenta temporariamente o crescimento populacional dos Gizureanos em todo o seu império</string>
-		<string>[HL]Rivalidades:[/HL] Deve-se selecionar entre 2 personagens em uma disputa de poder, matando um deles, mas impulsionando o outro com novas habilidades e características</string>
-		<string>[HL]Mundo de Criação:[/HL] Fornece um bônus à taxa de crescimento populacional dos Gizureanos em todo o seu império sempre que você usar a política de Exterminar população contra uma raça não-Gizureana em uma de suas colônias. Mundos de Criação adicionais fornecem bônus cumulativos</string>
-		<string>[HL]Conflito Tribal:[/HL] Impulsiona temporariamente a taxa de crescimento populacional dos Gizureanos em todo o império, mas com uma penalidade de felicidade acompanhante</string>
-		<string>[HL]Comando de Enxame:[/HL] Computador de mira especial para naves que permite maior precisão de mira com base no número total de naves em uma frota</string>
-		<string>[HL]Traço de Líder Único - Condutor Talentoso:[/HL] +10% Felicidade da Colônia</string>
-		<string>[HL]Traço de Líder Único - Mente Controladora:[/HL] +10% Redução de Corrupção</string>
-		<string>[HL]Traço de General Único - Senhor do Enxame:[/HL] +10% Taxa de Recrutamento de Tropas, +10% Economia de Manutenção de Tropas</string>
-		<string>[HL]Traço de General Único - Supervisor de Larvas:[/HL] +10% Taxa de Recuperação de Tropas</string>
+		  <string>[HL]Nada é Desperdiçado:[/HL] Aumenta em 25% a chance de impulsionar tecnologia ao desmantelar ou aposentar uma nave com tecnologia avançada. Impulsiona adicionalmente a tecnologia ao aposentar completamente uma nave avançada</string>
+		  <string>[HL]A Devastação:[/HL] Escolha "devastar" uma colônia inimiga recém-conquistada. A devastação reinicia o desenvolvimento da colônia, consome 10% da população, adiciona uma penalidade temporária de felicidade e danifica a reputação. Entretanto, proporciona um avanço tecnológico adicional de conquista, um grande estoque de recursos e aumenta temporariamente o crescimento populacional dos Gizureanos em todo o seu império</string>
+		  <string>[HL]Rivalidades:[/HL] Deve-se selecionar entre 2 personagens em uma disputa de poder, matando um deles, mas impulsionando o outro com novas habilidades e características</string>
+		  <string>[HL]Mundo de Criação:[/HL] Fornece um bônus à taxa de crescimento populacional dos Gizureanos em todo o seu império sempre que você usar a política de Exterminar população contra uma raça não-Gizureana em uma de suas colônias. Mundos de Criação adicionais fornecem bônus cumulativos</string>
+		  <string>[HL]Conflito Tribal:[/HL] Impulsiona temporariamente a taxa de crescimento populacional dos Gizureanos em todo o império, mas com uma penalidade de felicidade acompanhante</string>
+		  <string>[HL]Comando de Enxame:[/HL] Computador de mira especial para naves que permite maior precisão de mira com base no número total de naves em uma frota</string>
+		  <string>[HL]Traço de Líder Único - Condutor Talentoso:[/HL] +10% Felicidade da Colônia</string>
+		  <string>[HL]Traço de Líder Único - Mente Controladora:[/HL] +10% Redução de Corrupção</string>
+		  <string>[HL]Traço de General Único - Senhor do Enxame:[/HL] +10% Taxa de Recrutamento de Tropas, +10% Economia de Manutenção de Tropas</string>
+		  <string>[HL]Traço de General Único - Supervisor de Larvas:[/HL] +10% Taxa de Recuperação de Tropas</string>
 	  </FeatureExplanations>
 	  
 		  <VictoryConditions>
@@ -226,7 +232,7 @@
 			<Factor>-0.05</Factor>
 		</OrbTypeFactor>    
 	</ColonizationSuitabilityModifiers>
-    <MinimumSuitabilityForColonization />
+    <MinimumSuitabilityForColonization/>
 	  <StartingResearchProjectIds>
 		  <short>768</short>
 		  <short>4</short>

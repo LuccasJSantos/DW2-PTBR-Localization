@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfGovernment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Government>
     <GovernmentId>13</GovernmentId>
@@ -6,15 +6,14 @@
     <StartingGameEventNames>
         <string>Initialise Government (Geniocracy)</string>
     </StartingGameEventNames>
-    <Description>Uma Geniocracia é governada pelos membros mais inteligentes de uma sociedade - os gênios. Aqueles que desejam liderar devem primeiro passar por testes elaborados de inteligência e habilidades de resolução de problemas, que geralmente começam logo após o nascimento. Esses testes são abrangentes e contínuos à medida que um candidato busca ascender na hierarquia. O objetivo final é garantir que apenas aqueles que provaram ser os mais intelectualmente capazes estejam no comando.
+	  <Description>Uma Geniocracia é governada pelos membros mais inteligentes de uma sociedade - os gênios. Aqueles que desejam liderar devem primeiro passar por testes elaborados de inteligência e habilidades de resolução de problemas, que geralmente começam logo após o nascimento. Esses testes são abrangentes e contínuos à medida que um candidato busca ascender na hierarquia. O objetivo final é garantir que apenas aqueles que provaram ser os mais intelectualmente capazes estejam no comando.
 
 Uma Geniocracia também organiza o propósito da sociedade e seus esforços em direção a um único objetivo - avançar o conhecimento. Todas as outras considerações são secundárias, o que significa que as Geniocracias podem parecer relativamente austeras e focadas em um só propósito. Através do avanço da ciência, espera-se que todas as outras necessidades sejam atendidas ao longo do tempo. A busca pelo conhecimento como objetivo primário resulta em inovações em todas as áreas que promovem o bem-estar geral. Para manter esse foco, as Geniocracias geralmente são harmoniosas, mas essa harmonia é mantida por meio de uma ordem interna estrita.</Description>
-
-    <ImageFilename />
+    <ImageFilename/>
 	  <LeaderTitle>Mestre Iluminado</LeaderTitle>
-    <CabinetTitle />
-    <EconomicFactors />
-    <Biases />
+    <CabinetTitle/>
+    <EconomicFactors/>
+    <Biases/>
     <Bonuses>
       <Bonus>
         <Type>ResearchAll</Type>
@@ -22,7 +21,7 @@ Uma Geniocracia também organiza o propósito da sociedade e seus esforços em d
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecruitment</Type>
@@ -30,7 +29,7 @@ Uma Geniocracia também organiza o propósito da sociedade e seus esforços em d
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecoveryRate</Type>
@@ -38,7 +37,7 @@ Uma Geniocracia também organiza o propósito da sociedade e seus esforços em d
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>MiningRate</Type>
@@ -46,7 +45,7 @@ Uma Geniocracia também organiza o propósito da sociedade e seus esforços em d
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TradeIncome</Type>
@@ -54,7 +53,7 @@ Uma Geniocracia também organiza o propósito da sociedade e seus esforços em d
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyIncome</Type>
@@ -62,7 +61,7 @@ Uma Geniocracia também organiza o propósito da sociedade e seus esforços em d
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 
@@ -89,19 +88,19 @@ Uma Geniocracia também organiza o propósito da sociedade e seus esforços em d
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 	  <EmpireNameAdjectives>
-      <string>Sábio</string>
-      <string>Astuto</string>
-      <string>Adepto</string>
+		  <string>Wise</string>
+		  <string>Astute</string>
+		  <string>Adept</string>
 	  </EmpireNameAdjectives>
 	  <EmpireNameNouns>
-      <string>(Academia)</string>
-      <string>(Fundação)</string>
-      <string>(Conselho)</string>
-      <string>(Guilda)</string>
-      <string>(Liga)</string>
-      <string>(Ordem)</string>
+		  <string>Academy</string>
+		  <string>Foundation</string>
+		  <string>Council</string>
+		  <string>Guild</string>
+		  <string>League</string>
+		  <string>Order</string>
 	  </EmpireNameNouns>
-    <ExtraIntelligenceMissionTypes />
+    <ExtraIntelligenceMissionTypes/>
 	  <ColonyGrowthFundingFactor>0</ColonyGrowthFundingFactor>
 	  <SpendScientistCrashBreakthrough>true</SpendScientistCrashBreakthrough>
 	  <SpendScientistCriticalResearchFailure>true</SpendScientistCriticalResearchFailure>
