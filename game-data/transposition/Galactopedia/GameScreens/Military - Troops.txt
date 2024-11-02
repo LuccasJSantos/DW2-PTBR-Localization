@@ -1,0 +1,28 @@
+Tradutora profissional de inglês para português brasileiro especializada no gênero ficção científica.
+
+Tropas são utilizadas para invadir colônias inimigas e defender suas colônias contra invasões.
+
+Unidades de tropas são recrutadas em suas colônias e levam tempo para alcançar a prontidão operacional. Colônias maiores podem treinar e recuperar tropas mais rápido do que as menores.
+
+Novas unidades de tropa podem ser desbloqueadas através da pesquisa. Unidades de tropa de nível superior só podem ser recrutadas quando a instalação planetária requisitada é construída em uma colônia.
+
+Tropas podem ser guarnecidas em colônias. Isso significa que elas estão permanentemente estacionadas na colônia para defendê-la, e assim não serão recolhidas por navios de transporte de tropas.
+
+As unidades de tropa têm um custo monetário único para o recrutamento. Elas também têm custos anuais de manutenção contínuos.
+
+Cada tropa tem um tamanho: algumas são pequenas ( Infantaria ) enquanto outras são maiores ( Blindadas, Defesa Planetária ). O tamanho é importante ao se considerar a capacidade de transporte de tropas nos navios de transporte e frotas de invasão.
+
+[H3]Tipos de Unidades de Tropas[/H3]
+Existem 5 tipos de unidades de tropas:
+[ULI]Infantaria: a unidade de defesa básica de tropa. A infantaria está disponível desde o início do jogo. Cada raça tem sua própria unidade de infantaria única com diversas forças e fraquezas.[/ULI]
+[ULI]Blindadas: a unidade principal de ataque de tropa. Requer uma instalação de Barracas Blindadas para ser recrutada.[/ULI]
+[ULI]Defesa Planetária: unidades especializadas de defesa planetária que podem interceptar tropas inimigas à medida que elas viajam dos navios de desembarque à superfície planetária. Requer uma instalação de Centro de Defesa Planetária para ser recrutada.[/ULI]
+[ULI]Forças Especiais: unidades altamente treinadas de infantaria que se especializam em eliminar defesas coloniais durante uma invasão (facilidades terrestres, unidades de defesa planetária, generais inimigos). As forças especiais defensivas se concentram em eliminar as unidades de forças especiais invadingentesRequer uma instalação de Barracas de Operações Especiais para ser recrutada.[/ULI]
+[ULI]Titãs: unidades de ataque altas e poderosas. Requer um Centro de Fabricação de Titãs para ser recrutada.[/ULI]
+
+[H3]Lista de Tropas[/H3]
+Esta tela lista todas as unidades de tropa do seu império. Verifique as opções extensivas de classificação e filtro no topo do painel. Você pode classificar por força de ataque e defesa, custo de manutenção e localização. Pode filtrar por tipo de tropa, status de guarnição e localização (colônias vs transportes).
+
+Ao reduzir a distância para o nível galáctico ou do sistema, as tropas são destacadas no mapa. Passando o mouse sobre um item na lista fará uma marcação no local do mapa. Clicar no item o selecionará. Clicar duas vezes no item fará com que a vista se mova até aquele local.
+
+Cada item da lista mostra a força de ataque, a força de defesa e o custo de manutenção para a unidade de tropa. Passando o mouse sobre um item da lista exibirá um resumo detalhado em um painel à direita. As tropas guarnecidas são indicadas por uma linha azul sob sua imagem.

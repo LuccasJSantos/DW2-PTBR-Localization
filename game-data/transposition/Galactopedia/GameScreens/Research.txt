@@ -1,0 +1,21 @@
+Pesquisa desbloqueia nova tecnologia que você pode usar para aprimorar seu império de diversas maneiras:
+[ULI]novos cascos e componentes de nave permitem construir navios e instalações maiores e melhores[/ULI]
+[ULI]novas instalações planetárias ajudam a aperfeiçoar suas colônias[/ULI]
+[ULI]melhora sua capacidade de colonizar novos mundos[/ULI]
+[ULI]melhora suas tropas terrestres[/ULI]
+[ULI]proporciona várias bonificações, incluindo o aperfeiçoamento das relações diplomáticas com outras facções[/ULI]
+
+[Título 3]Tela de Pesquisa[/Título 3]
+Na tela de pesquisa você pode visualizar a árvore tecnológica inteira e selecionar novos projetos para pesquisar.
+
+Você também pode acelerar o progresso da pesquisa pagando para 'pesquisar em ritmo acelerado' um projeto.
+
+[Título 3]Projetos Concurrentes[/Título 3]
+Quando você tem várias estações de pesquisa, pode pesquisar mais de um projeto ao mesmo tempo.
+
+Você define o limite superior para quantos projetos podem ser pesquisados simultaneamente usando esse valor.
+
+[Título 3]Fontes e Produção[/Título 3]
+A produção de pesquisa vem da população em suas colônias e estações de pesquisa que você constrói.
+
+Para explorar ao máximo a produção de pesquisa, também deve gastar o excesso de fundos em pesquis

@@ -1,0 +1,7 @@
+Esta tela lista todos os bônus de pesquisa do seu império, separados por tipo. Os bônus de pesquisa são importantes de duas maneiras:
+[ULI]a velocidade de pesquisa é aumentada para projetos com o tipo de bônus correspondente, por exemplo, a pesquisa de Novas Carcaças de Naves é acelerada quando você tem bônus de pesquisa de construção[/ULI]
+[ULI]alguns projetos de pesquisa têm requisitos extras onde só podem ser iniciados quando você tem sufficientes bônus de pesquisa de um tipo particular, por exemplo, alguns projects de Escudo de Alto Nível requerem que você tenha uma certathreshold de bônus de pesquisa de Escudo[/ULI]
+
+Passando o cursor sobre cada tipo de bônus de pesquisa exibe um detalhamento completo de todas as fontes do bônus em um painel à direita.
+
+Estas fontes podem incluir locais onde você construiu uma estação de pesquisa. Também podem incluir cientistas e outros personagens. Outras fontes poderiam ser bônus de raça ou governo.

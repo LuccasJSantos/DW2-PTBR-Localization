@@ -1,0 +1,47 @@
+Summary:
+
+- Mining Ship:
+  - Owned by private citizens, not controllable by the empire.
+  - Mines high-demand resources and delivers them to the nearest spaceport.
+  - Can't assign missions.
+
+- Freighter:
+  - Also owned by private citizens, not controllable.
+  - Transports cargo between colonies, mining stations, and spaceports.
+  - All transportation of goods is handled by private citizens.
+  - Can't assign missions.
+
+- Passenger Ship:
+  - Privately owned, operates automatically for migration or tourism purposes.
+  - Can't assign missions.
+
+State-Owned Bases:
+
+- Spaceport:
+  - Built at colonies, serves as trade hub, construction facilities, defense, research, and population happiness.
+  - Resources from mining ships/freighters are brought here.
+  - Typically has one per colonized system for efficiency.
+  - Can be cycled through with the 'Y' key.
+
+- Research Station:
+  - Dedicated research facilities, built at locations with specific research bonuses.
+  - Unlocks new technology for the empire.
+
+- Resort Base:
+  - Built at scenic locations for tourism, earns income from tourists visiting.
+  - Lightly armed and defended.
+
+- Defensive Base:
+  - Provides powerful defense to important colonies.
+  - Can have multiple bases per colony for better protection.
+
+- Monitoring Station:
+  - Has long-range scanners for monitoring wide areas or spying on enemies.
+  - Built in quiet systems providing visibility of enemy locations.
+
+Civilian Bases:
+
+- Mining Station:
+  - Fixed mining platforms built at resource-rich planets/moons by construction ships.
+  - Extracts resources faster than mobile mining ships, patrolled by military ships for defense.
+  - Removed if the location is colonized.

@@ -1,0 +1,81 @@
+Aqui está a tradução:
+
+Visão Geral do Projeto: Exibe todas as estatísticas atuais para o seu projeto. Os valores neste painel mudam à medida que você adiciona e remove componentes da estrutura.
+
+Existem muitas seções na Visão Geral do Projeto exibindo dados sobre vários aspectos do projeto. Grande parte dos dados tem informações adicionais ao passar o mouse sobre eles.
+
+No topo está o nome do projeto. Clique aqui para digitar um novo nome.
+
+Recomendações
+Em seguida, há o botão de Recomendações. Este mostra um resumo de qualquer aviso ou erro no projeto atual.
+
+Passe o mouse sobre o botão de Recomendações para abrir um painel de resumo maior. Clique no botão para manter o painel de recomendações aberto.
+
+O projeto não é válido (e não pode ser salvo) até que quaisquer erros sejam resolvidos.
+
+Informações Gerais do Projeto
+Em seguida, há um resumo dos principais dados do projeto. Isso inclui informações sobre custos de compra e manutenção.
+
+Ele também destaca alguns requisitos importantes:
+[ULI]O projeto não pode ser maior do que o tamanho máximo permitido pela estrutura[/ULI]
+[ULI]Deve haver tripulação suficiente para o projeto[/ULI]
+
+Avaliação
+A seção Avaliação resume dados sobre o projeto em 4 áreas-chave: Força de Ataque, Força de Defesa, Velocidade e Manobra, e Sensores.
+
+Passe o mouse sobre cada valor para obter uma quebra dos fatores que contribuem para a avaliação em cada área.
+
+Energia
+A seção Energia resume a geração, armazenamento e distribuição de energia no projeto.
+
+Ele também mostra gráficos que ilustram como a energia é consumida tanto em velocidade subluz em combate quanto durante a viagem hiperspacial. Para bases, apenas um gráfico é mostrado.
+
+Um valor importante é a taxa de geração de energia do reator por unidade de combustível. Isso mostra a eficiência do uso de combustível do reator, o que tem um impacto direto na rapidez com que uma nave precisa se reabastecer.
+
+Movimento
+Esta seção é relevante apenas para navios. Ela mostra a velocidade de movimento e o consumo de energia em vários níveis.
+
+também são exibidos aqui a distância de salto do hiperdrive e a gama de combustível total.
+
+A precisão do salto do hiperdrive indica a distância mínima de saída do salto quando viaja para um local sem uma colônia ou base própria, por exemplo, ao atacar um local inimigo.
+
+Isso significa que o navio sairá do salto aproximadamente nessa distância e depois viajará à velocidade subluz em direção ao destino.
+
+Armas
+A seção Armas resume a faixa de armas e a taxa de dano por segundo em várias categorias de armas.
+
+Ao passar o mouse sobre os gráficos de dano de armas, são reveladas informações adicionais.
+
+Também são exibidas a capacidade de luta e a taxa de construção de lutadores.
+
+Defesa
+A seção Defesa mostra os valores de escudo, blindagem e reparo de danos para o projeto.
+
+Ao passar o mouse sobre os gráficos de escudo e blindagem, são reveladas informações adicionais.
+
+também são exibidas as defesas contra abordagens.
+
+Alvos e Contra-medidas
+Esta seção mostra os bônus de alvo e contra-medidas.
+
+Melhorar o alvo torna as armas mais precisas e aumenta a chance de atingir o alvo.
+
+A melhora das contra-medidas torna um projeto mais capaz de se livrar das armas inimigas e, assim, evitar danos.
+
+Sensores
+A seção Sensores resume a força e alcance de vários tipos diferentes de escaneamento:
+[ULI]Escaneamento geral curto e longo alcance para detectar navios distantes[/ULI]
+[ULI]Rastreio de salto hiperspacial de navios inimigos quando eles saltam longe da sua localização[/ULI]
+[ULI]Escaneamento de traço de informações internas sobre navios inimigos próximos[/ULI]
+[ULI]Blindagem contra escaneamento por parte dos inimigos[/ULI]
+
+Indústria
+A seção Indústria tem valores para várias categorias industriais como armazenamento de carga, throughput do porto espacial, mineração, pesquisa e outras.
+
+Bônus
+A seção Bônus resume quaisquer bônus fornecidos pela estrutura ou qualquer componente no projeto.
+
+Recursos Requeridos para Construir
+Esta seção mostra os recursos totais necessários para construir uma nova cópia deste projeto.
+
+Isso inclui recursos da estrutura e todos os componentes no projeto.

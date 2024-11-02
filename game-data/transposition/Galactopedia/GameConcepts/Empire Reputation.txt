@@ -1,0 +1,26 @@
+A reputação do seu império é como outros impérios o veem. Sua reputação é separada de qualquer relação específica com um Império único - é uma classificação de como suas ações passadas são vistas por TODOS os outros impérios.
+
+thus, sua reputação tem influência em sua diplomacia com todas as outras facções.
+
+sua reputação também tem um pequeno impacto na felicidade em suas colônias - uma reputação positiva dará um boost à felicidade, enquanto uma reputação negativa diminuirá a felicidade.
+
+[H3]Efeito do Governo sobre a Reputação[/H3]
+alguns tipos de governo prestam atenção particular à reputação de outro império, enquanto outros não se importam tanto com sua reputação.
+
+Em geral, Monarquias, Democracias, Repúblicas e Feudalismos se preocupam muito com as reputações dos outros impérios - eles geralmente não formarão alianças com eles a menos que tenham uma boa reputação.
+
+Por outro lado, Ditaduras Militares e Mentes Colméia não são tão elevadas - elas formarão alianças com quase qualquer um.
+
+[H3]Fatores que Afetam a Reputação[/H3]
+Fatores que podem impactar sua reputação incluem:
+[ULI][BOA]Honrar um tratado de defesa[/BOA] com outro império e declarar guerra contra seu inimigo (quando chamado por seu parceiro) terá um impacto positivo em sua reputação. Alternativamente, [MAU]falhar em honrar um tal tratado[/MAU] terá um efeito negativo em sua reputação.[/ULI]
+[ULI][BOA]Integrar pacificamente uma colônia independente[/BOA] através de diplomacia e colonização afetará positivamente sua reputação.[/ULI]
+[ULI][BOA]Destruir piratas[/BOA] terá um efeito positivo em sua reputação.[/ULI]
+[ULI][BOA]Destruir criaturas espaciais[/BOA] terá um efeito positivo em sua reputação.[/ULI]
+[ULI][AVISO]Declarar guerra contra outro império[/AVISO] terá um ligeiro impacto negativo em sua reputação, especialmente se a guerra for injustificada.[/ULI]
+[ULI][MAU]Atacar outros impérios sem provocação[/MAU] quando não estiverem em guerra com eles afetará negativamente sua reputação.[/ULI]
+[ULI][MAU]Missões de inteligência interceptadas[/MAU] contra outro império terão um efeito negativo em sua reputação.[/ULI]
+[ULI]Tomar uma [MAU]colônia independente por invasão[/MAU] (em vez de colonização) afetará negativamente sua reputação.[/ULI]
+[ULI][MAU]Bombardear colônias[/MAU] afetará muito negativamente sua reputação, a menos que o império alvo tenha uma reputação muito ruim. Nesses casos, outros impérios não se preocupam tanto com o bombardeio - eles sentem que o império alvo está Receiving what they deserve[/ULI]
+[ULI]Usar [MAU]políticas de escravidão ou extermínio[/MAU] em suas colônias afetará muito negativamente sua reputação.[/ULI]
+[ULI]Destruir colônias com [MAU]destruidores de planetas[/MAU] terá um efeito extremamente negativo em sua reputação. No entanto, como no caso do bombardeio acima, se o império alvo tiver uma reputação muito ruim, outros impérios não se preocuparão tanto.[/ULI]

@@ -1,0 +1,36 @@
+Políticas Populacionais proporcionam controle sobre quais raças alienígenas você permite em suas colônias.
+
+Essas podem ser definidas na tela de Políticas Populacionais, que aparece quando uma de suas colônias é selecionada. Passe o cursor sobre o ícone da política populacional no canto direito da linha de população para a colônia selecionada. Clique no ícone ou na tela para fixá-la aberto.
+
+Cada raça que você encontrou será listada, permitindo definir políticas específicas para cada raça alienígena em cada colônia.
+
+Você pode aplicar as configurações da colônia atual em todas as colônias de seu império ao clicar no botão 'Aplicar esta política a todas as colônias'.
+
+Os cinco diferentes ajustes de política populacional são descritos abaixo.
+
+[H3]Assimilar[/H3]
+Assimilar significa aceitar essa raça em seu império. Esta é a configuração padrão.
+
+[H3]Não Aceitar[/H3]
+Impedir a migração dessa raça para a colônia. Isso impedará navios de passageiros de descarregar migrantes desta raça na colônia.
+
+[H3]Reassentar[/H3]
+Ativamente migrar essa raça longe da colônia para outras que aceitam. Navios de passageiros pegarão essa raça na colônia.
+
+[H3]Escravizar[/H3]
+Escraviza essa raça, forçando-a ao trabalho pesado. Quando uma raça é escravizada em uma colônia, sua taxa de crescimento será zero.
+
+Para cada raça que você escravizar, os impérios correspondentes dessas raças ficaram ofendidos com suas ações. A quantidade de ofensa é diretamente relacionada à quantidade populacional que você escraviza.
+
+A escravidão também fornece um bônus à economia da colônia. A quantidade desse bônus depende da proporção da população total escravizada, até um máximo de 50% se toda a população for escravizada.
+
+Note que quando uma raça é escravizada, ela nunca será usada para estabelecer uma nova colônia, mesmo que seja a mais adequada para o planeta em seu império.
+
+[H3]Exterminar[/H3]
+Reduzir gradualmente essa raça na colônia até zero. Quando uma raça está sendo exterminada em uma colônia, sua taxa de crescimento será zero.
+
+Para cada raça que você estiver exterminando, os impérios correspondentes dessas raças ficaram ofendidos com suas ações. A quantidade de ofensa é diretamente relacionada à quantidade populacional que você exterminar.
+
+Exterminar raças também terá um impacto negativo na reputação do seu império – todos os outros impérios ficarão ofendidos com suas ações duras.
+
+Note que quando uma raça está sendo exterminada, ela nunca será usada para estabelecer uma nova colônia, mesmo que seja a mais adequada para o planeta em seu império.

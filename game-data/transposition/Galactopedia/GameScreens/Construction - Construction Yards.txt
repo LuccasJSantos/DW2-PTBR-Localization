@@ -1,0 +1,13 @@
+Yards de Construção são onde você constrói novas naves para seu império. Isso inclui portos espaciais, que geralmente são o meio mais rápido de construir novas naves. Suas colônias também podem construir navios e bases.
+
+[H3]Lista de Yards de Construção[/H3]
+Esta tela lista todos os yards de construção atuais em seu império. Verifique as opções de classificação e filtro no topo do painel. Você pode classificar por velocidade de construção ou tempo de espera atual da construção.
+
+Ao sair zoado para o nível galáctico ou do sistema, os yards de construção são destacados no mapa. Os insígnias do sistema e localização também indicam portos espaciais usando o ícone amarelo de construção. Pairando sobre um item na lista fará uma marcação no local do mapa. Clicar no item selecionará seu local. Clicar duas vezes no item moverá a visualização para esse local.
+
+[H3]Fila e Tempo de Espera de Construção[/H3]
+Cada item da lista mostra o tempo atual de espera para construção. Isso é o tempo antes que qualquer nova construção comece.
+
+ Também são mostrados os navios ou bases na fila de construção, incluindo quaisquer navios em trânsito para reparo ou retrofit (ainda não chegados). Passe o mouse sobre cada navio ou base para obter mais detalhes, incluindo a porcentagem de progresso da construção.
+
+Passar o mouse sobre um item da lista também exibirá um painel de resumo à direita. Este resumo mostra quantos yards de construção individuais o local tem. Também mostra o tempo atual de espera e as velocidades de construção e reparo.

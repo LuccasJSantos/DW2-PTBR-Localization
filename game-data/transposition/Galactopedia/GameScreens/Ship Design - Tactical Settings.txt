@@ -1,0 +1,3 @@
+Utilize os botões de configurações táticas para definir as estratégias padrão para o novo projeto. Essas estratégias padrão serão utilizadas para novas naves e bases utilizando o projeto.
+
+Após a construção das naves, elas poderão definir suas próprias estratégias, mas suas táticas iniciais são do seu projeto.

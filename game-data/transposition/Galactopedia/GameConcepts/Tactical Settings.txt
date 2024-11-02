@@ -1,0 +1,24 @@
+Based on the options you've provided, here's how I would set up my fleet tactical settings:
+
+1. Invade Colonies: When Clear
+   - This ensures that my troops won't face unnecessary losses from static defenses.
+
+2. Fleet Engagement Range: Same System
+   - I want my fleet to engage enemies within the same star system, but not beyond, unless manually controlled or automated for specific tasks like invasions or pursuits.
+
+3. Formation: Normal
+   - This provides a balance between protection and maneuverability. Very Tight could hinder evasive actions, while Very Loose might expose core ships to unnecessary risks.
+
+4. Allow Ship Role Reassignment: Ships retain current role within fleet
+   - I prefer to have specific roles for my ships, especially if they're part of a carefully crafted fleet composition.
+
+5. Retreat When: Enemy Strength 100% greater
+   - This gives my fleet some leeway in handling enemy strength fluctuations but draws the line at being outmatched by double our size. Retreating too easily could lead to unnecessary losses, while never retreating could be suicidal.
+
+Here's how it looks when applied:
+
+- Invade Colonies: When Clear
+- Fleet Engagement Range: Same System (but can be adjusted for specific tasks)
+- Formation: Normal
+- Allow Ship Role Reassignment: Ships retain current role within fleet
+- Retreat When: Enemy Strength 100% greater

@@ -1,0 +1,23 @@
+Pesquisa abre novas tecnologias para uso na construção de navios e bases. Também pode proporcionar ao seu império novas capacidades, como colonizar novos tipos de planetas ou construir novas instalações planetárias.
+
+Para obter essas novas tecnologias e capacidades, você deve realizar pesquisa em projetos específicos que desbloqueiam esses novos avanços.
+
+A pesquisa de projetos demora tempo. A velocidade da pesquisa é determinada pela saída de pesquisa das suas colônias e estações de pesquisa.
+
+Segue abaixo uma lista de benefícios que podem ser obtidos através da pesquisa:
+[novo Cascos de Navios permitindo construir novos tipos de navios ou bases][novos componentes completamente construídos em seus navios e bases, proporcionando novas capacidades][melhorias nos componentes existentes: seus navios e bases que usam esses componentes melhorados são automaticamente e imediatamente atualizados com capacidades aprimoradas. Isso reduz a necessidade de retrofit de seus navios e bases para se beneficiar dos avanços da pesquisa][novas instalações planetárias que podem ser construídas em suas colônias][a capacidade de colonizar novos tipos de planetas][melhorias nas habilidades das unidades militares][bonificações para o seu império em diversas áreas][melhorias na diplomacia com raças alienígenas específicas]
+
+Tela de Pesquisa
+Você pode visualizar os projetos de pesquisa disponíveis atualmente na tela de Pesquisa (F10).
+
+O lado esquerdo da tela tem projetos para os níveis tecnológicos mais baixos. São as tecnologias que você tem no início de um novo jogo.
+
+À medida que avança para a direita da tela, o nível tecnológico aumenta.
+
+Ao passar o cursor sobre um projeto, são fornecidos detalhes sobre a nova tecnologia e outros benefícios que ela proporciona.
+
+Ordem de Pesquisa
+Os projetos estão interligados por caminhos. Os projetos pais devem ser pesquisados antes dos filhos. À medida que pesquisa um projeto, quaisquer projetos filhos (geralmente à direita) são habilitados para pesquisa.
+
+Pesquisa Cega versus Não-Cega
+Quando seu jogo foi configurado para usar a pesquisa cega, você só pode ver os próximos projet

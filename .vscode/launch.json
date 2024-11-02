@@ -8,7 +8,7 @@
             "type": "node-terminal",
             "command": "npm start",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "Run AI",
             "skipFiles": [
                 "<node_internals>/**"
             ]

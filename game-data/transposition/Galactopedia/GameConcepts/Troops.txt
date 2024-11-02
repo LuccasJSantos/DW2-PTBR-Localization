@@ -1,0 +1,33 @@
+Forças defendem suas colônias contra invasões por impérios inimigos. Também podem ser utilizadas como forças de ataque para invadir e tomar colônias inimigas.
+
+[H3]Força e Preparo[/H3]Cada raça tem sua própria unidade de infantaria única. Esta é a unidade padrão que pode ser recrutada em colônias sem nenhuma instalação planetária especial. Esta unidade de infantaria tem uma força de defesa padrão.
+
+O preparo das forças para o combate é medido numa escala de 1 a 100. Forças com um nível de preparo de 100 estão completamente descansadas e prontas para a batalha. Quando as forças estão em combate, sofrem perdas e seu preparo diminui. O preparo leva tempo para voltar a 100. Instalações médicas podem acelerar a cura do preparo das forças.
+
+[H3]Recrutamento[/H3]Forças são recrutadas nas suas colônias. Elas custam dinheiro para serem mantidas, então só recrute forças que você realmente precisa. No entanto, note que os custos de manutenção de tropas só se aplicam a tropas completamente treinadas. Tropas sendo recrutadas não têm nenhum custo de manutenção.
+
+Também leva tempo para recrutar tropas - elas devem ser treinadas e equipadas. Os seguintes fatores influenciam o tempo de recrutamento de tropas:
+[ULI]Tamanho da colônia - populações maiores recrutam tropas mais rápido[/ULI]
+[ULI]Tipo de governo do seu império - alguns tipos de governo recrutam tropas mais rápido do que outros[/ULI]
+[ULI]Bônus de Recrutamento de Tropas - algumas instalações ou personagens podem fornecer bônus na taxa de recrutamento de tropas[/ULI]
+
+Você deve planejar com antecedência para ter tropas adequadas para suportar seus objetivos.
+
+Para recrutar novas forças, selecione uma das suas colônias, depois clique no botão "Gerenciar Tropas" sob o Painel de Seleção. Isso abrirá um conjunto de botões com todas as tropas que podem ser recrutadas na colônia.
+
+[H3]Garrisonamento[/H3]Unidades de tropas podem ser guarnecidas em uma colônia. Isso garante que elas não serão pegadas por navios de transporte de tropas, mas ficarão sempre na colônia para defendê-la.
+
+Quando as tropas estão guarnecidas, aparecem com uma linha azul abaixo do seu ícone.
+
+Você pode marcar tropas como guarnecidas selecionando uma das suas colônias, depois selecionando uma única unidade de tropa na área de Tropas. Os botões abaixo do Painel de Seleção mudarão para corresponder à unidade de tropa selecionada. Clique no botão "Garrisonar tropa" para alternar seu status de guarnição.
+
+[H3]Tipos de Tropas[/H3]Há cinco tipos de tropas:
+[ULI]Infantaria: a unidade padrão defensiva. Infantarias estão disponíveis desde o início do jogo. Cada raça tem sua própria unidade de infantaria única com diversas forças e fraquezas[/ULI]
+[ULI]Blindados: a unidade principal de ataque. Requere uma instalação de Barracas Blindadas para recrutar[/ULI]
+[ULI]Defesa Planetária: unidades especializadas defensivas que podem interceptar tropas inimigas à medida que viajam dos seus navios de desembarque à superfície do planeta. Requere uma instalação de Defesa Planetária para recrutar.[/ULI]
+[ULI]Forças Especiais: unidades altamente treinadas e equipadas para operações especiais. Requere uma instalação de Treinamento de Forças Especiais para recrutar[/ULI]
+[ULI]Mecanizadas: unidades de tropas montadas em veículos blindados para aumentar sua mobilidade e poder de fogo. Requere uma instalação de Produção Mecanizada para recrutar.[/ULI]
+
+[H3]Equilibrar e Planejar[/H3]Tenha cuidado para não recrutar muitas tropas - os custos de manutenção podem ser um grande dreno nos seus fundos.
+
+Assim, quando você estiver em paz com seus vizinhos, minimize as despesas mantendo apenas o mínimo necessário de tropas nas suas colônias-chave. Quando você decidir passar para a ofensiva contra outro império, recrute mais tropas.

@@ -1,0 +1,19 @@
+Objetivo chave de qualquer guerra é tomar e controlar território do seu oponente. Nesse caso, o território do seu oponente consiste principalmente em suas colônias.
+
+Invadir uma colônia inimiga envolve enviar tropas terrestres dos seus navios. Uma vez desembarcadas, as suas tropas então lutam com quaisquer tropas defensivas do outro império.
+
+Nota que você pode exibir uma vista detalhada e animada das batalhas terrestres abrindo a tela de Relatório Terrestre. Para abrir essa tela, primeiro selecione a colônia no Painel de Seleção, depois clique na área de Tropas no Painel de Seleção.
+
+[H3]Iniciando uma invasão[/H3]
+Para iniciar uma invasão em uma colônia inimiga, selecione um dos seus navios transportadores de tropas ou até mesmo uma frota inteira. Depois, clique com o botão direito do mouse em uma colônia inimiga para atacá-la.
+
+Quando você ordena uma frota a invadir, a frota verificará se há suficientes tropas de ataque no local. A invasão começará assim que houver suficiente tropas (transporte a bordo) chegando ao local.
+
+Qualquer navio que transporte tropas tentará então desembarcá-las em uma invasão.
+
+[H3]Processo de Desembarque[/H3]
+Para desembarcar suas tropas de invasão, seus navios precisam se aproximar da colônia. Quando estiverem dentro do alcance, os navios lançarão tropas em Póds de Assalto, que então viajarão até a superfície planetária.
+
+Enquanto viajam para a superfície do planeta, os Póds de Assalto são vulneráveis a fogo de interceptação das armas inimigas e tropas defensivas planetárias. Qualquer escudo planetário na colônia também danificará as tropas invasoras.
+
+Uma vez que suas tropas tenham desembarcado no planeta, a batalha terrestre começará.

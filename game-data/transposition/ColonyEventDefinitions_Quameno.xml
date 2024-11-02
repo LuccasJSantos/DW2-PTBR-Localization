@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ArrayOfColonyEventDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>58</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>1</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<Bonuses>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>-0.2</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Distrações Alienígenas</Name>
+		<Description>O tratado recentemente assinado distraiu nossos cidadãos de suas tarefas, pois eles estão temporariamente preocupados com os novos povos alienígenas. Como resultado, a felicidade em todo o império aumentou, mas a produção de pesquisa diminuiu.</Description>
+		<ImageFilename>Environment/Events/alien distractions</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>59</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1</DurationMinimum>
+		<DurationMaximum>1</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>-50</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<Bonuses>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>-0.50</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Estudos de Integração</Name>
+		<Description>Populações alienígenas não assimiladas em nossas colônias reduziram a felicidade em todo o império e diminuíram nossa produção de pesquisa.</Description>
+		<ImageFilename>Environment/Events/Integration studies</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>60</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>5</DurationMinimum>
+		<DurationMaximum>5</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>10</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>A Resposta</Name>
+		<Description>A recente construção do Hub da Transcendência proporcionou um impulso à felicidade em nosso império</Description>
+		<ImageFilename>Environment/Events/the answer</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>61</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>0</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<Bonuses>
+			<Bonus>
+				<Type>ResearchAll</Type>
+				<Amount>0.10</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+			<Bonus>
+				<Type>ColonyHappiness</Type>
+				<Amount>0.10</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>-1</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Um Quebra-Cabeça Resolvido</Name>
+		<Description>A recente conclusão de um projeto avançado de pesquisa proporcionou um impulso de 2 anos para a felicidade e produção de pesquisa em nosso império.\n\n[BONUS]+10% em Todas as Pesquisas[/BONUS]\n[BONUS]+10% de Felicidade[/BONUS]\n\nTambém proporcionou [CHARACTER]traços de bônus para nosso Líder e um de nossos Cientistas[/CHARACTER].</Description>
+		<ImageFilename>Environment/Events/A puzzle solved</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>62</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>0.5</DurationMinimum>
+		<DurationMaximum>0.5</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>5</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Construindo o Futuro</Name>
+		<Description>A recente construção de uma nova estação de pesquisa proporcionou um impulso de curto prazo para a felicidade em nosso império</Description>
+		<ImageFilename>Environment/Events/building the future</ImageFilename>
+	</ColonyEventDefinition>
+	
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>63</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1</DurationMinimum>
+		<DurationMaximum>1</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>5</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Demolindo a Prisão Pirata</Name>
+		<Description>Nossa decisão de demolir o antigo parque usado pelos piratas proporcionou um impulso de curto prazo para a felicidade em nosso império</Description>
+		<ImageFilename>Environment/Events/pirates-maze</ImageFilename>
+	</ColonyEventDefinition>
+	
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>64</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1</DurationMinimum>
+		<DurationMaximum>1</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>-5</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Usando a Prisão Pirata</Name>
+		<Description>Nossa decisão de usar o antigo parque usado pelos piratas nos deu um impacto negativo de curto prazo na felicidade do nosso império</Description>
+		<ImageFilename>Environment/Events/pirates-maze</ImageFilename>
+	</ColonyEventDefinition>
+	
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>65</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>3</DurationMinimum>
+		<DurationMaximum>3</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>5</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Destruição do Cérebro Cibernético</Name>
+		<Description>Nossa decisão de destruir o cérebro cibernético proporcionou um impulso de 3 anos para a felicidade em nosso império</Description>
+		<ImageFilename/>
+	</ColonyEventDefinition>
+
+</ArrayOfColonyEventDefinition>

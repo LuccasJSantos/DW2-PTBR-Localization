@@ -1,0 +1,74 @@
+Sua relação com outras impérios pode assumir várias formas, começando sem contato e evoluindo até tratados de defesa e compartilhamento de mapas operacionais.
+
+Você pode ter qualquer número de tratados ao mesmo tempo. Por exemplo, você pode ter um tratado de Não Agressão, acordo comercial livre e tratado de migração ao mesmo tempo.
+
+No entanto, quando uma guerra é declarada, todos os tratados atuais são cancelados.
+
+Os diferentes tipos de tratados são listados abaixo:
+
+ Nenhuma relação 
+Isso significa que não há relacionamento especial entre as duas imperios.
+
+ Não Agressão 
+As imperios concordam em não atacar os navios ou bases umas das outras.
+
+ Proteção contra Piratas 
+Facções piratas podem oferecer tratados de Proteção contra Piratas às imperios. Isso significa que a império paga uma taxa mensal aos piratas para evitar ser atacada por eles.
+
+ Acordos Comerciais 
+As imperios concordam em trocar recursos entre si. Sem um acordo comercial, não haverá comércio de recursos entre as duas imperios.
+
+Há três níveis de acordo comercial:
+- Comércio Restrito: Taxas comerciais de 50%. Bônus gradual de renda em todo o comércio até o máximo de 10%.
+- Comércio Limitado: Taxas comerciais de 20%. Bônus gradual de renda em todo o comércio até o máximo de 20%.
+- Comércio Livre: Sem taxas comerciais. Bônus gradual de renda em todo o comércio até o máximo de 30%.
+
+ Compartilhamento de Mapas de Território 
+As duas imperios trocam regularmente mapas de território, revelando a localização de seus sistemas colonizados.
+
+ Migração 
+As duas imperios concordam em aceitar migrantes entre suas colônias umas das outras.
+
+Iniciar um tratado de migração requer que o offerings tenha um [AVISO]embaixador designado[/AVISO] na capital do receptor.
+
+ Exploração 
+As duas imperios concordam em permitir que navios de exploração operem livremente dentro de seus territórios umas das outras.
+
+ Direitos de Mineração 
+As duas imperios concordam em permitir a construção de estações de mineração em qualquer lugar dentro dos territórios umas das outras.
+
+Iniciar direitos de mineração requer que o offerings tenha um [AVISO]embaixador designado[/AVISO] na capital do receptor.
+
+ Compartilhamento de Mapas Galácticos 
+As duas imperios trocam regularmente mapas galácticos, revelando todos os seus dados de exploração.
+
+ Reabastecimento Militar 
+As duas imperios concordam em permitir que suas frotas e navios militares se reabasteçam em suas bases e colônias umas das outras.
+
+Iniciar o reabastecimento militar requer que o offerings tenha um [AVISO]embaixador designado[/AVISO] na capital do receptor.
+
+ Pesquisa 
+As duas imperios concordam em compartilhar uma porcentagem de sua saída de pesquisa.
+
+Isso significa que cada império recebe 20% da saída de pesquisa do outro império, acrescida à sua própria quando pesquisando projetos, permitindo que eles acessem tecnologias novas mais rapidamente.
+
+Iniciar um tratado de pesquisa requer que o offerings tenha um [AVISO]embaixador designado[/AVISO] na capital do receptor.
+
+ Inteligência 
+As duas imperios concordam em compartilhar informações confidenciais umas com as outras para aumentar sua vantagem estratégica.
+
+ Guerra 
+Guerra aberta entre duas império. Espere ataques oportunistas em estações de mineração periféricas, assim como ataques coordenados em suas colônias, junto com invasões terrestres.
+
+A guerra continua até que ambas as partes concordem em acabar com ela. Impérios geralmente concordam em terminar uma guerra quando estão pressionados por pesadas perdas. Alternativamente, a população de um império pode ficar cansada de uma guerra longa e forçar o fim dos combates.
+
+ Vassalo Subjugado 
+Quando uma guerra termina em uma vitória decisiva, o vencedor pode exigir que o perdedor se torne seu vassalo subjugado. Alternativamente, o perdedor pode oferecer-se para se tornar um vassalo do vencedor.
+
+Vassalos subjugados pagam tributo mensal a sua império mãe. Eles também são proibidos de fazer sua própria diplomacia independente. Assim, eles não podem firmar tratados com nenhuma outra facção.
+
+Quando uma império se torna vassala, ela também incluir automaticamente os seguintes tipos de tratados: Não Agressão, Comércio Livre, Compartilhamento de Mapas Galácticos, Reabastecimento Militar e Defesa.
+
+Quando um vassalo realiza ações arriscadas que podem levar à guerra (atacar outra império, missões de inteligência contra outra império), eles irritam sua império mãe e seus pagamentos de tributo pode aumentar.
+
+A única maneira para um vassalo se livrar de seu pai é declarar guerra contra seu pai.

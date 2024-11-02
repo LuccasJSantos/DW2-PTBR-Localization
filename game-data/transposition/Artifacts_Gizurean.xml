@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ArrayOfArtifact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Artifact>
+		<ArtifactId>45</ArtifactId> <!-- Tactical Balance Datacore -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ColonyDefense</Type>
+				<Amount>0.2</Amount>
+				<AppliesTo>Item</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>WeaponsRange</Type>
+				<Amount>0.05</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>WeaponsDamage</Type>
+				<Amount>0.05</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>Countermeasures</Type>
+				<Amount>0.05</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Núcleo de Dados de Equilíbrio Tático</Name>
+		<Description>Um compêndio de observações e estratégias compiladas pelos antigos Gizureanos detalhando tanto estratégias ofensivas quanto defensivas. Muito do conteúdo é escrito no estilo conciso típico dos antigos Gizureanos, mas há anotações que sugerem que o conteúdo pode ter incluído a contribuição de pelo menos um estrategista de outra espécie.</Description>
+		<ImageFilename>Artifacts/tactical balance datacore</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>46</ArtifactId> <!-- Gizurean Shipyard Schematic -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ResearchConstruction</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ConstructionSpeedAllShips</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Esquema de Estaleiro Gizureano</Name>
+		<Description>Um manual composto pelos antigos Gizureanos delineando as melhores práticas para construção e manutenção de naves. Algumas referências no texto sugerem que o documento foi compilado nos dias finais da Guerra Shakturi, quando a espécie mente-colmeia da galáxia se viu lutando pela sobrevivência contra seus antigos aliados. O tom de desespero é um tanto… perturbador.</Description>
+		<ImageFilename>Artifacts/gizurean shipyard schematic</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>47</ArtifactId> <!-- Hive Fleet Compendium -->
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>BoardingAssault</Type>
+				<Amount>0.25</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Compêndio da Frota Colmeia</Name>
+		<Description>Uma análise das Naves da Colmeia realizada pelos Antigos Gizureanos durante a época do Cataclismo. É particularmente focada nas técnicas da Colmeia para embarcar rapidamente nas embarcações inimigas.</Description>
+		<ImageFilename>Artifacts/hive fleet compendium</ImageFilename>
+	</Artifact>
+</ArrayOfArtifact>

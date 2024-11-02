@@ -1,0 +1,24 @@
+Alianças são um agrupamento de facções que estão unidas em uma relação diplomática especial.
+
+[H3]Tratados e Defesa[/H3]
+Cada membro de uma aliança compartilha o mesmo conjunto de tratados com todos os outros membros. Isso inclui Tratados de Não-Agressão e de Defesa.
+
+Isso significa que os membros da aliança estão obrigados a defender uns aos outros contra ataques de impérios externos. Se outro império declarar guerra a um membro da aliança, todos os outros membros da aliança automaticamente declararão guerra ao agressor.
+
+Quando em uma aliança, alguns tipos de tratados não podem ser formados com impérios fora da aliança. Isso inclui Tratados de Não-Agressão e de Defesa.
+
+Se um império tem vassalos e o império paireonar a uma aliança, então seus vassalos também automaticamente se juntarão à aliança também.
+
+[H3]Votação da Aliança[/H3]
+Todos os membros da aliança têm uma participação na decisão de ações importantes. Eles fazem isso votando em propostas. As propostas podem incluir:
+[ULI]admitir novos membros[/ULI]
+[ULI]expulsar membros existentes[/ULI]
+[ULI]declaração de guerra contra outros impérios[/ULI]
+[ULI]terminar guerras[/ULI]
+
+Cada tipo de votação deve atender a um limite para ser aprovado. Para a maioria das votações, esse limite é de 60%.
+
+Cada membro tem um número de votos que pode usar ao votar em uma proposta. O número de votos de um membro é baseado em seu tamanho e força. Assim, impérios maiores têm mais votos e, portanto, mais controle na aliança.
+
+[H3]Admitindo Novos Membros[/H3]
+A admissão de novos membros à aliança deve ser decidida por votação. Todos os membros existentes devem concordar unânimement

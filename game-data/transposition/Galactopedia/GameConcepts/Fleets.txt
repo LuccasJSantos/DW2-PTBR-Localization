@@ -1,0 +1,48 @@
+Frotas permitem agrupar um número de navios militares e atribuir missões ao grupo inteiro. Isso é útil para coordenar grandes ataques em alvos inimigos.
+
+Elas têm uma base principal que define seu centro de operações. Também têm uma distância de engajamento que define a área onde elas atacarão alvos inimigos, em um raio a partir da base principal.
+
+Suas frotas automatizadas responderão aos ataques inimigos quando houver forças insuficientes para defender o alvo. A frota disponível mais próxima viajará até ao local do ataque e defenderá o alvo.
+
+Existem cinco tipos de frotas:
+[AULI]Ataque: grandes frotas para assaltos principais contra alvos inimigos como colônias ou portos espaciais[/AULI]
+[DULI]Defesa: usada para guardar locais importantes e responder a ataques inimigos dentro do alcance[/DULI]
+[RULI]Raide: pequenas frotas usadas para atacar pequenos alvos como bases e outras frotas pequenas[/RULI]
+[IULI]Invasão: usada para desembarcar muitas tropas quando invadir colônias inimigas[/IULI]
+[MULI]Manual: frota controlada manualmente[/MULI]
+
+Criando Novas Frotas
+Você pode criar uma nova frota de várias maneiras:
+[AULI]selecionar vários navios militares na visão principal arrastando com o botão esquerdo do mouse pressionado ou ctrl-clicando em cada navio. Em seguida, clique no botão 'Criar Nova Frota' abaixo do painel de seleção[/AULI]
+[DULI]selecionar vários navios na lista de Navios Militares ctrl- e shift-clicando nos navios da lista. Em seguida, clique no botão 'Criar Nova Frota' abaixo do painel de seleção[/DULI]
+[AULI]na tela de Modelos de Frotas, selecionar o modelo desejado e depois clicar em qualquer um dos botões 'Formar nova frota' ou 'Construir nova frota' à direita[/AULI]
+
+Também é possível adicionar navios individuais a uma frota existente selecionando o navio e clicando no botão 'Unir nave à frota' abaixo do painel de seleção. Isso exibirá uma lista de todas as frotas às quais o navio pode ser unido. Selecione a frota que você deseja que o navio se una por clicar nela na lista.
+
+Definições Táticas
+As frotas têm uma ampla gama de definições táticas que ajustam finamente como elas operam. Abra a tela de definições táticas selecionando a frota e clicando no botão 'Definir Tática' à direita do painel de seleção.
+
+Lembre-se de que navios individuais dentro de uma frota também têm suas próprias definições táticas. Você pode ajustar como as táticas da frota e do navio interagem na seção 'Navios da Frota - Sobrescrever Táticas'.
+
+Distância de Engajamento
+A distância de engajamento é uma configuração tática importante das frotas. Usando isso, você pode controlar a distância que as frotas responderão às ameaças.
+
+As frotas de defesa defenderão sua base principal e também responderão aos ataques inimigos contra qualquer uma das suas colônias ou bases dentro da sua Distância de Engajamento.
+
+As frotas de ataque, raid e invasão atacarão seu ponto de ataque e depois qualquer outro alvo inimigo dentro da sua Distância de Engajamento. Elas também responderão a qualquer ameaça ou local perigoso dentro da distância de engajamento a partir da base principal.
+
+Selecionando frotas
+Existem quatro maneiras de selecionar uma frota:
+[AULI]clicar no nome da frota na lista de frotas[/AULI]
+[DULI]clicar em qualquer um dos navios da frota na visão do mapa[/DULI]
+[AULI]pressionar o botão direito do mouse sobre a frota na visão do mapa e clicar em 'Selecionar esta frota' no menu[/AULI]
+[MULI]pressionar o botão direito do mouse sobre qualquer um dos navios da frota na visão do mapa e clicar em 'Selecionar esta frota' no menu[/MULI]
+
+Definindo um Ponto de Ataque
+Os pontos de ataque das frotas são os alvos iniciais quando uma guerra começa com outro império.
+
+Isso permite que você pré-defina seu plano de guerra, posicionando suas frotas antes do início dos hostilidades. Quando a guerra começar, suas frotas viajarão automaticamente até seus pontos de ataque.
+
+Para definir um ponto de ataque para uma frota:
+[OLI]selecionar a frota[/OLI]
+[OLI]pressionar o botão direito do mouse sobre o local para o ponto de ataque (deve ser uma base ou colônia estrangeira) e clicar na opção 'Definir ponto de ataque para (Nome da Frota) em (Local)' no menu[/OLI]

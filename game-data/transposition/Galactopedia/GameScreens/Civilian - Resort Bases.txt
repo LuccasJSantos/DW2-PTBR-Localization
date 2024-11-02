@@ -1,0 +1,5 @@
+Esta tela lista todos os locais de resort em seu império. Resorts são destinos para turismo. Naves de passageiros transportarão turistas para resorts, gerando renda para seu império.
+
+Quando reduzido ao nível galáctico ou do sistema, os resorts são destacados no mapa. Passe o mouse sobre um item na lista para marcar a localização no mapa. Clique no item para selecioná-lo. Duplo clique no item moverá a visão para aquela localização.
+
+Cada item da lista mostra os bônus de cenário naquele local.

@@ -1,0 +1,8 @@
+Exploração pode eventualmente revelar navios ou bases abandonados. Esses podem conter informações importantes que você pode obter ao embarcar e investigar. Eles também costumam poder ser aproveitados enviando uma nave de construção para consertá-los.
+
+[A3]Lista de Navios e Bases Abandonados[/A3]
+Esta tela lista todos os navios e bases abandonados conhecidos que você encontrou enquanto explorava a galáxia.
+
+Quando Zoom out para o nível da galáxia ou do sistema, as localizações de navios ou bases abandonados são destacadas no mapa. Passe o mouse sobre um item na lista para marcar a localização no mapa. Clique no item para selecionar o navio ou base abandonado. Clique duas vezes no item para mover a visualização para essa localização.
+
+O botão à direita permite você agendar reparo e investigação do navio ou base abandonado. Isso enviará uma nave de construção para consertar o item.

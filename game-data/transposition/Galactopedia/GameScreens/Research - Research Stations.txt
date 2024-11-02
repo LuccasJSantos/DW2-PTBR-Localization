@@ -1,0 +1,6 @@
+Esta tela lista todos os locais de pesquisa atuais em seu império. Isso inclui estações de pesquisa e quaisquer outras bases com laboratórios de pesquisa. Verifique as opções de classificação e filtro no topo do painel. Você pode filtrar por bônus de pesquisa específicos para identificar rapidamente todos os locais de uma determinada área de pesquisa em seu império.
+
+Ao zoomer para fora para o nível de galáxia ou sistema, os locais de pesquisa são realçados no mapa. Passe o cursor sobre um item da lista para fazer uma indicação do local no mapa. Clique no item para selecionar seu local. Duplo clique no item para mover a visão para esse local.
+
+[H3] Produto de Pesquisa [/H3]
+Cada item da lista mostra a quantidade de produto de pesquisa para o local. Também listados estão quaisquer bônus de pesquisa no local. Passe o cursor sobre a descrição do bônus para um resumo completo de todos os bônus de pesquisa no local, incluindo sua origem. Se houver algum cientista a bordo da base, eles também serão mostrados aqui no canto superior direito.

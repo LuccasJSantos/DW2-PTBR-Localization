@@ -1,0 +1,52 @@
+Translation:
+
+Caracteres são as pessoas da galáxia que governam impérios, conduzem diplomacia, comandam frotas, lideram tropas em batalha, realizam pesquisas científicas, projetam nova tecnologia e executam missões de espionagem.
+
+Cada personagem tem habilidades e traços que determinam suas forças e fraquezas. Através de suas experiências e ações, os personagens podem adquirir novas habilidades e traços (tanto positivos quanto negativos) e também aumentar o nível de suas habilidades.
+
+Alguns personagens inicialmente têm seus traços e níveis de habilidade ocultos. Esses não serão revelados até que eles recebam uma missão ou outra responsabilidade que utilize aquelas habilidades. Esses personagens são considerados "Intocados".
+
+As habilidades dos personagens proporcionam bônus específicos para a função do personagem. Alguns exemplos:
+[ULI]Seu líder imperial proporciona bônus para todo o seu império[/ULI]
+[ULI]Embaixadores proporcionam bônus para as relações diplomáticas com o império estrangeiro onde servem como embaixador[/ULI]
+[ULI]Almirantes proporcionam bônus para todos os navios em sua frota[/ULI]
+[ULI]Generais de tropas proporcionam bônus para as tropas que lideram na batalha em uma colônia[/ULI]
+[ULI]Cientistas proporcionam bônus para a estação de pesquisa onde estão[/ULI]
+[ULI]Espiões usam suas habilidades relacionadas à espionagem para realizar diferentes tipos de missões de inteligência[/ULI]
+
+Como as habilidades dos personagens se aplicam a uma Localização
+ Como destacado acima, alguns personagens proporcionam bônus para sua localização atual, por exemplo, os almirantes proporcionam bônus para os navios em sua frota e os cientistas proporcionam bônus para a estação de pesquisa onde estão.
+
+Quando há vários personagens na mesma localização (colônia, navio, base ou frota), suas habilidades não se empilham linearmente. Em vez disso, os personagens subsequentes aplicam suas habilidades de uma maneira diminuinte.
+
+Assim, o melhor personagem para uma área aplica 100% do seu valor, mas o próximo personagem mais forte para aquela habilidade apenas aplica 50% do seu nível de habilidade para aquela área. O terceiro personagem mais forte aplica então apenas 25% do seu nível de habilidade para aquela área. Cada personagem subsequente na localização reduz pela metade a quantidade da sua habilidade que é adicionada ao total para aquela área de habilidade.
+
+Isso significa que muitas vezes é melhor espalhar os personagens por várias localizações em vez de concentra-los em uma única localização, por exemplo, ter almirantes e generais em várias frotas, ter cientistas em várias estações de pesquisa, etc.
+
+Tipos de Personagens
+
+Líderes
+ Seu império sempre tem um líder. As habilidades e traços do seu líder afetam todo o seu império.
+
+Diferentes tipos de governos têm diferentes maneiras de substituir líderes. Governos eleitos geralmente realizam eleições e substituem líderes pacificamente. Os governos não eleitos substituem menos frequentemente, mas quando a mudança acontece, pode ser bastante disruptiva.
+
+Os bônus gerados pelos Líderes se aplicam ao seu império inteiro. Os líderes são designados ao seu planeta natal e são muito menos eficazes se não estiverem estacionados na capital.
+
+As facções de piratas têm líderes de pirata especiais. Esses personagens combinam as habilidades e traços dos Líderes e Almirantes de Frota. Alguns líderes de piratas são melhores em liderança enquanto outros podem ser melhores como almirantes. Os líderes de piratas geralmente estão baseados na base de piratas da facção.
+
+Embaixadores
+Os embaixadores são diplomatas qualificados que podem ajudar você a manter seus inimigos calmos e transformar amigos em aliados completos.
+
+Para influenciar uma facção alien com um Embaixador, você deve descobrir o mundo natal daquela facção e depois designar o Embaixador para aquela localização.
+
+Cientistas
+Esses personagens podem proporcionar bônus para a estação de pesquisa onde estão.
+
+Almirantes
+Os almirantes proporcionam bônus para todos os navios em sua frota.
+
+Generais de Tropas
+Os generais de tropas proporcionam bônus para as tropas que lideram na batalha em uma colônia.
+
+Espiões
+Os espiões usam suas habilidades relacionadas à espionagem para realizar diferentes tipos de missões de inteligência.

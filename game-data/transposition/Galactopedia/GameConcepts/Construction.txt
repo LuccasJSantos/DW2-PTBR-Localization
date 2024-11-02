@@ -1,0 +1,21 @@
+Tradução:
+
+A construção de navios e bases é um aspecto central de Distant Worlds. Entender os detalhes da construção irá ajudá-lo a expandir seu império de forma mais eficaz.
+
+Todos os custos de construção exigem dinheiro – você deve ter fundos suficientes para comprar novos navios e bases.
+
+À medida que o nível de sua tecnologia aumenta, suas habilidades de construção também crescem. A pesquisa desbloqueia novas e maiores Carcaças que podem ser usadas para projetar e construir novos navios e bases.
+
+A construção de navios para a economia privada ocorre automaticamente – seus cidadãos privados compram e constroem cargueiros e navios mineiros conforme necessário.
+
+[H3]Onde a construção acontece[/H3]
+A construção de navios ou bases occurs em três tipos de locais:
+[ULI]Colônias: podem construir qualquer tipo de navio, mas a uma taxa relativamente lenta em comparação com os portos espaciais.[/ULI]
+[ULI]Portos Espaciais: o local chave para construir a maioria dos navios (navios militares, navios de exploração, cargueiros e navios mineiros).[/ULI]
+[ULI]Navios de construção: para construir estações de mineração, estações de pesquisa e outras bases em locais não-coloniais.[/ULI]
+
+[H3]Como iniciar a construção[/H3]
+Para iniciar a construção do estado, você tem quatro opções:
+[ULI] Selecione uma colônia ou porto espacial e clique no botão amarelo 'Construir novo navio ou base' no Painel de Seleção. Os botões mudarão para mostrar todos os itens construtíveis para aquele pátio de construção. Passe o mouse sobre cada botão para ver o tipo e o custo para cada novo navio. Clique em um botão para construir um item.[/ULI]
+[ULI] Selecione um navio de construção, localize um local para construir uma nova base e clique com o botão direito do mouse para mostrar um menu pop-up com a opção 'Construir' para as bases que podem ser construídas naquele local. Clique na opção 'Construir Base' desejada.[/ULI]
+[ULI]Abra a tela de Ordem de Construção (na seção de Construção do Centro de Controle) e selecione os projet

@@ -1,0 +1,19 @@
+Texto Traduzido
+
+Os ajustes táticos de navios e frotas determinam como eles vão enfrentar navios inimigos. Isso inclui se e quando navios ou frotas escolhem enfrentar um alvo inimigo. Veja o tópico 'Ajustes Táticos' para mais detalhes.
+
+Batalhas espaciais entre navios ocorrem sempre que forças inimigas entram no alcance das suas armas.
+
+Idealmente, o seu navio deveria ter armas com um alcance maior do que o do seu oponente. Em seguida, você manobra para ficar fora do alcance de armas do seu oponente enquanto atira nas suas armas de alcance mais longo contra eles.
+
+Na prática, muitos outros fatores também entram em jogo:
+[AULI]o seu oponente pode ter armas de alcance maior do que as suas, o que faz necessário se aproximar mais para atirar[/AULI]
+[BULI]alvos mais lentos são mais fáceis de acertar. Alvos completamente parados, como bases, são especialmente fáceis de acertar[/BULI]
+[CULI]componentes de escaneamento permitem que você rastreje navios inimigos a uma distância. Se um navio inimigo escapar por meio de salto hiperespacial para o espaço profundo, os seus componentes de escaneamento podem sometimes rastrear o salto hiperespacial e permitir que você continue perseguindo o seu alvo. Esta capacidade é determinada pelo valor de rastreio de salto do componente de escaneamento[/CULI]
+
+Outros fatores que influenciam no combate são:
+[AULI]a habilidade do capitão: um capitão mais experiente pode tomar decisões mais estratégicas durante o combate, aumentando as chances de vitória[/AULI]
+[BULI]armas especializadas: armas como mísseis de craqueamento ou canhões de plasma podem dar uma vantagem tática em certos combates[/BULI]
+[CULI]condições climáticas: o combate em condições climáticas adversas, como tempestades de raios ou cinturões de asteroides, pode tornar o combate mais difícil para ambas as partes.[/CULI]
+
+Nota: Como modelo de linguagem, não tenho acesso à internet e meu conhecimento se limita ao que fui treinado até 2021. Meu objetivo é fornecer respostas úteis e informativas com base no meu treinamento e nos dados disponíveis para mim.

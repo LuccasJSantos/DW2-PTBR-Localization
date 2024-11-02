@@ -1,0 +1,63 @@
+Inteligência permite a infiltração secreta em outros impérios para roubar ou destruir seus ativos.
+
+[H3]Espiões[/H3]
+Espiões são especialistas altamente treinados e habilidosos que você utiliza para realizar essas missões.
+
+Com cada missão bem-sucedida, os espiões se tornam mais habilidosos. Quanto mais habilidoso for um espião, maior será a dificuldade da missão que ele poderá assumir.
+
+Por outro lado, só é preciso uma missão fracassada para seu espião ser morto ou capturado, então escolha suas missões com sabedoria.
+
+[H3]Contra-Inteligência[/H3]
+A contra-inteligência também é crucial para proteger seu império. Você pode designar espiões para prevenir missões de inteligência inimiga â€“ eles procurarão ativamente espiões e sabotadores e relatarão qualquer descoberta a você. A contra-inteligência utiliza a habilidade Contra-Espionagem.
+
+[H3]Diplomacia[/H3]
+Tenha cuidado com as consequências negativas de missões de inteligência falhas â€“ se outro império descobrir suas ações contra eles, isso diminuirá dramaticamente sua estima pelo seu império e até pode levar à guerra.
+
+[H2]Tipos padrão de missões[/H2]
+Os seguintes tipos de missões de inteligência estão disponíveis para todas as raças e governos.
+
+[H3]Sabotagem de Construção[/H3]
+Dano navios em construção em um porto espacial ou colônia. Habilidades utilizadas: Sabotagem
+
+[H3]Destruir Base[/H3]
+Exploda uma base inimiga específica. A base-alvo deve ser conhecida pelo seu império.
+
+Bases maiores são mais difíceis de destruir. Habilidades utilizadas: Sabotagem
+
+[H3]Roubar Mapa Territorial[/H3]
+Roube o mapa territorial de outro império, revelando todos os sistemas colonizados daquele império. Habilidades utilizadas: Espionagem
+
+[H3]Roubar Mapa de Operações[/H3]
+Mostre a localização de todos os navios e bases de outro império por um curto período de tempo (aproximadamente 30 segundos). Habilidades utilizadas: Espionagem
+
+[H3]Roubar Pesquisa[/H3]
+Roube informações de pesquisa de outro império, dando-lhe melhores tecnologias para seus navios e bases. Habilidades utilizadas: Espionagem
+
+[H3]Roubar Mapa Galáctico[/H3]
+Roube o mapa galáctico de outro império, revelando toda a exploração daquele império. Habilidades utilizadas: Espionagem
+
+[H3]Sabotagem de Colônia[/H3]
+Cause uma colônia a perder parte de sua população e diminuir seu nível de desenvolvimento. Habilidades utilizadas: Sabotagem
+
+[H3]Incitar Rebelião[/H3]
+Causar um império a sofrer uma revolução e mudança do tipo de governo. O novo tipo de governo é difícil de prever â€“ pode ou não ser favorável a você. Habilidades utilizadas: PsOps
+
+[H3]Assassinato[/H3]
+Matar um personagem de outro império. A localização do alvo deve ser conhecida pelo seu império.
+
+Agentes de inteligência inimigos não podem ser alvos de missões de assassinato.
+
+Líderes são especialmente difíceis de assassinar. Embaixadores e governadores de colônia também são mais difíceis de assassinar. Habilidades utilizadas: Assassinato
+
+[H3]Cobertura Profunda[/H3]
+Infiltre-se em um império, fornecendo inteligência contínua sobre seu Mapa Galáctico e Mapa de Operações, ou seja, você pode ver todos os seus navios, bases e colônias.
+
+Este tipo de missão é contínuo â€“ ou seja, se for bem-sucedido, seu agente permanecerá em cobertura profunda no império-alvo até que você cancele sua missão ou seu agente seja detectado pelo outro império. Habilidades utilizadas: Camuflagem
+
+[H2]Outros tipos de missões[/H2]
+Os seguintes tipos de missões também estão disponíveis, cada um com suas próprias habilidades e efeitos:
+
+[H3]Estabilidade Interna[/H3]
+Diminui a instabilidade interna de dissidentes dentro do seu próprio império. Isso é particularmente útil em tempos de guerra, quando sua guerra estarreza estiver alta.
+
+Quando bem-sucedido, seu império terá redução da guerra estarreza e corrupção por 2 anos. Habilidades utilizadas: Contra-Espionagem

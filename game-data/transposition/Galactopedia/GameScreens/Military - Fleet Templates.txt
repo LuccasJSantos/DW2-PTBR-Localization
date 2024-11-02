@@ -1,0 +1,11 @@
+Plantillas de frota permitem definir a composição das suas frotas, definindo a quantidade de navios para cada papel de navio. Elas também definem um agrupamento de configurações táticas padrão. Depois disso, você pode criar novas frotas baseadas em uma plantilla.
+
+As frotas tentarão incluir navios que correspondam aos papéis e quantidades estabelecidos em sua plantilla. Mas se houver uma quantidade insuficiente de navios disponíveis para um papel desejado, a frota recairá no uso de navios de outros papéis para completar o número geral de navios.
+
+[H3]Tipos de Plantillas de Frota[/H3]
+Cada papel de frota tem uma plantilla padrão: Ataque, Raide, Defesa, Invasão. Você também pode criar manualmente outras plantillas para cada papel de frota.
+
+[H3]Criando Frotas usando Plantillas de Frota[/H3]
+Você pode criar novas frotas selecionando manualmente navios e depois formá-las com eles. No entanto, a tela de Plantillas de Frota fornece algumas maneiras rápidas de criar novas frotas.
+
+Na tela de Plantillas de Frota, você pode selecionar a plantilla desejada e depois clicar em "Formar nova frota" ou "Construir nova frota" nos botões à direita.

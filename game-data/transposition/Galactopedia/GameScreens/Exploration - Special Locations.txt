@@ -1,0 +1,8 @@
+ometimes, a boa exploração pode revelar locais incomuns. Esses podem incluir campos de destroços de navios provenientes de batalhas antigas ou até mesmo fenômenos ainda mais estranhos.
+
+[H3]Lista de Locais Especiais[/H3]
+Esta tela lista todos os locais especiais conhecidos que você encontrou durante sua exploração pela galáxia.
+
+Ao ser reduzida ao nível do sistema ou da galáxia, a lista destaca os locais especiais no mapa. Passar o cursor sobre um item na lista fará com que o local seja marcado no mapa. Clicar no item selecionará o local.
+
+Passar o cursor sobre um local especial na lista também exibirá um painel detalhado de resumo à direita.

@@ -1,0 +1,38 @@
+Impostos sobre as colônias de seu império são sua principal fonte de renda.
+
+A população de cada colônia vai em frente com seus negócios privados, gerando riqueza. Seu império então tributa essa receita gerada por seus cidadãos particulares.
+
+[H3]Renda Privada das Colônias[/H3]
+Esta relação entre a renda privada e a renda tributária do estado é mostrada na tela de Economia (F2).
+
+A seção "Economia Privada" > "Renda Anual" tem a linha "Renda Privada das Colônias", que mostra quanto de renda as colônias geram no total.
+
+A seção "Economia do Estado" > "Renda Anual" tem a linha "Imposto sobre Colônias", que mostra quanto de renda tributária você faz com suas colônias. Esse imposto é uma porcentagem da "Renda Privada das Colônias" mencionada acima.
+
+[H3]Fórmula para a Renda das Colônias[/H3]
+A renda privada das colônias é calculada da seguinte forma:
+
+Renda da Colônia = População Total x Nível de Desenvolvimento
+
+Essa renda das colônias privadas é o que seu império tributa, gerando renda para seu império. Portanto, para maximizar a renda tributária, você deve ajudar no crescimento de suas colônias, maximizando tanto a população quanto o desenvolvimento de cada uma delas.
+
+[H3]Definindo as taxas de impostos[/H3]
+As taxas de impostos das colônias podem ser definidas em qualquer lugar entre zero e 100%. Se os cidadãos da colônia acharem que a taxa de imposto é muito alta, isso baixará sua aprovação para com você, tornando-os menos felizes.
+
+Você pode optar por ter as taxas de impostos das colônias controladas automaticamente (a configuração padrão). Nesse caso, a taxa será definida em um nível adequado para o tamanho e desenvolvimento da colônia. Veja a seção "Colônias e Taxas" na tela de Política do Império (tecla P).
+
+Você também pode decidir se quer automatizar o controle dos impostos em uma base por-colônia usando as configurações de Automação das Colônias. Para fazer isso, selecione uma de suas colônias e clique no botão "Definir Automação da Colônia" sob o painel de Seleção. Em seguida, clique no botão "Automatizar Taxas" para alternar como as taxas são gerenciadas para essa colônia.
+
+[H3]Impostos e Crescimento das Colônias[/H3]
+Quando uma colônia é primeiro estabelecida, a taxa de imposto geralmente é muito baixa. Isso faz com que a população da colônia seja mais feliz e estimule o crescimento mais rápido.
+
+À medida que uma colônia cresce em tamanho e desenvolvimento, a taxa de imposto pode ser aumentada e você poderá começar a arrecadar uma boa renda tributária da colônia.
+
+[H3]Corrupção[/H3]
+À medida que sua colônia cresce, um nível inevitável de corrupção também aparecerá. A corrupção reduz a renda privada gerada pela colônia no total e, consequentemente, também reduz quanto você coleta em impostos.
+
+Certos tipos de governo podem reduzir a corrupção nas colônias: República, Tecnocracia e Hive Mind.
+
+Outros governos aumentam a corrupção: Guildas Mercantis, Feudalismo, Monarquia e Ditadura Militar.
+
+As instalações de Administração Planetária também podem reduzir as perdas devido à corrupção.

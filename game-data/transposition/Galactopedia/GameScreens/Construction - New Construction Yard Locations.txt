@@ -1,0 +1,6 @@
+Esta tela lista colônias onde você pode construir novos ports espaciais. Verifique as opções de classificação e filtro no topo do painel.
+Quando deslocado para fora em nível galáctico ou de sistema, os locais de novo porto espacial são destacados no mapa. Passando o mouse sobre um item na lista fará com que o local seja marcado no mapa. Clicar no item o selecionará. Clicar duas vezes no item moverá a visualização para esse local.
+
+[H3]Filas de Novos Portos Espaciais[/H3]
+O botão à direita permite que você faça fila para construir um novo porto espacial na colônia. Você pode clicar no botão novamente para cancelar a construção.
+Se você não puder construir no local, o botão Fila estará desativado. Uma dica de ferramenta no botão explicará por que você não pode construir lá.

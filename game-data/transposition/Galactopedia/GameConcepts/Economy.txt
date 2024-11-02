@@ -1,0 +1,83 @@
+Here's the translated text, maintaining the sci-fi theme and formatting:
+
+Sua império consiste em suas colônias - mundos onde você tem uma população leal.
+
+### Estado vs Privado
+
+Os cidadãos de suas colônias agem independentemente de você e formam sua economia privada. Eles procuram ativamente oportunidades comerciais para trocar bens solicitados entre suas colônias. Quando você tiver tratados commerciais com colônias independentes e outros impérios, seus cidadãos também expandirão suas atividades comerciais para incluir essas novas oportunidades.
+
+Cidadãos ousados também formarão expedições de mineração - usando navios de mineração para extrair recursos valiosos em toda a galáxia explorada e retornando-os para seus portos espaciais para uso.
+
+A população em cada uma de suas colônias aumentará com o tempo, alcançando eventualmente um limite natural em cada tipo de mundo. À medida que a população cresce, ela produz mais renda, proporcionando uma base tributária maior para financiar seu império.
+
+Um resumo das economias do Estado e Privado de seu império é exibido na tela da Economia do Império (F2).
+
+As diversas fontes de Renda e Despesas são explicadas em detalhe abaixo:
+
+### Renda do Estado
+
+Sua economia do Estado é financiada por várias fontes principais de renda, conforme listado abaixo:
+
+#### Renda Tributária Colonial
+
+Você pode ajustar diretamente as taxas tributárias coloniais. Isso permite que você colete mais receita de cada colônia. No entanto, à medida que você aumenta as taxas, haverá mais evasão fiscal - alguns de seus cidadãos encontrarão maneiras de evitar o pagamento. Além disso, as altas taxas baixam a felicidade e a produção de riqueza das colônias.
+
+#### Construção Naval
+
+A expansão de seu império com novas colônias estimula a demanda por novos cargueiros e navios de mineração de seus cidadãos privados. Essas compras de navios em suas docas navais adicionam mais dinheiro à sua economia do Estado.
+
+#### Taxas de Transação Comercial
+
+Taxas são cobradas em cada transação em seus portos espaciais e estações de mineração, ganhando renda para seu império. Portanto, é importante garantir comércio livre e seguro desses locais. Você deve patrulhar seus portos espaciais e estações de mineração e expulsar qualquer ameaça como piratas, criaturas espaciais agressivas ou impérios inimigos.
+
+#### Renda Bônus do Comércio
+
+Quando seu império tem bônus comerciais, você ganha renda extra em cada transação em seus portos espaciais, colônias e estações de mineração.
+
+Os bônus de renda comercial podem ser obtidos a partir de alguns tipos de governo. Algumas raças alienígenas também têm bônus comerciais naturais. Alguns installations planetárias e maravilhas também proporcionam bônus comerciais.
+
+#### Acordos Comerciais
+
+Você ganha renda quando forma acordos comerciais com outros impérios. Nesse cenário, uma porcentagem do volume total de comércio entre os dois impérios é ganha como renda bônus por cada império. Com o tempo, a porcentagem bônus aumenta até atingir um limite máximo.
+
+#### Turismo em Resorts
+
+Suas estações turísticas earn income quando turistas viajam para eles.
+
+### Estratégia Econômica
+
+Assim, sua estratégia para aumentar a renda do Estado deve incluir o seguinte:
+[LIST]
+[*][/LI]Continue expandindo seu império com novas colônias - isso estimula o comércio e faz com que seus cidadãos privados comprem mais navios de carga e outros navios
+[*][/LI]Garanta rotas comerciais seguras para navios de carga transportando bens para suas colônias - desenvolvimento de nível mais alto nas colônias significa mais renda tributária
+[*][/LI]Procure acordos comerciais com impérios amigos para aumentar sua renda. Você lucra com renda bônus do volume total de comércio entre os dois impérios.
+[*][/LI]Construa instalações turísticas em seus planetas para atrair turistas e gerar renda adicional
+[/LIST]
+
+### Despesas
+
+As despesas não recorrentes incluem:
+
+#### Construção Naval do Estado
+
+Custo para construir novos navios e estações do Estado.
+
+#### Reclutamento de Tropas
+
+Custo para recrutar novas unidades de tropas.
+
+#### Construção de Instalações Planetárias
+
+Custo para construir novas instalações planetárias e maravilhas.
+
+#### Compra de Recursos de Outros Impérios
+
+Custos de comprar recursos de outros impérios.
+
+#### Tributo
+
+Isso inclui presentes a outros impérios e taxas de proteção contra piratas.
+
+#### Combustível
+
+Custos de combustível para seus navios e estações do Estado.

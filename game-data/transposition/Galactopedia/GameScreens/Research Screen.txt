@@ -1,0 +1,17 @@
+A tela de Pesquisa exibe todos os projetos de pesquisa em andamento.
+
+Os projetos devem ser pesquisados para desbloquear seus benefícios. A pesquisa leva tempo. A velocidade da pesquisa é determinada pela saída de pesquisa de suas colônias e estações de pesquisa.
+
+Os projetos de pesquisa proporcionam os seguintes tipos de nova tecnologia que podem melhorar seu império de várias maneiras:
+[nLI]novos casco e componentes de navios permitem construir navios e instalações maiores e melhores[/nLI]
+[nLI]novas instalações planetárias ajudam a melhorar suas colônias[/nLI]
+[nLI]melhorar sua capacidade de colonizar novos mundos[/nLI]
+[nLI]melhorar suas tropas terrestres[/nLI]
+[nLI]proporcionar diversos bônus, incluindo melhora das relações diplomáticas com outras facções[/nLI]
+
+O lado esquerdo da tela é o nível mais baixo de tecnologia. Essas são as tecnologias que você tem no início de um novo jogo.
+
+À medida que você avança para a direita da tela, o nível de tecnologia aumenta.
+
+[nH3]Ordem de Pesquisa[/nH3]
+Os projetos estão interligados por caminhos. Os projetos pais devem ser pesquisados antes dos projet

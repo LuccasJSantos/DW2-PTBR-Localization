@@ -1,0 +1,33 @@
+Turismo envolve o transporte de passageiros de férias das colônias para estações turísticas.
+
+Estes turistas são transportados para o seu destino por navios de passageiros de propriedade privada. O turismo ocorre inteiramente no setor privado do seu império - você não tem controle sobre o movimento dos turistas.
+
+O turismo pode ser uma fonte significativa de renda bônus para o seu império.
+
+[H3]Locais Cênicos e Resorts[/H3]
+Estações turísticas são bases especiais construídas em locais cênicos ao longo da galáxia. Locais cênicos podem incluir os seguintes:
+[ULI]Planetas anelados[/ULI]
+[ULI]Buracos negros[/ULI]
+[ULI]Estrelas de nêutrons[/ULI]
+[ULI]Planetas com ruínas ou monumentos antigos incomuns[/ULI]
+[ULI]Colônias com Maravilhas[/ULI]
+[ULI]Planetas ou luas com características naturais espetaculares[/ULI]
+
+[H3]Bônus de Cenário[/H3]
+Locais cênicos terão um bônus de cenário. Isso define a quantidade e a fonte do recurso cênico, por exemplo: '+10% da rede de túneis submarinos vastos'.
+
+Para ver quaisquer bônus de cenário para uma estrela, planeta, lua ou asteróide:
+[OLI]selecionar o local[/OLI]
+[OLI]no painel de seleção, pairar na área 'Bônus do Local'[/OLI]
+[OLI]uma dica será exibida com todos os bônus no local, incluindo quaisquer bônus de cenário[/OLI]
+
+É possível encontrar locais cênicos não utilizados na lista 'Novos Locais Turísticos' no Civilian section da Control Center. Use os botões 'Build Resort Base' à direita para iniciar a construção de novas estações turísticas nos seus locais desejados.
+
+Nota que colônias com bônus de cenário atrairão turismo sem a necessidade de construir uma estação turística na colônia.
+
+A quantidade de turistas que uma estação atrai depende de quão cênico é o local e quão perto ele está de grandes colônias ricas. Os cidadãos ricos dessas colônias estão à procura de destinos turísticos cênicos para viajar.
+
+[H3]Renda do Turismo[/H3]
+A renda é derivada quando navios de passageiros chegam a uma estação. A quantidade de renda depende de quantos passageiros o navio estava carregando. Essa renda variável é exibida na tela da Economia (F2) sob a linha 'Turismo' na seção 'Renda Anual Bônus'.
+
+O turismo também ocorre ao longo das fronteiras do império (desde que as relações entre dois impérios não estejam em guerra). Portanto, navios de passageiros podem transportar visitantes da colônia de um império para a Base Turística de outro império.

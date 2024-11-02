@@ -1,0 +1,17 @@
+Esta tela lista potenciais novas localizações de mineração que você pode alvoar. Essas localizações são onde você deve construir estações de mineração novas.
+
+Verifique as opções de classificação e filtro no topo do painel. As opções de filtro permitem que você alvoe recursos específicos. Itens de filtro com cor amarela são recursos de construção usados para construir navios e bases novos. Itens de filtro de cor azul clara são recursos luxuosos usados para desenvolver suas colônias.
+
+Quando você zoom out para o nível galáctico ou do sistema, as novas localizações de mineração são destacadas no mapa. Passar o mouse sobre um item na lista fará com que a localização seja marcada no mapa. Clicar no item o selecionará. Doble-clicar no item moverá a vista para essa localização.
+
+Cada item da lista mostra os recursos conhecidos e os níveis de abundância na localização. Se o seu império estiver com escassez do recurso, ele ficará rodeado por uma borda vermelha tracejada. Passe o mouse sobre cada recurso para ver um resumo completo, incluindo quaisquer bônus que ele proporciona.
+
+[H3]Filas de Novas Estações de Mineração[/H3]
+O botão à direita permite que você infilhe a construção de uma nova estação de mineração na localização. Quando o próximo navio de construção ficar disponível, ele construirá uma estação de mineração ali. Você pode clicar no botão novamente para cancelar a construção.
+
+Se você não puder construir na localização, o botão de fila estará desativado. Uma dica rápida no botão explicará por que você não pode construir lá.
+
+[H3]Localizações Perigosas[/H3]
+Um símbolo de raio vermelho será exibido ao lado do nome da localização se a localização for considerada perigosa. Uma localização é considerada perigosa quando há ameaças não eliminadas presentes, como piratas ou criaturas espaciais mortais.
+
+Navios não militares não viajam para uma localização perigosa. As ameaças devem ser eliminadas primeiro pelos navios militares ou pela frota. Isso significa que embora você possa infilhear a construção de novas estações de mineração em uma localização perigosa, os navios de construção não irão lá para construir a nova estação até que as ameaças sejam eliminadas.

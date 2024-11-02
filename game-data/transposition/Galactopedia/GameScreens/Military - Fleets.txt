@@ -1,0 +1,34 @@
+Traduzido
+
+Frotas são grupos de navios militares que atuam juntos para realizar missões.
+
+Elas têm uma base principal que define seu centro de operações e um alcance de engajamento que define a área onde elas engajarão alvos inimigos, em um raio a partir da sua base principal.
+
+[H3]Lista de Frotas[/H3]
+Esta tela lista todas as frotas do seu império. Verifique as opções de classificação e filtro no topo do painel.
+
+Quando zoomat para fora para o nível da galáxia ou sistema, as frotas são destacadas no mapa. Passar o cursor sobre um item na lista indicará a localização no mapa. Clicar no item o selecionará. Clicar duas vezes no item moverá a vista para essa localização.
+
+Cada item da lista mostra a missão atual da frota. Também são exibidos o número de navios na frota, a força de combate da frota e a força de ataque de quaisquer tropas na frota. O ícone do papel da frota é exibido à direita. Qualquer personagem na frota é exibido à direita, ao lado da descrição da missão.
+
+Passar o cursor sobre um item da lista exibe um resumo detalhado em um painel à direita. Este painel de resumo mostra uma quebra completa de todos os navios na frota por papel do navio, nível de dano e nível de combustível. Também fornece detalhes sobre quaisquer almirantes ou generais na frota.
+
+[H3]Modelos e Papéis da Frota[/H3]
+Como explicado anteriormente, as frotas são baseadas em um modelo. As frotas podem ter um papel específico, como: Ataque, Saque, Defesa ou Invasão. Essas frotas selecionarão missões apropriadas ao seu papel de frota.
+
+Você também pode escolher controlar uma frota manualmente definindo seu papel como Manual (botão do papel da frota sob o painel de seleção) ou atribuindo uma missão à frota (assim mudando-a automaticamente para uma frota Manual).
+
+[H3]Criando Novas Frotas[/H3]
+Você pode criar uma nova frota de várias maneiras:
+[ULI]selecionar vários navios militares na vista principal arrastando com o botão do mouse esquerdo pressionado ou ctrl-clicando em cada navio. Em seguida, clique no botão 'Criar nova frota' sob o painel de seleção[/ULI]
+[ULI]selecionar vários navios na lista de navios militares Ctrl e shift-clicando nos navios da lista. Em seguida, clique no botão 'Criar nova frota' sob o painel de seleção[/ULI]
+[ULI]na tela de modelos de frotas, selecione o modelo desejado e depois clique em um dos botões 'Formar nova frota' ou 'Construir nova frota' à direita[/ULI]
+
+Você também pode adicionar navios individuais a uma frota existente selecionando o navio e clicando no botão 'Juntar navio à frota' sob o painel de seleção. Isso exibirá uma lista de todas as frotas às quais o navio poderá ser juntado. Selecione a frota que você deseja que o navio se junte ao clicar nela na lista.
+
+[H3]Configurações Táticas[/H3]
+As frotas têm uma ampla gama de configurações táticas que afinam como elas operam. Abra a tela de configurações táticas selecionando a frota e clicando no botão 'Definir táticas' à direita sob o painel de seleção.
+
+Você pode controlar como as frotas responderão às ameaças definindo o alcance de engajamento. Para detalhes adicionais, passe o cursor sobre cada configuração na tela de configurações táticas.
+
+Note que os navios individuais dentro de uma frota também têm suas próprias configurações táticas. Você pode ajustar como as táticas da frota e do navio interagem na seção 'Táticas de Navios da Frota - Sobrescrever'.

@@ -1,0 +1,20 @@
+Todos os colonatos custam dinheiro para serem mantidos. Quando os colonatos são pequenos e subdesenvolvidos, eles representam uma despesa líquida para a sua economia, já que seus custos de manutenção são elevados e geralmente superam suas receitas.
+
+[H3]Redução com o Crescimento do Colonato[/H3]
+Os custos de manutenção caem à medida que a população de um colonato aumenta.
+
+À medida que os colonatos crescem, sua receita tributária também ultrapassará em breve seus custos de manutenção. Nesse ponto, o colonato torna-se positivo em receitas: suas receitas superam seus custos.
+
+Esses colonatos bem desenvolvidos podem então fornecer financiamento para seu império.
+
+[H3]Colonatos Muito Grandes[/H3]
+À medida que os colonatos crescem ainda mais (acima de 50% da população máxima), seus custos de manutenção começam a aumentar novamente.
+
+No entanto, nesse ponto, as receitas desses grandes colonatos são geralmente muito altas, compensando essas perdas.
+
+[H3]Fatores que Aumentam os Custos de Manutenção[/H3]
+Em resumo, os seguintes fatores aumentam os custos de manutenção do colonato:
+[ULI]População menor que 100 milhões[/ULI]
+[ULI]Suitabilidade para população menor que 20[/ULI]
+[ULI]População não assimilada[/ULI]
+[ULI]População acima de 50% da máxima[/ULI]

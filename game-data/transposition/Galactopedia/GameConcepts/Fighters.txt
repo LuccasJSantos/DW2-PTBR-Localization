@@ -1,0 +1,25 @@
+Traduzindo:
+
+Fighters e bombardeiros são pequenas espaçonaves de uma pessoa que são transportadas em um navio militar maior. Eles são rápidos e ágeis e podem atacar um alvo enquanto o carrier mantém uma distância segura.
+
+Fighters não custam dinheiro ou recursos para construir ou manter. Eles também não têm hyperdrive – eles só podem viajar a velocidades subluz.thus eles devem ser transportados a bordo de outro navio ou base.
+
+Há dois tipos de fighters:
+[ULI]interceptadores que atacam principalmente outras estrelas fighters[/ULI]
+[bombardeiros que são melhores para atacar alvos maiores como navios e bases[/ULI]
+
+Você pesquisa novos hulls e componentes de fighter na tela de Pesquisa. then você pode projetar seus próprios interceptadores e bombardeiros na tela de Projeto de Navio.
+
+Fighter Bays
+Para construir fighters, você deve ter um navio ou base com componentes Fighter Bay. Selecione este navio ou base no painel de seleção. Clique no botão roxo 'Gerenciar Fighters'. Isso abrirá um conjunto de botões para construir e lançar interceptadores e bombardeiros.
+
+Fighter Bays são onde os fighters são fabricados, transportados e reparados. Fighter Bays são componentes pesquisáveis que podem ser construídos em qualquer navio militar ou base. Cada Fighter Bay carrega um número específico de fighters, geralmente qualquer coisa entre 4 e 24.
+
+Fighters não podem ser transferidos entre carriers – eles estão permanentemente atribuídos ao carrier onde foram construídos. Se esse carrier for destruído, seus fighters também serão destruídos.
+
+Bases Planetárias de Fighters
+Você também pode construir instalações de base de fighter em suas colônias. Isso permite que você hospede um grande número de fighters diretamente na colônia, sem nenhuma base ou carrier.
+
+Primeiro, você deve pesquisar o projeto apropriado na tela de Pesquisa. Em seguida, você pode construir a instalação de base de fighter na colônia.
+
+Quando uma colônia tem uma instalação de base de fighter, você pode construir e lançar fighters da mesma maneira que com carriers. Selecione a colônia e use o botão 'Gerenciar Fighters' sob o painel de seleção.

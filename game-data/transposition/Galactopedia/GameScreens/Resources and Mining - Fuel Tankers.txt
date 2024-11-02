@@ -1,0 +1,10 @@
+Tanqueiros de Combustível viajam pela galáxia reabastecendo navios que estão baixos de combustível. Quando você atribuir Tanqueiros de Combustível a uma frota, eles darão prioridade ao reabastecimento dos navios em sua frota.
+
+Eles podem extrair combustível de qualquer localização com um recurso de combustível disponível. No entanto, eles preferem carregar combustível a partir de um porto espacial ou colônia, pois isso geralmente é uma forma mais rápida de obter combustível.
+
+[H3]Lista de Tanqueiros de Combustível[/H3]
+Esta tela lista todos os Tanqueiros de Combustível em seu império.
+
+Quando zoomed out no nível da galáxia ou sistema, os Tanqueiros de Combustível são destacados no mapa. Passando o cursor sobre um item na lista fará uma marcação no local do mapa. Clicar no item selecionará ele. Clicar duas vezes no item moverá a visualização para esse local.
+
+Cada item da lista mostra a carga atual e a missão do Tanqueiro de Combustível.

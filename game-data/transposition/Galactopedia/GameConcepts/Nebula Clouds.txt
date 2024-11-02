@@ -1,0 +1,46 @@
+Nebulosas são um dos principais recursos do universo. Enormes nuvens de gás e poeira se espalham pela extensão da galáxia.
+
+Efeitos na Viagem Hiperespacial
+As nebulosas atrapalham a viagem hiperespacial, reduzindo drasticamente a velocidade das naves quando elas estão dentro delas.
+
+Por essa razão, as navegs usualmente planejam trajetórias de salto ao redor das nebulosas, em vez de atravessá-las diretamente.
+
+Assim, as nebulosas formam barreiras naturais que moldam o universo.
+
+Efeitos nos Sensores de Longo Alcance
+Os sensores de longo alcance são atrapalhados pelas nebulosas. Sua faixa de escaneamento é drasticamente reduzida quando a nave está dentro delas.
+
+As nebulosas também atuam como uma barreira que bloqueia a varredura de objetos do outro lado. Portanto, você não pode ver navios ou bases do outro lado da nuvem de poeira interestelar. Em outras palavras, você não pode 'varrer' através das nebulosas.
+
+Outros Efeitos das Nebulosas
+Todas as nebulosas reduzem a velocidade da viagem hiperespacial e atrapalham os sensores. No entanto, algumas nebulosas também têm outros efeitos, como é descrito abaixo:
+
+Tempestade Galáctica
+As tempestades galácticas são regiões perigosas de nebulosa com raios carregados periódicos que podem causar danos padrão máxima de 7 (mitigação com Armadura Reativa).
+
+Tempestade Iônica
+As tempestades iônicas emitem radiação ionizante prejudicial que pode desabilitar os componentes das naves ou bases não protegidas. Elas também têm uma drenagem de energia constante, fazendo com que as naves gastem mais poder do reator e, assim, mais combustível.
+Danos Iônicos: 4 máximos (mitigação com Defesa Iônica)
+Drenagem de Energia: -1 por segundo
+
+Tempestade Gravítica
+As tempestades gravíticas emitem fortes rajadas de energia gravitacional que podem danificar ou desabilitar as naves ou bases não protegidas. Elas também reduzem a velocidade da navegação subluz para qualquer nave dentro delas.
+Danos Iônicos: 8 máximos (mitigação com Defesa Iônica)
+Danos Padrão: 5 máximos (mitigação com Armadura Reativa)
+Modificador de Velocidade: -50%
+
+Zona de Radiação
+As zonas de radiação são áreas de alta radiação que reduzem a energia e os escudos. Elas também reduzem drasticamente a eficiência dos sensores.
+Drenagem de Energia: -15 por segundo
+Sensores Desativados: -30
+Redução de Escudos: -6 por segundo
+
+Mapa de Overlay de Nebulosas
+Você pode ver as fronteiras exatas das nebulosas ativando o mapa de overlay das nebulosas. Este overlay mostra os contornos de todas as nebulosas conhecidas.
+
+Os marcadores das nebulosas são coloridos de acordo com o tipo de nebulosa:
+Nebulosas Padrão: Cinza
+Tempestade Galáctica: Laranja
+ Tempestade Iônica: Roxo
+Tempestade Gravítica: Verde
+Zona de Radiação: Amarelo

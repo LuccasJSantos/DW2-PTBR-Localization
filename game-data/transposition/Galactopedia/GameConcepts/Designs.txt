@@ -1,0 +1,34 @@
+Todos os navios e bases no seu império utilizam desenhos. Desenhos são modelos ou plantas para construir um navio ou base.
+
+[H3]Estruturas de Navio[/H3]
+As estruturas de nave são a superestrutura de um navio ou base. Cada estrutura tem uma função, por exemplo, Pequeno Freteador, Estação de Mineração, Fragata.
+
+As estruturas têm um tamanho intrínseco (o tamanho da estrutura em si) e um tamanho máximo que define o maior desenho que você pode fazer com a estrutura, incluindo todos os componentes adicionados à estrutura.
+
+Elas podem ter às vezes um nível de blindagem reativa incorporado. Isso significa que algumas estruturas são melhores para resistir ao fogo das armas inimigas, mesmo sem componentes de blindagem serem adicionados ao desenho.
+
+As estruturas também requerem recursos para serem construídas.
+
+[H3]Baías de Componentes[/H3]
+As estruturas contêm baías de componentes - espaços que abrigam componentes de vários tipos no desenho.
+
+Existem 6 tipos de baías de componentes. Cada tipo de baía só permite certos tipos de componentes:
+[ULI]Geral: centros de comando, alojamentos para a tripulação, células de combustível, reatores, hiperpropulsores, compartimentos de carga, compartimentos para passageiros, compartimentos para tropas, motores de mineração, coletores de energia e todos os outros[/ULI]
+[ULI]Armas: armas ou canhões de tração[/ULI]
+[ULI]Motores: motores e motores de vetorização[/ULI]
+[ULI]Defesa: blindagem, escudos ou controle de danos[/ULI]
+[ULI]Hangares: baías de atracação, estaleiros ou compartimentos para caças[/ULI]
+[ULI]Sensores: scanners, contra-medidas, computadores de alvo, módulos de varredura, dispositivos de ocultação[/ULI]
+
+Cada baía de componentes também tem um tamanho máximo. Componentes que são maiores do que este tamanho não podem caber na baía.
+
+[H3]Componentes[/H3]
+Os desenhos são feitos adicionando um conjunto de componentes que fornecem toda a funcionalidade necessária para o tipo particular de navio ou base. Os componentes são adicionados às baías específicas da estrutura, como foi destacado acima.
+
+Alguns tipos de componentes estão sempre presentes em todos os desenhos: por exemplo, reatores, armazenamento de combustível, alojamentos para a tripulação e centros de comando são sempre necessários para qualquer tipo de navio ou base.
+
+Outros tipos de componentes são mais especializados, por exemplo, estaleiros, laboratórios de pesquisa, baías de atracação.
+
+À medida que sua pesquisa avança, você desbloqueia melhorias para componentes existentes em seus navios e bases. Essas melhorias vão automaticamente aprimorar as capacidades de seus navios e bases.
+
+Às vezes, quebras da pesquisa podem fornecer componentes completamente novos. À medida que esses novos componentes avançados ficam disponíveis, você deve atualizar seus desenhos para usá-los.

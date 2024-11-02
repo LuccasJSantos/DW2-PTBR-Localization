@@ -1,0 +1,17 @@
+Esta tela lista potenciais novas localizações de resorts que você pode alocar. Essas localizações são onde você deve construir novas bases de resorts. Resorts são destinos turísticos. Naves de passageiros transportarão turistas para os resorts, gerando renda para o seu império.
+
+Resorts são construídos em localizações cenográficas no universo. Essas localizações geralmente têm alguma característica natural cenográfica. Ruínas antigas também podem fornecer bônus de cena que podem ser explorados pela construção de uma base de Resort lá.
+
+Ao recuar para o nível do sistema ou da galáxia, as novas localizações de resorts são destacadas no mapa. Passe o mouse sobre um item na lista para marcar a localização no mapa. Clique no item para selecioná-lo. Dê um duplo clique no item para mover a visualização para essa localização.
+
+Cada item da lista mostra os bônus cenográficos conhecidos na localização. Passe o mouse sobre a descrição do bônus cenográfico para obter um resumo completo, incluindo a característica natural que fornece o bônus.
+
+[H3]Filas de Novas Bases de Resorts[/H3]
+O botão à direita permite que você faça uma fila para construir uma nova base de resort na localização. Quando a próxima nave de construção estiver disponível, ela construirá uma base de resort lá. Você pode clicar novamente no botão para cancelar a construção.
+
+Se você não puder construir na localização, o botão Fila estará desabilitado. Uma dica contextual no botão explicará por que você não pode construir lá.
+
+[H3]Localizações Perigosas[/H3]
+Um símbolo de raio vermelho será exibido ao lado do nome da localização se a localização for considerada perigosa. Uma localização é considerada perigosa quando há ameaças não eliminadas presentes, como piratas ou criaturas espaciais mortais.
+
+Naves não militares não viajam para uma localização perigosa. As ameaças devem primeiro ser eliminadas por navios militares ou frota. Isso significa que enquanto você pode fazer fila para construir uma nova base de resort em uma localização perigosa, as naves de construção não irão lá para construir a nova base até que as ameaças sejam eliminadas.
