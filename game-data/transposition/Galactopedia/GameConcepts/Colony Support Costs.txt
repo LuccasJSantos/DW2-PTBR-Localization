@@ -1,20 +1,20 @@
-Todos os colonatos custam dinheiro para serem mantidos. Quando os colonatos são pequenos e subdesenvolvidos, eles representam uma despesa líquida para a sua economia, já que seus custos de manutenção são elevados e geralmente superam suas receitas.
+Todas as colônias custam dinheiro para serem mantidas. Quando as colônias são pequenas e subdesenvolvidas, elas são um peso para sua economia, pois seus custos de suporte são altos e normalmente superam sua receita.
 
-[H3]Redução com o Crescimento do Colonato[/H3]
-Os custos de manutenção caem à medida que a população de um colonato aumenta.
+[H3]Redução conforme a Colônia Cresce[/H3]  
+Os custos de suporte diminuem à medida que a população de uma colônia cresce.
 
-À medida que os colonatos crescem, sua receita tributária também ultrapassará em breve seus custos de manutenção. Nesse ponto, o colonato torna-se positivo em receitas: suas receitas superam seus custos.
+À medida que as colônias crescem, sua receita tributária eventualmente superará seus custos de suporte. Nesse ponto, a colônia se torna positiva em receita: sua renda excede seus custos.
 
-Esses colonatos bem desenvolvidos podem então fornecer financiamento para seu império.
+Essas colônias bem desenvolvidas podem então fornecer financiamento para o seu império.
 
-[H3]Colonatos Muito Grandes[/H3]
-À medida que os colonatos crescem ainda mais (acima de 50% da população máxima), seus custos de manutenção começam a aumentar novamente.
+[H3]Colônias Muito Grandes[/H3]  
+À medida que as colônias crescem ainda mais (acima de 50% da população máxima), seus custos de suporte começam a aumentar novamente.
 
-No entanto, nesse ponto, as receitas desses grandes colonatos são geralmente muito altas, compensando essas perdas.
+No entanto, nesse ponto, a receita dessas grandes colônias é geralmente muito alta, compensando essas perdas.
 
-[H3]Fatores que Aumentam os Custos de Manutenção[/H3]
-Em resumo, os seguintes fatores aumentam os custos de manutenção do colonato:
-[ULI]População menor que 100 milhões[/ULI]
-[ULI]Suitabilidade para população menor que 20[/ULI]
-[ULI]População não assimilada[/ULI]
-[ULI]População acima de 50% da máxima[/ULI]
+[H3]Fatores de Custo de Suporte[/H3]  
+Em resumo, os seguintes fatores aumentam os custos de suporte da colônia:  
+[ULI]população inferior a 100 milhões[/ULI]  
+[ULI]adequação para a população inferior a 20[/ULI]  
+[ULI]população não assimilada[/ULI]  
+[ULI]população acima de 50% da máxima[/ULI]

@@ -1,22 +1,23 @@
-Não todas as formas de vida alienígena fazem parte de um império formal. Muitas populações alienígenas operam de forma independente. Essas populações estão localizadas em mundos espalhados pela galáxia.
+[H2]Vida Independente na Galáxia[/H2]  
+Nem toda vida alienígena faz parte de um império formal. Muitas populações alienígenas operam de forma independente. Essas populações estão localizadas em mundos espalhados pela galáxia.
 
-Esses colonos independentes exploram os recursos de seus mundos e os oferecem como comércio a outros. Nesse caso, você pode se beneficiar desses recursos sem ter que construir uma estação de mineração no mundo.
+Essas colônias independentes extraem os recursos de seus mundos e os oferecem em troca para outros. Nesse caso, você pode se beneficiar desses recursos sem precisar construir uma estação de mineração no mundo.
 
-Enquanto as populações independentes começam não pertencendo a um império, elas podem ser absorvidas por meio da colonização.
+Embora as populações independentes comecem sem pertencer a um império, elas podem ser absorvidas em um império através da colonização.
 
-Colonizando Mundos Independentes
-A maioria dos colonos independentes não receberá a colonização a menos que você tenha primeiro construído uma amizade com eles.
+[H3]Colonizando Mundos Independentes[/H3]  
+A maioria das colônias independentes não acolherá a colonização, a menos que você tenha primeiro construído uma amizade com elas.
 
-Você pode melhorar as relações com os colonos independentes ao formar tratados de comércio e oferecer presentes. Eventualmente, eles podem se aquecer o suficiente para estender um convite para colonizar. Nesse ponto, você pode enviar uma Nave Colônia para o planeta e colonizar, integrando o mundo em seu império.
+Você pode melhorar as relações com as colônias independentes formando tratados comerciais e oferecendo presentes. Eventualmente, elas podem se aquecer o suficiente para que estendam um convite à colonização. Nesse momento, você pode enviar uma Nave Colônia para o planeta e colonizar, integrando o mundo ao seu império.
 
-Invadindo Mundos Independentes
+[H3]Invadindo Mundos Independentes[/H3]  
 Infelizmente, algumas espécies podem ser tão hostis que nunca se aquecerão à sua diplomacia.
 
-Portanto, você também pode escolher invadir colônias independentes, desembarcando tropas para conquistá-las e tomar o planeta pela força.
+Portanto, você também pode optar por invadir colônias independentes, desembarcando tropas para conquistá-las e tomar o planeta à força.
 
-Mas note que a invasão de colônias independentes prejudicará sua reputação diplomática com outras facções. Também resultará em uma colônia recentemente conquistada muito infeliz, que exigirá uma forte guarnição de tropas para sufocar qualquer elemento rebelde.
+Mas note que invadir colônias independentes prejudicará sua reputação diplomática com outras facções. Isso também resultará em uma colônia recém-conquistada altamente insatisfeita que exigirá uma forte guarnição de tropas para acalmar quaisquer elementos rebeldes.
 
-Comerciantes Independentes
-Comerciantes independentes geralmente estão presentes junto com os colonos independentes. Esses comerciantes operam fretadores que trabalham no transporte de carga pela galáxia. Eles podem ser encontrados esperando em um mundo independente, prontos para transportar uma ordem de carga para seu comprador.
+[H3]Comerciantes Independentes[/H3]  
+Comerciantes independentes geralmente estão presentes junto com colônias independentes. Esses comerciantes operam cargueiros que trabalham no transporte de carga pela galáxia. Eles podem frequentemente ser encontrados esperando em um mundo independente, prontos para transportar um pedido de carga para seu comprador.
 
 A cor identificadora para colônias e comerciantes independentes é cinza claro.

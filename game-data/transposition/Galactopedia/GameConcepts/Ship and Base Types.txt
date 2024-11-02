@@ -1,27 +1,27 @@
-Summary:
+Resumo:
 
-1. Mining Ships:
-   - Privately owned, not under direct empire control.
-   - Extract high-demand resources and deliver them to spaceports.
-   - Cannot assign missions.
+1. Naves Mineradoras:
+   - Propriedade privada, não sob controle direto do império.
+   - Extraem recursos de alta demanda e os entregam em espaçonaves.
+   - Não podem atribuir missões.
 
-2. Freighters:
-   - Privately owned, transport cargo between colonies, mining stations, and spaceports.
-   - Not under direct empire control.
-   - Cannot assign missions.
+2. Cargueiros:
+   - Propriedade privada, transportam carga entre colônias, estações de mineração e espaçonaves.
+   - Não sob controle direto do império.
+   - Não podem atribuir missões.
 
-3. Passenger Ships:
-   - Privately owned, transport migrants or tourists across the galaxy.
-   - Automatically operate based on demand.
-   - Cannot assign missions.
+3. Naves de Passageiros:
+   - Propriedade privada, transportam migrantes ou turistas pela galáxia.
+   - Operam automaticamente com base na demanda.
+   - Não podem atribuir missões.
 
-4. State-Owned Bases:
-   - Spaceport: Central trade hub, ship construction, defense, research facilities, and colony happiness bonuses.
-   - Research Station: Dedicated research facilities for unlocking new technologies.
-   - Resort Base: Tourist destination for income generation.
-   - Defensive Base: Powerful defense for important colonies.
-   - Monitoring Station: Long-range scanning for spying or visibility of enemy movements.
+4. Bases Estatais:
+   - Espaçonave: Centro comercial central, construção de naves, defesa, instalações de pesquisa e bônus de felicidade para colônias.
+   - Estação de Pesquisa: Instalações de pesquisa dedicadas ao desbloqueio de novas tecnologias.
+   - Base de Resort: Destino turístico para geração de renda.
+   - Base de Defesa: Defesa poderosa para colônias importantes.
+   - Estação de Monitoramento: Varredura de longo alcance para espionagem ou visibilidade de movimentos inimigos.
 
-5. Civilian Bases:
-   - Mining Station: Fixed mining platforms at resource-rich locations, defended by military ships.
-   - Once a planet/moon is colonized, its mining station is removed.
+5. Bases Civis:
+   - Estação de Mineração: Plataformas de mineração fixas em locais ricos em recursos, defendidas por naves militares.
+   - Uma vez que um planeta/lua é colonizado, sua estação de mineração é removida.

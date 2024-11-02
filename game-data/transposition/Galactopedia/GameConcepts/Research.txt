@@ -1,23 +1,82 @@
-Pesquisa abre novas tecnologias para uso na construção de navios e bases. Também pode proporcionar ao seu império novas capacidades, como colonizar novos tipos de planetas ou construir novas instalações planetárias.
+[H2]Pesquisa[/H2]  
+A pesquisa abre novas tecnologias para uso na construção de naves e bases. Também pode fornecer à sua civilização novas capacidades, como a colonização de novos tipos de planetas ou a construção de novas instalações planetárias.
 
-Para obter essas novas tecnologias e capacidades, você deve realizar pesquisa em projetos específicos que desbloqueiam esses novos avanços.
+Para obter essas novas tecnologias e capacidades, você deve realizar pesquisas em projetos específicos que desbloqueiam essas novas descobertas.
 
-A pesquisa de projetos demora tempo. A velocidade da pesquisa é determinada pela saída de pesquisa das suas colônias e estações de pesquisa.
+A pesquisa em projetos leva tempo. A velocidade da pesquisa é determinada pela produção de pesquisa de suas colônias e estações de pesquisa.
 
-Segue abaixo uma lista de benefícios que podem ser obtidos através da pesquisa:
-[novo Cascos de Navios permitindo construir novos tipos de navios ou bases][novos componentes completamente construídos em seus navios e bases, proporcionando novas capacidades][melhorias nos componentes existentes: seus navios e bases que usam esses componentes melhorados são automaticamente e imediatamente atualizados com capacidades aprimoradas. Isso reduz a necessidade de retrofit de seus navios e bases para se beneficiar dos avanços da pesquisa][novas instalações planetárias que podem ser construídas em suas colônias][a capacidade de colonizar novos tipos de planetas][melhorias nas habilidades das unidades militares][bonificações para o seu império em diversas áreas][melhorias na diplomacia com raças alienígenas específicas]
+Abaixo está uma lista de benefícios que podem ser obtidos com a pesquisa:
+[ULI]novos Cascos de Naves permitindo que você construa novos tipos de naves ou bases[/ULI]  
+[ULI]componentes completamente novos que podem ser construídos em suas naves e bases, dando a elas novas capacidades[/ULI]  
+[ULI]melhorias em componentes existentes: suas naves e bases que utilizam esses componentes melhorados são automaticamente e imediatamente atualizadas com capacidades aprimoradas. Isso reduz a necessidade de retrofit em suas naves e bases para se beneficiar das descobertas da pesquisa[/ULI]  
+[ULI]novas instalações planetárias que podem ser construídas em suas colônias[/ULI]  
+[ULI]a capacidade de colonizar novos tipos de planetas[/ULI]  
+[ULI]habilidades melhoradas para unidades de tropas[/ULI]  
+[ULI]bônus para seu império em várias áreas[/ULI]  
+[ULI]melhorias na diplomacia com raças alienígenas específicas[/ULI]  
 
-Tela de Pesquisa
-Você pode visualizar os projetos de pesquisa disponíveis atualmente na tela de Pesquisa (F10).
+[H2]Tela de Pesquisa[/H2]  
+Você pode visualizar os projetos de pesquisa atualmente disponíveis na tela de Pesquisa (F10).
 
-O lado esquerdo da tela tem projetos para os níveis tecnológicos mais baixos. São as tecnologias que você tem no início de um novo jogo.
+O lado esquerdo da tela possui projetos para os níveis tecnológicos mais baixos. Essas são as tecnologias que você tem no início de um novo jogo.
 
-À medida que avança para a direita da tela, o nível tecnológico aumenta.
+À medida que você avança para a direita da tela, o nível tecnológico aumenta.
 
-Ao passar o cursor sobre um projeto, são fornecidos detalhes sobre a nova tecnologia e outros benefícios que ela proporciona.
+Passar o mouse sobre um projeto fornecerá detalhes sobre a nova tecnologia e outros benefícios que ela oferece.
 
-Ordem de Pesquisa
-Os projetos estão interligados por caminhos. Os projetos pais devem ser pesquisados antes dos filhos. À medida que pesquisa um projeto, quaisquer projetos filhos (geralmente à direita) são habilitados para pesquisa.
+[H3]Ordem da Pesquisa[/H3]  
+Os projetos estão ligados por caminhos. Projetos pais devem ser pesquisados antes dos projetos filhos. À medida que você pesquisa um projeto, qualquer projeto filho (geralmente à direita) é habilitado para pesquisa.
 
-Pesquisa Cega versus Não-Cega
-Quando seu jogo foi configurado para usar a pesquisa cega, você só pode ver os próximos projet
+[H3]Pesquisa Cega versus Não Cega[/H3]  
+Quando seu jogo está configurado para usar pesquisa cega, você pode ver apenas os próximos projetos disponíveis além dos já pesquisados.
+
+Quando seu jogo está configurado para ver toda a pesquisa, você pode ver todos os projetos desde o início do jogo.
+
+[H3]Filas de Projetos a Serem Pesquisados[/H3]  
+Clique com o botão esquerdo em um projeto para colocá-lo na fila para pesquisa. Você pode colocar até 15 projetos em fila.
+
+Quando você tem várias estações de pesquisa, pode pesquisar mais de um projeto ao mesmo tempo. Você pode definir o limite superior de projetos simultâneos na seção de Pesquisa da tela de Políticas do Império (tecla P).
+
+Cada projeto começará a ser pesquisado imediatamente após a conclusão de seu(s) projeto(s) anterior(es).
+
+[H3]Tecnologia Específica de Raça[/H3]  
+Alguns projetos de pesquisa são limitados a raças alienígenas específicas - esses não podem ser pesquisados por ninguém mais.
+
+No entanto, essas tecnologias podem às vezes ser obtidas por outros meios. Por exemplo, você pode conseguir negociar essa tecnologia com uma raça que a possui.
+
+Note, porém, que se você obtiver uma tecnologia por meio de troca, não poderá depois trocá-la com outro império - você não entende a tecnologia o suficiente para explicá-la a outra pessoa.
+
+[H3]Custos de Iniciação[/H3]  
+Alguns projetos exigem que um custo de iniciação seja pago antes que a pesquisa possa começar. O custo pode incluir dinheiro e recursos.
+
+Quando você clica com o botão esquerdo para colocar um projeto na fila que possui custos de iniciação, uma janela de prompt será exibida pedindo sua aprovação para o pagamento dos custos.
+
+[H3]Requisitos Extras[/H3]  
+Alguns projetos têm requisitos de bônus de pesquisa extras antes que você possa começar a pesquisá-los. Isso significa que eles só podem ser iniciados quando você tiver bônus de pesquisa suficientes de um tipo específico, por exemplo, alguns projetos de Escudo de alto nível exigem que você tenha um determinado limite de bônus de pesquisa de Escudo.
+
+Você pode obter bônus de pesquisa em áreas específicas buscando essas localizações através da exploração. Quando você encontra uma área com bônus de pesquisa especiais, pode então construir uma estação de pesquisa lá para obter esses bônus para seu império.
+
+[H3]Pesquisa Acelerada[/H3]  
+Você pode acelerar a pesquisa de um projeto importante por meio da 'pesquisa acelerada'. Isso significa gastar dinheiro para dobrar a taxa de pesquisa para esse projeto.
+
+Para iniciar um programa de pesquisa acelerada, clique no projeto que está sendo pesquisado no topo da fila (ou seja, o primeiro projeto na fila). Um prompt indicará o custo do programa de pesquisa acelerada e pedirá que você confirme o gasto. Projetos de pesquisa que estão sendo acelerados são indicados por um ícone de cronômetro no canto superior esquerdo do projeto.
+
+[H2]Fontes e Produção de Pesquisa[/H2]  
+A produção de pesquisa vem tanto das populações em suas colônias quanto das estações de pesquisa que você constrói.
+
+Para explorar totalmente sua produção de pesquisa, você também deve gastar financiamento excedente em pesquisa. Pesquisa totalmente financiada significa acesso mais rápido a novas tecnologias.
+
+Você pode alocar financiamento para pesquisa na tela de Níveis de Financiamento (shift-F2) na seção do Império.
+
+[H3]Estações de Pesquisa[/H3]  
+Estações de pesquisa devem ser construídas em locais com bônus de pesquisa. Esses bônus de pesquisa vêm de anomalias galácticas incomuns, muitas vezes encontradas em locais exóticos como buracos negros, estrelas de nêutrons e outros lugares.
+
+A lista de Novas Localizações de Pesquisa (shift-F9) mostra os melhores lugares para construir novas Estações de Pesquisa.
+
+Use o botão à direita de cada linha da lista para colocar em fila a construção de uma nova estação de pesquisa na localização. Quando a próxima nave de construção se tornar disponível, ela construirá uma estação de pesquisa aqui. Você pode clicar no botão novamente para cancelar a construção.
+
+Uma vez que uma estação de pesquisa é construída em uma localização, os bônus de pesquisa lá são incluídos nos bônus de pesquisa gerais de seu império.
+
+Os bônus de pesquisa são importantes de duas maneiras:
+[ULI]a velocidade de pesquisa é aumentada para projetos com o tipo de bônus correspondente, por exemplo, pesquisar novos Cascos de Naves é acelerado quando você tem bônus de pesquisa em construção[/ULI]  
+[ULI]como explicado acima, alguns projetos de pesquisa têm requisitos extras onde só podem ser iniciados quando você tiver bônus de pesquisa suficientes de um tipo específico, por exemplo, alguns projetos de Escudo de alto nível exigem que você tenha um determinado limite de bônus de pesquisa de Escudo[/ULI]  

@@ -1,21 +1,20 @@
-Tradução:
+A construção de naves e bases é um aspecto central de Distant Worlds. Compreender os detalhes da construção ajudará você a expandir seu império de forma mais eficaz.
 
-A construção de navios e bases é um aspecto central de Distant Worlds. Entender os detalhes da construção irá ajudá-lo a expandir seu império de forma mais eficaz.
+Todas as construções custam dinheiro – você deve ter fundos suficientes para comprar novas naves e bases.
 
-Todos os custos de construção exigem dinheiro – você deve ter fundos suficientes para comprar novos navios e bases.
+À medida que seu nível de tecnologia aumenta, suas habilidades de construção crescem. A pesquisa desbloqueia novos e maiores Cascos que podem ser usados para projetar e construir novas naves e bases.
 
-À medida que o nível de sua tecnologia aumenta, suas habilidades de construção também crescem. A pesquisa desbloqueia novas e maiores Carcaças que podem ser usadas para projetar e construir novos navios e bases.
+[H3]Onde a construção acontece[/H3]  
+A construção de naves ou bases ocorre em três tipos de locais:
+[ULI]Colônias: podem construir qualquer tipo de nave, mas em uma taxa relativamente lenta em comparação com os estaleiros espaciais[/ULI]
+[ULI]Estaleiros Espaciais: o local-chave para construir a maioria das naves (naves militares, naves de exploração, cargueiros, naves de mineração)[/ULI]
+[ULI]Naves de Construção: para construir estações de mineração, estações de pesquisa e outras bases em locais não-coloniais[/ULI]
 
-A construção de navios para a economia privada ocorre automaticamente – seus cidadãos privados compram e constroem cargueiros e navios mineiros conforme necessário.
+[H3]Como iniciar a construção[/H3]  
+Para iniciar a construção estatal, você tem quatro opções:
+[ULI]Selecione uma colônia ou estaleiro espacial e clique no botão amarelo 'Construir nova nave ou base' na Painel de Seleção. Os botões mudarão para mostrar todos os itens construíveis para aquele estaleiro. Passe o mouse sobre cada botão para ver o tipo e o custo de cada nova nave. Clique em um botão para construir um item[/ULI]
+[ULI]Selecione uma nave de construção, encontre um local de construção para uma nova base e clique com o botão direito para exibir um menu pop-up com uma opção de menu 'Construir' para as bases que podem ser construídas neste local. Clique na opção de menu 'Construir Base' desejada[/ULI]
+[ULI]Abra a tela de Ordem de Construção (na seção de Construção do Centro de Controle) e selecione os designs e as quantidades para cada função de nave, em seguida, clique no botão de Compra[/ULI]
+[ULI]Use os botões 'Fila Nova Base' em qualquer uma das listas de Novos Locais, por exemplo, Novos Locais de Mineração (shift-F7) ou Novos Locais de Pesquisa (shift-F9)[/ULI]
 
-[H3]Onde a construção acontece[/H3]
-A construção de navios ou bases occurs em três tipos de locais:
-[ULI]Colônias: podem construir qualquer tipo de navio, mas a uma taxa relativamente lenta em comparação com os portos espaciais.[/ULI]
-[ULI]Portos Espaciais: o local chave para construir a maioria dos navios (navios militares, navios de exploração, cargueiros e navios mineiros).[/ULI]
-[ULI]Navios de construção: para construir estações de mineração, estações de pesquisa e outras bases em locais não-coloniais.[/ULI]
-
-[H3]Como iniciar a construção[/H3]
-Para iniciar a construção do estado, você tem quatro opções:
-[ULI] Selecione uma colônia ou porto espacial e clique no botão amarelo 'Construir novo navio ou base' no Painel de Seleção. Os botões mudarão para mostrar todos os itens construtíveis para aquele pátio de construção. Passe o mouse sobre cada botão para ver o tipo e o custo para cada novo navio. Clique em um botão para construir um item.[/ULI]
-[ULI] Selecione um navio de construção, localize um local para construir uma nova base e clique com o botão direito do mouse para mostrar um menu pop-up com a opção 'Construir' para as bases que podem ser construídas naquele local. Clique na opção 'Construir Base' desejada.[/ULI]
-[ULI]Abra a tela de Ordem de Construção (na seção de Construção do Centro de Controle) e selecione os projet
+Observe que após a construção, as naves começam totalmente automatizadas. Para assumir o controle de uma de suas naves de propriedade estatal, basta atribuir uma missão a ela.

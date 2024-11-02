@@ -1,21 +1,21 @@
-Maravilhas Galácticas são grandes projetos que você constrói em suas colônias. Elas proporcionam bônus exclusivos à colônia ou até ao seu império inteiro.
+Maravilhas Galácticas são grandes projetos que você constrói em suas colônias. Elas fornecem bônus únicos para a colônia, ou até mesmo para todo o seu império.
 
-[H3]Maravilhas são Únicas[/H3]
-Para algumas maravilhas, apenas uma pode ser construída na galáxia. O primeiro império a concluir a maravilha obtém seus benefícios - qualquer outra maravilha incompleta do mesmo tipo é cancelada.
+[H3]As Maravilhas são Únicas[/H3]
+Para algumas maravilhas, apenas uma delas pode ser construída na galáxia. O primeiro império a completar a maravilha obtém seus benefícios - quaisquer outras maravilhas incompletas do mesmo tipo são canceladas.
 
-Outras maravilhas só podem ser construídas uma vez em cada império.
+Outras maravilhas podem ser construídas apenas uma vez em cada império.
 
-As maravilhas são um tipo especial de instalação planetária e, portanto, funcionam de maneira semelhante às instalações.
+As maravilhas são um tipo especial de instalação planetária, funcionando de maneira semelhante às instalações.
 
-Antes de construir uma maravilha, você deve primeiro pesquisá-la. As maravilhas custam dinheiro para serem construídas e também têm custos de manutenção contínuos.
+Antes de poder construir uma maravilha, você deve primeiro pesquisá-la. As maravilhas custam dinheiro para serem construídas e também têm custos de manutenção contínuos.
 
-Algumas maravilhas são únicas a uma raça alienígena específica - apenas elas podem construí-las. Essas maravilhas também podem estar relacionadas às condições específicas de vitória da raça.
+Algumas maravilhas são exclusivas de uma raça alienígena específica - elas podem ser construídas apenas por essa raça. Essas maravilhas também podem estar relacionadas a condições de vitória específicas da raça.
 
-Algumas maravilhas também são consideradas locais cenográficos e, portanto, atraem turismo para qualquer colônia que as tenha.
+Algumas maravilhas também são consideradas locais cênicos, atraindo turismo para qualquer colônia que as possua.
 
-[H3]Construindo e visualizando Maravilhas[/H3]
-Você pode construir maravilhas em uma colônia selecionando-a no painel de seleção e depois clicando no botão verde "Construir instalações". Isso abrirá um conjunto de botões com todas as instalações planetárias que podem ser construídas na colônia, incluindo quaisquer maravilhas.
+[H3]Construindo e Visualizando Maravilhas[/H3]
+Você pode construir maravilhas em uma colônia selecionando a colônia no Painel de Seleção e, em seguida, clicando no botão verde 'Construir instalações'. Isso abrirá um conjunto de botões com todas as instalações planetárias que podem ser construídas na colônia, incluindo quaisquer maravilhas.
 
-Você pode ver todas as instalações em seu império, incluindo qualquer maravilha, na lista de Instalações Planetárias (seção Colônias).
+Você pode ver todas as instalações em seu império, incluindo quaisquer maravilhas, na lista de Instalações Planetárias (seção Colônias).
 
-Para detalhes sobre cada maravilha, referir-se aos tópicos individuais na seção de Instalações Planetárias.
+Para detalhes sobre cada maravilha, consulte os tópicos individuais na seção de Instalações Planetárias.

@@ -1,24 +1,24 @@
-Based on the options you've provided, here's how I would set up my fleet tactical settings:
+Com base nas opções que você forneceu, aqui está como eu configuraria as definições táticas da minha frota:
 
-1. Invade Colonies: When Clear
-   - This ensures that my troops won't face unnecessary losses from static defenses.
+1. Invadir Colônias: Quando Limpo
+   - Isso garante que minhas tropas não enfrentem perdas desnecessárias de defesas estáticas.
 
-2. Fleet Engagement Range: Same System
-   - I want my fleet to engage enemies within the same star system, but not beyond, unless manually controlled or automated for specific tasks like invasions or pursuits.
+2. Alcance de Engajamento da Frota: Mesmo Sistema
+   - Quero que minha frota enfrente inimigos dentro do mesmo sistema estelar, mas não além disso, a menos que seja controlada manualmente ou automatizada para tarefas específicas, como invasões ou perseguições.
 
-3. Formation: Normal
-   - This provides a balance between protection and maneuverability. Very Tight could hinder evasive actions, while Very Loose might expose core ships to unnecessary risks.
+3. Formação: Normal
+   - Isso proporciona um equilíbrio entre proteção e manobrabilidade. Muito Apertada poderia dificultar ações evasivas, enquanto Muito Solta poderia expor as naves principais a riscos desnecessários.
 
-4. Allow Ship Role Reassignment: Ships retain current role within fleet
-   - I prefer to have specific roles for my ships, especially if they're part of a carefully crafted fleet composition.
+4. Permitir Reatribuição de Função da Nave: Naves mantêm a função atual dentro da frota
+   - Prefiro ter funções específicas para minhas naves, especialmente se fizerem parte de uma composição de frota cuidadosamente elaborada.
 
-5. Retreat When: Enemy Strength 100% greater
-   - This gives my fleet some leeway in handling enemy strength fluctuations but draws the line at being outmatched by double our size. Retreating too easily could lead to unnecessary losses, while never retreating could be suicidal.
+5. Retirada Quando: Força Inimiga 100% maior
+   - Isso dá à minha frota uma margem ao lidar com flutuações de força inimiga, mas estabelece um limite para não ser superada pelo dobro de nosso tamanho. Retirar-se com muita facilidade poderia levar a perdas desnecessárias, enquanto nunca se retirar poderia ser suicida.
 
-Here's how it looks when applied:
+Aqui está como fica quando aplicado:
 
-- Invade Colonies: When Clear
-- Fleet Engagement Range: Same System (but can be adjusted for specific tasks)
-- Formation: Normal
-- Allow Ship Role Reassignment: Ships retain current role within fleet
-- Retreat When: Enemy Strength 100% greater
+- Invadir Colônias: Quando Limpo
+- Alcance de Engajamento da Frota: Mesmo Sistema (mas pode ser ajustado para tarefas específicas)
+- Formação: Normal
+- Permitir Reatribuição de Função da Nave: Naves mantêm a função atual dentro dasz frota
+- Retirada Quando: Força Inimiga 100% maior

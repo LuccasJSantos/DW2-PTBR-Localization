@@ -1,15 +1,15 @@
 Colônias são os mundos povoados em seu império. Elas são o elemento crítico no jogo â€“ elas produzem a riqueza que alimenta seu império.
 
-Colônias fornecem renda tributária para financiar seu governo. No entanto, levam tempo para crescer, então tome cuidado para concentrar suas defesas (tropas e navios) em suas colônias bem estabelecidas. Essas colônias centrais são a chave para seu crescimento inicial.
+Colônias fornecem renda tributária para financiar seu governo. No entanto, levam tempo para crescer, então tome cuidado para concentrar suas defesas (tropas e naves) em suas colônias bem estabelecidas. Essas colônias centrais são a chave para seu crescimento inicial.
 
-### Exploração de Novos Mundos ###
+[H3]Exploração de Novos Mundos[/H3]
 Para criar novas colônias você deve construir naves coloniais e enviá-las paraClaim planets for your empire. When a new colony is established the colony ship is consumed and disappears.
 
 Colônias geralmente só podem ser estabelecidas em sistemas que não fazem parte da território de outra imperium.
 
 Mas colônias independentes são uma exceção - elas podem ser colonizadas mesmo quando estão no território de outra império. No entanto, fazer isso vai ofender o império ao qual o sistema pertence, impactando negativamente suas relações com eles.
 
-### Adequação Planetária ###
+[H3]Adequação Planetária[/H3]
 Para ser uma colônia viável, um planeta ou lua deve ter adequação suficiente para a raça alienígena que coloniza. Cada raça alienígena tem alguns tipos de planetas aos quais é mais adequada. Esses são seus 'tipos nativos' de planetas. Isso significa que eles provavelmente encontrarão alvos de colonização adequados entre esses tipos de planetas.
 
 A adequação planetária é determinada pelas características da raça e pela qualidade do próprio planeta.
@@ -20,9 +20,9 @@ A fórmula para calcular a adequação para um tipo específico de planeta e ra�
 
 (Qualidade do Planeta - Nível Mínimo de Adequação da Raça para o Planeta) + Adequação da Raça para o Planeta
 
-Um exemplo: os Teekans têm uma vantagem de adequação de +30 para planetas desérticos arenosos. Além disso, eles têm um nível mínimo de adequação de 40 para planetas desérticos arenosos (o valor padrão é 50). Isso significa que para Teekans um planeta desértico arenoso com uma qualidade de 30% teria uma adequação de colonização de +20. Usando a fórmula acima, isso seria: ((30 - 40) + 30) = 20
+Um exemplo: os Teekanos têm uma vantagem de adequação de +30 para planetas desérticos arenosos. Além disso, eles têm um nível mínimo de adequação de 40 para planetas desérticos arenosos (o valor padrão é 50). Isso significa que para Teekans um planeta desértico arenoso com uma qualidade de 30% teria uma adequação de colonização de +20. Usando a fórmula acima, isso seria: ((30 - 40) + 30) = 20
 
-### Selecionando Alvos de Colonização e Melhora Adicional ###
+[H3]Selecionando Alvos de Colonização e Melhora Adicional[/H3]
 Normalmente você deve apenas colonizar planetas com uma adequação de 20 ou superior.
 
 No entanto, às vezes você pode optar por colonizar um planeta mesmo quando a adequação está abaixo de 20. Por exemplo, o planeta pode estar em uma localização estratégica muito importante, ou pode ter bônus especiais.
@@ -43,14 +43,14 @@ Colônias independentes são alvos valiosos de colonização porque a grande pop
 
 Há outra vantagem-chave ao direcionar colônias independentes para a colonização: alienígenas independentes podem frequentemente colonizar outros tipos de planetas e luas que sua própria raça não pode.thus you can use these other races to establish colonies at additional planets that you could not otherwise colonize.
 
-### Colonizando Mundos Independentes ###
+[H3]Colonizando Mundos Independentes ###
 A maioria das colônias independentes não vai receber bem a colonização a menos que você tenha primeiro construído relações sólidas com elas.
 
 Para estabelecer uma boa relação com uma colônia independente, você precisa demonstrar seu valor como um aliado. Isso pode ser feito por meio do comércio, da assistência militar ou até mesmo ao enviar presentes e embaixadores para fortalecer os laços entre seus povos.
 
 Uma vez que você tenha construído uma boa relação com uma colônia independente, você pode começar a explorar oportunidades de colonização conjunta. Isso pode incluir acordos comerciais, acordos militares ou até mesmo acordos culturais que beneficiem ambas as partes envolvidas.
 
-### Desafios na Colonização ###
+[H3]Desafios na Colonização ###
 A expansão do seu império através da colonização pode apresentar desafios significativos. Um dos principais desafios é garantir a lealdade das suas colônias.
 
 Para assegurar a lealdade de uma colônia, você precisa fornecer incentivos para que ela continue a ser parte do seu império. Isso pode incluir o oferecimento de benefícios comerciais, militares ou culturais, bem como o fornecimento de apoio financeiro e político em tempos de necessidade.

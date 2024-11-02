@@ -1,24 +1,24 @@
-Navios e bases custam ao seu império de duas maneiras:
-[ULI]Custo inicial único da aquisição[/ULI]
-[ULI]Custos anuais de manutenção contínuos[/ULI]
+As naves e bases custam ao seu império de duas maneiras:
+[ULI]Custo inicial único de compra[/ULI]
+[ULI]Custos de manutenção anual contínuos[/ULI]
 
-Você deve planejar suas necessidades cuidadosamente ao adquirir novos navios.
+Você deve planejar suas necessidades com cuidado ao comprar novas naves.
 
-Os custos de aquisição e manutenção para navios e bases são determinados principalmente pelo preço atual dos recursos necessários para construir o navio ou a base. Portanto, em termos simples:
+Os custos de compra e manutenção de naves e bases são determinados em grande parte pelo preço atual dos recursos necessários para construir a nave ou base. Assim, em termos simples:
 
-Custo da Aquisição do Navio = Recursos Necessários x Preços Atuais dos Recursos
+Custo de Compra da Nave = Recursos Necessários x Preços Atuais dos Recursos
 
 [H3]Preços dos recursos[/H3]
-Os preços dos recursos são determinados no mercado aberto com base na oferta e demanda.
+Os preços dos recursos são determinados no mercado aberto com base na oferta e na demanda.
 
-Portanto, quando um recurso está em alta demanda em toda a galáxia, mas com baixa oferta, seu preço aumentará dramaticamente.'inverseUm recurso com oferta alta em toda a galáxia e demanda relativa baixa será barato.
+Assim, quando um recurso está em alta demanda pela galáxia, mas com baixa oferta, seu preço aumentará drasticamente. Por outro lado, um recurso com alta oferta pela galáxia e demanda relativamente baixa será barato.
 
-Quando você fornece suprimentos de recursos através de seus portos espaciais e estações de mineração, você ajuda a reduzir o preço dos recursos em toda a galáxia. Isso beneficia seu império porque reduz os custos de aquisição e manutenção de navios. Também proporciona os mesmos benefícios para outros impérios.
+Quando você fornece suprimentos de recursos através de suas espaçonaves e estações de mineração, ajuda a reduzir o preço dos recursos em toda a galáxia. Isso beneficia seu império porque diminui os custos de compra e manutenção de naves. Também proporciona os mesmos benefícios para outros impérios.
 
-[H3]Reduzindo os custos da manutenção dos navios[/H3]
-A manutenção dos navios é uma despesa major para o seu império. Portanto, você deve fazer todo o esforço possível para reduzir esses custos. Algumas medidas eficazes para reducir os custos de manutenção dos navios são:
-[ULI]Certifique-se de ter suprimentos abundantes de recursos de construção de suas colônias e estações de mineração[/ULI]
-[ULI]Pesquise completamente a tecnologia do Centro de Comando. Componentes de centro de comando de nível mais alto reduzem os custos de manutenção para seus navios e bases[/ULI]
-[ULI]Use um tipo de governo que tenha custos de manutenção de navios mais baixos: Feudalismo, Monarquia, Ditadura Militar, Hive Mind e Mercantilismo têm custos mais baixos[/ULI]
-[ULI]Escolha uma raça alienígena que tenha custos naturais de manutenção de navios mais baixos: as raças Ackdarian e Haakonish têm custos mais baixos[/ULI]
-[ULI]Absorva uma grande quantidade de uma das raças acima mencionadas em seu império por colonização ou conquista[/ULI]
+[H3]Reduzindo os custos de manutenção de naves[/H3]
+A manutenção de naves é uma despesa importante para o seu império. Assim, você deve fazer todo o possível para reduzir esses custos. Alguns mecanismos eficazes para reduzir os custos de manutenção de naves são:
+[ULI]Garantir que você tenha suprimentos abundantes de recursos de construção de suas colônias e estações de mineração[/ULI]
+[ULI]Pesquisar totalmente a tecnologia do Centro de Comando. Componentes de centros de comando de nível mais alto reduzem os custos de manutenção para suas naves e bases[/ULI]
+[ULI]Usar um tipo de governo que tenha custos de manutenção de naves mais baixos: Feudalismo, Monarquia, Ditadura Militar, Mente Colmeia e Guilda Mercantil têm todos custos mais baixos[/ULI]
+[ULI]Escolher uma raça alienígena que tenha custos naturais de manutenção de naves mais baixos: as raças Ackdarian e Haakonish têm custos mais baixos[/ULI]
+[ULI]Absorver uma grande quantidade de uma das raças acima em seu império por meio de colonização ou conquista[/ULI]

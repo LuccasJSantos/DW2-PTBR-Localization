@@ -1,26 +1,27 @@
-Recursos são os materiais brutos encontrados em planetas, luas e asteroides. Eles podem incluir minérios metálicos, gases, minerais, tecidos, alimentos, bebidas e muitos outros itens.
+[H2]Recursos[/H2]  
+Recursos são as matérias-primas encontradas em planetas, luas e asteroides. Estes podem incluir minérios metálicos, gases, minerais, têxteis, alimentos, bebidas e muitos outros itens.
 
-A exploração de recursos valiosos é uma parte importante da economia do seu império.
+Minerar recursos valiosos é uma parte importante da economia do seu império.
 
-Alguns recursos são utilizados na construção de novas naves e bases. Outros recursos são usados para aumentar o desenvolvimento das suas colônias - esses são recursos de luxo. E um recurso (Caslon) é utilizado como combustível universal para reatores.
+Alguns recursos são utilizados na construção de novas naves e bases. Outros recursos são utilizados para aumentar o desenvolvimento de suas colônias – esses são os recursos de luxo. E um recurso (Caslon) é utilizado como um combustível de reator universal.
 
-[H3]Locais de Mineração[/H3]
-A mineração ocorre tanto em estações fixas de mineração quanto em navios de mineração móveis.
+[H3]Locais de Mineração[/H3]  
+A mineração ocorre em estações de mineração fixas e em naves de mineração móveis.
 
-Estações de mineração são bases construídas em locais ricos em recursos. Elas extraem recursos, que são então transportados por naves de carga para o seu espaçoporto mais próximo.
+Estações de mineração são bases construídas em locais ricos em recursos. Elas extraem recursos, que são então transportados por freteiros para o seu espaçoporto mais próximo.
 
-Navios de mineração são navios móveis de extração de recursos. Eles procuram por locais com recursos altamente demandados, minerando esses recursos e retornando-os para o seu espaçoporto mais próximo.
+Naves de mineração são naves móveis de extração de recursos. Elas buscam locais com recursos que estão em alta demanda, minerando esses recursos e retornando-os para o seu espaçoporto mais próximo.
 
-[H3]Usando Recursos Minerados[/H3]
-Uma vez que os recursos minerados chegam a um espaçoporto, eles podem ser utilizados. Para recursos de construção, isso poderia significar usá-los para construir novas naves ou bases. Ou então esses recursos poderiam ser vendidos para outra civilização.
+[H3]Usando Recursos Minerados[/H3]  
+Uma vez que os recursos minerados chegam a um espaçoporto, eles podem ser utilizados. Para recursos de construção, isso pode significar usá-los para construir novas naves ou bases. Ou os recursos podem ser vendidos para outro império.
 
-Todo o uso e comércio de recursos acontece automaticamente - estações de mineração, navios de mineração e naves de carga são todos de propriedade privada. Eles vão sobre seus negócios sem nenhuma intervenção do estado. Você não pode atribuir missões a esses tipos de nave.
+Todo o uso e comércio de recursos acontece automaticamente – estações de mineração, naves de mineração e freteiros são todos de propriedade privada. Eles conduzem seus negócios sem qualquer intervenção estatal. Você não pode atribuir missões a esses tipos de naves.
 
-[H3]Como Explorar Recursos[/H3]
- Como governante e gerente do seu império, suas tarefas com a exploração de recursos são:
-[ULI]explorar novos locais de recursos usando navios de exploração[/ULI]
-[ULI]construir estações de mineração em locais ricos em recursos usando navios de construção[/ULI]
+[H3]Como Explorar Recursos[/H3]  
+Como governante e gestor do seu império, suas tarefas na mineração de recursos são:  
+[ULI]explorar novas localizações de recursos usando naves de exploração[/ULI]  
+[ULI]construir estações de mineração em locais ricos em recursos usando naves de construção[/ULI]  
 
-A lista de Novos Locais de Mineração (shift-F7) permite que você identifique rapidamente os recursos valiosos e construa estações de mineração para obtê-los. A lista de Recursos (F6) contém filtros detalhados para encontrar recursos específicos em toda a galáxia.
+A lista de Novos Locais de Mineração (shift-F7) permite que você identifique rapidamente recursos valiosos e construa estações de mineração para obtê-los. A lista de Recursos (F6) contém filtros detalhados para encontrar recursos específicos em toda a galáxia.
 
-O mapa de fluxo de recursos ajuda você a ver as fontes e destinos dos recursos no seu império.
+O mapa de sobreposição de Fluxo de Recursos ajuda você a ver as fontes e destinos de recursos em seu império.

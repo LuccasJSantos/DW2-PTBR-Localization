@@ -1,83 +1,68 @@
-Here's the translated text, maintaining the sci-fi theme and formatting:
+Seu império consiste em suas colônias � mundos onde você tem uma população leal.
 
-Sua império consiste em suas colônias - mundos onde você tem uma população leal.
+[H3]Estado vs. Privado[/H3]  
+Os cidadãos de suas colônias agem de forma independente de você e formam sua economia Privada. Eles buscam ativamente melhorar suas colônias e aumentar sua riqueza.
 
-### Estado vs Privado
+Assim, esses cidadãos buscam oportunidades comerciais, negociando bens demandados entre suas colônias. Quando você possui tratados comerciais com colônias independentes e outros impérios, seus cidadãos também expandem suas atividades comerciais para incluir essas novas oportunidades.
 
-Os cidadãos de suas colônias agem independentemente de você e formam sua economia privada. Eles procuram ativamente oportunidades comerciais para trocar bens solicitados entre suas colônias. Quando você tiver tratados commerciais com colônias independentes e outros impérios, seus cidadãos também expandirão suas atividades comerciais para incluir essas novas oportunidades.
+Cidadãos resilientes também formam expedições de mineração � usando naves de mineração para extrair recursos valiosos por toda a galáxia explorada e retornando-os aos seus portos espaciais para uso.
 
-Cidadãos ousados também formarão expedições de mineração - usando navios de mineração para extrair recursos valiosos em toda a galáxia explorada e retornando-os para seus portos espaciais para uso.
+A população em cada uma de suas colônias crescerá ao longo do tempo, eventualmente atingindo um limite natural em cada tipo de mundo. À medida que a população cresce, ela gera mais renda, fornecendo uma base tributária maior para financiar seu império.
 
-A população em cada uma de suas colônias aumentará com o tempo, alcançando eventualmente um limite natural em cada tipo de mundo. À medida que a população cresce, ela produz mais renda, proporcionando uma base tributária maior para financiar seu império.
+Um resumo das economias de Estado e Privada do seu império é exibido na Tela de Economia do Império (F2).
 
-Um resumo das economias do Estado e Privado de seu império é exibido na tela da Economia do Império (F2).
+Os diversos tipos de Renda e Despesas são detalhados abaixo:
 
-As diversas fontes de Renda e Despesas são explicadas em detalhe abaixo:
+[H2]Renda do Estado[/H2]  
+A economia do Estado é financiada por várias fontes principais de receita, detalhadas a seguir:
 
-### Renda do Estado
+[H3]Receita de Impostos das Colônias[/H3]  
+Você pode ajustar diretamente as taxas de imposto das colônias. Isso permite que você colete mais receita de cada colônia. No entanto, quanto mais você aumenta os impostos, mais evasão ocorrerá — alguns cidadãos encontrarão formas de evitar o pagamento. Além disso, impostos mais altos reduzem a felicidade e a produção de riqueza das colônias.
 
-Sua economia do Estado é financiada por várias fontes principais de renda, conforme listado abaixo:
+[H3]Construção de Naves[/H3]  
+Expandir seu império com novas colônias estimula a demanda de seus cidadãos privados por novos cargueiros e naves de mineração. Essas compras de naves em seus estaleiros adicionam mais dinheiro à economia do estado.
 
-#### Renda Tributária Colonial
+[H3]Taxas de Transação Comercial[/H3]  
+São cobradas taxas em cada transação em seus portos espaciais e estações de mineração, gerando renda para o seu império. Portanto, é importante garantir comércio livre e seguro nessas localidades. Você deve patrulhar seus portos espaciais e estações de mineração e afastar qualquer ameaça, como piratas, criaturas espaciais agressivas ou impérios inimigos.
 
-Você pode ajustar diretamente as taxas tributárias coloniais. Isso permite que você colete mais receita de cada colônia. No entanto, à medida que você aumenta as taxas, haverá mais evasão fiscal - alguns de seus cidadãos encontrarão maneiras de evitar o pagamento. Além disso, as altas taxas baixam a felicidade e a produção de riqueza das colônias.
+[H3]Renda Extra de Comércio[/H3]  
+Quando seu império possui bônus de comércio, você ganha renda extra em cada transação realizada em seus portos espaciais, colônias e estações de mineração.
 
-#### Construção Naval
+Bônus de Renda Comercial podem vir de certos tipos de governo. Algumas raças alienígenas também possuem bônus comerciais naturais. Certas instalações planetárias e maravilhas também fornecem bônus de comércio.
 
-A expansão de seu império com novas colônias estimula a demanda por novos cargueiros e navios de mineração de seus cidadãos privados. Essas compras de navios em suas docas navais adicionam mais dinheiro à sua economia do Estado.
+[H3]Acordos Comerciais[/H3]  
+Você ganha renda quando estabelece Acordos Comerciais com outros impérios. Nesse caso, uma porcentagem de todo o volume de comércio entre os dois impérios é obtida como renda adicional por cada império. Com o tempo, essa porcentagem de bônus aumenta até atingir um limite máximo.
 
-#### Taxas de Transação Comercial
+[H3]Turismo em Resorts[/H3]  
+As Bases de Resort de seu império geram renda quando turistas as visitam.
 
-Taxas são cobradas em cada transação em seus portos espaciais e estações de mineração, ganhando renda para seu império. Portanto, é importante garantir comércio livre e seguro desses locais. Você deve patrulhar seus portos espaciais e estações de mineração e expulsar qualquer ameaça como piratas, criaturas espaciais agressivas ou impérios inimigos.
+[H3]Estratégia Econômica[/H3]  
+Portanto, sua estratégia para aumentar a renda do estado deve incluir o seguinte:  
+[ULI]Continue expandindo seu império com novas colônias — isso estimula o comércio e faz com que seus cidadãos privados comprem mais cargueiros e outras naves[/ULI]  
+[ULI]Garanta rotas de comércio seguras para os cargueiros que transportam bens para suas colônias — níveis mais altos de desenvolvimento nas colônias resultam em mais renda tributária[/ULI]  
+[ULI]Busque acordos comerciais com impérios aliados para complementar sua renda. Você obtém renda extra com o volume total de comércio entre os dois impérios[/ULI]  
+[ULI]Construa Bases de Resort em locais com bônus de Cenário[/ULI]
 
-#### Renda Bônus do Comércio
+[H3]Despesas Regulares[/H3]  
+A economia do estado do seu império possui três grandes despesas regulares:  
+[ULI]Custos de manutenção de naves e bases[/ULI]  
+[ULI]Custos de manutenção de tropas[/ULI]  
+[ULI]Custos de manutenção de instalações planetárias[/ULI]  
 
-Quando seu império tem bônus comerciais, você ganha renda extra em cada transação em seus portos espaciais, colônias e estações de mineração.
+Os custos de manutenção podem ser controlados equilibrando cuidadosamente o número de naves, tropas e instalações em seu império. Construa apenas as naves que você precisa. Recrute apenas as tropas que você precisa. Construa apenas as instalações que você precisa.
 
-Os bônus de renda comercial podem ser obtidos a partir de alguns tipos de governo. Algumas raças alienígenas também têm bônus comerciais naturais. Alguns installations planetárias e maravilhas também proporcionam bônus comerciais.
+[H3]Renda Excedente e Níveis de Financiamento[/H3]  
+Também é possível alocar a renda excedente para ser gasta em duas áreas importantes:  
+[ULI]Financiamento para Crescimento das Colônias: gaste uma parte da renda excedente para acelerar o crescimento de suas colônias[/ULI]  
+[ULI]Pesquisa: gaste uma parte da renda excedente para acelerar a velocidade de Pesquisa[/ULI]
 
-#### Acordos Comerciais
+Examine a tela de Níveis de Financiamento do Império para mais detalhes (shift-F2).
 
-Você ganha renda quando forma acordos comerciais com outros impérios. Nesse cenário, uma porcentagem do volume total de comércio entre os dois impérios é ganha como renda bônus por cada império. Com o tempo, a porcentagem bônus aumenta até atingir um limite máximo.
-
-#### Turismo em Resorts
-
-Suas estações turísticas earn income quando turistas viajam para eles.
-
-### Estratégia Econômica
-
-Assim, sua estratégia para aumentar a renda do Estado deve incluir o seguinte:
-[LIST]
-[*][/LI]Continue expandindo seu império com novas colônias - isso estimula o comércio e faz com que seus cidadãos privados comprem mais navios de carga e outros navios
-[*][/LI]Garanta rotas comerciais seguras para navios de carga transportando bens para suas colônias - desenvolvimento de nível mais alto nas colônias significa mais renda tributária
-[*][/LI]Procure acordos comerciais com impérios amigos para aumentar sua renda. Você lucra com renda bônus do volume total de comércio entre os dois impérios.
-[*][/LI]Construa instalações turísticas em seus planetas para atrair turistas e gerar renda adicional
-[/LIST]
-
-### Despesas
-
-As despesas não recorrentes incluem:
-
-#### Construção Naval do Estado
-
-Custo para construir novos navios e estações do Estado.
-
-#### Reclutamento de Tropas
-
-Custo para recrutar novas unidades de tropas.
-
-#### Construção de Instalações Planetárias
-
-Custo para construir novas instalações planetárias e maravilhas.
-
-#### Compra de Recursos de Outros Impérios
-
-Custos de comprar recursos de outros impérios.
-
-#### Tributo
-
-Isso inclui presentes a outros impérios e taxas de proteção contra piratas.
-
-#### Combustível
-
-Custos de combustível para seus navios e estações do Estado.
+[H3]Despesas Irregulares[/H3]  
+Outras despesas são irregulares e não recorrentes:  
+[ULI]Construção de Naves do Estado: custo para construir novas naves e bases de propriedade do estado[/ULI]  
+[ULI]Recrutamento de Tropas: custo para recrutar novas unidades de tropa[/ULI]  
+[ULI]Construção de Instalações: custo para construir novas instalações planetárias e maravilhas[/ULI]  
+[ULI]Compra de Recursos de Outros Impérios: custos de aquisição de recursos de outros impérios[/ULI]  
+[ULI]Tributo: inclui presentes para outros impérios e taxas de Proteção contra Piratas[/ULI]  
+[ULI]Combustível: custos de combustível para suas naves e bases de propriedade do estado[/ULI]
