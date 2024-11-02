@@ -1,9 +1,0 @@
-Esta tela exibe as informações sobre o seu governo atual e um resumo de todos os bônus do império para o seu império.
-
-[H3]Alterando seu Governo[/H3]
-Você pode alterar seu governo selecionando outro tipo de governo na lista suspensa no topo da seção.
-
-Após comparar as estatísticas entre seu governo atual e o selecionado, você pode mudar para o novo governo clicando no botão "Realizar Revolução" na parte inferior desta seção.
-
-[H3]Bônus do Império[/H3]
-A seção "Bônus do Império de todas as fontes" fornece uma lista de todos os seus bônus. Passando o mouse sobre cada linha exibirá um detalhamento completo dos diversos fatores que adicionam a cada tipo de bônus.

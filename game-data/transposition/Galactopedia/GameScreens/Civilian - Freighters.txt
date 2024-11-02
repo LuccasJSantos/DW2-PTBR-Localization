@@ -1,9 +1,0 @@
-Esta tela lista todos os navios de carga em seu império.
-
-Os navios de carga são parte da sua economia civil, então você não pode atribuir missões a eles. Em vez disso, eles procuram suas próprias missões, transportando carga entre locais.
-
-Verifique as opções de classificação e filtro no topo do painel. Você pode filtrar pelo tipo de recursos sendo transportados: combustível, construção ou recursos de luxo.
-
-Quando zoom out para o nível de galáxia ou sistema, os navios de carga são destacados no mapa. Passando o cursor sobre um item da lista fará com que a localização seja destacada no mapa. Clicar no item o selecionará. Duplo clique no item moverá a vista para aquela localização.
-
-Cada item da lista mostra a missão atual do navio e qualquer carga que ele esteja transportando.

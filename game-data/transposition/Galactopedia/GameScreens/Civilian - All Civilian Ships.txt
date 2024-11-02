@@ -1,7 +1,0 @@
-Esta tela lista todas as embarcações civis do seu império. Isso inclui fretadores, navios de passageiros e navios mineiros.
-
-Os navios civis são parte da sua economia civil, então você não pode geralmente atribuir missões a eles. Em vez disso, eles procuram suas próprias missões: transportando carga, transporting turistas e migrantes, e minerando recursos.
-
-Quando zoom out para o nível de galáxia ou sistema, os navios civis são realçados no mapa. Passar o cursor sobre um item da lista fará com que a localização seja marcada no mapa. Clicar no item o selecionará. Duplo clique no item moverá a vista para aquela localização.
-
-Cada item da lista mostra a missão atual do navio. Também mostra qualquer carga ou passageiros que o navio esteja transportando.

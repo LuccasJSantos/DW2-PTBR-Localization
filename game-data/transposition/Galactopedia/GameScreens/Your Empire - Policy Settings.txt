@@ -1,5 +1,0 @@
-A tela de Configurações de Política permite que você controles quais partes do seu império são automatizadas, quais áreas você deseja que os conselheiros o guiem e quais áreas você quer controlar completamente por si mesmo.
-
-Você pode expandir ou recolher cada seção clicando nas barras de cabeçalho. Além dos controles de automação de alto nível, cada área também possui muitas outras configurações que permitem ajustar coisas em mais detalhes. Passe o mouse sobre cada configuração para obter uma explicação.
-
-A seção superior 'Advisors and Automation' resume todas as configurações de automação para o seu império, fornecendo um local centralizado único para mudar quais áreas são automatizadas, controladas por conselheiros ou controladas manualmente. Você pode até mesmo selecionar uma das configurações pré-definidas na lista suspensa no topo.

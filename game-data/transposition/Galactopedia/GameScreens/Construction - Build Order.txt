@@ -1,9 +1,0 @@
-Tela de Ordem de Construção
-A tela de Ordem de Construção oferece uma maneira rápida de construir um grande número de navios. Cada linha lista um único papel de nave, acompanhado por um campo de quantidade. Altere a quantidade a ser construída no campo numérico. Você também pode selecionar o projeto específico a ser construído para cada papel na lista suspensa central de cada linha.
-
-Depois de definir a quantidade e o projeto que deseja construir para cada papel, clique no botão "Compra" no topo do painel para comprar as novas naves e iniciar a construção. As novas naves serão construídas no melhor yard disponível em seu império. Isso geralmente significa usar multiple yards de construção espalhados por todo o seu império.
-
-Sobrescrito da Camada de Mapa por Papel
-Se você clicar em uma linha de papel, poderá especificar a quantidade e o local de construção de cada nova nave ao clicar com o botão esquerdo nos badges amarelos de yard de construção mostrados no nível galáctico.
-
-Clique uma vez com o botão esquerdo em um badge de yard de construção para enviar a construção de uma única nave para aquele papel naquele local. Clique com o botão direito do mouse no badge para remover a construção de uma única nave para aquele papel naquele local.

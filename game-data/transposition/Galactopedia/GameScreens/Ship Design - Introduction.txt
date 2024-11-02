@@ -1,7 +1,0 @@
-A tela de Design da Nave permite criar um novo projeto para uma nave, base ou caça.
-
-Você gera um novo projeto adicionando componentes às baías do casco.
-
-Seu novo projeto deve atender a várias exigências para ser considerado válido. Por exemplo:
-[ULI]todos os projetos devem ter um centro de comando[/ULI]
-[ULI]todos os projet
