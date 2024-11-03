@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfArtifact>
+	<Artifact>
+		<ArtifactId>58</ArtifactId> 
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ColonyDevelopment</Type>
+				<Amount>0.2</Amount>
+				<AppliesTo>Item</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0.2</QualityBoost>
+		<Name>Memória de Shaktur</Name>
+		<Description>Um antigo artefato Shakturi que projeta um poder estranho em toda a superfície do planeta onde está localizado. O artefato evoca memórias nostálgicas do mundo natal Shakturi, de alguma forma melhorando o desenvolvimento e a qualidade do próprio planeta. Pelo menos essa é a percepção daqueles no planeta.</Description>
+		<ImageFilename>Artifacts/Memory of Shaktur</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>59</ArtifactId> 
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ResearchPsychic</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>PsychicDefense</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Cristal de Camuflagem</Name>
+		<ImageFilename>Artifacts/Concealment Crystal</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>60</ArtifactId> 
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ResearchGenetic</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Estátua de Engenharia Genética</Name>
+		<ImageFilename>Artifacts/Statuette of Genetic Engineering</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>61</ArtifactId> 
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ResearchBioWarfare</Type>
+				<Amount>0.1</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<QualityBoost>0</QualityBoost>
+		<Name>Esfera de Agressão</Name>
+		<ImageFilename>Artifacts/Sphere of Aggression</ImageFilename>
+	</Artifact>
+	<Artifact>
+		<ArtifactId>62</ArtifactId> 
+		<DiscoveryLevel>0</DiscoveryLevel>
+		<BonusesOnlyWhenAtColony>true</BonusesOnlyWhenAtColony>
+		<BonusesOnlyWhenAtCapital>false</BonusesOnlyWhenAtCapital>
+		<BonusesToOwner>
+			<Bonus>
+				<Type>ResearchPsychic</Type>
+				<Amount>0.15</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchGenetic</Type>
+				<Amount>0.15</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+			<Bonus>
+				<Type>ResearchBioWarfare</Type>
+				<Amount>0.15</Amount>
+				<AppliesTo>Empire</AppliesTo>
+			</Bonus>
+		</BonusesToOwner>
+		<ResearchProjectUnlockIds>
+			<short>956</short> 
+			<short>957</short> 
+			<short>958</short> 
+		</ResearchProjectUnlockIds>
+		<QualityBoost>0</QualityBoost>
+		<Name>Capacete de Entendimento Shakturi</Name>
+		<ImageFilename>Artifacts/Helmet of Shakturi Understanding</ImageFilename>
+	</Artifact>
+</ArrayOfArtifact>

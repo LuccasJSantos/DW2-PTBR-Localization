@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>91</ColonyEventDefinitionId>
+    <Type>Undefined</Type>
+    <DurationMinimum>2</DurationMinimum>
+    <DurationMaximum>2</DurationMaximum>
+    <ColonyHappiness>10</ColonyHappiness>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <Name>Invasão de Shakturi Interrompida</Name>
+	  <ImageFilename>Environment/Events/Happiness Boost</ImageFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>92</ColonyEventDefinitionId>
+    <Type>Undefined</Type>
+    <DurationMinimum>2</DurationMinimum>
+    <DurationMaximum>2</DurationMaximum>
+    <ColonyHappiness>10</ColonyHappiness>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <Name>Investimento em Suborno</Name>
+	  <ImageFilename>Environment/Events/Happiness Boost</ImageFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>93</ColonyEventDefinitionId>
+    <Type>Undefined</Type>
+    <DurationMinimum>2</DurationMinimum>
+    <DurationMaximum>2</DurationMaximum>
+    <ColonyHappiness>10</ColonyHappiness>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <Name>Aposta em Suborno Novamente</Name>
+	  <ImageFilename>Environment/Events/Happiness Boost</ImageFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>94</ColonyEventDefinitionId>
+    <Type>Undefined</Type>
+    <DurationMinimum>99999</DurationMinimum>
+    <DurationMaximum>99999</DurationMaximum>
+    <Bonuses>
+      <Bonus>
+        <Type>ResearchAll</Type>
+        <Amount>-0.05</Amount>
+        <AppliesTo>Empire</AppliesTo>
+      </Bonus>
+    </Bonuses>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <Name>Pesquisa de Impacto de Beacon</Name>
+	  <ImageFilename>Environment/Events/Intact Shakturi Psychic Beacon Being Explored</ImageFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>95</ColonyEventDefinitionId>
+    <Type>Undefined</Type>
+    <DurationMinimum>99999</DurationMinimum>
+    <DurationMaximum>99999</DurationMaximum>
+    <Bonuses>
+      <Bonus>
+        <Type>ResearchAll</Type>
+        <Amount>-0.1</Amount>
+        <AppliesTo>Empire</AppliesTo>
+      </Bonus>
+    </Bonuses>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <Name>Pesquisa Sofrendo Alto Impacto do Beacon</Name>
+	  <ImageFilename>Environment/Events/Intact Shakturi Psychic Beacon Being Explored</ImageFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>96</ColonyEventDefinitionId>
+    <Type>Plague</Type>
+    <IconFilename>Environment/Events/Icons/Xaraktor Virus</IconFilename>
+    <DurationMinimum>2</DurationMinimum>
+    <DurationMaximum>5</DurationMaximum>
+    <PopulationAmount>-0.2</PopulationAmount>
+    <ColonyHappiness>-15</ColonyHappiness>
+    <SpreadToOtherColoniesChance>3</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>300000000</SpreadToOtherColoniesRange>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <PlagueModifiersPerRaceId>
+      <unsignedByte>20</unsignedByte>
+    </PlagueModifiersPerRaceId>
+    <PlagueModifiersPerRaceAmount>
+      <float>1.5</float>
+    </PlagueModifiersPerRaceAmount>
+    <PlagueCuringFactor>3</PlagueCuringFactor>
+    <Name>Vírus Experimental Xaraktor</Name>
+	  <Description>Xaraktor Virus é uma praga sintética especialmente letal. Ela é particularmente direcionada aos Shakturi. [HL]Esta variante é 1,5 vezes mais letal para os Shakturi do que para outras espécies.[/HL]</Description>
+    <ImageFilename>Environment/Events/Xaraktor Virus</ImageFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>97</ColonyEventDefinitionId>
+    <Type>Plague</Type>
+    <IconFilename>Environment/Events/Icons/Xaraktor Virus</IconFilename>
+    <DurationMinimum>3</DurationMinimum>
+    <DurationMaximum>5</DurationMaximum>
+    <PopulationAmount>-0.15</PopulationAmount>
+    <ColonyHappiness>-15</ColonyHappiness>
+    <SpreadToOtherColoniesChance>4</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>350000000</SpreadToOtherColoniesRange>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <PlagueModifiersPerRaceId>
+      <unsignedByte>20</unsignedByte>
+    </PlagueModifiersPerRaceId>
+    <PlagueModifiersPerRaceAmount>
+      <float>2.5</float>
+    </PlagueModifiersPerRaceAmount>
+    <PlagueCuringFactor>4</PlagueCuringFactor>
+    <Name>Vírus de Xaraktor Melhorado</Name>
+	  <Description>Vírus Xaraktor é uma praga sintética especialmente mortal. Ele é particularmente direcionado aos Shakturi. [HL]Esta variante é 2,25 vezes mais letal para os Shakturi do que para outras espécies.[/HL]</Description>
+    <ImageFilename>Environment/Events/Xaraktor Virus</ImageFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>98</ColonyEventDefinitionId>
+    <Type>Plague</Type>
+    <IconFilename>Environment/Events/Icons/Xaraktor Virus</IconFilename>
+    <DurationMinimum>3</DurationMinimum>
+    <DurationMaximum>5</DurationMaximum>
+    <PopulationAmount>-0.12</PopulationAmount>
+    <ColonyHappiness>-15</ColonyHappiness>
+    <SpreadToOtherColoniesChance>5</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>400000000</SpreadToOtherColoniesRange>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <PlagueModifiersPerRaceId>
+      <unsignedByte>20</unsignedByte>
+    </PlagueModifiersPerRaceId>
+    <PlagueModifiersPerRaceAmount>
+      <float>4</float>
+    </PlagueModifiersPerRaceAmount>
+    <PlagueCuringFactor>5</PlagueCuringFactor>
+    <Name>Vírus Xaraktor</Name>
+	  <Description>Vírus Xaraktor é uma praga sintética especialmente letal. Ele é particularmente direcionado aos Shakturi. [HL]Esta variante é 4 vezes mais letal para os Shakturi do que para outras espécies.[/HL]</Description>
+    <ImageFilename>Environment/Events/Xaraktor Virus</ImageFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>32760</ColonyEventDefinitionId>
+    <Type>Plague</Type>
+    <IconFilename>Environment/Events/Icons/PsionicMindVirus</IconFilename>
+    <DurationMinimum>2</DurationMinimum>
+    <DurationMaximum>3</DurationMaximum>
+    <PopulationAmount>-0.09</PopulationAmount>
+    <ColonyHappiness>-10</ColonyHappiness>
+    <SpreadToOtherColoniesChance>2</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>200000000</SpreadToOtherColoniesRange>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <PlagueModifiersPerRaceId>
+      <unsignedByte>20</unsignedByte>
+    </PlagueModifiersPerRaceId>
+    <PlagueModifiersPerRaceAmount>
+      <float>0</float>
+    </PlagueModifiersPerRaceAmount>
+    <PlagueCuringFactor>1.5</PlagueCuringFactor>
+    <Name>Vírus Psiónico Shakturi</Name>
+    <ImageFilename>Environment/Events/PsionicMindVirus</ImageFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>32761</ColonyEventDefinitionId>
+    <Type>Plague</Type>
+    <IconFilename>Environment/Events/Icons/PsionicMindVirus</IconFilename>
+    <DurationMinimum>2.25</DurationMinimum>
+    <DurationMaximum>3</DurationMaximum>
+    <PopulationAmount>-0.10</PopulationAmount>
+    <ColonyHappiness>-12</ColonyHappiness>
+    <SpreadToOtherColoniesChance>2.25</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>200000000</SpreadToOtherColoniesRange>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <PlagueModifiersPerRaceId>
+      <unsignedByte>20</unsignedByte>
+    </PlagueModifiersPerRaceId>
+    <PlagueModifiersPerRaceAmount>
+      <float>0</float>
+    </PlagueModifiersPerRaceAmount>
+    <PlagueCuringFactor>1.75</PlagueCuringFactor>
+    <Name>Vírus Psíônico Avançado</Name>
+    <ImageFilename>Environment/Events/PsionicMindVirus</ImageFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>32762</ColonyEventDefinitionId>
+    <Type>Plague</Type>
+    <IconFilename>Environment/Events/Icons/PsionicMindVirus</IconFilename>
+    <DurationMinimum>2.5</DurationMinimum>
+    <DurationMaximum>3</DurationMaximum>
+    <PopulationAmount>-0.11</PopulationAmount>
+    <ColonyHappiness>-13</ColonyHappiness>
+    <SpreadToOtherColoniesChance>2.5</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>250000000</SpreadToOtherColoniesRange>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <PlagueModifiersPerRaceId>
+      <unsignedByte>20</unsignedByte>
+    </PlagueModifiersPerRaceId>
+    <PlagueModifiersPerRaceAmount>
+      <float>0</float>
+    </PlagueModifiersPerRaceAmount>
+    <PlagueCuringFactor>2</PlagueCuringFactor>
+    <Name>Vírus Psiónico Avançado</Name>
+    <ImageFilename>Environment/Events/PsionicMindVirus</ImageFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>32763</ColonyEventDefinitionId>
+    <Type>Plague</Type>
+    <IconFilename>Environment/Events/Icons/PsionicMindVirus</IconFilename>
+    <DurationMinimum>2.5</DurationMinimum>
+    <DurationMaximum>3.5</DurationMaximum>
+    <PopulationAmount>-0.12</PopulationAmount>
+    <ColonyHappiness>-15</ColonyHappiness>
+    <SpreadToOtherColoniesChance>3</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>300000000</SpreadToOtherColoniesRange>
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+    <PlagueModifiersPerRaceId>
+      <unsignedByte>20</unsignedByte>
+    </PlagueModifiersPerRaceId>
+    <PlagueModifiersPerRaceAmount>
+      <float>0</float>
+    </PlagueModifiersPerRaceAmount>
+    <PlagueCuringFactor>2</PlagueCuringFactor>
+    <Name>Vírus Psíônico Ultimate</Name>
+    <ImageFilename>Environment/Events/PsionicMindVirus</ImageFilename>
+  </ColonyEventDefinition>
+</ArrayOfColonyEventDefinition>

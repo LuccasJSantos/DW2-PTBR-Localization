@@ -30316,7 +30316,7 @@ Mas revelação importante. Localização do planeta natal dos Boskara descobert
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Incoming Communication</MessageTitle>
+				<MessageTitle>Comunicação Recebida...</MessageTitle>
 				<Description>"Nós somos os Guardiões, colocados aqui pela Supremacia Boskara para nosso propósito. Nosso propósito foi esquecido. Apenas fragmentos permanecem. Sabemos que apenas aqueles que pertencem podem se aproximar. Detectamos que você não é Boskara. Você não tem permissão para se aproximar."</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>

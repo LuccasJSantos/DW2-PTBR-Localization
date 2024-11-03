@@ -218,21 +218,21 @@ Os cidadãos das Repúblicas geralmente desfrutam de muitas liberdades e direito
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
-      <string>Free</string>
-      <string>United</string>
-      <string>Combined</string>
+      <string>Livre</string>
+      <string>Unido</string>
+      <string>Combinado</string>
       <string>Imperial</string>
-      <string>Great</string>
+      <string>Grande</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Empire</string>
-      <string>Republic</string>
-      <string>Alliance</string>
-      <string>Territory</string>
-      <string>Nation</string>
-      <string>Federation</string>
-      <string>Confederacy</string>
-      <string>Coalition</string>
+      <string>(Império)</string>
+      <string>(República)</string>
+      <string>(Aliança)</string>
+      <string>(Território)</string>
+      <string>(Nação)</string>
+      <string>(Federação)</string>
+      <string>(Confederado)</string>
+      <string>(Coalizão)</string>
     </EmpireNameNouns>
   </Government>
 
@@ -466,14 +466,14 @@ As Guildas Mercantis geralmente permitem um alto grau de liberdade e autonomia p
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
-      <string>Free</string>
+      <string>Livre</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Syndicate</string>
-      <string>Consortium</string>
-      <string>Corporation</string>
-      <string>Industries</string>
-      <string>Guilds</string>
+      <string>(Sindicato)</string>
+      <string>(Consórcio)</string>
+      <string>(Corporação)</string>
+      <string>(Industries)</string>
+      <string>(Guildas)</string>
     </EmpireNameNouns>
     <AllowControlMiningShips>true</AllowControlMiningShips>
   </Government>
@@ -716,25 +716,25 @@ Os cidadãos em governos democráticos desfrutam de liberdades e direitos univer
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 
 	  <FeatureExplanations>
-		  <string>[HL]Enterprising Spirit:[/HL] chance of a periodic random positive event that temporarily improves Research, Diplomacy, Espionage or the Military.\nOccurs approximately once every 10 years on average</string>
+		  <string>[HL]Espírito Empreendedor:[/HL] chance de um evento positivo aleatório periódico que melhora temporariamente Pesquisa, Diplomacia, Espionagem ou o Setor Militar.\nOcorre em média uma vez a cada 10 anos</string>
 	  </FeatureExplanations>
 		  
     <EmpireNameAdjectives>
-      <string>Free</string>
-      <string>United</string>
-      <string>Combined</string>
-      <string>Great</string>
-      <string>Grand</string>
+      <string>Livre</string>
+      <string>Unido</string>
+      <string>Combinado</string>
+      <string>Grande</string>
+      <string>Grandioso</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Empire</string>
-      <string>Republic</string>
-      <string>Alliance</string>
-      <string>Territory</string>
-      <string>Federation</string>
-      <string>Confederation</string>
-      <string>Coalition</string>
-      <string>Colonies</string>
+      <string>(Império)</string>
+      <string>(República)</string>
+      <string>(Aliança)</string>
+      <string>(Território)</string>
+      <string>(Federação)</string>
+      <string>(Confederação)</string>
+      <string>(Coalizão)</string>
+      <string>(Colônias)</string>
     </EmpireNameNouns>
   </Government>
 
@@ -1006,9 +1006,9 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
 	  </MilitaryShipRolesBuiltByPrivateSector>
 	  
 	  <FeatureExplanations>
-		  <string>[HL]Upgraded Militia:[/HL] defending militia troops are much stronger than usual, providing better defense against invaders. When one of your colonies is conquered, any rebellion against the invaders will also produce stronger militia troops as they attempt to return to your empire</string>
-		  <string>[HL]Feudal Obligation:[/HL] doubled Troop Recruitment Rate for 2 years after a war starts</string>
-		  <string>[HL]Privateer Navy:[/HL] Nobles within your empire will fund construction and operation of a small number of Escorts to defend civilian shipping. These ships are funded from your private economy (purchase and maintenance). They cannot be manually controlled</string>
+		  <string>[HL]Milícia Aprimorada:[/HL] as tropas de milícia defensora são muito mais fortes que o normal, oferecendo uma defesa melhor contra invasores. Quando uma de suas colônias é conquistada, qualquer rebelião contra os invasores também produzirá tropas de milícia mais fortes, enquanto tentam retornar ao seu império</string>
+		  <string>[HL]Obrigação Feudal:[/HL] taxa de recrutamento de tropas dobrada por 2 anos após o início de uma guerra</string>
+		  <string>[HL]Marinha Corsária:[/HL] nobres dentro do seu império financiarão a construção e operação de um pequeno número de Escoltas para defender o transporte civil. Estas naves são financiadas pela sua economia privada (compra e manutenção). Elas não podem ser controladas manualmente</string>
 	  </FeatureExplanations>
 
 	  <LeaderReplacementTypicalPeriod>20</LeaderReplacementTypicalPeriod>
@@ -1027,19 +1027,19 @@ As sociedades Feudalistas dão grande ênfase à hierarquia e ao status. Suas es
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
-      <string>United</string>
-      <string>Combined</string>
+      <string>Unido</string>
+      <string>Combinado</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Empire</string>
-      <string>Alliance</string>
-      <string>Union</string>
-      <string>Group</string>
-      <string>Federation</string>
-      <string>Enclave</string>
-      <string>Council</string>
-      <string>Colonies</string>
-      <string>Alignment</string>
+      <string>(Império)</string>
+      <string>(Aliança)</string>
+      <string>(União)</string>
+      <string>(Grupo)</string>
+      <string>(Federação)</string>
+      <string>(Enclave)</string>
+      <string>(Conselho)</string>
+      <string>(Colônias)</string>
+      <string>(Alinhamento)</string>
     </EmpireNameNouns>
   </Government>
 
@@ -1265,8 +1265,8 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
 	  <UnjustifiedWarsGiveNoPenaltyToWarWeariness>true</UnjustifiedWarsGiveNoPenaltyToWarWeariness>
 
 	  <FeatureExplanations>
-		  <string>[HL]Flag Ship:[/HL] can designate one military ship as your empire Flag ship. Flag ships have +10% Targeting, Countermeasures, Ship Maneuvering, Ship Speed and Damage Control. When your Flag ship destroys an enemy military ship of equal or greater size your empire receives a one-year happiness bonus. When your Flag ship is destroyed your empire receives a one-year happiness penalty. To assign a military ship as your Flag ship, right-click the ship for a popup menu option</string>
-		  <string>[HL]Always Justified:[/HL] all wars you declare are always considered justified by your population, thus slowing the growth rate of war weariness</string>
+		  <string>[HL]Nave Almirante:[/HL] permite designar uma nave militar como Nave Almirante do seu império. Naves Bandeira têm +10% em Mira, Contramedidas, Manobra da Nave, Velocidade da Nave e Controle de Dano. Quando sua Nave Almirante destrói uma nave militar inimiga de tamanho igual ou maior, seu império recebe um bônus de felicidade por um ano. Quando sua Nave Almirante é destruída, seu império recebe uma penalidade de felicidade por um ano. Para designar uma nave militar como sua Nave Almirante, clique com o botão direito na nave para abrir a opção de menu popup</string>
+		  <string>[HL]Sempre Justificado:[/HL] todas as guerras que você declara são sempre consideradas justificadas pela sua população, reduzindo assim a taxa de desgaste de guerra</string>
 	  </FeatureExplanations>
 
 	  <LeaderReplacementTypicalPeriod>60</LeaderReplacementTypicalPeriod>
@@ -1286,16 +1286,16 @@ Os Monarcas podem governar com poder absoluto, ou podem compartilhar o poder com
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
       <string>Imperial</string>
-      <string>Royal</string>
-      <string>Great</string>
+      <string>Real</string>
+      <string>Grande</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Dominion</string>
-      <string>Kingdom</string>
-      <string>Realm</string>
-      <string>Commonwealth</string>
-      <string>Domain</string>
-      <string>Dynasty</string>
+      <string>(Domínio)</string>
+      <string>(Reino)</string>
+      <string>(Realm)</string>
+      <string>(Comunidade)</string>
+      <string>(Domínio)</string>
+      <string>(Dinastia)</string>
     </EmpireNameNouns>
   </Government>
 
@@ -1556,8 +1556,8 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
     </Bonuses>
 	  
 	  <FeatureExplanations>
-		  <string>[HL]War World:[/HL] can manually initiate a temporary War World event at one of your colonies for +100% boosts to Troop Recruitment, Ship Construction and Facility Construction, but with reduced colony happiness. War World lasts for two years and costs 20,000 credits to initiate</string>
-		  <string>[HL]Reassuring Security:[/HL] high troop presence at your colonies adds up to +5 happiness. This colony approval factor starts when you have at least half the expected troop levels to defend the colony. Check the colony approval factors in the Selection Panel for details</string>
+		  <string>[HL]Mundo de Guerra:[/HL] permite iniciar manualmente um evento temporário de Mundo de Guerra em uma de suas colônias, proporcionando aumentos de +100% no Recrutamento de Tropas, Construção de Naves e Construção de Instalações, mas com redução na felicidade da colônia. Mundo de Guerra dura dois anos e custa 20.000 créditos para ser iniciado</string>
+		  <string>[HL]Segurança Reconfortante:[/HL] uma presença elevada de tropas em suas colônias adiciona até +5 de felicidade. Este fator de aprovação da colônia é ativado quando você possui pelo menos metade do número esperado de tropas para defendê-la. Verifique os fatores de aprovação da colônia no Painel de Seleção para mais detalhes</string>
 	  </FeatureExplanations>
 
 	  <HighColonyTroopPresenceHappinessBoost>5</HighColonyTroopPresenceHappinessBoost>
@@ -1582,13 +1582,13 @@ As Ditaduras Militares regulam quase todos os aspectos do comportamento público
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
       <string>Imperial</string>
-      <string>Great</string>
-      <string>Grand</string>
+      <string>Grande</string>
+      <string>Grandioso</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Empire</string>
-      <string>Territory</string>
-      <string>Nation</string>
+      <string>(Império)</string>
+      <string>(Território)</string>
+      <string>(Nação)</string>
       <string>Supremacy</string>
       <string>Authority</string>
       <string>Sovereignty</string>
@@ -1857,12 +1857,12 @@ O tipo de governo Tecnocracia está disponível apenas para as raças Ackdarian 
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
-      <string>United</string>
+      <string>Unido</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Empire</string>
-      <string>Technocracy</string>
-      <string>Ascendancy</string>
+      <string>(Império)</string>
+      <string>(Tecnocracia)</string>
+      <string>(Ascendência)</string>
     </EmpireNameNouns>
   </Government>
 
@@ -2115,8 +2115,8 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
 	  <WartimeColonyEventDefinitionId>89</WartimeColonyEventDefinitionId>
 
 	  <FeatureExplanations>
-		  <string>[HL]Intuitive Jumps:[/HL] Hyperjump accuracy doubled when exiting a jump at a location where your empire has an established presence (colony or base)</string>
-		  <string>[HL]War Spawning:[/HL] Population growth rate increases by +50% during war time</string>
+		  <string>[HL]Saltos Intuitivos:[/HL] Precisão dos hipersaltos dobrada ao sair de um salto em um local onde seu império possui presença estabelecida (colônia ou base)</string>
+		  <string>[HL]Proliferação de Guerra:[/HL] Taxa de crescimento populacional aumentada em +50% durante períodos de guerra</string>
 	  </FeatureExplanations>
 
 	  <LeaderReplacementTypicalPeriod>1000</LeaderReplacementTypicalPeriod>
@@ -2135,13 +2135,13 @@ O tipo de governo Mente Colmeia está disponível apenas para as raças Boskara 
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
     <EmpireNameAdjectives>
-      <string>Great</string>
+      <string>Grande</string>
     </EmpireNameAdjectives>
     <EmpireNameNouns>
-      <string>Hive</string>
-      <string>Collective</string>
-      <string>Conformity</string>
-      <string>Consciousness</string>
+      <string>(Colméia)</string>
+      <string>(Coletiva)</string>
+      <string>(Conformidade)</string>
+      <string>(Consciência)</string>
     </EmpireNameNouns>
   </Government>
 

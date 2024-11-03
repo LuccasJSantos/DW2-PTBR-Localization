@@ -337,8 +337,8 @@ Como resultado, houve uma perda extensa de vidas e a erupção até danificou a 
     <Bonuses/>
     <ValuesDecayGradually>false</ValuesDecayGradually>
 	<PlagueCuringFactor>1.4</PlagueCuringFactor>
-    <Name>Peste de Merturov</Name>
-    <Description>A Peste de Merturov é a doença mais mortal da galáxia conhecida. Ela rapidamente consome o cérebro da criatura infectada, causando progressivamente insanidade, imobilização e eventual morte. A Peste de Merturov é um vírus altamente resistente transmitido pelo ar e, portanto, muito infecciosa. Um surto da Peste de Merturov geralmente dura 4 meses.</Description>
+    <Name>Praga de Merturov</Name>
+    <Description>A Praga de Merturov é a doença mais mortal da galáxia conhecida. Ela rapidamente consome o cérebro da criatura infectada, causando progressivamente insanidade, imobilização e eventual morte. A Praga de Merturov é um vírus altamente resistente transmitido pelo ar e, portanto, muito infecciosa. Um surto da Praga de Merturov geralmente dura 4 meses.</Description>
     <ImageFilename>Environment/Events/MerturovPlague</ImageFilename>
     <IconFilename>Environment/Events/Icons/MerturovPlague</IconFilename>
   </ColonyEventDefinition>
