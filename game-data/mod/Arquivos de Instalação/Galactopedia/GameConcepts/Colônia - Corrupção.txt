@@ -1,11 +1,11 @@
-A corrupção é a perda de riqueza devido a fraudes, crimes e ineficiência. A corrupção afeta suas colônias, reduzindo a receita que você recebe delas.
+A corrupção é a perda de riqueza devido a fraudes, crimes e ineficiências. Ela afeta diretamente as colônias, reduzindo a receita que você recebe delas.
 
-Impérios menores têm uma corrupção relativamente baixa, mas à medida que a população do seu império cresce, a corrupção cresce junto. Além disso, quanto mais distantes suas colônias estiverem da sua capital, mais corrupção existirá.
+Impérios menores possuem níveis de corrupção relativamente baixos, mas, à medida que a população do império cresce, a corrupção também aumenta. Além disso, quanto mais distantes as colônias estiverem da capital, maior será o nível de corrupção.
 
-[H3]Instalações de Administração Planetária[/H3]
-Uma boa maneira de reduzir a corrupção é construindo instalações de Administração Planetária em todo o seu império. As instalações de Administração Planetária reduzem a corrupção.
+[H3]Instalações de Administração Planetária[/H3]  
+Uma maneira eficaz de reduzir a corrupção é construindo Instalações de Administração Planetária por todo o império. Essas instalações reduzem os níveis de corrupção.
 
-As instalações de Administração Planetária também melhoram a felicidade e o desenvolvimento em suas colônias.
+Além disso, as Instalações de Administração Planetária aumentam a felicidade e o desenvolvimento das colônias, promovendo um ambiente mais próspero.
 
-[H3]Governos que reduzem a Corrupção[/H3]
-Outra maneira de reduzir a corrupção é escolher um governo que tenha menor corrupção. Governos do tipo República, Tecnocracia e Mente Coletiva são todos eficazes em reduzir a corrupção.
+[H3]Governos que Reduzem a Corrupção[/H3]  
+Outra maneira de combater a corrupção é optar por um tipo de governo que minimize seus efeitos. Governos de República, Tecnocracia e Mente Colmeia são todos eficazes em reduzir a corrupção.

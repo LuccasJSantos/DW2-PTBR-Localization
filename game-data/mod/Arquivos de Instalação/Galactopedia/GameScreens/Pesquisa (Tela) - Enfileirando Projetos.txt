@@ -1,0 +1,26 @@
+Pairando sobre um projeto apresentará um resumo do projeto, incluindo os benefícios que ele desbloqueia. À medida que você paira mais tempo, um resumo mais detalhado é exibido, com dados abrangentes sobre os benefícios do projeto.
+
+Observe que você também pode passar o mouse sobre os projetos na fila de pesquisa e no botão 'Projeto Sugerido na Fila'.
+
+[H3]Colocando um Projeto em Fila para Pesquisa[/H3]
+Clique com o botão esquerdo em um projeto para colocá-lo em fila para pesquisa.
+
+Clique com o botão direito em um projeto para removê-lo da fila de pesquisa.
+
+[H3]Custos de Iniciação[/H3]
+Alguns projetos exigem um custo de iniciação a ser pago antes que a pesquisa possa começar. O custo pode incluir dinheiro e recursos.
+
+Quando você clica com o botão esquerdo para colocar em fila um projeto que tem custos de iniciação, uma janela de prompt aparecerá pedindo que você aprove o pagamento dos custos.
+
+[H3]Requisitos Extras[/H3]
+Alguns projetos têm requisitos de bônus de pesquisa adicionais antes que você possa começar a pesquisá-los. Isso significa que eles só podem ser iniciados quando você tiver bônus de pesquisa suficientes de um tipo específico, por exemplo, alguns projetos avançados de Escudo exigem que você tenha um determinado limite de bônus de pesquisa de Escudo.
+
+Você pode obter bônus de pesquisa em áreas específicas procurando essas localizações através da exploração. Quando você encontra uma área com bônus de pesquisa especiais, pode construir uma estação de pesquisa lá para obter esses bônus para seu império.
+
+[H3]Pesquisa Acelerada[/H3]
+Você pode acelerar a pesquisa de um projeto importante 'pesquisando de forma acelerada'. Isso significa gastar dinheiro para dobrar a taxa de pesquisa para esse projeto.
+
+Para pesquisar de forma acelerada um projeto:
+[ULI]certifique-se de que o projeto está sendo pesquisado atualmente, ou seja, é o projeto no topo da fila[/ULI]
+[ULI]clique no projeto na visualização[/ULI]
+[ULI]uma janela de prompt aparecerá pedindo que você aprove o pagamento para pesquisar o projeto de forma acelerada[/ULI]

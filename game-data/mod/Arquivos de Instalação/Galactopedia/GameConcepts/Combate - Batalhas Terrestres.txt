@@ -1,13 +1,36 @@
-Tomar uma colônia inimiga requer o envio de uma força de invasão composta por tropas. Suas tropas então lutam contra as forças defensoras na colônia.
+Tomar o controle de uma colônia inimiga requer que você desembarque uma força de invasão de tropas. Suas tropas então batalham contra as forças defensoras na colônia.
 
-[H3]Forças Defensivas[/H3]
+[H3]Forças Defensivas[/H3]  
 As forças que defendem uma colônia são compostas por:
-[ULI]Tropas na colônia[/ULI]
-[ULI]Tropas da milícia que surgem espontaneamente da população quando a colônia é invadida[/ULI]
-[ULI]A população da colônia[/ULI]
+[ULI]Tropas na colônia[/ULI]  
+[ULI]Tropas de milícia que surgem espontaneamente da população quando a colônia é invadida[/ULI]  
+[ULI]A população da colônia[/ULI]  
 
-As tropas defensoras naturalmente liderarão a defesa de sua colônia. No entanto, a população da colônia também se juntará à luta. Tropas da milícia surgirão da população para defender contra a invasão.
+As tropas defensoras lideram naturalmente a defesa de sua colônia. No entanto, a população da colônia também se juntará à luta. Tropas de milícia surgirão da população para defender contra a invasão.
 
 A própria população também adicionará uma pequena quantidade de força para defender a colônia.
 
-Quando uma batalha terrestre está em andamento, cada lado pode ter bônus ou penalidades na sua força de defesa
+Durante uma batalha terrestre, cada lado pode ter bônus ou penalidades em sua força de defesa ou ataque. Esses bônus ou penalidades estão relacionados à composição de suas forças, ao tipo de planeta e a outros fatores.
+
+[H3]Estratégia[/H3]  
+Para que uma invasão seja bem-sucedida, as tropas invasoras devem superar significativamente o número de defensores. Batalhas prolongadas podem enfraquecer as tropas invasoras — mesmo que elas eventualmente vençam a invasão, levará algum tempo para recuperarem sua prontidão. Superar rapidamente os defensores com uma força irresistível é a melhor estratégia.
+
+Alguns tipos de tropas são melhores atacantes do que outros. Tropas de blindagem e unidades Titãs têm a mais forte força de ataque. Desembarcar um grupo combinado de vários tipos de tropas traz bônus adicionais.
+
+Você também deve tentar desembarcar suas forças invasoras simultaneamente, ou o mais próximo possível disso. O deslocamento piecemeal de tropas invasoras significará que elas serão eliminadas individualmente pelos defensores, diluindo muito seu impacto.
+
+[H3]Resolvendo a Batalha[/H3]  
+Quando as tropas de um dos lados forem completamente eliminadas, a batalha termina.
+
+Se as tropas do império defensor forem eliminadas, o império invasor toma o controle da colônia, adicionando-a ao seu próprio império. Qualquer base na colônia (por exemplo, espaçonaves) também é imediatamente tomada pelo império invasor.
+
+Se as tropas do invasor forem eliminadas, o império defensor mantém sua colônia, embora algumas de suas tropas possam ter sido perdidas, parte de sua população morta nos combates e possivelmente o próprio planeta tenha sofrido algum dano.
+
+Em ambos os casos — seja o invasor ou o defensor ganhando — o nível de desenvolvimento da colônia será temporariamente afetado pela interrupção.
+
+Tropas vitoriosas (de qualquer um dos lados) também recebem uma promoção — sua força aumentará, tornando-as mais eficazes em futuras batalhas.
+
+[H3]Monitorando uma Invasão Terrestre[/H3]  
+Você pode monitorar o progresso de uma invasão terrestre selecionando a colônia. As informações da colônia serão exibidas no Painel de Seleção na parte inferior esquerda da visão principal. As tropas defensoras aparecerão aqui na seção "Tropas". As tropas invasoras também aparecerão aqui — elas terão um fundo vermelho.
+
+Você também pode exibir uma visão detalhada e animada das batalhas terrestres abrindo a tela de Relatório de Solo. Para abrir essa tela, primeiro selecione a colônia no Painel de Seleção, em seguida, clique na área de Tropas no Painel de Seleção.

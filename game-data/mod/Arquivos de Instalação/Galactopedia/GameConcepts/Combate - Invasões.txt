@@ -1,19 +1,19 @@
-Um objetivo chave de qualquer guerra é tomar e manter território do seu oponente. Neste caso, o território do seu oponente consiste principalmente de suas colônias.
+Um dos objetivos principais de qualquer guerra é tomar e manter território do seu oponente. Nesse caso, o território do seu oponente consiste principalmente em suas colônias.
 
-Invasão de uma colônia inimiga envolve o desembarque de tropas terrestres de suas naves. Uma vez desembarcadas suas tropas então batalham com quaisquer tropas defensoras do outro império.
+Invadir uma colônia inimiga envolve o desembarque de tropas terrestres de suas naves. Uma vez desembarcadas, suas tropas batalharão contra quaisquer tropas defensoras do outro império.
 
-Observe que você pode exibir uma visão detalhada e animada das batalhas terrestres abrindo a tela de Relatório Terrestre. Para abrir esta tela primeiro selecione a colônia no Painel de Seleção, depois clique na área de Tropas no Painel de Seleção.
+Observe que você pode exibir uma visão detalhada e animada das batalhas terrestres abrindo a tela de Relatório de Solo. Para abrir essa tela, primeiro selecione a colônia no Painel de Seleção e, em seguida, clique na área de Tropas no Painel de Seleção.
 
-[H3]Iniciando uma invasão[/H3]
-Para iniciar uma invasão de uma colônia inimiga, selecione uma de suas naves de transporte de tropas, ou até mesmo toda uma frota. Então clique com o botão direito em uma colônia inimiga para atacá-la.
+[H3]Iniciando uma Invasão[/H3]  
+Para iniciar uma invasão de uma colônia inimiga, selecione uma de suas naves de transporte de tropas ou até mesmo uma frota inteira. Em seguida, clique com o botão direito em uma colônia inimiga para atacá-la.
 
-Ao ordenar uma frota para invadir, a frota verificará se há tropas de ataque suficientes na localização. A invasão começará assim que tropas suficientes (em transportes a bordo) chegarem ao local.
+Ao ordenar uma frota para invadir, a frota verificará se há tropas suficientes para atacar na localização. A invasão começará assim que tropas suficientes (a bordo de transportes) chegarem ao local.
 
-Qualquer nave transportando tropas tentará então desembarcá-las em uma invasão.
+Qualquer nave que transporte tropas tentará então implantá-las em uma invasão.
 
-[H3]Processo de Aterrissagem[/H3]
-Para desembarcar suas tropas de invasão é necessário que suas naves se aproximem da colônia. Quando estiverem dentro do alcance, as naves lançarão tropas em Cápsulas de Assalto, que então viajarão até a superfície planetária.
+[H3]Processo de Desembarque[/H3]  
+Para desembarcar suas tropas de invasão, é necessário que suas naves se aproximem da colônia. Quando estiverem ao alcance, as naves lançarão tropas em Módulos de Assalto, que então viajarão para a superfície planetária.
 
-Enquanto viajam até a superfície do planeta, as Cápsulas de Assalto são vulneráveis ao fogo interceptador de armas inimigas e tropas defensoras de Defesa Planetária. Qualquer Escudo Planetário na colônia também causará danos às tropas invasoras.
+Enquanto estiverem viajando em direção à superfície do planeta, os Módulos de Assalto estão vulneráveis ao fogo de interceptação das armas inimigas e das tropas de Defesa Planetária. Qualquer Escudo Planetário na colônia também danificará as tropas invasoras.
 
-Assim que suas tropas pousarem no planeta, a batalha terrestre terá início.
+Uma vez que suas tropas tenham pousado no planeta, a batalha terrestre começará.

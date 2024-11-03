@@ -1,26 +1,26 @@
-Tropas são usadas para invadir colônias inimigas e para defender suas próprias colônias contra invasões.
+Tropas são usadas para invadir colônias inimigas e defender suas colônias contra invasões.
 
-Unidades de tropa são recrutadas em suas colônias e levam tempo para atingir prontidão operacional. Colônias maiores podem treinar e recuperar tropas mais rapidamente do que colônias menores.
+As unidades de tropas são recrutadas em suas colônias e levam tempo para alcançar a prontidão operacional. Colônias maiores podem treinar e recuperar tropas mais rapidamente do que colônias menores.
 
-Novas unidades de tropa podem ser desbloqueadas através de pesquisa. Unidades de tropa de nível superior só podem ser recrutadas quando a instalação planetária necessária é construída em uma colônia.
+Novas unidades de tropas podem ser desbloqueadas através da pesquisa. Unidades de tropas de nível superior só podem ser recrutadas quando a instalação planetária necessária é construída em uma colônia.
 
-Tropas podem ser guarnecidas em colônias. Isso significa que elas estão permanentemente estacionadas na colônia para defendê-la, e assim não serão transportadas por naves transportadoras de tropas.
+As tropas podem ser guarnecidas em colônias. Isso significa que elas estão permanentemente estacionadas na colônia para defendê-la, e, portanto, não serão retiradas por naves de transporte de tropas.
 
-Unidades de tropa têm um custo monetário único para recrutamento. Elas também têm custos contínuos de manutenção anual.
+As unidades de tropas têm um custo monetário único para recrutar. Elas também têm custos de manutenção anual contínuos.
 
-Cada tropa também possui um tamanho: algumas são pequenas (Infantaria) enquanto outras são maiores (Blindadas, Defesa Planetária). O tamanho é importante ao considerar a capacidade de transporte de tropas para naves transportadoras de tropas e frotas de invasão.
+Cada tropa também tem um tamanho: algumas são pequenas (Infantaria), enquanto outras são maiores (Blindados, Defesa Planetária). O tamanho é importante ao considerar a capacidade de transporte para naves de transporte de tropas e frotas de invasão.
 
-[H3]Tipos de Unidades de Tropa[/H3]
-Existem 5 tipos de unidades de tropa:
-[ULI]Infantaria: a unidade básica de tropa defensiva. A infantaria está disponível desde o início do jogo. Cada raça possui sua própria unidade de infantaria única com várias forças e fraquezas[/ULI]
-[ULI]Blindadas: a principal unidade de tropa de ataque. Requer uma instalação de Barracas de Blindadas para recrutamento[/ULI]
-[ULI]Defesa Planetária: unidades de tropa defensiva especializadas que podem interceptar tropas inimigas enquanto viajam de suas naves de pouso para a superfície planetária. Requer uma instalação de Centro de Defesa Planetária para recrutamento[/ULI]
-[ULI]Forças Especiais: unidades de infantaria altamente treinadas que se especializam em eliminar defesas de colônias durante uma invasão (instalações terrestres, unidades de defesa planetária defensoras, generais inimigos). As Forças Especiais defensoras focam na eliminação das unidades de Forças Especiais invasoras. Requer uma instalação de Barracas de Operações Especiais para recrutamento[/ULI]
-[ULI]Titãs: unidades de ataque de alto nível e muito fortes. Requer uma instalação de Centro de Manufatura de Titãs para recrutamento[/ULI]
+[H3]Tipos de Unidades de Tropas[/H3]
+Existem 5 tipos de unidades de tropas:
+[ULI]Infantaria: a unidade de tropa defensiva básica. A infantaria está disponível desde o início do jogo. Cada raça tem sua própria unidade de infantaria única com várias forças e fraquezas.[/ULI]
+[ULI]Blindados: a unidade de ataque primária. Requer uma instalação de Quartel de Blindados para recrutar.[/ULI]
+[ULI]Defesa Planetária: unidades de tropas defensivas especializadas que podem interceptar tropas inimigas enquanto viajam de suas naves de pouso para a superfície planetária. Requer uma instalação de Centro de Defesa Planetária para recrutar.[/ULI]
+[ULI]Forças Especiais: unidades de infantaria altamente treinadas que se especializam em eliminar defesas de colônias durante uma invasão (instalações terrestres, unidades de defesa planetária em defesa, generais inimigos). As Forças Especiais defensoras focam em eliminar unidades invasoras de Forças Especiais. Requer uma instalação de Quartel de Operações Especiais para recrutar.[/ULI]
+[ULI]Titãs: unidades de ataque de alta performance muito fortes. Requer uma instalação de Centro de Fabricação de Titãs para recrutar.[/ULI]
 
 [H3]Lista de Tropas[/H3]
-Esta tela lista todas as unidades de tropa em seu império. Verifique as extensas opções de classificação e filtro no topo do painel. Você pode ordenar por força de ataque e defesa, custo de manutenção e localização. Você pode filtrar por tipo de tropa, status de guarnição e localização (colônias vs transportes).
+Esta tela lista todas as unidades de tropas em seu império. Verifique as amplas opções de classificação e filtragem no topo do painel. Você pode classificar por força de ataque e defesa, custo de manutenção e localização. Você pode filtrar por tipo de tropa, status de guarnição e localização (colônias vs transportes).
 
-Quando ampliado para o nível de galáxia ou sistema, as tropas são destacadas no mapa. Ao passar o mouse sobre um item na lista, a localização no mapa será sinalizada. Clicar no item o selecionará. Duplo-clique no item moverá a visão para aquela localização.
+Quando visualizado em nível de galáxia ou sistema, as tropas são destacadas no mapa. Passar o mouse sobre um item da lista fará um ping na localização no mapa. Clicar no item irá selecioná-lo. Um duplo clique no item moverá a visualização para essa localização.
 
-Cada item da lista mostra a força de ataque, a força de defesa e o custo de manutenção da unidade de tropa. Passar o mouse sobre um item da lista exibe um resumo detalhado em um painel à direita. As tropas guarnecidas são indicadas por uma linha azul sob sua imagem.
+Cada item da lista mostra a força de ataque, força de defesa e custo de manutenção da unidade de tropa. Passar o mouse sobre um item da lista exibe um resumo detalhado em um painel à direita. Tropas guarnecidas são indicadas por uma linha azul embaixo de sua imagem.

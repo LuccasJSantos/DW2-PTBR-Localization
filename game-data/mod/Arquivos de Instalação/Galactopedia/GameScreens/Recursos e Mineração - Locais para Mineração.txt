@@ -1,17 +1,5 @@
-Esta tela lista potenciais novas localizações de mineração que você pode visar. Estas são as áreas onde você deve construir novas estações de mineração.
+Esta tela lista todos os locais de mineração atuais em seu império. Isso inclui colônias e estações de mineração. Verifique as opções de ordenação e filtragem na parte superior do painel. Você pode filtrar por recursos individuais para identificar rapidamente todos os locais de um recurso específico em seu império.
 
-Verifique as opções de ordenação e filtro no topo do painel. As opções de filtro permitem direcionar recursos específicos. Itens de filtro amarelo são recursos de construção usados para construir novas naves e bases. Itens de filtro azul claro são recursos de luxo usados para desenvolver suas colônias.
+Quando você dá zoom no nível da galáxia ou do sistema, os locais de mineração são destacados no mapa. Passar o mouse sobre um item da lista sinaliza a localização no mapa. Clicar no item selecionará sua localização. Dando um duplo clique no item moverá a visualização para essa localização.
 
-Quando você está com o zoom afastado para o nível de galáxia ou sistema, as novas localizações de mineração são destacadas no mapa. Passar o mouse sobre um item na lista irá pingar a localização no mapa. Clicar no item irá selecioná-lo. Dar um duplo-clique no item moverá a visão para essa localização.
-
-Cada item da lista mostra os recursos conhecidos e os níveis de abundância na localização. Se o seu império tiver escassez do recurso, ele será cercado por uma borda vermelha tracejada. Passe o mouse sobre cada recurso para um resumo completo, incluindo quaisquer bônus que ele forneça.
-
-[H3]Enfileirar Novas Estações de Mineração[/H3]
-O botão à direita permite enfileirar a construção de uma nova estação de mineração na localização. Quando a próxima nave de construção estiver disponível, ela construirá uma estação de mineração aqui. Você pode clicar no botão novamente para cancelar a construção.
-
-Se você não puder construir na localização, o botão de Enfileiramento será desativado. Uma dica de ferramenta no botão explicará o motivo pelo qual você não pode construir lá.
-
-[H3]Localizações Perigosas[/H3]
-Um símbolo de raio vermelho será mostrado ao lado do nome da localização se ela for considerada perigosa. Uma localização é perigosa quando há ameaças não eliminadas presentes, como piratas ou criaturas espaciais letais.
-
-Naves não militares não viajarão para uma localização perigosa. As ameaças devem primeiro ser eliminadas por naves militares ou uma frota. Isso significa que, embora você possa enfileirar a construção de novas estações de mineração em uma localização perigosa, as naves de construção não irão lá construir a nova estação até que as ameaças sejam eliminadas.
+Cada item da lista mostra todos os recursos conhecidos sendo extraídos naquele local, junto com suas abundâncias. Se um recurso tiver uma escassez de produção, sua imagem será cercada por uma borda vermelha tracejada. Passe o mouse sobre cada recurso para obter mais detalhes, incluindo quaisquer bônus que ele forneça.

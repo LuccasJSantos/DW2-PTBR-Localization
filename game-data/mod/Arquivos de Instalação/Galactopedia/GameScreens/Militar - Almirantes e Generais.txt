@@ -1,22 +1,21 @@
-[H3]Lista de Almirantes e Generais[/H3]
-Todos os personagens Almirante ou General em seu império são mostrados nesta lista.
+Qualquer personagem Almirante ou General em seu império é mostrado nesta lista.
 
-Você pode ver os detalhes de cada personagem passando o mouse sobre a entrada na lista e clicando para travar o painel à direita.
+Você pode ver os detalhes de cada personagem passando o mouse sobre a entrada da lista e clicando para abrir o painel à direita.
 
-Você pode alterar o nome de um personagem clicando em seu nome abaixo do retrato e digitando um novo.
+Você pode mudar o nome de um personagem clicando em seu nome abaixo do retrato e digitando um novo nome.
 
 [H3]Localizações de Almirantes e Generais[/H3]
-Almirantes aplicam seus bônus de combate quando estão a bordo de uma nave militar, especialmente quando estão em uma frota. Você deve usar a lista suspensa de localização e o botão 'Transferir' para atribuí-los a uma frota específica ou outro local.
+Almirantes aplicam seus bônus de combate quando estão a bordo de uma nave militar, especialmente quando estão em uma frota. Você deve usar a lista suspensa de localização e o botão 'Transferir' para atribuí-los a uma frota específica ou a outro local.
 
-Almirantes também podem fornecer bônus não combativos quando estacionados em portos espaciais, por exemplo, velocidade de construção de naves.
+Almirantes também podem fornecer bônus não-combatentes quando estão estacionados em estaleiros, por exemplo, velocidade de construção de naves.
 
-Generais aplicam seus bônus de combate terrestre quando estão em uma colônia: defendendo uma de suas próprias colônias ou invadindo a colônia inimiga. Você deve usar a lista suspensa de localização e o botão 'Transferir' para atribuí-los a uma frota específica ou colônia.
+Generais aplicam seus bônus de combate terrestre quando estão em uma colônia: defendendo uma de suas próprias colônias ou invadindo uma colônia inimiga. Você deve usar a lista suspensa de localização e o botão 'Transferir' para atribuí-los a uma frota ou colônia específica.
 
-Para usar um General defensivamente, você deve colocá-lo em uma de suas colônias. Para usá-lo em ataques, você deve colocá-lo em uma de suas frotas de invasão.
+Para usar um General defensivamente, você deve colocá-lo em uma de suas colônias. Para usá-lo para atacar, você deve colocá-lo em uma de suas frotas de Invasão.
 
-Generais também podem fornecer bônus não combativos quando estacionados em colônias, como taxa de recrutamento de tropas.
+Generais também podem fornecer bônus não-combatentes quando estão estacionados em colônias, por exemplo, taxa de recrutamento de tropas.
 
-Alternativamente, você pode automatizar o almirante ou general para que seus conselheiros militares selecionem a melhor localização para eles. Use o botão 'Automatizar' abaixo do retrato do personagem à direita.
+Alternativamente, você pode automatizar o almirante ou general para que seus conselheiros militares selecionem o melhor local para eles. Use o botão 'Automatizar' abaixo do retrato do personagem à direita.
 
 [H3]Eventos[/H3]
-Na parte inferior do painel de detalhes, há uma lista de todos os eventos em que o almirante ou general esteve envolvido. Vários eventos podem melhorar ou diminuir suas habilidades, ou fornecer novos traços de caráter.
+Na parte inferior do painel de detalhes, há uma lista de todos os eventos em que o almirante ou general esteve envolvido. Vários eventos podem melhorar ou diminuir suas habilidades ou fornecer novas características de personagem.

@@ -1,8 +1,8 @@
-A tela de Ordem de Construção fornece uma maneira rápida de construir um grande número de naves. Cada linha lista uma única função de nave junto com um campo de quantidade. Altere a quantidade a ser construída no campo numérico. Você também pode selecionar o design específico para construir para cada função a partir da lista suspensa no centro de cada linha.
+A tela de Ordem de Construção fornece uma maneira rápida de construir um grande número de naves. Cada linha lista um único papel de nave juntamente com um campo de quantidade. Altere a quantidade a ser construída no campo numérico. Você também pode selecionar o design específico a ser construído para cada função na lista suspensa no centro de cada linha.
 
-Depois de definir a quantidade e o design que deseja construir para cada função, clique no botão Comprar no topo do painel para comprar as novas naves e iniciar a construção. As novas naves serão construídas no melhor estaleiro disponível em seu império. Frequentemente, isso significa usar vários estaleiros de construção espalhados por todo o seu império.
+Uma vez que você tenha definido a quantidade e o design que deseja construir para cada função, clique no botão Comprar no topo do painel para comprar as novas naves e iniciar a construção. As novas naves serão construídas no melhor estaleiro disponível em seu império. Muitas vezes, isso significa usar vários estaleiros espalhados por todo o seu império.
 
-[H3]Sobreposição de Mapa por Função[/H3]
-Se você clicar em uma linha de função, poderá especificar a quantidade e o local de construção de cada nova nave clicando com o botão esquerdo nos distintivos amarelos de estaleiro de construção mostrados no nível da galáxia.
+[H3]Sobreposição do Mapa por Função[/H3]
+Se você clicar em uma linha de função, poderá especificar a quantidade e a localização de construção de cada nova nave clicando com o botão esquerdo nas insígnias de estaleiro amarelas mostradas no nível da galáxia.
 
-Clicar uma vez em um distintivo de estaleiro de construção enfileirará a construção de uma única nave para essa função naquele local. Clicar com o botão direito no distintivo removerá a construção de uma única nave para essa função naquele local.
+Clicar com o botão esquerdo uma vez em uma insígnia de estaleiro colocará em fila a construção de uma única nave para aquele função naquela localização. Clicar com o botão direito na insígnia removerá a construção de uma única nave para aquela função naquela localização.

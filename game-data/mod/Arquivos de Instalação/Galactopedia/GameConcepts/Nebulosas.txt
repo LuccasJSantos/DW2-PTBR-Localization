@@ -1,0 +1,48 @@
+[H2]Nuvens Nebulosas[/H2]  
+Nuvens nebulosas são uma característica importante da galáxia. Vastíssimas nuvens de gás e poeira se espalham pela imensidão da galáxia.
+
+[H3]Efeito no Viagem Hiperspacial[/H3]  
+Nuvens nebulosas inibem a viagem hiperspacial, diminuindo consideravelmente a velocidade de salto das naves quando dentro delas.
+
+Por essa razão, as naves normalmente planejam rotas de salto ao redor das nebulosas em vez de viajar diretamente através delas.
+
+Assim, as nebulosas formam barreiras naturais que moldam a galáxia.
+
+[H3]Efeito nos Sensores de Longo Alcance[/H3]  
+Sensores de longo alcance são inibidos pelas nebulosas. Seu alcance de varredura é muito reduzido quando dentro de uma nebulosa.
+
+As nebulosas também atuam como uma barreira que bloqueia a varredura de objetos do outro lado. Portanto, você não pode ver naves ou bases do outro lado de uma nuvem nebulosa. Em outras palavras, você não pode 'varrer através' de nebulosas.
+
+[H2]Outros Efeitos das Nebulosas[/H2]  
+Todas as nuvens nebulosas desaceleram a viagem hiperspacial e inibem sensores. No entanto, algumas nebulosas também têm outros efeitos, conforme descrito abaixo:
+
+[H3]Tempestade Galáctica[/H3]  
+Tempestades Galácticas são regiões nebulosas perigosas com relâmpagos carregados periódicos. Elas podem infligir os seguintes tipos de dano a naves ou bases:  
+[ULI]Dano Padrão: 7 máximo (mitigável com Armadura Reativa)[/ULI]
+
+[H3]Tempestade Iônica[/H3]  
+Tempestades Iônicas emitem radiação iônica prejudicial que pode desativar os componentes de naves ou bases desprotegidas. Elas também possuem um dreno de energia constante, fazendo com que as naves consumam mais energia do reator e, assim, mais combustível.  
+[ULI]Dano Iônico: 4 máximo (mitigável com Defesa Iônica)[/ULI]  
+[ULI]Dreno de Energia: -1/sec[/ULI]
+
+[H3]Tempestade Gravitacional[/H3]  
+Tempestades Gravitacionais emitem rajadas intensas de energia gravitacional que podem danificar ou desativar naves ou bases desprotegidas. Elas também diminuem a velocidade de viagem em subluminal para qualquer nave dentro delas. Elas têm os seguintes efeitos:  
+[ULI]Dano Iônico: 8 máximo (mitigável com Defesa Iônica)[/ULI]  
+[ULI]Dano Padrão: 5 máximo (mitigável com Armadura Reativa)[/ULI]  
+[ULI]Modificador de Velocidade: -50%[/ULI]
+
+[H3]Zona de Radiação[/H3]  
+Zonas de Radiação são áreas de radiação intensa que drenam energia e escudos. Elas também reduzem bastante a eficácia dos sensores.  
+[ULI]Dreno de Energia: -15/sec[/ULI]  
+[ULI]Sensores Desativados: -30[/ULI]  
+[ULI]Escudos Reduzidos: -6/sec[/ULI]  
+
+[H2]Sobreposição do Mapa de Nebulosas[/H2]  
+Você pode ver os limites precisos das nuvens nebulosas ativando a sobreposição do mapa de nebulosas. Esta sobreposição mostra os contornos de todas as nebulosas conhecidas.
+
+Os marcadores de nebulosas são coloridos de acordo com o tipo de nebulosa:  
+[ULI]Nebulosas Padrão: Cinza[/ULI]  
+[ULI]Tempestade Galáctica: Laranja[/ULI]  
+[ULI]Tempestade Iônica: Roxo[/ULI]  
+[ULI]Tempestade Gravitacional: Verde[/ULI]  
+[ULI]Zona de Radiação: Amarelo[/ULI]

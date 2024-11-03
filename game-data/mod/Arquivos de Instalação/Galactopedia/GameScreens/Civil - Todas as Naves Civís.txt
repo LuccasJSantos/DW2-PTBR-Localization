@@ -1,7 +1,0 @@
-Esta tela lista todas as naves civis em seu império. Isso inclui cargueiros, naves de passageiros e naves de mineração.
-
-Naves civis fazem parte de sua economia civil, então normalmente você não pode atribuir missões a elas. Em vez disso, elas procuram suas próprias missões: movendo carga, transportando turistas e migrantes, e minerando recursos.
-
-Quando ampliado para o nível da galáxia ou do sistema, as naves civis são destacadas no mapa. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecioná-lo. Duplo-clique no item moverá a visualização para essa localização.
-
-Cada item da lista mostra a missão atual da nave. Também mostra qualquer carga ou passageiros que a nave está transportando.

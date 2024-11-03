@@ -1,0 +1,17 @@
+Esta tela mostra os locais que você explorou que têm bônus de pesquisa especiais. Esses locais são onde você deve construir novas estações de pesquisa. Verifique as opções de classificação e filtragem no topo do painel. Você pode filtrar por bônus de pesquisa específicos para identificar rapidamente novos locais para uma área de pesquisa particular.
+
+Quando visualizado em nível de galáxia ou sistema, os novos locais de pesquisa são destacados no mapa. Passar o mouse sobre um item da lista fará um ping na localização no mapa. Isso ajuda você a ver facilmente onde um local está em relação a outros.
+
+Clicar em um item da lista irá selecioná-lo. Um duplo clique em um item moverá a visualização para essa localização.
+
+Cada item da lista mostra os bônus de pesquisa no local. Passe o mouse sobre a descrição do bônus para um resumo completo de todos os bônus de pesquisa no local, incluindo suas origens.
+
+[H3]Agendando Novas Estações de Pesquisa[/H3]
+O botão à direita permite que você agende a construção de uma nova estação de pesquisa no local. Quando a próxima nave de construção estiver disponível, ela construirá uma estação de pesquisa aqui. Você pode clicar no botão novamente para cancelar a construção.
+
+Se você não puder construir no local, o botão de fila será desativado. Um tooltip no botão explicará por que você não pode construir lá.
+
+[H3]Locais Perigosos[/H3]
+Um símbolo de raio vermelho será mostrado ao lado do nome do local se o local for considerado perigoso. Um local é perigoso quando há ameaças não limpadas presentes, como piratas ou criaturas espaciais mortais.
+
+Naves não militares não viajarão para um local perigoso. As ameaças devem ser primeiro eliminadas por naves militares ou uma frota. Isso significa que, embora você possa agendar a construção de novas estações de pesquisa em um local perigoso, as naves de construção não irão lá para construir a nova estação até que as ameaças sejam eliminadas.

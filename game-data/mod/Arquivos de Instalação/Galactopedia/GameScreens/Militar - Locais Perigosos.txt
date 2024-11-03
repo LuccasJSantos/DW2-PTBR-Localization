@@ -1,15 +1,15 @@
-Algumas localizações são perigosas porque possuem ameaças hostis conhecidas. Essas ameaças geralmente incluem alvos móveis como naves piratas e criaturas espaciais letais. Essas ameaças frequentemente se movem entre localizações, então essas informações são transitórias e são atualizadas com frequência.
+Alguns locais são perigosos porque têm ameaças hostis conhecidas. Essas ameaças geralmente incluem alvos móveis, como naves piratas e criaturas espaciais mortais. Essas ameaças costumam se mover entre locais, portanto, essas informações são transitórias e são atualizadas frequentemente.
 
-Naves civis não viajarão para uma localização que possui ameaças hostis presentes. Isso significa que naves de construção não construirão bases lá. Naves de exploração não continuarão a explorar nessa área. Isso também significa que naves mineradoras não minerarão lá, nem transportadores pegarão ou entregarão carga de lá.
+Naves civis não viajarão para um local que tenha ameaças hostis presentes. Isso significa que naves de construção não construirão bases lá. Naves de exploração não explorarão mais lá. Também significa que naves mineradoras não minerarão lá, nem os transportadores pegarão ou entregarão carga lá.
 
-[H3]Lista de Localizações Perigosas[/H3]
-Esta tela lista localizações perigosas que possuem ameaças hostis conhecidas. Verifique as opções de ordenação e filtro no topo do painel. Você pode filtrar por cada tipo de ameaça, incluindo tipos específicos de criaturas espaciais.
+[H3]Lista de Locais Perigosos[/H3]
+Esta tela lista os locais perigosos que têm ameaças hostis conhecidas. Verifique as opções de classificação e filtro no topo do painel. Você pode filtrar por cada tipo de ameaça, incluindo tipos específicos de criaturas espaciais.
 
-Quando ampliado para o nível de galáxia ou sistema, as localizações perigosas são destacadas no mapa. Distintivos de Sistema e Local também indicam localizações perigosas usando o ícone de raio vermelho. Passar o mouse sobre um item na lista marcará a localização no mapa. Clicar no item selecionará a localização. Duplo-clique no item moverá a visualização para essa localização.
+Quando você está com o zoom na galáxia ou no nível do sistema, os locais perigosos são destacados no mapa. Emblemas de Sistema e Localização também indicam locais perigosos usando o ícone de raio vermelho. Passar o mouse sobre um item na lista irá sinalizar o local no mapa. Clicar no item selecionará o local. Clicar duas vezes no item moverá a visão para esse local.
 
-Cada item da lista mostra a principal ameaça na localização junto com a força total hostil. Também indica quando essas informações foram atualizadas pela última vez, e portanto, sua precisão.
+Cada item da lista mostra a principal ameaça no local, junto com a força hostil total. Ele também indica quando essas informações foram atualizadas pela última vez e, portanto, quão precisas são.
 
-[H3]Enfileirando Investigação[/H3]
-O botão à direita permite que você enfileire uma investigação e limpeza da localização perigosa. Quando a próxima frota apropriada estiver disponível, ela se deslocará para a localização e eliminará quaisquer ameaças encontradas lá. Você pode clicar no botão novamente para cancelar a investigação.
+[H3]Agendando Investigação[/H3]
+O botão à direita permite que você agende uma investigação e a liberação do local perigoso. Quando a próxima frota apropriada se tornar disponível, ela se moverá para o local e eliminará quaisquer ameaças que encontrar lá. Você pode clicar no botão novamente para cancelar a investigação.
 
-Se você não puder investigar a localização, o botão de Enfileirar será desabilitado. Uma dica de ferramenta no botão explicará por que você não pode investigar.
+Se você não puder investigar o local, o botão de Agendamento ficará desativado. Uma dica sobre o botão explicará por que você não pode investigar.

@@ -1,9 +1,10 @@
-Instalações Planetárias são construções que você ergue em colônias. Elas oferecem bônus ou habilidades especiais à colônia.
+[H2]Instalações Planetárias[/H2]  
+As instalações planetárias são edifícios que você constrói em colônias. Elas fornecem bônus ou habilidades especiais para a colônia.
 
-Antes de poder construir uma instalação, você deve primeiro pesquisá-la. As instalações têm custos de construção e também custos contínuos de manutenção. Você só pode construir um tipo de cada instalação em uma colônia.
+Antes de poder construir uma instalação, você deve primeiro pesquisá-la. As instalações custam dinheiro para serem construídas. Elas também têm custos de manutenção contínuos. Você pode construir apenas uma de cada tipo de instalação em uma colônia.
 
-[H3]Construção e visualização das instalações[/H3]
-Você pode construir instalações em uma colônia selecionando-a no Painel de Seleção e clicando no botão verde 'Construir Instalações'. Isso abrirá um conjunto de botões com todas as instalações que podem ser construídas na colônia.
+[H3]Construindo e Visualizando Instalações[/H3]  
+Você pode construir instalações em uma colônia selecionando a colônia no Painel de Seleção e, em seguida, clicando no botão verde 'Construir Instalações'. Isso abrirá um conjunto de botões com todas as instalações que podem ser construídas na colônia.
 
 Você pode ver todas as instalações em seu império na lista de Instalações Planetárias (seção de Colônias).
 

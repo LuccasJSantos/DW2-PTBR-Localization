@@ -1,19 +1,19 @@
-Recursos são materiais brutos encontrados em planetas, luas e asteroides. Estes podem incluir minérios metálicos, gases, minerais, têxteis, alimentos, bebidas e muitos outros itens.
+Recursos são as matérias-primas encontradas em planetas, luas e asteroides. Estes podem incluir minérios metálicos, gases, minerais, têxteis, alimentos, bebidas e muitos outros itens.
 
-Você pode extrair esses recursos para uso em seu império.
+Você pode minerar esses recursos, extraindo-os para uso em seu império.
 
-Alguns recursos são utilizados na construção de novas naves e bases. Outros recursos são usados para desenvolver suas colônias - estes são recursos de luxo. E um recurso (Caslon) é usado como combustível universal para reatores.
+Alguns recursos são usados na construção de novas naves e bases. Outros recursos são usados para elevar o desenvolvimento de suas colônias - estes são os recursos de luxo. E um recurso (Caslon) é usado como um combustível reator universal.
 
 [H3]Lista de Recursos[/H3]
 Esta tela lista todos os recursos na galáxia.
 
-Por padrão, os recursos são filtrados para mostrar apenas os recursos de combustível e construção que seu império está usando atualmente. A ordem de classificação padrão prioriza recursos nos quais seu império tem escassez de produção.
+Por padrão, os recursos são filtrados para mostrar apenas os recursos de combustível e construção que seu império está atualmente usando. A ordem de classificação padrão prioriza recursos onde seu império tem uma escassez de produção.
 
-Verifique as configurações de ordenação e filtro no topo do painel para mais opções. Outras opções de filtro incluem mostrar recursos de luxo que contribuem para o desenvolvimento de suas colônias. As opções de ordenação incluem taxas de mineração, demanda, número de fontes e níveis de estoque em seu império.
+Verifique as configurações de ordenação e filtragem na parte superior do painel para mais opções. Outras opções de filtro incluem mostrar recursos de luxo que contribuem para o desenvolvimento de suas colônias. As opções de ordenação incluem taxas de mineração, demanda, número de fontes e níveis de estoque em seu império.
 
-[H3]Overlay do Mapa de Fluxo de Recursos[/H3]
-Quando a lista de Recursos está aberta, o Overlay do Mapa de Fluxo de Recursos é ativado automaticamente, mostrando o fluxo de recursos entre sistemas estelares em seu império. Isso ajuda a visualizar o transporte de carga movida por cargueiros e naves de mineração entre as colônias e bases em seu império.
+[H3]Sobreposição do Mapa de Fluxo de Recursos[/H3]
+Quando a lista de Recursos está aberta, a sobreposição do mapa da galáxia de Fluxo de Recursos é ativada automaticamente, mostrando o fluxo de recursos entre os sistemas estelares em seu império. Isso ajuda você a visualizar o fluxo de carga sendo movido por cargueiros e naves de mineração entre as colônias e bases em seu império.
 
-Clicar em um único recurso na lista filtra o Overlay do Mapa de Fluxo de Recursos para mostrar apenas o transporte de carga para o recurso selecionado. Todas as localizações conhecidas de origem para o recurso selecionado também são destacadas no mapa da galáxia. Clicar novamente no recurso o desseleciona.
+Clicar em um único recurso na lista filtra a sobreposição do mapa de Fluxo de Recursos para mostrar apenas o transporte de carga para o recurso selecionado. Todos os locais de origem conhecidos para o recurso selecionado também são destacados no mapa da galáxia. Clicar no recurso novamente o deseleciona.
 
-Cada item da lista mostra o estoque atual, taxa de produção e número de fontes conhecidas e exploradas para o recurso.
+Cada item da lista mostra o estoque atual, a taxa de produção e o número de fontes conhecidas e exploradas para o recurso.

@@ -1,0 +1,20 @@
+Todas as colônias custam dinheiro para serem mantidas. Quando as colônias são pequenas e subdesenvolvidas, elas são um peso para sua economia, pois seus custos de suporte são altos e normalmente superam sua receita.
+
+[H3]Redução conforme a Colônia Cresce[/H3]  
+Os custos de suporte diminuem à medida que a população de uma colônia cresce.
+
+À medida que as colônias crescem, sua receita tributária eventualmente superará seus custos de suporte. Nesse ponto, a colônia se torna positiva em receita: sua renda excede seus custos.
+
+Essas colônias bem desenvolvidas podem então fornecer financiamento para o seu império.
+
+[H3]Colônias Muito Grandes[/H3]  
+À medida que as colônias crescem ainda mais (acima de 50% da população máxima), seus custos de suporte começam a aumentar novamente.
+
+No entanto, nesse ponto, a receita dessas grandes colônias é geralmente muito alta, compensando essas perdas.
+
+[H3]Fatores de Custo de Suporte[/H3]  
+Em resumo, os seguintes fatores aumentam os custos de suporte da colônia:  
+[ULI]população inferior a 100 milhões[/ULI]  
+[ULI]adequação para a população inferior a 20[/ULI]  
+[ULI]população não assimilada[/ULI]  
+[ULI]população acima de 50% da máxima[/ULI]

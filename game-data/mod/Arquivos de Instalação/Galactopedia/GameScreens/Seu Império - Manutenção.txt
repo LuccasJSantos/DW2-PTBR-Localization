@@ -1,7 +1,7 @@
-Esta tela mostra os custos de manutenção de Naves para todas as naves e bases em seu império, sejam elas de propriedade estatal ou privada.
+Esta tela mostra os custos de manutenção de todas as naves e bases em seu império, sejam de propriedade do estado ou privados.
 
 A seção Militar mostra o número e a manutenção total das naves militares para cada função.
 
-A seção Outras Estatais mostra o número e a manutenção total de outras naves e bases estatais para cada função.
+A seção Outros do Estado mostra o número e a manutenção total de outras naves e bases estatais para cada função.
 
-A seção Privada mostra o número e a manutenção total de naves e bases privadas para cada função.
+A seção Privado mostra o número e a manutenção total de naves e bases privados para cada função.

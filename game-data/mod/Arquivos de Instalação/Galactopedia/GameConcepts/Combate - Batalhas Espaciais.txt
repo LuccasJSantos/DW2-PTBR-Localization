@@ -1,59 +1,58 @@
-
-As configurações táticas das naves e frotas determinam como elas vão se engajar com naves inimigas. Isso inclui se e quando as naves ou frotas escolhem engajar um alvo inimigo. Veja o tópico 'Configurações Táticas' para mais detalhes.
+As configurações táticas de naves e frotas determinam como elas irão engajar as naves inimigas. Isso inclui se e quando as naves ou frotas escolhem atacar um alvo inimigo. Veja o tópico 'Configurações Táticas' para mais detalhes.
 
 Batalhas espaciais entre naves ocorrem sempre que forças inimigas entram no alcance de suas armas.
 
-Idealmente, sua nave deve ter armas com um alcance maior do que o do oponente. Você então manobra para ficar fora do alcance das armas do oponente enquanto dispara suas armas de longo alcance neles.
+Idealmente, sua nave deve ter armas com um alcance maior do que o do seu oponente. Você deve então manobrar para ficar fora do alcance das armas do oponente enquanto atira suas armas de longo alcance nele.
 
 Na prática, muitos outros fatores também entram em jogo:
-[ULI]o oponente pode ter armas de maior alcance do que você, o que requer que você se aproxime e dispare todas as suas armas neles[/ULI]
-[ULI]a velocidade e agilidade do seu oponente podem tornar impossível manobrar para a posição ideal de disparo[/ULI]
-[ULI]o oponente pode ter escudos pesados e armaduras que exigem um ataque a curta distância[/ULI]
+[ULI]seu oponente pode ter armas de alcance maior que as suas, o que exige que você se aproxime e dispare todas as suas armas contra eles[/ULI]
+[ULI]a velocidade e agilidade do seu oponente podem tornar impossível manobrar para a posição ideal de tiro[/ULI]
+[ULI]seu oponente pode ter um forte escudo e armadura que exigem um ataque à queima-roupa[/ULI]
 
-Por exemplo, isso poderia significar que naves fortemente armadas podem ser melhores para se aproximar a curta distância e bombardear seus oponentes com um fogo cerrado, mesmo que isso os exponha temporariamente às armas do oponente.
+Por exemplo, isso pode significar que naves pesadamente armadas podem ser melhores em se aproximar da distância de tiro a queima-roupa e inundar seus oponentes com intensos ataques laterais, mesmo que isso as exponha temporariamente às armas do oponente.
 
-[H3]Iniciando um ataque[/H3]
-Para iniciar um ataque a uma nave inimiga, primeiro selecione uma de suas naves militares e clique com o botão direito na nave inimiga. Mantendo pressionado o botão direito do mouse, será exibido um menu pop-up com quaisquer outros tipos de missão válidos para este atacante e alvo.
+[H3]Iniciando um Ataque[/H3]  
+Para iniciar um ataque a uma nave inimiga, primeiro selecione uma de suas naves militares e, em seguida, clique com o botão direito na nave inimiga. Ao segurar o botão direito do mouse, um menu pop-up será exibido com quaisquer outros tipos de missão válidos para este atacante e alvo.
 
-Você tem pouco controle direto sobre suas naves quando estão engajadas em combate - elas simplesmente seguem as táticas de batalha que você selecionou para o design das naves. No calor da batalha, cabe ao capitão da nave aplicar essas táticas da melhor forma possível.
+Você tem pouco controle direto sobre suas naves quando elas estão engajadas em combate — elas simplesmente seguem as táticas de batalha que você selecionou para o design das naves. No calor da batalha, cabe ao capitão da nave aplicar essas táticas da melhor maneira possível.
 
-Diversos tipos de armas e outros componentes podem ser instalados em suas naves para melhorar seu desempenho em combate. Estes podem incluir o seguinte:
+Vários tipos de armas e outros componentes podem ser equipados em suas naves para melhorar seu desempenho em combate. Estes podem incluir o seguinte:
 
-[H3]Tecnologias Defensivas[/H3]
-[ULI]Escudos: protegem suas naves contra fogo de armas inimigas. Os escudos são reduzidos quando as armas os atingem. Alguns tiros de armas inimigas podem vazar pelos escudos, danificando a armadura ou outros componentes. Isso é especialmente verdadeiro quando os componentes de Escudo têm uma alta classificação de Penetração de Escudo. Os escudos se regeneram ao longo do tempo, mas não rápido o suficiente para compensar os impactos das armas durante o combate[/ULI]
-[ULI]Recarga de Escudo de Área: permite que uma nave ou base restaure os níveis de escudo de naves amigas próximas quando seus escudos caem abaixo de 50%[/ULI]
-[ULI]Armadura: a última linha de defesa para proteger suas naves contra fogo de armas inimigas. Quando os escudos são penetrados, a armadura absorve o dano das armas inimigas. A armadura pode absorver completamente tiros de baixa intensidade, sofrendo nenhum dano. No entanto, armas de energia mais alta destruirão completamente a armadura, deixando sua nave completamente exposta a mais ataques de armas[/ULI]
-[ULI]Contramedidas: desviam o fogo de armas inimigas, tornando menos provável que atinjam sua nave[/ULI]
-[ULI]Contramedidas de Frota: fornecem capacidade de contramedidas aprimorada para todas as naves próximas na frota[/ULI]
-[ULI]Armas de Intercepção: sistemas de armas de curto alcance que disparam rajadas letais contra armas inimigas ou caças próximos, desabilitando-os ou destruindo-os. Muitas armas de interceptação também podem ser usadas para atacar alvos inimigos, embora sejam mais especializadas na defesa[/ULI]
-[ULI]Defesa de Íons: protege uma nave ou base contra os efeitos desabilitadores de armas de Íons[/ULI]
-[ULI]Controle de Dano: reduz a quantidade de dano causado a uma nave pelo fogo de armas inimigas. Alguns componentes de controle de dano também fornecem uma função de reparo, permitindo que suas naves realizem reparos básicos rapidamente, mesmo durante o combate[/ULI]
-[ULI]Feixes Tratores: podem ser usados para afastar atacantes ao escapar[/ULI]
-[ULI]Cápsulas de Assalto: fornecem forças defensivas para combater partes de abordagem inimigas que tentam capturar sua nave ou base[/ULI]
+[H3]Tecnologias Defensivas[/H3]  
+[ULI]Escudos: protegem suas naves do fogo de armas inimigas. Os escudos são reduzidos quando as armas impactam neles. Alguns tiros de armas inimigas podem passar pelos escudos, danificando a armadura ou outros componentes. Isso é especialmente verdadeiro quando os componentes de escudo têm uma alta classificação de Penetração de Escudo. Os escudos se regeneram ao longo do tempo, mas não rápido o suficiente para compensar os impactos das armas durante o combate[/ULI]
+[ULI]Recarga de Escudo em Área: permite que uma nave ou base restaure os níveis de escudo das naves amigas próximas quando seus escudos caem abaixo de 50%[/ULI]
+[ULI]Armadura: a última linha de defesa para proteger suas naves do fogo de armas inimigas. Quando os escudos são penetrados, a armadura absorve o dano das armas inimigas. A armadura pode absorver completamente o fogo de armas de baixa intensidade, não sofrendo dano. No entanto, armas de maior energia destruirão completamente a armadura, deixando sua nave completamente exposta a novos ataques[/ULI]
+[ULI]Contramedidas: desviam o fogo de armas inimigas, tornando menos provável que elas atinjam sua nave[/ULI]
+[ULI]Contramedidas de Frota: fornecem capacidade de contramedidas melhorada a todas as naves amigas próximas na frota[/ULI]
+[ULI]Armas de Interceptação: sistema de armas de curto alcance que dispara rajadas mortais em armas ou caças inimigos próximos, desativando ou destruindo-os. Muitas armas de interceptação também podem ser usadas para atacar alvos inimigos, embora possam ser mais especializadas em defesa[/ULI]
+[ULI]Defesa Iônica: protege uma nave ou base contra os efeitos desabilitadores de armas iônicas[/ULI]
+[ULI]Controle de Danos: reduz a quantidade de dano causado a uma nave pelo fogo de armas inimigas. Alguns componentes de controle de danos também fornecem uma função de reparo, permitindo que suas naves realizem rapidamente reparos básicos mesmo durante o combate[/ULI]
+[ULI]Feixes Tratores: podem ser usados para afastar atacantes durante uma fuga[/ULI]
+[ULI]Módulos de Assalto: fornecem forças defensivas para combater grupos de invasão inimiga que tentam capturar sua nave ou base[/ULI]
 
-[H3]Tecnologias de Ataque[/H3]
-[ULI]Armas de Tiro Direto: inclui blasters a laser, canhões de trilho e outros. As armas de tiro direto têm capacidade limitada de manobra ou mudança de curso depois de disparadas. As armas de tiro direto frequentemente têm um alcance mais curto, mas com uma alta taxa de disparo e velocidade maior, podem causar muito dano[/ULI]
-[ULI]Busca: inclui mísseis e torpedos. Armas de busca se dirigem, manobrando para atingir seu alvo. Armas de busca frequentemente têm alcance longo, o que permite ataques de longo alcance contra alvos bem defendidos como portos espaciais. No entanto, podem ser bastante lentas, o que as torna menos eficazes contra naves rápidas e ágeis[/ULI]
-[ULI]Feixe de Comprimento Total: inclui muitos tipos de armas. Feixes de comprimento total disparam um feixe contínuo de energia que se estende do atirador ao alvo. Eles podem ter muitos alcances diferentes: alguns são de curto alcance, outros são mais longos[/ULI]
-[ULI]Armas de Bombardeio: exterminam a população e tropas de uma colônia inimiga, além de danificar o próprio planeta, reduzindo sua qualidade. Algumas armas de bombardeio têm mira mais específica, preferencialmente danificando população, nível de desenvolvimento da colônia, qualidade do planeta, tropas ou instalações planetárias[/ULI]
-[ULI]Armas de Íons: disparam rajadas de partículas ionizadas contra alvos inimigos, desabilitando temporariamente vários tipos de componentes. Algumas armas de Íons têm mira mais específica, desabilitando alguns componentes mais do que outros: armas, motores, hiperpropulsores, sensores e escudos[/ULI]
-[ULI]Armas de Área: disparam uma bola de energia para um ponto no espaço próximo a um inimigo e então iniciam uma explosão que envia uma onda de energia destrutiva omnidirecional para fora desse ponto. Essas armas geralmente são muito poderosas, mas têm alcance curto e consomem grandes quantidades de energia. Armas de área não podem ser direcionadas; elas danificam qualquer coisa dentro do alcance, incluindo suas próprias forças. Portanto, devem ser usadas com cuidado[/ULI]
-[ULI]Armas de HyperDeny: impedem que naves dentro do alcance iniciem um salto hiperespacial. Isso pode ser útil para impedir que forças inimigas escapem de uma área de batalha. Note que essas armas afetam todas as naves, incluindo as suas. Armas de HyperDeny são ativadas automaticamente sempre que uma nave entra em combate. Forças adversárias podem derrotar armas de HyperDeny se seus HiperDrives tiverem maior isolamento de HiperBloqueio do que a força da arma de HyperDeny[/ULI]
-[ULI]Caças: caças e bombardeiros são pequenas espaçonaves tripuladas que são transportadas a bordo de uma nave ou base militar maior. São rápidos e ágeis e podem atacar um alvo enquanto a nave-mãe mantém uma distância segura. As perdas de caças são reconstruídas nos hangares da Baía de Caças a bordo do porta-naves[/ULI]
-[ULI]Sensores de Alvo de Combate: aumentam a probabilidade de que suas armas atinjam seus alvos[/ULI]
-[ULI]Alvo da Frota: aumenta a precisão de mira de todas as naves próximas na frota[/ULI]
+[H3]Tecnologias de Ataque[/H3]  
+[ULI]Armas de Fogo Direto: incluem blasters a laser, canhões de trilho e outros. Armas de Fogo Direto têm uma capacidade limitada de manobrar ou mudar de curso uma vez disparadas. Armas de Fogo Direto costumam ter um alcance mais curto, mas com uma alta taxa de fogo e maior velocidade, podem causar muito dano[/ULI]
+[ULI]Buscadores: incluem mísseis e torpedos. Armas buscadoras vão atrás de seus alvos, manobrando para atingir seu alvo. Armas buscadoras geralmente têm longo alcance, o que permite ataques à distância contra alvos bem defendidos, como portos espaciais. No entanto, elas podem ser bastante lentas, tornando-as menos eficazes contra naves rápidas e ágeis[/ULI]
+[ULI]Feixes de Comprimento Total: incluem muitos tipos de armas. Feixes de Comprimento Total disparam um feixe de energia contínuo que se estende do atirador até o alvo. Eles podem ter muitos alcances diferentes: alguns são de curto alcance, outros são mais longos[/ULI]
+[ULI]Armas de Bombardeio: exterminam a população e as tropas em uma colônia inimiga, e também danificam o próprio planeta, diminuindo sua qualidade. Algumas armas de bombardeio têm alvos mais específicos, preferindo danificar a população, o nível de desenvolvimento da colônia, a qualidade do planeta, tropas ou instalações planetárias[/ULI]
+[ULI]Armas Iônicas: disparam rajadas de partículas ionizadas em alvos inimigos, desabilitando temporariamente vários tipos de componentes. Algumas armas iônicas têm alvos mais específicos, preferindo desabilitar alguns componentes mais do que outros: armas, motores, hiperpropulsores, sensores e escudos[/ULI]
+[ULI]Armas de Área: disparam uma bola de energia para um ponto no espaço próximo a um inimigo e, em seguida, iniciam uma explosão que envia uma onda de energia destrutiva em todas as direções a partir desse ponto. Essas armas geralmente são muito poderosas, mas têm curto alcance e consomem grandes quantidades de energia. Armas de Área não podem ser direcionadas; elas danificam qualquer coisa dentro do alcance, incluindo suas próprias forças. Assim, devem ser usadas com cautela[/ULI]
+[ULI]Armas de Negação Hiper: impedem que quaisquer naves dentro do alcance iniciem um hipersalto. Isso pode ser útil para evitar que forças inimigas escapem de uma área de batalha. Observe que essas armas afetam todas as naves, incluindo a sua. As armas de Negação Hiper são automaticamente ativadas sempre que uma nave entra em combate. Forças opostas podem derrotar armas de Negação Hiper se seu Hiperdrive tiver uma maior isolação de Bloqueio Hiper do que a força da arma de Negação Hiper[/ULI]
+[ULI]Caças: caças e bombardeiros são pequenas espaçonaves de uma pessoa que são transportadas a bordo de uma nave militar maior ou base. Elas são rápidas e ágeis e podem atacar um alvo enquanto o porta-naves mantém uma distância segura. As perdas de caças são reabastecidas nos hangares da Baía de Caças a bordo do porta-naves[/ULI]
+[ULI]Sensores de Mira de Combate: aumentam a probabilidade de suas armas atingirem seus alvos[/ULI]
+[ULI]Mira de Frota: aumenta a precisão de mira de todas as naves próximas na frota[/ULI]
 [ULI]Feixes Tratores: podem ser usados para puxar alvos inimigos para mais perto[/ULI]
-[ULI]Cápsulas de Assalto: usadas para lançar grupos de abordagem contra uma nave ou base inimiga na tentativa de capturá-la. A nave inimiga deve estar dentro do alcance de abordagem e ter seus escudos suficientemente reduzidos[/ULI]
+[ULI]Módulos de Assalto: usados para lançar grupos de invasão contra uma nave ou base inimiga na tentativa de capturá-la. A nave inimiga deve estar dentro do alcance de invasão e ter seus escudos suficientemente baixos[/ULI]
 
 Outros fatores que influenciam o combate são:
-[ULI]Agilidade de Manuseio da Nave: naves mais manobráveis permitem uma melhor posição para evitar as armas dos oponentes, mas atirar suas armas neles. Para aumentar a agilidade, adicione mais motores de vetorização às suas naves. Também minimize o tamanho da sua nave[/ULI]
-[ULI]Velocidade da Nave: naves mais rápidas podem escapar de atacantes ou alcançar alvos mais rapidamente[/ULI]
-[ULI]Componentes de Scanner: permitem rastrear naves inimigas a distância. Se um inimigo escapar fazendo um salto hiperespacial para o espaço profundo, seu scanner às vezes pode rastrear o salto hiperespacial e permitir que você continue perseguindo seu alvo. Esta habilidade é determinada pelo valor de Rastreamento de Salto do componente de scanner[/ULI]
+[ULI]Agilidade de manuseio da nave: naves mais manobráveis permitem um melhor posicionamento para que você possa evitar as armas dos oponentes, mas disparar suas armas contra eles. Para aumentar a agilidade, adicione mais motores vetoriais às suas naves. Também minimize o tamanho da sua nave[/ULI]
+[ULI]Velocidade da nave: naves mais rápidas podem escapar de atacantes ou alcançar alvos[/ULI]
+[ULI]Componentes de scanner: permitem que você rastreie naves inimigas à distância. Se um inimigo escapar saltando para o hiperespaço, seu scanner pode, às vezes, rastrear o hipersalto e permitir que você continue perseguindo seu alvo. Essa capacidade é determinada pelo valor de Rastreamento de Salto do componente de scanner[/ULI]
 
-[H3]Precisão da Arma[/H3]
+[H3]Precisão das Armas[/H3]  
 Quando as armas são disparadas contra um alvo, sua precisão é determinada pelos seguintes fatores:
-[ULI]Distância do alvo: se a arma estiver próxima do limite de seu alcance, será menos precisa do que se estivesse próxima do alvo[/ULI]
-[ULI]Velocidade do alvo: alvos mais lentos são mais fáceis de atingir. Alvos completamente estacionários como bases são especialmente fáceis de atingir[/ULI]
-[ULI]Sensores de Alvo de Combate em suas naves aumentam a probabilidade de que suas armas encontrem seu alvo[/ULI]
-[ULI]Componentes de Contramedidas em suas naves tornam mais difícil serem atingidas[/ULI]
-[ULI]Fatores aleatórios e incontroláveis também desempenham sua função na melhoria ou pioria da precisão das armas[/ULI]
+[ULI]Distância do alvo: se a arma estiver perto do limite de seu alcance, será menos precisa do que se estiver próxima do alvo[/ULI]
+[ULI]Velocidade do alvo: alvos mais lentos são mais fáceis de acertar. Alvos completamente estacionários, como bases, são especialmente fáceis de acertar[/ULI]
+[ULI]Sensores de Mira de Combate em suas naves aumentam a probabilidade de suas armas encontrarem seu alvo[/ULI]
+[ULI]Componentes de contramedidas em suas naves tornam-nas mais difíceis de atingir[/ULI]
+[ULI]Fatores aleatórios e incontroláveis também desempenham seu papel em tornar a precisão das armas melhor ou pior[/ULI]

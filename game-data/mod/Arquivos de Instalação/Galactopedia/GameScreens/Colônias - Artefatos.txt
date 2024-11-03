@@ -1,7 +1,7 @@
 Esta tela lista todos os artefatos possuídos pelo seu império.
 
-Artefatos são objetos que você pode adquirir através da exploração. Eles geralmente fornecem bônus para seu império ou para sua localização. Às vezes, artefatos precisam estar em uma colônia ou em sua capital para fornecer seus benefícios.
+Artefatos são objetos que você pode adquirir através da exploração. Eles geralmente fornecem bônus para o seu império ou para sua localização. Às vezes, os artefatos precisam estar em uma colônia ou na sua capital para fornecerem seus benefícios.
 
-Quando ampliado para o nível da galáxia ou do sistema, as localizações dos artefatos são destacadas no mapa. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecioná-lo. Duplo-clique no item moverá a visualização para essa localização.
+Quando com o zoom reduzido para o nível de galáxia ou sistema, as localizações dos artefatos são destacadas no mapa. Passar o cursor sobre um item na lista fará com que a localização seja marcada no mapa. Clicar no item irá selecioná-lo. Ao clicar duas vezes no item, a visualização será movida para aquela localização.
 
-Passar o mouse sobre um artefato na lista também mostrará um painel de resumo detalhado à direita.
+Passar o cursor sobre um artefato na lista também mostrará um painel de resumo detalhado à direita.

@@ -1,79 +1,79 @@
-A Visão Geral do Design exibe todas as estatísticas atuais do seu design. Os valores neste painel mudam conforme você adiciona e remove componentes ao casco.
+A Visão Geral do Design exibe todas as estatísticas atuais do seu design. Os valores neste painel mudam à medida que você adiciona e remove componentes do casco.
 
-Existem várias seções na Visão Geral do Design mostrando dados sobre vários aspectos do design. Muitos dos dados têm informações adicionais ao serem sobrevoados.
+Existem muitas seções na Visão Geral do Design que mostram dados sobre vários aspectos do design. Muitas das informações têm mais detalhes quando você passa o mouse sobre elas.
 
 No topo está o nome do design. Clique aqui para digitar um novo nome.
 
 [H3]Recomendações[/H3]
-Em seguida está o botão de Recomendações. Isso mostra um resumo de quaisquer avisos ou erros no design atual.
+A seguir está o botão de Recomendações. Isso mostra um resumo de quaisquer avisos ou erros no design atual.
 
 Passe o mouse sobre o botão de Recomendações para abrir um painel de resumo maior. Clique no botão para manter o painel de recomendações aberto.
 
 O design não é válido (e não pode ser salvo) até que todos os erros sejam resolvidos.
 
 [H3]Informações Básicas do Design[/H3]
-A seguir, há um resumo dos dados-chave do design. Isso inclui informações sobre os custos de compra e manutenção.
+A seguir está um resumo dos dados-chave do design. Isso inclui informações sobre os custos de compra e manutenção.
 
-Também são destacados alguns requisitos importantes:
+Também descreve alguns requisitos importantes:
 [ULI]o design não pode ser maior do que o tamanho máximo permitido pelo casco[/ULI]
 [ULI]deve haver tripulação adequada para o design[/ULI]
 
 [H3]Classificação[/H3]
-A seção de Classificação resume dados sobre o design em 4 áreas-chave: Força de Ataque, Força de Defesa, Velocidade e Manobrabilidade, e Sensores.
+A seção de Classificação resume os dados sobre o design em 4 áreas-chave: Força de Ataque, Força de Defesa, Velocidade e Manobrabilidade, e Sensores.
 
-Passe o mouse sobre cada valor para ver uma análise dos fatores que contribuem para a classificação em cada área.
+Passe o mouse sobre cada valor para obter uma análise dos fatores que contribuem para a classificação em cada área.
 
 [H3]Energia[/H3]
 A seção de Energia resume a geração, armazenamento e distribuição de energia no design.
 
-Também são mostrados gráficos que mostram como a energia é consumida tanto em velocidades subluz em combate quanto durante viagens hiperespaciais. Para bases, apenas um gráfico é mostrado.
+Ela também mostra gráficos delineando como a energia é consumida tanto em velocidades subluz em combate quanto durante a viagem hiperespaço. Para bases, apenas um gráfico é mostrado.
 
-Um valor importante é a taxa de geração de energia do reator por unidade de combustível. Isso mostra a eficiência do uso de combustível do reator, que tem um impacto direto em quão rapidamente uma nave precisa reabastecer.
+Um valor importante é a taxa de geração de energia do reator por unidade de combustível. Isso mostra a eficiência do uso do combustível do reator, o que tem um impacto direto sobre a rapidez com que uma nave precisa reabastecer.
 
 [H3]Movimento[/H3]
-Esta seção é relevante apenas para naves. Ela mostra a velocidade de movimento e o consumo de energia em vários níveis.
+Esta seção é relevante apenas para naves. Ela mostra a velocidade de movimento e o uso de energia em vários níveis.
 
-Também é mostrada aqui a faixa de salto do hiperpropulsor e a faixa geral de combustível.
+Também é mostrado aqui o alcance de salto do hiperdrive e o alcance total de combustível.
 
-A precisão de salto do hiperpropulsor indica a faixa mínima de saída de salto ao viajar para um local sem uma colônia ou base própria, por exemplo, ao atacar uma localização inimiga.
+A precisão do salto hiperespaço indica a distância mínima de saída do salto ao viajar para um local sem uma colônia ou base sua, por exemplo, ao atacar um local inimigo.
 
-Isso significa que a nave sairá do salto aproximadamente nessa faixa e então deve viajar em velocidade subluz em direção ao destino.
+Isso significa que a nave sairá do salto aproximadamente nesta distância e, em seguida, deve viajar em velocidade subluz em direção ao destino.
 
 [H3]Armas[/H3]
-A seção de Armas delineia os alcances das armas e as taxas de dano por segundo em várias categorias de armas.
+A seção de Armas descreve os alcances e as taxas de dano por segundo em várias categorias de armas.
 
-Ao passar o mouse sobre os gráficos de dano das armas, mais informações são reveladas.
+Passar o mouse sobre os gráficos de dano das armas revela mais informações.
 
-Também são mostradas a capacidade de caça e a taxa de construção.
+Também são mostradas a capacidade de caças e a taxa de construção.
 
 [H3]Defesa[/H3]
 A seção de Defesa mostra os valores de escudo, armadura e reparo de danos para o design.
 
-Ao passar o mouse sobre os gráficos de escudo e armadura, mais informações são reveladas.
+Passar o mouse sobre os gráficos de escudo e armadura revela mais informações.
 
-Também é mostrada a força de defesa de abordagem.
+Também são mostradas a força de defesa contra invasões.
 
-[H3]Rastreamento e Contramedidas[/H3]
-Esta seção mostra os bônus de rastreamento e contramedidas.
+[H3]Mira e Contramedidas[/H3]
+Esta seção mostra os bônus de mira e contramedidas.
 
-Um rastreamento melhorado torna as armas mais precisas e mais propensas a atingir seu alvo.
+Uma mira aprimorada torna as armas mais precisas e mais propensas a atingir seu alvo.
 
-Contramedidas melhoradas tornam um design mais capaz de neutralizar as armas inimigas e, assim, evitar danos.
+Contramedidas aprimoradas tornam um design mais capaz de desviar armas inimigas e, assim, evitar danos.
 
 [H3]Sensores[/H3]
-A seção de Sensores delineia a força e o alcance de uma variedade de tipos diferentes de scanners:
+A seção de Sensores descreve a força e o alcance de vários tipos diferentes de scanners:
 [ULI]scanners gerais de curto e longo alcance para detectar naves distantes[/ULI]
-[ULI]rastreamento de salto hiperespacial de naves inimigas quando elas saltam para longe de sua localização[/ULI]
-[ULI]varredura de rastreamento de informações internas sobre naves inimigas próximas[/ULI]
-[ULI]jamming de scanner que protege contra varreduras por inimigos[/ULI]
+[ULI]rastreamento de salto hiperespaço de naves inimigas quando elas saltam para longe da sua localização[/ULI]
+[ULI]escaneamento de traços de informações internas sobre embarcações inimigas próximas[/ULI]
+[ULI]bloqueio de scanner que protege contra escaneamento por inimigos[/ULI]
 
 [H3]Indústria[/H3]
-A seção de Indústria possui valores para várias categorias industriais como armazenamento de carga, capacidade de passagem de baías de atracação, mineração, pesquisa e outros.
+A seção de Indústria tem valores para várias categorias industriais, como armazenamento de carga, capacidade de atracação, mineração, pesquisa e outras.
 
 [H3]Bônus[/H3]
-A seção de Bônus resume quaisquer bônus fornecidos pelo casco ou por quaisquer componentes no design.
+A seção de Bônus resume quaisquer bônus fornecidos pelo casco ou por componentes no design.
 
 [H3]Recursos Necessários para Construir[/H3]
-Esta seção mostra os recursos totais necessários para construir uma nova cópia deste design.
+Esta seção mostra os recursos totais que são necessários para construir uma nova cópia deste design.
 
-Isso inclui recursos do casco e todos os componentes no design.
+Isso inclui recursos do casco e de todos os componentes no design.

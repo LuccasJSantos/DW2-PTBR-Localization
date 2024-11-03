@@ -1,6 +1,0 @@
-As Estações de Monitoramento são bases especializadas que fornecem scanners de longo alcance para monitorar locais estratégicos. Elas são construídas em locais tranquilos que estão dentro do alcance para monitorar alvos inimigos.
-
-[H3]Lista de Estações de Monitoramento[/H3]
-Esta tela lista todas as estações de monitoramento atuais em seu império. Verifique as opções de ordenação e filtro no topo do painel.
-
-Quando ampliado para o nível de galáxia ou sistema, as estações de monitoramento são destacadas no mapa. Distintivos de Sistema e Local também indicam portos espaciais usando o ícone de construção amarelo. Passar o mouse sobre um item na lista marcará a localização no mapa. Clicar no item selecionará sua localização. Duplo-clique no item moverá a visualização para essa localização.

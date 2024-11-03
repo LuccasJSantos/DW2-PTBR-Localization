@@ -1,30 +1,31 @@
-A migração geralmente envolve pessoas migrando de colônias grandes para novas colônias menores. A migração ajuda a aumentar rapidamente a população das novas colônias, permitindo que elas se tornem produtivas mais rapidamente.
+[H2]Migração[/H2]  
+A migração geralmente envolve pessoas migrando de grandes colônias para novas colônias menores. A migração ajuda a aumentar rapidamente a população de novas colônias, permitindo que elas se tornem produtivas mais rapidamente.
 
-Os migrantes são transportados para seus destinos por naves de passageiros de propriedade privada. A migração ocorre inteiramente no setor privado do seu império - você não tem controle direto sobre o movimento de cidadãos entre suas colônias.
+Os migrantes são transportados para seu destino por naves de passageiros de propriedade privada. A migração ocorre inteiramente no setor privado do seu império – você não tem controle direto sobre o movimento de cidadãos entre suas colônias.
 
-[H3]Fatores de Migração[/H3]
-Fatores que atraem novos migrantes para uma colônia incluem:
-[ULI]baixas taxas de imposto[/ULI]
-[ULI]atratividade geral: alta qualidade do planeta, altos níveis de desenvolvimento[/ULI]
-[ULI]proximidade da nova colônia à colônia atual do migrante[/ULI]
+[H3]Fatores de Migração[/H3]  
+Os fatores que atraem novos migrantes para uma colônia incluem:  
+[ULI]taxas de imposto baixas[/ULI]  
+[ULI]desirabilidade geral: alta qualidade do planeta, altos níveis de desenvolvimento[/ULI]  
+[ULI]proximidade da nova colônia com a colônia de origem do migrante[/ULI]  
 
-Fatores que promovem a emigração de uma colônia incluem:
-[ULI]nível de felicidade na colônia: infelicidade promove emigração[/ULI]
-[ULI]alta população: colônias densamente povoadas promovem emigração[/ULI]
-[ULI]colônias próximas desejáveis para emigração[/ULI]
+Os fatores que promovem a emigração de uma colônia incluem:  
+[ULI]nível de felicidade na colônia: descontentamento promove emigração[/ULI]  
+[ULI]alta população: colônias superpovoadas promovem emigração[/ULI]  
+[ULI]colônias vizinhas desejáveis para emigração[/ULI]  
 
-[H3]Migração Inter-império[/H3]
-As pessoas têm mais probabilidade de migrar dentro de seu próprio império, simplesmente porque é mais fácil - há menos burocracia para superar.
+[H3]Migração Inter-Império[/H3]  
+As pessoas são mais propensas a migrar dentro de seu próprio império, simplesmente porque é mais fácil – há menos burocracia a ser superada.
 
-No entanto, se você tiver um tratado de Migração com outro império, então a migração inter-império também pode ocorrer.
+No entanto, se você tiver um tratado de migração com outro império, a migração inter-império também pode ocorrer.
 
-Quando seu império contém um bilhão de cidadãos de uma raça alienígena específica, seu império também receberá seus bônus raciais. Isso pode incluir cientistas e engenheiros mais inteligentes, espiões melhores, mineradores mais rápidos, etc.
+Uma vez que seu império contenha um bilhão de cidadãos de uma raça alienígena específica, seu império também receberá seus bônus raciais. Isso pode incluir cientistas e engenheiros mais inteligentes, espiões melhores, mineradores mais rápidos, etc.
 
-[H3]Políticas Populacionais da Colônia[/H3]
-As Políticas Populacionais fornecem controle sobre quais raças alienígenas você permite em suas colônias.
+[H3]Políticas de População da Colônia[/H3]  
+As Políticas de População fornecem controle sobre quais raças alienígenas você permite em suas colônias.
 
-Essas políticas podem ser definidas na tela de Políticas Populacionais, que aparece no Painel de Seleção quando uma de suas colônias é selecionada. Passe o mouse sobre o ícone de política populacional no extremo direito da linha de população para a colônia selecionada. Clique no ícone ou na tela para mantê-la aberta.
+Essas políticas podem ser definidas na tela de Políticas de População, que se abre a partir do Painel de Seleção quando uma de suas colônias é selecionada. Passe o mouse sobre o ícone de política populacional à direita da linha de população para a colônia selecionada. Clique no ícone ou na tela para mantê-la aberta.
 
-Cada raça que você encontrou é listada, permitindo que você defina políticas específicas para cada raça alienígena em cada colônia.
+Cada raça que você conheceu é listada, permitindo que você defina políticas específicas para cada raça alienígena em cada colônia.
 
-Usar essas configurações lhe dá controle preciso sobre a migração para suas colônias.
+Usar essas configurações dá a você controle preciso sobre a migração para suas colônias.

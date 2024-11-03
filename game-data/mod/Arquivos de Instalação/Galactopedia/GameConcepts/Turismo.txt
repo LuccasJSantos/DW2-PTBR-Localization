@@ -1,33 +1,33 @@
-O turismo envolve transportar passageiros em férias de colônias para bases de resorts.
+O turismo envolve o transporte de passageiros em férias de colônias para bases de resort.
 
-Esses turistas são transportados para seus destinos por naves de passageiros de propriedade privada. O turismo ocorre inteiramente no setor privado do seu império - você não tem controle sobre o movimento dos turistas.
+Esses turistas são transportados para seu destino por naves de passageiros de propriedade privada. O turismo ocorre inteiramente no setor privado do seu império - você não tem controle sobre o movimento dos turistas.
 
 O turismo pode ser uma fonte significativa de renda bônus para o seu império.
 
 [H3]Locais Cênicos e Resorts[/H3]
-Bases de resorts são bases especiais construídas em locais cênicos por toda a galáxia. Locais cênicos podem incluir o seguinte:
+As bases de resort são bases especiais construídas em locais cênicos por toda a galáxia. Locais cênicos podem incluir o seguinte:
 [ULI]Planetas com anéis[/ULI]
-[ULI]Buracos negros[/ULI]
-[ULI]Estrelas de nêutrons[/ULI]
+[ULI]Buracos Negros[/ULI]
+[ULI]Estrelas de Nêutrons[/ULI]
 [ULI]Planetas com ruínas incomuns ou monumentos antigos[/ULI]
 [ULI]Colônias com Maravilhas[/ULI]
 [ULI]Planetas ou luas com características naturais espetaculares[/ULI]
 
-[H3]Bônus de Cenário[/H3]
-Locais cênicos terão um bônus de cenário. Isso define a quantidade e a fonte do recurso cênico, por exemplo: '+10% do Vasto Sistema de Túneis Subaquáticos'.
+[H3]Bônus de Cenas[/H3]
+Locais cênicos terão um bônus de cena. Isso define a quantidade e a fonte da característica cênica, por exemplo: '+10% da Rede de Túneis Subaquáticos Vast'.
 
-Para ver quaisquer bônus de cenário para uma estrela, planeta, lua ou asteroide:
+Para ver quaisquer bônus de cena para uma estrela, planeta, lua ou asteroide:
 [OLI]selecione o local[/OLI]
-[OLI]no Painel de Seleção, passe o mouse sobre a área 'Bônus do Local'[/OLI]
-[OLI]uma dica de ferramenta mostrará todos os bônus no local, incluindo quaisquer bônus de cenário[/OLI]
+[OLI]no Painel de Seleção, passe o mouse sobre a área 'Bônus de Localização'[/OLI]
+[OLI]um tooltip exibirá todos os bônus na localização, incluindo quaisquer bônus de cena[/OLI]
 
-Você pode encontrar locais cênicos não utilizados na lista 'Novos Locais de Resort' na seção Civil da Central de Controle. Use os botões 'Construir Base de Resort' à direita para enfileirar a construção de novas Bases de Resort nos locais desejados.
+Você pode encontrar locais cênicos não utilizados na lista 'Novas Localizações de Resort' na seção Civiliana do Centro de Controle. Use os botões 'Construir Base de Resort' à direita para colocar em fila a construção de novas Bases de Resort nos locais desejados.
 
-Observe que colônias com bônus de cenário atrairão turismo sem a necessidade de construir uma base de resort na colônia.
+Observe que colônias com bônus de cena atrairão turismo sem a necessidade de construir uma base de resort na colônia.
 
-O volume de turistas que um resort atrai depende da scenicidade do local e de quão próximo ele está de colônias grandes e ricas. Os cidadãos ricos desses tipos de colônias estão à procura de destinos turísticos cênicos para viajar.
+O volume de turistas que um resort atrai depende de quão cênico é o local e de quão próximo ele está de colônias grandes e ricas. Os cidadãos ricos desses tipos de colônias estão em busca de destinos turísticos cênicos para viajar.
 
 [H3]Renda do Turismo[/H3]
-A renda é derivada quando naves de passageiros chegam a um resort. A quantidade de renda depende de quantos passageiros a nave estava transportando. Esta renda variável é mostrada na tela de Economia (F2) na linha 'Turismo' na seção 'Renda Bônus Anual'.
+A renda é derivada quando as naves de passageiros chegam a um resort. O montante da renda depende de quantos passageiros a nave estava transportando. Essa renda variável é mostrada na tela de Economia (F2) sob o item 'Turismo' na seção 'Renda Bônus Anual'.
 
-O turismo também ocorre entre os limites do império (desde que as relações entre dois impérios não estejam em guerra). Portanto, naves de passageiros podem transportar visitantes da colônia de um império para a Base de Resort de outro império.
+O turismo também ocorre através das fronteiras do império (desde que as relações entre dois impérios não estejam em guerra). Assim, naves de passageiros podem transportar visitantes da colônia de um império para a Base de Resort de outro império.

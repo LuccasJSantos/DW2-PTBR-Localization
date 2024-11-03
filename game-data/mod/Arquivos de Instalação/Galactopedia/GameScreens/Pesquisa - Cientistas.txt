@@ -1,14 +1,13 @@
-Os cientistas do seu império são mostrados nesta lista.
+Esta tela lista todos os cientistas em seu império.
 
-Você pode ver os detalhes de cada cientista passando o mouse sobre a entrada da lista e clicando para travar o painel à direita aberto.
+Você pode ver os detalhes de cada cientista passando o mouse sobre a entrada da lista e clicando para manter o painel aberto à direita.
 
-Você pode mudar o nome de um cientista clicando no nome dele sob o retrato e digitando um novo.
+Você pode mudar o nome de um cientista clicando em seu nome sob o retrato e digitando um novo.
 
-[H3]Locais dos Cientistas[/H3]
+[H3]Localizações de Cientistas[/H3]
+Os cientistas aplicam benefícios de pesquisa quando estão a bordo de uma estação de pesquisa. Você deve usar a lista suspensa de locais e o botão 'Transferir' para designá-los a um local específico.
 
-Cientistas aplicam benefícios de pesquisa quando estão a bordo de uma estação de pesquisa. Você deve usar a lista suspensa de localização e o botão 'Transferir' para atribuí-los a um local específico.
-
-Alternativamente, você pode automatizar o cientista para que seus consultores de pesquisa escolham o melhor local para eles. Use o botão 'Automatizar' sob o retrato do cientista à direita.
+Alternativamente, você pode automatizar o cientista para que seus conselheiros de pesquisa selecionem o melhor local para ele. Use o botão 'Automatizar' sob o retrato do cientista à direita.
 
 [H3]Eventos[/H3]
-Na parte inferior do painel de detalhes está uma lista de todos os eventos em que o cientista esteve envolvido. Vários eventos podem melhorar ou diminuir suas habilidades, ou fornecer novos traços de personagem.
+Na parte inferior do painel de detalhes, há uma lista de todos os eventos em que o cientista esteve envolvido. Vários eventos podem melhorar ou diminuir suas habilidades ou fornecer novos traços de personagem.

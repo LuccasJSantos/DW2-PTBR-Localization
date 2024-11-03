@@ -1,0 +1,45 @@
+A diplomacia envolve monitorar os relacionamentos entre muitos impérios diferentes, especialmente como eles se sentem em relação a você. Fazer amizade com os impérios certos - e evitar a ira dos errados - pode ser uma tarefa difícil.
+
+Os impérios estão constantemente avaliando seus relacionamentos com outros impérios. Suas avaliações são influenciadas positiva ou negativamente pelos seguintes fatores.
+
+[H3]Volume de Comércio[/H3]  
+Um alto volume de comércio entre dois impérios melhora um relacionamento diplomático. Você não tem controle direto sobre o comércio - isso é realizado por seus cidadãos privados.
+
+[H3]Afinidade Racial[/H3]  
+Cada raça alienígena possui preconceitos que fazem outras raças serem amigos ou rivais naturais.
+
+[H3]Afinidade Governamental[/H3]  
+Cada forma de governo tem amigos e rivais naturais - outros tipos de governo que gostam ou não gostam. A maioria dos impérios tende a se aproximar de outros impérios com formas de governo semelhantes.
+
+[H3]Tratados[/H3]  
+Formar um tratado com outro império é uma expressão de confiança. Isso melhora as relações entre os dois impérios.
+
+[H3]Presentes[/H3]  
+Enviar presentes a outros impérios faz com que eles gostem mais de você. Quanto maior o presente, maior o impacto no seu relacionamento.
+
+No entanto, você não deve enviar presentes com muita frequência. Deixe pelo menos um ano entre os presentes para um impacto máximo.
+
+[H3]Relacionamento com Amigos[/H3]  
+Seus amigos são os impérios com os quais você tem tratados. Se um império estiver em guerra com um de seus amigos, isso afetará negativamente seu relacionamento. Alternativamente, se um império tiver um tratado com um de seus amigos, isso afetará positivamente seu relacionamento.
+
+[H3]Relacionamento com Inimigos[/H3]  
+Seus inimigos são os impérios com os quais você está em guerra ou tem relações ruins. Se um império tiver tratados com um de seus inimigos, isso afetará negativamente seu relacionamento.
+
+[H3]Competição por Sistemas ou Recursos[/H3]  
+Você normalmente não pode colonizar em um sistema pertencente a outro império. Mas você pode colonizar colônias independentes em sistemas de outros impérios.
+
+Ter uma colônia em um sistema já povoado por outro império é sempre considerado muito mau gosto. O outro império ficará muito ofendido com tal ação.
+
+Da mesma forma, construir estações de mineração ou outras bases em um sistema que já foi colonizado por outro império também causará ofensa, embora muito menos do que colonizar um planeta.
+
+[H3]Ataques Contra Nós por Outro Império[/H3]  
+Quando impérios desejam recursos ou colônias do seu império, eles podem testar suas defesas com ousados ataques. É claro que a maioria dos impérios vê esses ataques não provocados de maneira muito negativa.
+
+[H3]Missões de Inteligência Interceptadas[/H3]  
+Quando uma missão de inteligência contra outro império é detectada ou interceptada, as consequências diplomáticas podem ser muito altas. Outros impérios desaprovam fortemente que você realize missões de inteligência contra eles.
+
+[H3]Reputação do Império[/H3]  
+A reputação do seu império afetará as avaliações de outros impérios em relação a você. Consulte "Reputação do Império" para mais detalhes.
+
+[H3]Bloqueios[/H3]  
+Bloquear uma colônia ou base de outro império é uma maneira certa de causar grande ofensa a eles. Cada bloqueio adicional que você iniciar apenas adiciona à ofensa. Continue assim e você logo estará em guerra.

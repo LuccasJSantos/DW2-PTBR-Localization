@@ -1,20 +1,20 @@
-Todas as naves requerem combustível para se movimentar pela galáxia. O combustível é um recurso crítico que permite a expansão do seu império.
+Todas as naves precisam de combustível para se mover pelo espaço. O combustível é um recurso crítico que permite que seu império se expanda.
 
-O recurso universal de combustível é o Caslon. Trata-se de um gás azul claro encontrado principalmente em Gigantes Gasosos.
+O recurso de combustível universal é o Caslon. Este é um gás azul claro encontrado principalmente em planetas gasosos.
 
-[H3]Como o combustível é utilizado[/H3]
-O combustível é consumido pelos componentes do reator para gerar energia bruta. Essa energia é então utilizada por todos os componentes em uma nave ou base que a requerem. Isso inclui energia para motores e hyperdrives para mover uma nave. Outros componentes que consomem energia incluem: escudos (durante o recarregamento), armas, estaleiros de construção e muitos outros.
+[H3]Como o Combustível é Usado[/H3]  
+O combustível é consumido por componentes de reator para gerar energia bruta. Essa energia é então utilizada por todos os componentes de uma nave ou base que necessitam dela. Isso inclui energia para motores e hiperdrives para mover uma nave. Outros componentes que consomem energia incluem: escudos (quando recarregando), armas, estaleiros de construção e muitos outros.
 
-[H3]Abastecimento de Combustível[/H3]
-Os pontos de abastecimento são locais que estão dispostos a vender combustível para as naves do seu império. Isso inclui todos os portos espaciais amigáveis, colônias e estações de mineração de combustível. Isso também inclui colônias independentes. A localização dos pontos de abastecimento é indicada por um ícone circular azul ao lado do nome do sistema quando ampliado para o nível da galáxia.
+[H3]Reabastecimento[/H3]  
+Os pontos de reabastecimento são locais que estão dispostos a vender combustível para as naves de seu império. Isso inclui todos os portos espaciais amigáveis, colônias e estações de mineração de combustível. Isso também inclui colônias independentes. A localização dos pontos de reabastecimento é indicada por um ícone circular azul ao lado do nome do sistema quando afastado para o nível da galáxia.
 
-O alcance atual de movimento da nave selecionada é mostrado por um círculo de alcance amarelo tracejado que pode ser visto quando ampliado para o nível da galáxia. Isso ajuda a visualizar visualmente até onde uma nave pode viajar antes de precisar de reabastecimento.
+O alcance de movimento atual da nave selecionada é mostrado por um círculo de alcance amarelo pontilhado, que pode ser visto quando afastado para o nível da galáxia. Isso ajuda você a avaliar visualmente até onde uma nave pode viajar antes de precisar reabastecer.
 
-O alcance atual de salto da nave selecionada é mostrada por um círculo de alcance laranja tracejado que pode ser visto quando ampliado para o nível da galáxia. Isso ajuda a visualizar visualmente até onde uma nave pode viajar em um único salto antes de precisar sair do hiperespaço e iniciar um novo salto em direção ao seu destino.
+O alcance de salto atual da nave selecionada é mostrado por um círculo de alcance laranja pontilhado, que pode ser visto quando afastado para o nível da galáxia. Isso ajuda você a avaliar visualmente até onde uma nave pode viajar em um único salto antes de precisar sair do hiperespaço e iniciar um novo salto em direção ao seu destino.
 
-Quando uma ave fica sem combustível, ele automaticamente passará a utilizar seu suprimento de emergência de combustível. Ao usar o suprimento de emergência de combustível, a nave se moverá a um terço da velocidade normal. O suprimento de emergência de combustível durará indefinidamente, mas você deve reabastecer a ave para recuperar velocidades de movimento normais.
+Quando uma nave fica sem combustível, ela automaticamente começa a usar seu suprimento de combustível de emergência. Ao usar o suprimento de emergência, a nave se moverá a um terço da velocidade normal. O suprimento de emergência durará indefinidamente, mas você deve reabastecer a nave para recuperar as velocidades normais de movimento.
 
-[H3]Coletores de Energia[/H3]
-Bases normalmente podem suprir a maioria de suas necessidades energéticas usando componentes de coleta de energia. Coletores de energia geram energia a partir da radiação de uma estrela próxima, reduzindo a necessidade de combustível.
+[H3]Coletores de Energia[/H3]  
+As bases podem tipicamente suprir a maior parte de suas necessidades energéticas usando componentes de coletores de energia. Os coletores de energia geram energia a partir da radiação de uma estrela próxima, reduzindo a necessidade de combustível.
 
-No entanto, coletores de energia só operam quando estacionários, então normalmente são úteis apenas em bases imóveis ou quando uma ave está ociosa.
+No entanto, os coletores de energia só operam enquanto estão estacionários, portanto, eles geralmente são úteis apenas em bases imóveis ou quando uma nave está inativa.

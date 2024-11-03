@@ -1,3 +1,3 @@
 Qualquer personagem capturado de outras facções é mostrado nesta lista.
 
-Você pode ver os detalhes de cada personagem inimigo aprisionado passando o mouse sobre a entrada da lista e clicando para manter aberto o painel à direita.
+Você pode ver os detalhes de cada personagem inimigo aprisionado passando o cursor sobre a entrada da lista e clicando para abrir o painel à direita.

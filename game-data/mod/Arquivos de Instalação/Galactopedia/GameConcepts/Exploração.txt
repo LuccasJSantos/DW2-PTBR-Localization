@@ -1,52 +1,52 @@
-No início do jogo, a galáxia é desconhecida. Você só tem informações confiáveis sobre seu mundo natal.
+No início do jogo, a galáxia é desconhecida. Você só possui informações confiáveis sobre seu mundo natal.
 
-[H3]Naves de Exploração e missões[/H3]
-A exploração envolve enviar naves de exploração para visitar mundos desconhecidos, revelando seus recursos, adequação para colonização e quaisquer bônus especiais. Elas também podem encontrar ruínas antigas ou naves ou bases abandonadas que podem ser investigadas.
+[H3]Naves de Exploração e Missões[/H3]  
+A exploração envolve o envio de naves de exploração para visitar mundos desconhecidos, revelando seus recursos, adequação para colonização e quaisquer bônus especiais. Elas podem também encontrar ruínas antigas ou naves ou bases abandonadas que podem ser investigadas.
 
 Em cada local, a nave de exploração envia equipes de pesquisa para inspecionar o planeta, lua, asteroide ou estrela. A pesquisa é lenta e demorada.
 
-Níveis mais altos de tecnologia desbloqueiam componentes de scanner de exploração que permitem uma exploração mais rápida. No entanto, equipes de pesquisa mais lentas ainda podem ser úteis para explorar um local de forma mais completa e, assim, descobrir itens profundamente escondidos.
+Níveis de tecnologia mais elevados desbloqueiam componentes de scanner de exploração que permitem uma exploração mais rápida. No entanto, equipes de pesquisa mais lentas ainda podem ser úteis para explorar um local mais minuciosamente e, assim, descobrir itens profundamente ocultos.
 
-Você pode atribuir manualmente missões de exploração às suas naves de exploração, ou pode automatizá-las para que busquem áreas não exploradas por conta própria.
+Você pode atribuir manualmente missões de exploração às suas naves de exploração ou pode automatizá-las para que busquem áreas inexploradas por conta própria.
 
-Múltiplas naves de exploração no mesmo império se espalharão e explorarão diferentes áreas da galáxia ou do sistema estelar.
+Várias naves de exploração no mesmo império se espalharão e explorarão uma área diferente da galáxia ou sistema estelar.
 
-[H3]Exploração Contínua[/H3]
-Enquanto alguns itens são facilmente descobertos por uma pesquisa rápida ou varredura de um local, outros itens estão mais profundamente escondidos e requerem uma exploração mais profunda para serem descobertos.
+[H3]Exploração Contínua[/H3]  
+Enquanto alguns itens são facilmente descobertos por um rápido levantamento ou varredura de um local, outros itens estão mais profundamente ocultos e requerem uma exploração mais profunda para serem revelados.
 
-Uma nave de exploração pode detectar um item escondido, mas não conseguir ver o que é. Mais pesquisas na área podem revelar o item. Mas itens profundamente escondidos podem exigir componentes de pesquisa ou varredura de tecnologia mais avançada antes que possam ser encontrados.
+Uma nave de exploração pode detectar um item oculto, mas não conseguir ver o que é. Uma pesquisa adicional na área pode revelar o item. Mas itens profundamente ocultos podem exigir componentes de pesquisa ou varredura de tecnologia mais avançada antes que possam ser encontrados.
 
-Colônias e bases explorarão automaticamente seu local, revelando progressivamente quaisquer itens profundamente escondidos.
+Colônias e bases automaticamente exploram sua localização, revelando progressivamente quaisquer itens profundamente ocultos ali.
 
-[H3]Visibilidade do Sistema[/H3]
-Antes de seu império visitar um sistema estelar pela primeira vez, ele está inexplorado. Você não pode ver nenhum planeta ou lua no sistema.
+[H3]Visibilidade do Sistema[/H3]  
+Antes que seu império visite um sistema estelar pela primeira vez, ele é considerado inexplorado. Você não pode ver nenhum planeta ou lua no sistema.
 
-Quando você visita o sistema pela primeira vez, ele se torna explorado - você então tem conhecimento dos planetas e luas no sistema e, assim, pode sempre vê-los junto com suas informações básicas.
+Quando você visita o sistema pela primeira vez, ele se torna explorado — você pode então conhecer os planetas e luas no sistema e, portanto, pode sempre vê-los juntamente com suas informações básicas.
 
-Quando seu império tem uma nave, base ou colônia presente em um sistema, mais itens no sistema são visíveis para você. Isso pode incluir as naves e bases de outros impérios, bem como criaturas espaciais.
+Quando seu império possui uma nave, base ou colônia presente em um sistema, mais itens no sistema se tornam visíveis para você. Isso pode incluir naves e bases de outros impérios, bem como criaturas espaciais.
 
 Mas quando você não tem presença em um sistema, não pode ver nenhuma nave ou base de outros impérios no sistema.
 
-[H3]Visibilidade Parcial[/H3]
-Alguns itens podem ser apenas parcialmente visíveis: você pode ver que algo está lá, mas não o que é.
+[H3]Visibilidade Parcial[/H3]  
+Alguns itens podem ser apenas parcialmente visíveis: você pode ver que algo está lá, mas não saber o que é.
 
-A visibilidade de um item depende de ter scanners de curto ou longo alcance dentro do alcance que possam vê-lo.
+A visibilidade de um item depende da presença de scanners de curto ou longo alcance dentro do alcance que podem vê-lo.
 
-Portanto, mesmo quando você tem uma presença direta em um sistema (nave, base ou colônia), isso não significa que você tem visibilidade perfeita de todos os locais no sistema.
+Portanto, mesmo quando você tem uma presença direta em um sistema (nave, base ou colônia), isso não significa que você tenha visibilidade perfeita de cada local no sistema.
 
-Isso pode ser ainda mais complicado por outros fatores que reduzem ainda mais a visibilidade de uma nave ou base, conforme descrito abaixo:
+Isso pode ser ainda mais complicado por outros fatores que reduzem ainda mais a visibilidade de uma nave ou base, conforme detalhado abaixo:
 
-[H3]Tamanho[/H3]
+[H3]Tamanho[/H3]  
 Naves ou bases menores são mais difíceis de detectar ou identificar. Naves e bases maiores são mais fáceis de detectar e identificar.
 
-[H3]Interferência de Nebulosa[/H3]
-Nuvens de nebulosa interferem significativamente com os scanners, reduzindo muito o alcance efetivo da varredura. Isso significa que naves e bases dentro de nuvens de nebulosa são muito mais difíceis de ver ou identificar.
+[H3]Interferência de Nebulosa[/H3]  
+Nuvens de nebulosa interferem significativamente nos scanners, reduzindo muito o alcance efetivo da varredura. Isso significa que naves e bases dentro de nuvens de nebulosa são muito mais difíceis de ver ou identificar.
 
-[H3]Mascaramento do Império[/H3]
+[H3]Mascaramento do Império[/H3]  
 Reduz a visibilidade do império da nave ou base. A nave pode ser vista, mas o império pode ser desconhecido.
 
-[H3]Mascaramento de Função[/H3]
+[H3]Mascaramento de Função[/H3]  
 Reduz a visibilidade do tipo de nave ou base. A nave pode ser vista, mas sua função aparece como um cargueiro genérico.
 
-[H3]Furtividade[/H3]
-A furtividade reduz a visibilidade geral, tornando mais difícil ver uma nave ou base. Ou se for vista, pode aparecer apenas como um cargueiro independente genérico.
+[H3]Stealth[/H3]  
+O stealth reduz a visibilidade geral, tornando mais difícil ver uma nave ou base. Ou, se for vista, pode aparecer apenas como um cargueiro independente genérico.

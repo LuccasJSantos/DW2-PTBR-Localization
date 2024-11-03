@@ -1,13 +1,13 @@
-Os Estaleiros de Construção são onde você constrói novas naves para o seu império. Isso inclui os portos espaciais, que geralmente são a maneira mais rápida de construir novas naves. Suas colônias também podem construir naves e bases.
+Estaleiros de Construção são onde você constrói novas naves para o seu império. Isso inclui espaçosportos, que geralmente são a maneira mais rápida de construir novas naves. Suas colônias também podem construir naves e bases.
 
 [H3]Lista de Estaleiros de Construção[/H3]
-Esta tela lista todos os estaleiros de construção atuais em seu império. Verifique as opções de classificação e filtro no topo do painel. Você pode ordenar por velocidade de construção ou tempo de espera atual da construção.
+Esta tela lista todos os estaleiros de construção atuais do seu império. Verifique as opções de ordenação e filtragem na parte superior do painel. Você pode ordenar por velocidade de construção ou tempo de espera atual de construção.
 
-Quando ampliado para o nível da galáxia ou do sistema, os estaleiros de construção são destacados no mapa. Distintivos de sistema e localização também indicam portos espaciais usando o ícone de construção amarelo. Passar o mouse sobre um item na lista fará ping na localização no mapa. Clicar no item irá selecionar sua localização. Duplo-clique no item moverá a visualização para essa localização.
+Quando com o zoom reduzido para o nível de galáxia ou sistema, os estaleiros de construção são destacados no mapa. Insígnias de Sistema e Localização também indicam espaçosportos usando o ícone de construção amarelo. Passar o cursor sobre um item na lista fará com que a localização seja marcada no mapa. Clicar no item irá selecionar sua localização. Ao clicar duas vezes no item, a visualização será movida para aquela localização.
 
 [H3]Fila de Construção e Tempo de Espera[/H3]
-Cada item da lista mostra o tempo de espera atual da construção. Este é o tempo antes que qualquer nova construção seja iniciada.
+Cada item da lista mostra o tempo de espera atual para construção. Este é o tempo antes que qualquer nova construção comece.
 
-Também são mostradas as naves ou bases na fila de construção, incluindo quaisquer naves entrando para reparo ou retrofit (ainda não chegadas). Passe o mouse sobre cada nave ou base para mais detalhes, incluindo a porcentagem de progresso da construção.
+Também são mostradas as naves ou bases na fila de construção, incluindo quaisquer naves que estão chegando para reparo ou modernização (que ainda não chegaram). Passe o cursor sobre cada nave ou base para mais detalhes, incluindo a porcentagem de progresso da construção.
 
-Passar o mouse sobre um item da lista também exibirá um painel resumo à direita. Este resumo mostra quantos estaleiros individuais de construção a localização possui. Ele também mostra o tempo de espera atual e as velocidades de construção e reparo.
+Passar o cursor sobre um item da lista também exibirá um painel de resumo à direita. Este resumo mostra quantos estaleiros de construção individuais a localização possui. Também mostra o tempo de espera atual e as velocidades de construção e reparo.

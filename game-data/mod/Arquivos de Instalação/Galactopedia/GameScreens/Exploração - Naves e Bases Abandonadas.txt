@@ -1,8 +1,8 @@
-A exploração ocasionalmente pode revelar naves ou bases abandonadas. Estas podem conter informações importantes que você pode obter ao abordá-las e investigá-las. Geralmente também podem ser recuperadas enviando uma nave de construção para repará-las.
+A exploração pode ocasionalmente revelar naves ou bases abandonadas. Estes podem conter informações importantes que você pode obter ao embarcar e investigar. Eles também podem geralmente ser recuperados enviando uma nave de construção para repará-los.
 
 [H3]Lista de Naves e Bases Abandonadas[/H3]
-Esta tela lista todas as naves e bases abandonadas conhecidas que você encontrou durante a exploração da galáxia.
+Esta tela lista todas as naves e bases abandonadas conhecidas que você encontrou enquanto explorava a galáxia.
 
-Quando ampliado para o nível galáctico ou do sistema, as localizações das naves ou bases abandonadas são destacadas no mapa. Passar o mouse sobre um item na lista mostrará a localização no mapa. Clicar no item irá selecionar a nave ou base abandonada. Clicar duas vezes no item moverá a visualização para essa localização.
+Quando afastado para o nível da galáxia ou do sistema, as localizações das naves ou bases abandonadas são destacadas no mapa. Passar o mouse sobre um item na lista irá sinalizar a localização no mapa. Clicar no item selecionará a nave ou base abandonada. Um duplo clique no item moverá a visão para aquela localização.
 
-O botão no canto direito permite que você coloque na fila a reparação e investigação da nave ou base abandonada. Isso enviará uma nave de construção para reparar o item.
+O botão à direita permite que você agende o reparo e a investigação da nave ou base abandonada. Isso enviará uma nave de construção para reparar o item.

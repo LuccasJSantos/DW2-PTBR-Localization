@@ -1,24 +1,25 @@
-Piratas podem representar ameaças perigosas, causando caos e destruição ao atacar suas bases e colônias.
+[H2]Piratas[/H2]  
+Os piratas podem ser ameaças perigosas, causando caos e destruição ao saquear e atacar suas bases e colônias.
 
-Piratas focam na sobrevivência nas fronteiras severas do espaço.
+Os piratas têm um foco na sobrevivência nas duras fronteiras do espaço.
 
-[H3]Bases e Naves Piratas[/H3]
-Piratas são facções totalmente baseadas no espaço - eles não possuem colônias. Em vez disso, usam um espaçoporto como base principal. Esta base pirata geralmente é encontrada em uma fonte de combustível, como um planeta gigante gasoso. Uma facção pirata é destruída quando perde sua base pirata.
+[H3]Bases e Naves Piratas[/H3]  
+Os piratas são facções totalmente baseadas no espaço - eles não têm colônias. Em vez disso, usam um espaçoporto como sua base principal. Essa base pirata é tipicamente encontrada em uma fonte de combustível, como um planeta Gigante Gasoso. Uma facção pirata é destruída quando perde sua base pirata.
 
-Eles também têm uma coleção de pequenas naves militares que usam para saquear e atacar. À medida que têm sucesso nos saques, podem aumentar suas forças com mais naves.
+Eles também possuem uma coleção de pequenas naves militares que usam para saquear e atacar. À medida que realizam saques com sucesso, podem aumentar suas forças com mais naves.
 
-[H3]De onde eles vieram?[/H3]
-A maioria das civilizações na galáxia são primitivas, lutando para retornar às estrelas. Então, de onde vieram os piratas? Qual é a história deles? Por que são espaciais enquanto as civilizações planetárias não são?
+[H3]De Onde Eles Vieram?[/H3]  
+A maioria das civilizações da galáxia é primitiva, lutando para retornar às estrelas. Então, de onde vieram os piratas? Qual é a sua história? Por que eles são viajantes espaciais, enquanto as civilizações planetárias não são?
 
-Essas questões são temas interessantes para explorar. De qualquer forma, os piratas certamente têm muito conhecimento da galáxia que podem estar dispostos a compartilhar - por um preço, e somente se gostarem o suficiente de você.
+Essas perguntas são tópicos dignos de exploração. Seja qual for o caso, os piratas certamente têm muito conhecimento sobre a galáxia que podem estar dispostos a compartilhar - por um preço, e apenas se gostarem de você o suficiente.
 
-Assim, pode valer a pena melhorar as relações com os piratas, pelo menos com alguns deles.
+Portanto, pode valer a pena melhorar as relações com os piratas, pelo menos com alguns deles.
 
-[H3]Diplomacia com Piratas[/H3]
-Piratas geralmente atacam sem misericórdia. No entanto, eles podem oferecer um acordo de Proteção. Isso significa que, por uma taxa mensal, concordam em não te atacar.
+[H3]Diplomacia com Piratas[/H3]  
+Os piratas geralmente atacarão sem misericórdia. No entanto, eles podem lhe oferecer um acordo de Proteção. Isso significa que, por uma taxa mensal, eles concordam em não atacá-lo.
 
-Se você conseguir melhorar suficientemente as relações, eles também podem oferecer vender informações secretas. Piratas têm bons mapas da galáxia. Eles também podem conhecer outras facções que podem te colocar em contato. E frequentemente sabem de alguns segredos importantes ou locais especiais.
+Se você conseguir melhorar as relações o suficiente, eles também podem oferecer para vender informações secretas. Os piratas possuem bons mapas da galáxia. Eles também podem conhecer outras facções com as quais podem colocá-lo em contato. Muitas vezes, eles conhecem alguns segredos importantes ou locais especiais.
 
-À medida que suas forças militares se tornam mais fortes, a equação diplomática com os piratas muda. Eles começarão a te temer mais e, assim, podem evitar te atacar.
+À medida que suas forças militares se tornam mais fortes, a equação diplomática com os piratas muda. Eles começarão a temer você mais e, portanto, podem evitar atacá-lo.
 
-Se você obtiver conhecimento da localização da base pirata deles, também serão mais cautelosos com você, sabendo que agora podem estar em risco.
+Se você descobrir a localização da base pirata, eles também serão mais cautelosos com você, sabendo que agora podem estar em risco.
