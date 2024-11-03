@@ -43,6 +43,10 @@ ShipMission Description Attack		;Atacar {0}
 ShipMission Description Attack Prepare		;Preparar e Atacar {0}
 ShipMission Description Attack Prepare Waypoint		;Atacar {0} (ponto de referência em {1})
 ShipMission Description Attack Prepare Refuel		;Atacar {0} (reabastecer em {1})
+ShipMission Description Invade		;Invadir {0}
+ShipMission Description Invade Prepare		;Preparar e Invadir {0}
+ShipMission Description Invade Prepare Waypoint		;Invadir {0} (preparar em {1})
+ShipMission Description Invade Prepare Refuel		;Invadir {0} (reabastecer em {1})
 ShipMission Description Blockade		;Bloquear {0}
 ShipMission Description Bombard		;Bombardear {0}
 ShipMission Description Bombard Prepare		;Preparar e Bombardear {0}
@@ -98,12 +102,19 @@ ShipMission Description Transport Migrants		;Transportar migrantes de {0} para {
 ShipMission Description Transport Tourists		;Transportar turistas de {0} para {1}
 ShipMission Description UnloadTroops		;Descarregar tropas em {0}
 ShipMission Description UnloadPassengers		;Descarregar passageiros em {0}
+ShipMission Description UnloadCargo		;Descarregar carga em {0}
 ShipMission Description ExitYard		;Deixar estaleiro
 
 ShipMission Description With Distance Attack		;Atacar {0} ({1} de distância)
 ShipMission Description With Distance Attack Prepare		;Preparar e Atacar {0} ({1} de distância)
 ShipMission Description With Distance Attack Prepare Waypoint		;Atacar {0} ({2} de distância, ponto de referência em {1}, {3} de distância)
 ShipMission Description With Distance Attack Prepare Refuel		;Atacar {0} ({2} de distância, reabastecer em {1}, {3} de distância)
+
+ShipMission Description With Distance Invade		;Invadir {0} ({1} de distância)
+ShipMission Description With Distance Invade Prepare		;Preparar e Invadir {0} ({1} de distância)
+ShipMission Description With Distance Invade Prepare Waypoint		;Invadir {0} ({2} de distância, ponto de referência em {1}, {3} de distância)
+ShipMission Description With Distance Invade Prepare Refuel		;Invadir {0} ({2} de distância, reabastecer em {1}, {3} de distância)
+
 ShipMission Description With Distance Blockade		;Bloquear {0} ({1} de distância)
 ShipMission Description With Distance Bombard		;Bombardear {0} ({1} de distância)
 ShipMission Description With Distance Bombard Prepare		;Preparar e Bombardear {0} ({1} de distância)
@@ -156,6 +167,7 @@ ShipMission Description With Distance Transport Migrants		;Transportar migrantes
 ShipMission Description With Distance Transport Tourists		;Transportar turistas de {0} ({2} de distância) para {1} ({3} de distância)
 ShipMission Description With Distance UnloadTroops		;Descarregar tropas em {0} ({1} de distância)
 ShipMission Description With Distance UnloadPassengers		;Descarregar passageiros em {0} ({1} de distância)
+ShipMission Description With Distance UnloadCargo		;Descarregar carga em {0} ({1} de distância)
 
 SYSTEMNAME system		;sistema {0}
 Quality		;Qualidade
@@ -314,7 +326,27 @@ GameTaskType CancelQueueRepairInvestigate		;Cancelar reparação e investigaçã
 GameTaskType CancelQueueColonize		;Cancelar colonização de {0}
 GameTaskType CancelQueueEstablishOutpost		;Cancelar estabelecimento de posto avançado em {0}
 GameTaskType QueueAttackTarget		;Atacar {0}
+
+GameTaskType QueueAttackTarget Attack		;Ataque em Fila contra {0}
+GameTaskType QueueAttackTarget Attack Clear Colony Defenses		;Defesa de Limpeza em Fila em {0}
+GameTaskType QueueAttackTarget Invade		;Invasão em Fila de {0}
+GameTaskType QueueAttackTarget Bombard		;Bombardeio em Fila de {0}
+GameTaskType QueueAttackTarget Capture		;Captura em Fila de {0}
+GameTaskType QueueAttackTarget Raid		;Incursão em Fila de {0}
+GameTaskType QueueAttackTarget Blockade		;Bloquear em Fila de {0}
+
+GameTaskType CancelQueueAttackTarget Attack		;Cancelar Ataque contra {0}
+GameTaskType CancelQueueAttackTarget Attack Clear Colony Defenses		;Cancelar Defesa de Limpeza em {0}
+GameTaskType CancelQueueAttackTarget Invade		;Cancelar Invasão de {0}
+GameTaskType CancelQueueAttackTarget Bombard		;Cancelar Bombardeio de {0}
+GameTaskType CancelQueueAttackTarget Capture		;Cancelar Captura de {0}
+GameTaskType CancelQueueAttackTarget Raid		;Cancelar Incursão de {0}
+GameTaskType CancelQueueAttackTarget Blockade		;Cancelar Bloqueio de {0}
+
 GameTaskType CancelQueueAttackTarget		;Cancelar ataque a {0}
+
+GameTaskType AssignQuest		;Aceitar Missão de Guerra: {0}
+
 GameTaskType QueueClearDangerousLocation		;Investigar e Limpar Ameaça em {0}
 GameTaskType CancelQueueClearDangerousLocation		;Cancelar investigação e limpeza de ameaça em {0}
 GameTaskType BuildPlanetaryFacility		;Construir {0} em {1} por {2} créditos
@@ -341,6 +373,10 @@ GameTaskType DiplomaticDeclareWar		;Declarar guerra contra {0}
 GameTaskType DiplomaticGift		;Doar {0} créditos para {1}
 GameTaskType DiplomaticTreatyOffer		;Oferecer {0} para {1}
 GameTaskType DiplomaticTreatyOffer ResourceSupply		;Oferecer contrato para fornecer {0} para {1}
+GameTaskType AllianceVote		;{0} votos em {1} {2}
+GameTaskType AllianceJoin		;{0} convida {1} a se juntar
+GameTaskType AllianceEndWar		;{0} oferece encerrar a guerra com {1}
+GameTaskType EndWarWithAlliance		;{0} oferece encerrar a guerra com {1}
 GameTaskType DisbandFleet		;Desbandar frota ({0})
 GameTaskType DisbandTroop		;Desbandar unidade de tropa ({0})
 GameTaskType DisbandTroop Multiple		;Desbandar tropas
@@ -406,10 +442,15 @@ GameTaskType SetFleetAllowTrimmingExcessShips			;Remover Naves Excedentes: {0}
 GameTaskType SetFleetAllowAutoUpgradingSpecificDesigns			;Auto-Att. Designs Obsoletos: {0}
 GameTaskType SetCapital		;Definir {0} como nova capital do império
 GameTaskType AbandonColony		;Abandonar {0}, permitindo que se torne independente
+GameTaskType AbandonColony Outpost		;Abandonar {0}. Abandonar um Posto Avançado irá removê-lo completamente. Ele se tornará uma colônia independente
+GameTaskType UpgradeOutpostToColony		;Aprimorar {0} de um Posto Avançado para uma Colônia por {1} créditos
 GameTaskType SetColonyPopulationPolicy		;
 GameTaskType SetDiplomaticStrategy		;
 GameTaskType SetEngagementRange		;Alcance de Engajamento: {0}
 GameTaskType SetEngagementRange Fleet		;Alcance de Engajamento da Frota: {0}
+GameTaskType SetAttackTargetStagingPoint		;Definir ponto de preparo de {0} para {1}
+GameTaskType ClearAttackTargetStagingPoint		;Limpar ponto de preparo de {0} (atual: {1})
+GameTaskType ClearFleetAttackPoint		;Limpar ponto de ataque de {0} (atual: {1})
 GameTaskType SetFleetAttackPoint		;Definir ponto de ataque para {0} como {1}
 GameTaskType SetFleetHomeBase		;Definir base principal para {0} como {1}
 GameTaskType SetFleetRetreatOverwhelmed		;Frota deve recuar quando: {0}
@@ -458,7 +499,15 @@ GameTaskType Short CancelQueueRepairInvestigate		;Cancelar Reparo e Investigaç�
 GameTaskType Short CancelQueueColonize		;Cancelar Colonização
 GameTaskType Short CancelQueueEstablishOutpost		;Cancelar Estabelecimento de Posto Avançado
 GameTaskType Short QueueAttackTarget		;Atacar em Fila
+GameTaskType Short QueueAttackTarget Attack		;Ataque em Fila
+GameTaskType Short QueueAttackTarget Invade		;Invasão em Fila
+GameTaskType Short QueueAttackTarget Bombard		;Bombardeio em Fila
+GameTaskType Short QueueAttackTarget Capture		;Captura em Fila
+GameTaskType Short QueueAttackTarget Raid		;Incursão em Fila
+GameTaskType Short QueueAttackTarget Blockade		;Bloqueio em Fila
+GameTaskType Short QueueAttackTarget GatherPoint		;Definir Ponto de União para Ataque
 GameTaskType Short CancelQueueAttackTarget		;Cancelar Ataque
+GameTaskType Short AssignQuest		;Aceitar Missão de Guerra: {0}
 GameTaskType Short QueueClearDangerousLocation		;Limpar Local Perigoso em Fila
 GameTaskType Short CancelQueueClearDangerousLocation		;Cancelar Limpeza de Local Perigoso
 GameTaskType Short BuildPlanetaryFacility		;Construir {0}
@@ -476,6 +525,10 @@ GameTaskType Short DiplomaticGift Offer		;Oferecer Presente
 GameTaskType Short DiplomaticTreatyOffer		;Aceitar Tratado
 GameTaskType Short DiplomaticTreatyOffer Offer		;Oferecer Tratado
 GameTaskType Short DiplomaticTreatyOffer ResourceSupply		;Oferecer Contrato de Suprimento
+GameTaskType Short AllianceVote		;Voto de Aliança
+GameTaskType Short AllianceJoin		;Juntar-se à Aliança
+GameTaskType Short AllianceEndWar		;Encerrar Guerra de Aliança
+GameTaskType Short EndWarWithAlliance		;Encerrar Guerra com Aliança
 GameTaskType Short DisbandFleet		;Desmantelar Frota
 GameTaskType Short DisbandTroop		;Desmantelar Tropa
 GameTaskType Short DisbandTroop Multiple		;Desmantelar Tropas
@@ -530,11 +583,15 @@ GameTaskType Short SetArmyTemplate		;Definir Modelo de Exército
 GameTaskType Short SetFleetFormationCoherence		;Definir Formação da Frota
 GameTaskType Short SetCapital		;Definir Capital
 GameTaskType Short AbandonColony		;Abandonar Colônia
+GameTaskType Short UpgradeOutpostToColony		;Aprimorar para Colônia
 GameTaskType Short StartColonyEvent		;Iniciar Evento {0}
 GameTaskType Short SetColonyPopulationPolicy		;Definir Política de População
 GameTaskType Short SetDiplomaticStrategy		;Definir Estratégia Diplomática
 GameTaskType Short SetEngagementRange		;Definir Alcance de Engajamento
+GameTaskType Short SetAttackTargetStagingPoint		;Definir Ponto de Preparo
+GameTaskType Short ClearAttackTargetStagingPoint		;Limpar Ponto de Preparo
 GameTaskType Short SetFleetAttackPoint		;Definir Ponto de Ataque da Frota
+GameTaskType Short ClearFleetAttackPoint		;Limpar Ponto de Ataque
 GameTaskType Short SetFleetHomeBase		;Definir Base Principal da Frota
 GameTaskType Short SetFleetRetreatOverwhelmed		;Definir Quando a Frota Deve Recuar
 GameTaskType Short SetFleetRetreatStrength		;Definir Força de Recuo da Frota
@@ -794,7 +851,8 @@ ArmorReactiveRating		;Classif. Reativa
 AssaultDefense		;Defesa de Assalto
 AssaultPodBoardingRange		;Alcance de Embarque
 AssaultPodEnergyPerLaunch		;Energia Usada pela Cápsula
-AssaultPodLaunchRate		;Taxa Lançamento
+AssaultPodLaunchRateInvasion		;Taxa de Lançamento - Invasões
+AssaultPodLaunchRateRaid		;Taxa de Lançamento - Invasão por Embarque
 AssaultPodMovementSpeed		;Velocidade de Movimento
 AssaultPodShieldPenetration		;Penetração de Escudo
 AssaultPodStrength		;Força de Assalto
@@ -809,6 +867,7 @@ ConstructionBuildSpeed		;Vel. Construção
 ConstructionRepairSpeed		;Vel. de Reparo
 ConstructionYardCount		;Estaleiros de Construção
 CountermeasuresBonus		;Contramedidas
+PsychicCountermeasuresBonus		;Contramedidas Psíquicas
 CountermeasuresFleetBonus		;Contramedidas da Frota
 CrewCapacity		;Capacidade da Tripulação
 CrewRequirement		;Req. Tripulação
@@ -881,6 +940,7 @@ ShieldStrength		;Força Escudo
 StaticEnergyUsed		;Energia Estática Usada
 StealthRating		;Classificação de Furtividade
 TargetingBonus		;Mira
+PsychicTargetingBonus		;Mira Psíquica
 TargetingFleetBonus		;Mira de Frota
 TargetingBonusPerFleetShip		;Mira Extra por Nave da Frota
 TractorBeamDwellTime		;Tempo de Retenção do Raio Trator
@@ -946,6 +1006,7 @@ PsychicDamage		;Dano Psíquico
 PsychicControl		;Controle Psíquico
 PsychicEnergyPerShot		;Energia Psíquica por Tiro
 PsychicDefense		;Defesa Psíquica
+PsychicStrength		;Força Psíquica
 PsychicDamageRate		;Taxa Dano Psíquico
 PsychicDamageAtRange		;Dano Psíquico no Alcance Máx.
 PsychicDamageAtRangeRate		;Taxa Dano Psíquico no Alcance Máx.
@@ -1020,6 +1081,10 @@ BonusType ResearchThresholdHighTech		;Limiar de Pesquisa - Alta Tecnologia
 BonusType ResearchThresholdIndustrial		;Limiar de Pesquisa - Industrial
 
 BonusType ResearchAncientKnowledge		;Conhecimento Antigo
+
+BonusType ResearchPsychic		;Pesquisa Psíquica
+BonusType ResearchGenetic		;Pesquisa Genética
+BonusType ResearchBioWarfare		;Pesquisa de Guerra Biológica
 
 BonusType Sabotage		;Sabotagem
 BonusType ShieldRechargeRate		;Taxa Recarga de Escudo
@@ -1135,6 +1200,12 @@ ComponentCategory WeaponIntercept		;Arma de Interceptação
 ComponentCategory WeaponIon		;Arma de Íons
 ComponentCategory WeaponStandoff		;Arma de Longo Alcance
 
+ComponentCategory Terraforming		;Terraformação
+ComponentCategory WeaponPsychic		;Arma Psíquica
+ComponentCategory PsychicDefense		;Defesa Psíquica
+ComponentCategory GeneticEngineering		;Engenharia Genética
+ComponentCategory BioWarfare		;Guerra Biológica
+
 Possess Artifacts		;Possuir Artefatos
 Government must be X		;O Governo deve ser {0}
 Built Facilities		;Instalações Construídas
@@ -1164,6 +1235,10 @@ FighterCapacity		;Capacidade de Caças
 FighterRepairRate		;Taxa Reparo de Caças
 PlanetaryShieldMaximumDamageAbsorbed		;Dano Absorvido pelo Escudo
 PlanetaryShieldPenetrationChance		;Chance de Penetração do Escudo
+
+BombardmentResistance		;Resistência a Bombardeio
+GroundCombatResistance		;Resistência a Ataque Terrestre
+
 TerraformingDamageRepairRate		;Taxa Reparo de Danos
 TerraformingQualityImprovementRate		;Taxa Melhoria da Qualidade
 TerraformingQualityMaximum		;Máx. de Melhoria da Qualidade
@@ -1217,8 +1292,13 @@ TroopImprovement Defend		;{0} Força de Defesa
 TroopImprovement Attack		;{0} Força de Ataque
 TroopImprovement Intercept		;{0} Nível de Força de Interceptação
 TroopImprovement Sabotage		;{0} Força de Sabotagem
+TroopImprovement PsychicStrength		;{0} Força de Ataque Psíquico
+TroopImprovement PsychicDefense		;{0} Força de Defesa Psíquica
 TroopImprovement Recovery		;Taxa de Recuperação de {0}
 TroopImprovement Maintenance		;Economia Manutenção de {0}
+
+TroopImprovement PsychicStrengthMinimum		;Força Mínima de Ataque Psíquico: {0}
+TroopImprovement PsychicDefenseMinimum		;Força Mínima de Defesa Psíquica: {0}
 
 ColonizationMinimumLevel		;Limiar de Qualidade de Colonização de {0}
 ColonizationSuitabilityModifier		;Modificador de Adequação de Colonização de {0}
@@ -1310,6 +1390,12 @@ ComponentCategory WeaponIntercept Short		;WIN
 ComponentCategory WeaponIon Short		;WIO
 ComponentCategory WeaponStandoff Short		;WST
 
+ComponentCategory Terraforming Short		;TRF
+ComponentCategory WeaponPsychic Short		;WSY
+ComponentCategory PsychicDefense Short		;SYD
+ComponentCategory GeneticEngineering Short		;GEN
+ComponentCategory BioWarfare Short		;BIO
+
 Filter		;Filtro
 Sorting		;Ordenação
 Sort		;Ordenar
@@ -1379,6 +1465,8 @@ WeaponDamageCategory BombardMilitary		;Militar
 WeaponDamageCategory BombardPopulation		;População
 WeaponDamageCategory BombardQuality		;Qualidade do Planeta
 WeaponDamageCategory BoardingAssault		;Abordagem
+WeaponDamageCategory PsychicDamage		;Dano Psíquico
+WeaponDamageCategory PsychicControl		;Controle Psíquico
 
 Maximum Weapons Energy use per second		;Máx. de Energia por segundo para Armas
 Maximum Range DPS		;DPS Máx. de Alcance
@@ -2534,6 +2622,7 @@ Colony Raid Succeeds		;Saque à Colônia Bem-sucedido!
 Colony Raid Succeeds Description		;Nosso saque contra [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION] foi bem-sucedido! Nós roubamos tesouros de sua colônia.
 Colony Raid Unsuccessful		;Saque à Colônia Sem Sucesso
 Base Raid Unsuccessful		;Base Saqueada Sem Sucesso
+Base Raid Succeeds		;Invasão de Base Sucede!
 
 
 Facility Destroyed during Invasion		;{0} Destruída durante a Invasão
@@ -2704,6 +2793,7 @@ GameEventActionType ResearchBreakthrough		;Avanço na Pesquisa
 GameEventActionType ResearchBreakthroughFromColonyConquest		;Avanço na Pesquisa por Conquista de Colônia
 GameEventActionType RefugeeFleet		;Frota de Refugiados
 GameEventActionType ResearchProjectEnable		;Pesquisa Desbloqueada
+GameEventActionType ResearchProjectEnableAllEmpires		;Pesquisa Desbloqueada para Todos os Impérios
 GameEventActionType ShipExplodes		;{0} Explode!
 GameEventActionType Story		;Informação Oculta Revelada
 GameEventActionType History		;História Galáctica Revelada
@@ -2719,6 +2809,10 @@ Acquire Event Ruins		;Ao adquirir {0}, fizemos uma descoberta curiosa nas {1}:
 
 AcquireColonyPeacefully Event		;Ao adquirir {0}, fizemos uma descoberta curiosa:
 ConquerColony Event		;Ao conquistar {0}, fizemos uma descoberta curiosa:
+
+DefendColonyInvasion Event		;Ao derrotar a invasão de {0}, fizemos uma descoberta curiosa:  
+GainAllianceMember Event		;Ao admitir um novo membro na aliança, fizemos uma descoberta curiosa:  
+DateReached Event		;Fizemos uma descoberta curiosa:
 
 Destroy Event StellarObject		;Com a destruição de {0}, fizemos uma descoberta curiosa:
 Destroy Event Ruins		;Com a destruição de {1} em {0}, fizemos uma descoberta curiosa:
@@ -2741,14 +2835,15 @@ GameEventActionType Description GovernmentUnlocked		;Encontramos documentos que 
 GameEventActionType Description MapInfo		;Encontramos [DISCOVERY]mapas detalhados dos sistemas vizinhos a {0}[/DISCOVERY].
 GameEventActionType Description Money		;Encontramos [DISCOVERY]um tesouro valioso no valor de {0} créditos[/DISCOVERY].
 GameEventActionType Description PirateAmbush Ship		;Conforme sua equipe de abordagem se aproxima do {0}, seus motores são ativados e ele se prepara para nos atacar. O {0} é um pirata da [FACTION]{1}[/FACTION] à espreita de nós!\n\nPrepare-se para repelir o fogo inimigo!
-GameEventActionType Description PirateAmbush Ruins		;Conforme sua equipe de pesquisa entra nas ruínas de [DISCOVERY]{0}[/DISCOVERY], eles ativam um [DISCOVERY]poderoso farol galáctico[/DISCOVERY]. O farol sinaliza para uma facção pirata próxima, e eles enviam um grupo de naves de saque para sua localização!\n\nPrepare-se para repelir o fogo inimigo!
+GameEventActionType Description PirateAmbush Ruins		;Conforme sua equipe de pesquisa entra nas ruínas de [DISCOVERY]{0}[/DISCOVERY], eles ativam um [DISCOVERY]poderoso beacon galáctico[/DISCOVERY]. O beacon sinaliza para uma facção pirata próxima, e eles enviam um grupo de naves de saque para sua localização!\n\nPrepare-se para repelir o fogo inimigo!
 GameEventActionType Description HiveAmbush		;Conforme sua equipe de abordagem se aproxima do {0}, seus motores são ativados e ele se prepara para nos atacar. O {0} é uma [DISCOVERY]nave mãe mortal da Grande Colmeia[/DISCOVERY]!\n\nPrepare-se para repelir o fogo inimigo!
 GameEventActionType Description PopulationAwoken Ruins		;Em sua investigação das [DISCOVERY]{0}[/DISCOVERY], nossa equipe de pesquisa encontrou uma [DISCOVERY]vasta câmara de hibernação estásica[/DISCOVERY] escondida sob as ruínas. A câmara colossal contém [DISCOVERY]milhões de {1}s adormecidos[/DISCOVERY].\n\nNossa equipe acidentalmente disparou o mecanismo para acordar os {1}s e os alienígenas acordados agora tomaram o controle do {2}.\n\nOs {1}s explicam que se esconderam em hibernação quando um império malévolo escravizou brutalmente toda a galáxia há muito tempo. Os {1}s despertos continuam aterrorizados de que esses temíveis senhores, a quem chamam de 'Os Obscuros', possam retornar novamente.
 GameEventActionType Description ResearchProgress		;Encontramos tecnologia que avançou nosso entendimento de [RESEARCH]{0}[/RESEARCH].
 GameEventActionType Description ResearchBreakthrough		;Encontramos tecnologia que nos proporcionou um avanço de pesquisa em [RESEARCH]{0}[/RESEARCH].
 GameEventActionType Description ResearchBreakthroughFromColonyConquest		;Durante nossa recente conquista de {1}, adquirimos tecnologia que nos proporcionou um avanço de pesquisa em [RESEARCH]{0}[/RESEARCH].
-GameEventActionType Description RefugeeFleet		;Nossa expedição encontrou um poderoso farol de localização. Eles [DISCOVERY]ativaram o farol[/DISCOVERY] e seu sinal foi captado por uma [DISCOVERY]frota de {1} naves[/DISCOVERY] que acabou de fazer um hiper-salto para o sistema {3}!\n\nUma mensagem da frota explica: 'Saudações! Somos refugiados {0} de uma galáxia distante. Fomos expulsos de nossa casa por uma raça alienígena cruel que nos perseguiu em uma guerra brutal. Procuramos refúgio com você e desejamos nos juntar ao seu império. Em troca, oferecemos nossa frota de naves.'\n\nA frota deles consiste em algumas naves coloniais e um pequeno esquadrão de naves militares. As naves parecem ser bastante avançados.\n\nSe quisermos absorver esses refugiados em nosso império e reivindicar suas naves, devemos nos mover em direção à frota deles em {2}.
+GameEventActionType Description RefugeeFleet		;Nossa expedição encontrou um poderoso beacon de localização. Eles [DISCOVERY]ativaram o beacon[/DISCOVERY] e seu sinal foi captado por uma [DISCOVERY]frota de {1} naves[/DISCOVERY] que acabou de fazer um hiper-salto para o sistema {3}!\n\nUma mensagem da frota explica: 'Saudações! Somos refugiados {0} de uma galáxia distante. Fomos expulsos de nossa casa por uma raça alienígena cruel que nos perseguiu em uma guerra brutal. Procuramos refúgio com você e desejamos nos juntar ao seu império. Em troca, oferecemos nossa frota de naves.'\n\nA frota deles consiste em algumas naves coloniais e um pequeno esquadrão de naves militares. As naves parecem ser bastante avançados.\n\nSe quisermos absorver esses refugiados em nosso império e reivindicar suas naves, devemos nos mover em direção à frota deles em {2}.
 GameEventActionType Description ResearchProjectEnable		;Encontramos tecnologia que permitiu a pesquisa em [RESEARCH]{0}[/RESEARCH].\n\nDevemos nos apressar para pesquisar este projeto e explorar seus benefícios!
+GameEventActionType Description ResearchProjectEnableAllEmpires		;Descobrimos uma tecnologia que permitiu pesquisa em [RESEARCH]{0}[/RESEARCH].\n\nDevemos nos apressar para pesquisar este projeto e explorar seus benefícios!
 GameEventActionType Description ShipExplodes		;O {0} explode em uma [DISCOVERY]bola de fogo deslumbrante[/DISCOVERY] - foi uma armadilha!\n\nA enorme explosão também causou danos à nossa nave!
 GameEventActionType Description History		;Um núcleo de dados contém uma mensagem que revela [DISCOVERY]detalhes históricos do passado distante da galáxia[/DISCOVERY]:
 GameEventActionType Description Story		;Um núcleo de dados contém a seguinte mensagem:
@@ -2818,6 +2913,7 @@ AutomationCategory FleetFormation		;Formação de Frota
 AutomationCategory FleetPostures		;Posturas da Frota
 AutomationCategory FleetTopup		;Gerenciamento de Naves da Frota
 AutomationCategory MilitaryAttack		;Ataques Militares
+AutomationCategory WarMissions		;Missões de Guerra
 AutomationCategory Research		;Pesquisa
 AutomationCategory ResearchCrash		;Pesquisa Emergencial
 AutomationCategory ShipDesigns		;Design de Naves e Bases
@@ -3237,6 +3333,9 @@ EmpireIncidentFactorType TreatyLongTermOperationsMap		;Compartilhamento de Mapa 
 EmpireIncidentFactorType TreatyLongTermResearch		;Cumprimento de Tratado de Pesquisa de Longo Prazo
 EmpireIncidentFactorType TreatyLongTermTerritoryMap		;Compartilhamento de Mapa de Territórios de Longo Prazo
 EmpireIncidentFactorType Ambassador		;Presença/Ausência de Embaixador
+EmpireIncidentFactorType SharedAlliance		;Aliança Compartilhada
+EmpireIncidentFactorType ShakturiNotInAlliance		;Recusa Ingressar em Nossa Aliança
+EmpireIncidentFactorType ShakturiInEnemyAlliance		;Em Aliança Inimiga
 EmpireIncidentFactorType TreatySigned		;Tratados Assinados
 EmpireIncidentFactorType BrokenPirateProtection		;Quebra de Acordo de Proteção
 EmpireIncidentFactorType BrokenNonAggression		;Quebra de Tratado de Não Agressão
@@ -3278,6 +3377,11 @@ EmpireIncidentFactorType Full TreatyLongTermResearch		;Compartilhar sua pesquisa
 EmpireIncidentFactorType Full TreatyLongTermTerritoryMap		;Você confiou em nós com conhecimento do seu território
 EmpireIncidentFactorType Full Ambassador Present		;Seu embaixador em nossa capital aumenta a confiança entre nós
 EmpireIncidentFactorType Full Ambassador Absent		;Nossa confiança em você diminuiu porque você não designou um embaixador para nossa capital
+EmpireIncidentFactorType Full SharedAlliance		;Somos ambos membros da mesma aliança
+
+EmpireIncidentFactorType Full ShakturiNotInAlliance		;Você se recusa a ingressar no Eixo Shaktur!
+EmpireIncidentFactorType Full ShakturiInEnemyAlliance		;Você é membro da Aliança da Liberdade!
+
 EmpireIncidentFactorType Full TreatySigned		;Assinamos um novo tratado com você
 EmpireIncidentFactorType Full BrokenPirateProtection		;Seus ataques quebraram nosso Acordo de Proteção
 EmpireIncidentFactorType Full BrokenNonAggression		;Seus ataques quebraram nosso tratado de Não Agressão
@@ -3864,6 +3968,7 @@ CHARACTER has become the leader of the EMPIRE		;[CHARACTER]{0}[/CHARACTER] se to
 Character Mission CounterIntelligence		;Contra-Inteligência
 Character Mission AssassinateCharacter		;Assassinato
 Character Mission DeepCover		;Cobertura Profunda
+Character Mission DestroyFacility		;Destruir Instalação
 Character Mission DestroyBase		;Destruir Base
 Character Mission CaptureBase		;Capturar Base
 Character Mission InciteRevolution		;Incitar Revolução
@@ -3876,10 +3981,15 @@ Character Mission StealTerritoryMap    ;Roubar Mapa de Território
 Character Mission InfluenceEmpirePositively    ;Influenciar o Império Positivamente
 Character Mission InfluenceEmpireNegatively    ;Influenciar o Império Negativamente
 Character Mission InternalStabilization    ;Estabilização Interna
+Character Mission DefectCharacter		;Deserção de Personagem
+Character Mission InfectColonyWithPlague		;Infectar Colônia com Praga
+Character Mission CreateFalseIncident		;Criar Incidente Falso
+Character Mission ControlFactionLeader		;Controlar Líder da Facção
 
 Character Mission Description CounterIntelligence    ;Contra-inteligência contra agentes estrangeiros
 Character Mission Description AssassinateCharacter    ;Assassinar {0} {1}
 Character Mission Description DeepCover    ;Infiltrar o {0}
+Character Mission Description DestroyFacility		;Destruir {0} em {1}
 Character Mission Description DestroyBase    ;Destruir {0}
 Character Mission Description CaptureBase    ;Capturar {0}
 Character Mission Description InciteRevolution    ;Incitar Revolução no {0}
@@ -3892,9 +4002,14 @@ Character Mission Description StealTerritoryMap		;Roubar o Mapa de Território d
 Character Mission Description InfluenceEmpirePositively		;Melhorar a avaliação de {0} sobre {1}
 Character Mission Description InfluenceEmpireNegatively		;Reduzir a avaliação de {0} sobre {1}
 Character Mission Description InternalStabilization		;Reduzir o tumulto interno causado por dissidentes
+Character Mission Description DefectCharacter		;Persuadir {0} {1} a desertar
+Character Mission Description InfectColonyWithPlague		;Infectar {0} com {1}
+Character Mission Description CreateFalseIncident		;Criar um incidente negativo com {0}, incriminando {1} pelo incidente
+Character Mission Description ControlFactionLeader		;Controlar mentalmente o líder de {0}, tornando-o um vassalo
 
 Character Mission Description AssassinateCharacter Us		;Assassinar nosso {0} {1}
 Character Mission Description DeepCover Us		;Infiltrar nossas operações
+Character Mission Description DestroyFacility Us		;Destruir {0} em {1}
 Character Mission Description DestroyBase Us		;Destruir {0}
 Character Mission Description CaptureBase Us		;Capturar {0}
 Character Mission Description InciteRevolution Us		;Incitar uma revolução contra nosso governo
@@ -3906,6 +4021,10 @@ Character Mission Description StealTechData Us		;Roubar informações de pesquis
 Character Mission Description StealTerritoryMap Us		;Roubar nosso Mapa de Território
 Character Mission Description InfluenceEmpirePositively Us		;Melhorar nossa avaliação sobre {1}
 Character Mission Description InfluenceEmpireNegatively Us		;Reduzir nossa avaliação sobre {1}
+Character Mission Description DefectCharacter Us		;Persuadir {0} {1} a desertar do nosso império
+Character Mission Description InfectColonyWithPlague Us		;Infectar {0} com {1}
+Character Mission Description CreateFalseIncident Us		;Criar um incidente negativo contra nós, incriminando {1} pelo incidente
+Character Mission Description ControlFactionLeader Us		;Controlar mentalmente nosso líder, tornando-nos um vassalo
 
 Character Mission Outcome Success		;Nosso agente [CHARACTER]{0}[/CHARACTER] escapou da detecção após realizar com sucesso sua missão para {1}
 Character Mission Outcome Fail		;Nosso agente [CHARACTER]{0}[/CHARACTER] escapou da detecção após falhar em {1}
@@ -3934,6 +4053,10 @@ Base Captured Sabotage		;Motim na Base!
 Base Captured Sabotage Description		;A tripulação a bordo de [LOCATION]{0}[/LOCATION] se revoltou e se juntou a outra facção!\n\nSuspeitamos fortemente de sabotagem por agentes de inteligência estrangeiros...
 Colony Sabotage Description		;Nossa colônia [LOCATION]{0}[/LOCATION] está em rebelião aberta contra nosso domínio! A rebelião está causando caos e destruição generalizada.\n\nSuspeitamos de influência estrangeira fomentando essa rebelião...
 Colony Rebels		;Rebeldes da Colônia
+Facility Destroyed Sabotage		;Instalação Destruída
+Facility Destroyed Sabotage Description		;A [LOCATION]{0} em {1}[/LOCATION] foi totalmente destruída em uma explosão!\n\nSuspeitamos fortemente de sabotagem por agentes de inteligência estrangeiros...
+Character Defects Persuaded		;{0} Deserta
+Character Defects Persuaded Description		;[CHARACTER]{0} {1}[/CHARACTER] deixou nosso império e desertou para [FACTION]{2}[/FACTION]!\n\nSuspeitamos fortemente que eles foram influenciados por agentes de inteligência estrangeiros...
 
 Foreign Agent Executed		;Eles foram executados por seus crimes.
 Our Agent Executed		;[CHARACTER]{0}[/CHARACTER] foi executado pela [FACTION]{1}[/FACTION].
@@ -3967,6 +4090,11 @@ Allow Capture Base		;Permitir Capturar Base
 Allow Internal Stabilization		;Permitir Estabilização Interna
 Allow Influence Empire Positively		;Permitir Influenciar Império Positivamente
 Allow Influence Empire Negatively		;Permitir Influenciar Império Negativamente
+Allow Create False Incident		;Permitir Criar Incidente Falso
+Allow Control Faction Leader		;Permitir Controlar Líder da Facção
+Allow Defect Character		;Permitir Deserção de Personagem
+Allow Destroy Facility		;Permitir Destruir Instalação
+Allow Infect Colony with Plague		;Permitir Infectar Colônia com Praga
 
 Intelligence Missions		;Missões de Inteligência
 Characters		;Personagens
@@ -4188,6 +4316,7 @@ Military Ships Destroyed		;Naves Militares Destruídas
 Other Ships Destroyed		;Outras Naves Destruídas
 Troops Destroyed		;Tropas Destruídas
 Money Captured		;Dinheiro Capturado
+Bonus Score		;Pontuação Bonus
 No war progress		;Sem progresso na guerra
 
 Selected Ships		;Naves Selecionadas
@@ -4720,6 +4849,13 @@ ComponentCategory Description TroopCompartment		;Componentes de Armazenamento de
 ComponentCategory Description Troops		;N/A
 ComponentCategory Description Diplomacy		;N/A
 ComponentCategory Description AncientKnowledge		;N/A
+
+ComponentCategory Description Terraforming		;Terraformação
+ComponentCategory Description WeaponPsychic		;Armas Psíquicas
+ComponentCategory Description PsychicDefense		;Defesa Psíquica
+ComponentCategory Description GeneticEngineering		;Engenharia Genética
+ComponentCategory Description BioWarfare		;Guerra Biológica
+
 ComponentCategory Description WeaponArea		;Armas de área emitem uma onda de explosão destrutiva em todas as direções a partir de um único ponto no espaço.\n\nA onda de explosão pode ser centrada na nave de disparo, ou mais comumente a arma primeiro viaja até um ponto próximo ao alvo, então detona e desencadeia a onda de explosão.\n\nAlgumas armas de área também são armas de íons e, portanto, visam componentes eletrônicos, semelhante a uma arma de pulso eletromagnético (EMP).
 ComponentCategory Description WeaponBombard		;Armas de bombardeio são usadas para exterminar a infraestrutura e a população de uma colônia inimiga, além de danificar o próprio planeta, diminuindo sua qualidade.\n\nCada arma de bombardeio diferente pode se especializar em áreas específicas: algumas são melhores para atacar infraestrutura militar e tropas, outras são melhores para atacar população ou a qualidade do planeta.
 ComponentCategory Description WeaponCloseIn		;Armas de proximidade vêm em vários tipos, mas todas têm um alcance mais curto e geralmente são rápidas com uma alta taxa de disparo.\n\nDiferentes tipos de armas de proximidade têm forças diferentes. Algumas podem ter alcance mais longo, enquanto outras podem ter mais dano bruto, e ainda outras podem ter taxas de disparo mais altas.\n\nAs armas de proximidade incluem: blasters de energia, canhões ferroviários, raios de faser, canhões de laser, armas de gravidade e até alguns tipos de torpedos de energia.
@@ -5129,6 +5265,7 @@ PolicyExplanation AutomationDiplomaticGifts		;Automatizar a oferta de presentes 
 PolicyExplanation AutomationDiplomaticTreaties		;Automatizar a negociação de tratados diplomáticos com outras facções ou controlar esta área manualmente.
 PolicyExplanation AutomationDiplomaticWar		;Automatizar a negociação de guerra e paz com outras facções ou controlar esta área manualmente.
 PolicyExplanation AutomationMilitaryAttacks		;Automatizar ataques militares contra alvos inimigos por suas frotas e naves ou controlar esta área manualmente.
+PolicyExplanation AutomationWarMissions		;Automatizar a atribuição de missões de guerra que oferecem recompensas bônus durante guerras, ou controlar esta área manualmente. Note que o controle manual desativará as Missões de Guerra para seu império.
 PolicyExplanation AttackOvermatchFactor		;O nível de superioridade de força a ser usado quando cada nave militar avalia ataques contra alvos inimigos. Níveis mais altos significam que mais naves atacantes serão designadas para alvos individuais para garantir o sucesso.
 PolicyExplanation CaptureTargetConditionShip		;Quando as naves inimigos devem ser capturadas em vez de destruídos. O atacante também deve ter Pods de Assalto para permitir a captura.
 PolicyExplanation CaptureTargetConditionBase		;Quando as bases inimigas devem ser capturadas em vez de destruídas. O atacante também deve ter Pods de Assalto para permitir a captura.
@@ -5181,6 +5318,12 @@ PolicyExplanation IntelligenceMissionAllowCaptureBase		;Permite ou não missões
 PolicyExplanation IntelligenceMissionAllowInfluenceEmpirePositively		;Permite ou não missões de Influenciar Império Positivamente para seus espiões.
 PolicyExplanation IntelligenceMissionAllowInfluenceEmpireNegatively		;Permite ou não missões de Influenciar Império Negativamente para seus espiões.
 PolicyExplanation IntelligenceMissionAllowInternalStabilization		;Permite ou não missões de Estabilização Interna para seus espiões.
+
+PolicyExplanation IntelligenceMissionAllowDefectCharacter		;Permitir ou desabilitar missões de Deserção de Personagem para seus espiões.
+PolicyExplanation IntelligenceMissionAllowDestroyFacility		;Permitir ou desabilitar missões de Destruir Instalação para seus espiões.
+PolicyExplanation IntelligenceMissionAllowInfectColonyWithPlague		;Permitir ou desabilitar missões de Infectar Colônia com Praga para seus espiões.
+PolicyExplanation IntelligenceMissionAllowCreateFalseIncident		;Permitir ou desabilitar missões de Criar Incidente Falso para seus espiões.
+PolicyExplanation IntelligenceMissionAllowControlFactionLeader		;Permitir ou desabilitar missões de Controlar Líder da Facção para seus espiões.
 
 PolicyExplanation AutomationPreset		;Selecione uma configuração de automação predefinida que se adapte a um estilo de jogo específico.
 
@@ -5469,6 +5612,7 @@ Default Tactical Settings		;Configurações Táticas Padrão
 Additional Startup Ships and Bases		;Naves e Bases Adicionais no Início
 Prebuilt FACILITY		;Instalação pré-construída {0}
 Research Project Enabled		;Projeto de Pesquisa Habilitado
+Research Project Enabled All Empires		;Pesquisa Habilitada para Todos os Impérios
 Research Project Completed		;Projeto de Pesquisa Concluído
 Random CATEGORY Research Project Completed		;Pesquisa Aleatória {0} Concluída
 Startup Situation		;Situação de Início
@@ -5532,6 +5676,8 @@ Character Mission Explanation InfluenceEmpirePositively		;Influenciar a avaliaç
 Character Mission Explanation InfluenceEmpireNegatively		;Influenciar a avaliação de outra facção sobre uma facção terceira, fazendo com que a facção alvo goste menos da terceira
 Character Mission Explanation InternalStabilization		;Reduz a agitação interna de dissidentes dentro de seu próprio império. Isso é especialmente útil em tempos de guerra, quando a fadiga de guerra está alta. Quando bem-sucedida, seu império terá menos fadiga de guerra e corrupção por 2 anos.
 Character Mission Explanation CaptureBase		;Capturar uma base específica de outro império. A base-alvo deve ser conhecida por seu império. Também deve estar em seu território ou em território não reivindicado. Portanto, a base não pode estar dentro do território do império-alvo (por exemplo, um porto espacial em uma colônia).
+Character Mission Explanation CreateFalseIncident		;Criar um incidente falso contra uma facção-alvo, incriminando uma terceira facção pelo incidente. Isso fará com que ambos os impérios tenham uma visão negativa um do outro, afastando-os.
+Character Mission Explanation ControlFactionLeader		;Assume o controle total do líder de outra facção, tornando a facção um vassalo do seu império. Se seu império fizer parte de uma aliança, a facção-alvo também se tornará membro dessa aliança. Observe que governos de Mente Colmeia são particularmente suscetíveis a esta missão.
 
 Character Mission Explanation Success InternalStabilization		;Como resultado, nosso império terá menos fadiga de guerra e corrupção nos próximos 2 anos.
 
@@ -5770,6 +5916,7 @@ Default Event Abandoned Bases		;Bases Abandonadas
 Default Event Debris Fields		;Campos de Destroços
 Default Event Gravitic Locations		;Locais Gravitacionais
 Default Event Major Threats		;Ameaças Principais
+Default Event Planet Destroyers		;Destruidores de Planeta
 
 Default Event PreWarp Homesystem Explanation		;Inclui várias ruínas, naves e bases abandonadas e outros eventos que são adicionados aleatoriamente ao sistema de origem de cada facção nos jogos Pré-Dobra.
 Default Event Abandoned Ships Explanation		;Outras naves abandonadas que não fazem parte dos eventos do Sistema de Origem Pré-Dobra ou dos eventos da história da Raça. Geralmente são avançadas e podem precisar de reparo.
@@ -5777,6 +5924,7 @@ Default Event Abandoned Bases Explanation		;Outras bases abandonadas que não fa
 Default Event Debris Fields Explanation		;Campos de destroços com várias naves abandonadas e geralmente danificadas. Essas naves geralmente são bastante avançadas.
 Default Event Gravitic Locations Explanation		;Nuvens especiais de tempestade de nebulosa que podem abranger todo um sistema estelar ou estar em um único local. Frequentemente revelam aspectos importantes da história principal.
 Default Event Major Threats Explanation		;Inclui a Colmeia e Destruidores de Planetas abandonados
+Default Event Planet Destroyers Explanation		;Destruidores de Planetas ou outras grandes naves especiais para cada facção.\n\nObserve que os Destruidores de Planetas devem ser habilitados para o Retorno da História dos Shakturi.
 
 
 All Bonuses For This Base		;Todos os Bônus Para Esta Base
@@ -5789,6 +5937,8 @@ Production Oversupply Explanation		;Você tem um suprimento excessivo deste recu
 COLONY will be permanently abandoned		;{0} será permanentemente abandonada, tornando-se uma colônia independente.\n\nTodas as bases na colônia serão desmontadas, todas as tropas serão dissolvidas, todos os personagens serão transferidos para outro local.
 Are you sure you want to abandon COLONY		;Tem certeza de que deseja abandonar {0}
 Abandon Colony		;Abandonar Colônia
+Abandon Outpost		;Abandonar Posto Avançado
+OUTPOST will be permanently abandoned		;{0} será permanentemente abandonado, removendo completamente a população.\n\nTodas as tropas no posto avançado serão dissolvidas e todos os personagens serão transferidos para outro lugar.
 
 Cannot abandon your empire capital		;Não é possível abandonar a capital de seu império
 Cannot abandon your empire's last colony		;Não é possível abandonar a última colônia de seu império
@@ -5973,3 +6123,633 @@ Attack Point		;Ponto de Ataque
 Not Set		;Não Definido
 
 Rift Refugees		;Refugiados do Rift
+
+Return of the Shakturi Storyline		;Retorno da História dos Shakturi
+Very Early		;Muito Cedo
+Early		;Cedo
+late		;tarde
+Very Late		;Muito Tarde
+Shakturi Appearance Title Off		;Shakturi Desativado
+Shakturi Appearance Explanation Off		;A história do Retorno dos Shakturi está desativada. Os Shakturi não aparecerão no jogo.
+Shakturi Appearance Title Very Early		;Aparição Muito Cedo dos Shakturi
+Shakturi Appearance Explanation Very Early		;A história do Retorno dos Shakturi está habilitada e começará muito mais cedo do que o normal. Essa aparição antecipada torna o jogo mais desafiador.
+Shakturi Appearance Title Early		;Aparição Cedo dos Shakturi
+Shakturi Appearance Explanation Early		;A história do Retorno dos Shakturi está habilitada e começará mais cedo do que o normal. Essa aparição antecipada torna o jogo mais desafiador.
+Shakturi Appearance Title Normal		;Aparição Normal dos Shakturi
+Shakturi Appearance Explanation Normal		;A história do Retorno dos Shakturi está habilitada e começará no momento normal.
+Shakturi Appearance Title Late		;Aparição Tarde dos Shakturi
+Shakturi Appearance Explanation Late		;A história do Retorno dos Shakturi está habilitada e começará mais tarde do que o normal. Essa aparição tardia torna o jogo menos desafiador.
+Shakturi Appearance Title Very Late		;Aparição Muito Tarde dos Shakturi
+Shakturi Appearance Explanation Very Late		;A história do Retorno dos Shakturi está habilitada e começará muito mais tarde do que o normal. Essa aparição tardia torna o jogo menos desafiador.
+Shakturi Appearance Explanation General		;Determina se a história do Retorno dos Shakturi está habilitada e quando no jogo os Shakturi aparecerão.
+
+Gravitic Rift		;Fenda Gravitacional
+Shakturi Beacon		;Beacon Shakturi
+Shakturi Empire		;Império Shakturi
+Shakturi Supremacy		;Supremacia Shakturi
+
+Psychic Tech		;Tecnologia Psíquica
+Genetic Engineering		;Engenharia Genética
+BioWarfare		;Guerra Biológica
+
+Outposts cannot construct ships or bases		;Postos avançados não podem construir naves ou bases
+Outposts cannot recruit troops		;Postos avançados não podem recrutar tropas
+Outposts cannot be your empire capital		;Postos avançados não podem ser a capital do seu império
+Can Build at Outposts		;Pode Construir em Postos Avançados
+Cannot build this facility at Outposts		;Não pode construir esta instalação em Postos Avançados
+Cannot upgrade to Colony unless suitability is above zero		;Não pode ser promovido a Colônia a menos que a adequação esteja acima de zero
+Not enough money to upgrade to Colony		;Não há dinheiro suficiente para promover a Colônia
+OUTPOST will be permanently upgraded to a Colony		;{0} será promovido permanentemente a uma Colônia por {1} créditos.\n\nIsso mudará os custos de suporte para {0}, possivelmente aumentando os custos até que sua população e desenvolvimento cresçam mais.\n\nNo entanto, como uma Colônia completa, {0} poderá então cobrar impostos, compensando seus custos.\n\nEla também poderá construir naves e bases, construir mais instalações planetárias e recrutar tropas.
+Are you sure you want to upgrade COLONY		;Tem certeza de que deseja promover {0}?
+Upgrade Outpost		;Promover Posto Avançado
+You can only have one Outpost for each Colony in your empire		;Você pode ter apenas um Posto Avançado para cada Colônia em seu império. Você atualmente tem {0} colônias e {1} postos avançados.
+
+Plague is halting all population growth and causing losses of RATE per year		;A Praga está interrompendo todo o crescimento populacional e causando perdas de {0} por ano
+Temporary control by EMPIRE		;Controle psíquico temporário por {0}
+Reverting to EMPIRE		;Retornará a {0} quando expirar
+Ion Abbrev		;Íon
+Psychic Abbrev		;Psi
+Psychic Damage		;Dano Psíquico
+Colonies Only		;Apenas Colônias
+Outposts Only		;Apenas Postos Avançados
+
+Temporarily defected to EMPIRE (will revert to OTHER)		;Desertou temporariamente para {0} (retornará a {1} quando expirar)
+Defection		;Deserção
+
+Target Facility		;Instalação Alvo
+Plague To Use		;Praga a Usar
+
+WeaponLevelPsychic		;Prioridade de Armas Psíquicas
+PolicyExplanation WeaponLevelPsychic		;Nível de prioridade para armas psíquicas ao projetar novas naves em seu império. Maior prioridade significa que mais armas psíquicas serão usadas. Você pode impedir que armas psíquicas sejam usadas em qualquer um dos seus projetos de naves militares configurando isso como 'Não Usar'.
+WeaponLowestRolePsychic		;Função Inicial Para Armas Psíquicas
+PolicyExplanation WeaponLowestRolePsychic		;Função inicial da nave militar onde armas psíquicas serão adicionadas. Armas psíquicas não serão adicionadas a projetos de naves militares abaixo desta função, por exemplo, se definido como 'Destróier', então projetos de Escort e Fragata não usarão essas armas.
+Preferred Component Family WeaponPsychic		;Família de Armas Psíquicas Preferida
+Preferred Component Family Description WeaponPsychic		;A família de componentes preferida para armas psíquicas. Pesquisa e Design de Naves Automatizadas pesarão essas armas sobre outras armas psíquicas.
+
+Plague Curing Difficulty		;Dificuldade de Cura da Praga
+
+AllianceVoteType AdmitMember		;Admitir Membro
+AllianceVoteType ExpelMember		;Expelir Membro
+AllianceVoteType DeclareWar		;Declarar Guerra
+AllianceVoteType EndWar		;Encerrar Guerra
+AllianceVoteType AcceptEndWar		;Aceitar Oferta de Paz
+
+AllianceVoteType AdmitMember Extended		;Admitir Novo Membro
+AllianceVoteType ExpelMember Extended		;Expelir Membro
+AllianceVoteType DeclareWar Extended		;Declarar Guerra contra
+AllianceVoteType EndWar Extended		;Encerrar Guerra com
+AllianceVoteType AcceptEndWar Extended		;Aceitar Oferta de Paz de
+
+ALLIANCE admits MEMBER		;{0} admite {1}
+ALLIANCE admits MEMBER description		;{0} admite um novo membro {1}
+MEMBER declines invitation from ALLIANCE		;{1} recusa convite de {0}
+MEMBER declines invitation from ALLIANCE description		;Recusamos seu convite para ingressar no {0}
+ALLIANCE expels MEMBER		;{0} expulsa {1}
+ALLIANCE expels MEMBER description		;{0} expulsa {1} de sua aliança
+ALLIANCE expels MEMBER Disband		;{0} Desfeita
+ALLIANCE expels MEMBER Disband description		;{0} expulsa {1} de sua aliança. Com apenas um membro restante, isso fez com que {0} fosse desfeita.
+ALLIANCE declares war on EMPIRE		;{0} declara Guerra contra {1}
+ALLIANCE declares war on EMPIRE description		;{0} declara Guerra contra {1}
+
+ALLIANCE accepts Peace Offer from OTHER		;{0} aceita Oferta de Paz de {1}
+ALLIANCE accepts Peace Offer from OTHER description		;O {0} concorda em encerrar sua guerra com o {1}. Todos os membros de {0} cessaram suas hostilidades contra todos os membros de {1}. 
+
+ALLIANCE accepts Peace Offer from EMPIRE		;{0} aceita Oferta de Paz de {1}
+ALLIANCE accepts Peace Offer from EMPIRE description		;O {0} concorda em encerrar sua guerra com {1}. Todos os membros de {0} cessaram suas hostilidades contra {1} e fizeram as pazes. 
+
+MEMBER rejects ending war with ALLIANCE		;{1} rejeita encerrar a guerra com {0}
+MEMBER rejects ending war with ALLIANCE description		;Rejeitamos sua oferta para encerrar nossa guerra com o {0}
+
+ALLIANCE agrees to End War		;{0} aceita oferta de paz
+ALLIANCE agrees to End War description		;O {0} concorda em encerrar sua guerra conosco. Todos os membros de {0} cessaram suas hostilidades contra nós e fizeram as pazes.
+
+ALLIANCE agrees to End War Alliance		;{0} aceita nossa oferta de paz da aliança
+ALLIANCE agrees to End War Alliance description		;O {0} concorda em encerrar sua guerra com nossa aliança ({1}). Todos os membros de {0} cessaram suas hostilidades contra todos os membros de {1}.
+
+ALLIANCE expels you		;{0} expulsa você
+You have been expelled from the ALLIANCE		;Você foi expulso do {0}
+ALLIANCE welcomes you		;{0} dá boas-vindas a você
+You have joined the ALLIANCE		;Você ingressou no {0}
+
+ALLIANCE voting to ACTION		;{0} votando para {1}
+The ALLIANCE requires your vote for proposal to ACTION EMPIRE		;O {0} requer seu voto para a proposta de {1} {2}
+
+You cannot unilaterally declare or end wars when part of an alliance that includes a Defense treaty ALLIANCE		;Você não pode unilateralmente declarar ou encerrar guerras quando parte de uma aliança que inclui um tratado de Defesa ({0})
+EMPIRE cannot unilaterally declare or end wars because they are part of an alliance that includes a Defense treaty ALLIANCE		;{1} não pode unilateralmente declarar ou encerrar guerras porque faz parte de uma aliança que inclui um tratado de Defesa ({0})
+You cannot unilaterally cancel treaties that are required for an alliance ALLIANCE		;Você não pode unilateralmente cancelar tratados que são necessários para uma aliança ({0})
+You cannot unilaterally offer Defense treaties when part of an alliance that includes a Defense treaty ALLIANCE		;Você não pode unilateralmente oferecer tratados de Defesa quando parte de uma aliança que inclui um tratado de Defesa ({0})
+EMPIRE cannot unilaterally accept Defense treaties because they are part of an alliance that includes a Defense treaty ALLIANCE		;{1} não pode unilateralmente aceitar tratados de Defesa porque faz parte de uma aliança que inclui um tratado de Defesa ({0})
+Alliances		;Alianças
+No Known Alliances		;Nenhuma Aliança Conhecida
+Propose Vote		;Propor Voto
+Select a vote proposal using the buttons below		;Selecione uma proposta de voto usando os botões abaixo
+No vote proposal		;Nenhuma proposta de voto
+Reject		;Rejeitar
+Alliance Screen		;Tela de Aliança
+Votes		;Votos
+AllianceVoteOutcome OUTCOME APPROVE TOTAL		;{0} ({1}/{2} votos)
+Passes		;Voto Aprovado
+Fails		;Voto Rejeitado
+Convene Alliance		;Convocar Aliança
+Votes to OUTCOME		;Votos para {0}
+Requires X of votes to pass		;Requer {0} votos para passar
+
+Treaties cancelled when join ALLIANCE		;Tratados cancelados ao entrar {0}
+Joining the ALLIANCE has required us to cancel some existing incompatible treaties with EMPIRE		;Entrar no {0} exigiu que cancelássemos alguns tratados incompatíveis existentes com {1}.\n\nOs tratados afetados incluem: {2}
+War when join ALLIANCE		;Guerra ao entrar {0}
+Joining the ALLIANCE has required us to declare war against the ALLIANCE enemy, the EMPIRE		;Entrar no {0} exigiu que declarássemos guerra contra o inimigo da {0}, o {1}
+ALLIANCE helps us in our War		;{0} nos ajuda em nossa Guerra
+Joining the ALLIANCE has brought all ALLIANCE member empires into our war against the EMPIRE		;Entrar no {0} trouxe todos os impérios membros da aliança para nossa guerra contra o {1}.\n\nNossos novos aliados agora lutam ao nosso lado contra o {1}!
+We join ALLIANCE along with EMPIRE		;Entramos no {0} junto com {1}
+Our subjugators, the EMPIRE, have joined the ALLIANCE		;Nossos subjugadores, o {0}, se juntaram ao {1}.\n\nIsso nos exigiu, como seu vassalo, também entrar no {1}.
+They are already at war with the following empires LIST		;Eles já estão em guerra com os seguintes impérios que não estamos atualmente em guerra: {0}. Se eles entrarem em nossa aliança, seremos obrigados a declarar guerra automaticamente a esses impérios.
+They already have a Defense treaty with the following empires LIST		;Eles já têm um tratado de Defesa com os seguintes impérios: {0}. Se declararmos guerra contra eles, esses outros impérios provavelmente responderão declarando guerra contra nós.
+Propose Alliance		;Propor Aliança
+Type Alliance name here		;Digite o nome da Aliança aqui
+ALLIANCE has been established		;{0} foi formada!
+The factions could not find agreement. Alliance creation failed		;As facções não conseguiram encontrar um acordo. A formação da aliança falhou
+Wants to join		;Quer se juntar
+Does not want to join		;Não quer se juntar
+New Alliance		;Nova Aliança
+Create Alliance		;Criar Aliança
+
+Alliance Creation Explanation		;Digite um [B]nome para sua nova aliança[/B] usando a caixa no topo.\n\nEntão clique nos impérios na lista para [B]selecionar todos os membros que deseja convidar[/B] para sua nova aliança. Você pode clicar em um império novamente para desmarcá-lo.\n\nTodos os membros selecionados devem concordar para que a aliança seja formada com sucesso, então selecione apenas membros que provavelmente concordarão.\n\nÀ medida que você adiciona membros, todos os impérios reavaliarão se querem fazer parte de uma aliança com o conjunto atualmente selecionado de membros. [B]Adicionar ou remover membros pode alterar como outros impérios veem a aliança.[/B]\n\nObserve que quaisquer guerras com membros da aliança se tornarão guerras com toda a aliança, ou seja, todos os membros [WARN]declaração de guerra automaticamente[/WARN] ao império inimigo.\n\nTambém observe que entrar em uma aliança [WARN]cancelará automaticamente alguns tratados incompatíveis[/WARN] (fora da aliança). Isso inclui: Tratados de Não Agressão, Tratados de Defesa, Tratados de Compartilhamento de Mapa de Operações e Tratados de Compartilhamento de Mapa da Galáxia.
+
+COUNT Wars		;{0} Guerras
+You must select at least one other member to form an alliance		;Você deve selecionar pelo menos um outro membro para formar uma aliança
+You must enter a Name for the new alliance		;Você deve inserir um Nome para a nova aliança
+
+Cancel Vote		;Cancelar Voto
+Leave Alliance		;Sair da Aliança
+Disband Alliance		;Dissolver Aliança
+Leave Alliance Are You Sure - Disband		;Há apenas dois membros na {0}, portanto, sair [B]dissolverá a aliança[/B].\n\nSair [B]cancelará quaisquer tratados relacionados à aliança[/B] com todos os outros membros.\n\nVocê tem certeza de que deseja sair da {0}?
+Leave Alliance Are You Sure		;Sair da {0} [B]cancelará quaisquer tratados relacionados à aliança[/B] com todos os outros membros.\n\nVocê tem certeza de que deseja sair da {0}?
+There are only two members in the ALLIANCE, so expelling a member will disband the alliance		;Há apenas dois membros na {0}, então expulsar um membro irá desmantelar completamente a aliança.
+
+
+Installed		;Instalado
+Expansions and DLCs		;Expansões e DLCs
+Active Mods		;Mods Ativos
+Buy from Matrix Games		;Comprar da Matrix Games
+Buy from Steam		;Comprar da Steam
+Buy from GOG		;Comprar da GOG
+
+You cannot unilaterally offer this treaty when part of an alliance that includes a Defense treaty ALLIANCE		;Você não pode oferecer unilateralmente este tratado quando parte de uma aliança que inclui um tratado de Defesa ({0})
+EMPIRE cannot unilaterally accept this treaty because they are part of an alliance that includes a Defense treaty ALLIANCE		;{1} não pode aceitar unilateralmente este tratado porque fazem parte de uma aliança que inclui um tratado de Defesa ({0})
+This empire is part of the ALLIANCE, so the entire ALLIANCE will vote on our peace offer		;Este império faz parte do {0}, então toda a {0} votará em nossa oferta de paz
+This empire is part of the ALLIANCE, so accepting this peace offer will end war with the entire ALLIANCE		;Este império faz parte do {0}, então aceitar esta oferta de paz encerrará a guerra com toda a {0}
+You must vote on this proposal		;Você deve votar nesta proposta
+Enabled by story events		;Habilitado por eventos da história
+
+Shaktur Axis Formed Title		;Eixo Shaktur Formado
+Shaktur Axis Formed Title Positive		;Eixo Shaktur Formado
+Shaktur Axis Formed Message		;Notícias catastróficas! Os {0} persuadiram os {1} a se juntarem a eles em uma grande aliança chamada {2}.\n\nEste desenvolvimento aumenta muito a força e influência dos {0}.\n\nTememos o que esta aliança significará para nós e para toda a galáxia.\n\nNão confiamos nos {0} e temos certeza de que eles pretendem usar seu poder para dominar todos os outros.\n\nDevemos ficar de olho nisso e considerar maneiras de frustrar sua influência maligna...
+Shaktur Axis Formed Message Positive		;Notícias interessantes! Os {0} persuadiram os {1} a se juntarem a eles em uma grande aliança chamada {2}.\n\nEste desenvolvimento aumenta muito a força e influência dos {0}.\n\nO que esta aliança significará para nós e para toda a galáxia?\n\nTalvez devêssemos considerar maneiras de nos beneficiarmos dessa nova situação...
+
+Freedom Alliance Formed Title		;Aliança da Liberdade Formada
+Freedom Alliance Formed Title Negative		;Aliança da Liberdade Formada
+Freedom Alliance Formed Message		;Um desenvolvimento ousado! Os {0} persuadiram os {1} a se juntarem a eles em uma grande aliança chamada {2}.\n\nEsta aliança se opõe ao recentemente formado Eixo Shaktur.\n\nIsso mostra que ainda há alguma força para resistir à brutalidade dos Shakturi e seus aliados. Ela fornece um ponto de apoio para todos que preferem cooperação e liberdade.\n\nO que esta aliança significará para nós e para toda a galáxia?\n\nTalvez devêssemos considerar nossa posição diplomática e até mesmo olhar para entrar no {2}...
+Freedom Alliance Formed Message Negative		;Um desenvolvimento provocativo! Os patéticos {0} persuadiram os chorões {1} a se juntarem a eles em uma fraca aliança chamada {2}.\n\nEsta aliança se opõe ao recentemente formado Eixo Shaktur.\n\nEles parecem achar que isso lhes dará alguma esperança de resistir aos Shakturi.\n\nO que esta aliança significará para nós e para toda a galáxia?\n\nO tempo dirá, mas certamente eles não são páreo para os Shakturi...
+
+
+
+Alliance Formed Title		;{0} formada
+Alliance Formed Explanation		;A {0} foi formada!\n\nEsta nova aliança é composta pelos seguintes membros: {1}
+Alliance Formed Explanation Wars		;A {0} está em guerra com os seguintes impérios: {1}
+
+
+
+Bombard Colonies When		;Bombardear Colônias Quando
+PolicyExplanation Bombard Colonies When		;Determina como as naves e frotas militares usam bombardeio contra colônias inimigas.\n\n [B]Nunca:[/B] naves e frotas não usarão bombardeio\n [B]Enfraquecer Tropas Inimigas:[/B] naves e frotas bombardearão colônias inimigas até que a saúde das unidades de tropas defensoras seja reduzida a cerca de 50%\n [B]Eliminar Tropas Inimigas:[/B] naves e frotas bombardearão colônias inimigas até que todas as unidades de tropas defensoras sejam eliminadas\n [B]Eliminar Tropas Inimigas e Instalações:[/B] naves e frotas bombardearão colônias inimigas até que todas as unidades de tropas defensoras e instalações planetárias sejam eliminadas\n [B]Eliminar Colônia:[/B] naves e frotas bombardearão colônias inimigas até que toda a população seja morta, destruindo completamente a colônia\n\nObserve que bombardear colônias pode prejudicar sua reputação diplomática.
+Bombard Manual Missions Follow Policy		;As Missões de Bombardeio Manuais Seguem a Política
+PolicyExplanation BombardManualMissionsFollowPolicy		;Se as naves e frotas com missões de Bombardeio atribuídas manualmente seguirão a política de bombardeio acima, por exemplo, se pararão de bombardear quando as tropas inimigas tiverem sido amolecidas para invasão.\n\nPor padrão, essa configuração está desativada, o que significa que as missões de Bombardeio atribuídas manualmente continuarão até serem paradas manualmente pelo jogador.
+
+BombardColoniesWhen Never		;Nunca
+BombardColoniesWhen SoftenEnemyTroops		;Enfraquecer Tropas Inimigas
+BombardColoniesWhen EliminateEnemyTroops		;Eliminar Tropas Inimigas
+BombardColoniesWhen EliminateEnemyTroopsAndFacilities		;Eliminar Tropas Inimigas e Instalações
+BombardColoniesWhen EliminateColony		;Eliminar Colônia
+
+AutomationCategory ColonyFacilities_Administrative		;Instalações da Colônia - Capitais e Administração
+AutomationCategory ColonyFacilities_CreatureBreeding		;Instalações da Colônia - Criação de Criaturas
+AutomationCategory ColonyFacilities_Terraforming		;Instalações da Colônia - Terraformação
+AutomationCategory ColonyFacilities_Troops		;Instalações da Colônia - Tropas
+AutomationCategory ColonyFacilities_Weapons		;Instalações da Colônia - Armas
+AutomationCategory ColonyFacilities_FighterBases		;Instalações da Colônia - Bases de Caça
+AutomationCategory ColonyFacilities_Wonders		;Instalações da Colônia - Maravilhas
+AutomationCategory ColonyFacilities_PlanetaryShields		;Instalações da Colônia - Escudos Planetários
+AutomationCategory ColonyFacilities_HyperDeny		;Instalações da Colônia - Negação Hiperespacial
+AutomationCategory ColonyFacilities_Medical		;Instalações da Colônia - Médicas
+AutomationCategory ColonyFacilities_Upgrade		;Atualizando Instalações da Colônia
+
+PolicyExplanation AutomationColonyFacilities_Upgrade		;Automatiza a atualização de instalações nas colônias do seu império, ou controla essa área manualmente.
+PolicyExplanation AutomationColonyFacilities_Administrative		;Automatiza a construção de instalações Capitais e Administrativas nas colônias do seu império, ou controla essa área manualmente.
+PolicyExplanation AutomationColonyFacilities_CreatureBreeding		;Automatiza a construção de instalações de Criação de Criaturas nas colônias do seu império, ou controla essa área manualmente.
+PolicyExplanation AutomationColonyFacilities_Terraforming		;Automatiza a construção de instalações de Terraformação nas colônias do seu império, ou controla essa área manualmente.
+PolicyExplanation AutomationColonyFacilities_Troops		;Automatiza a construção de instalações de Recrutamento de Tropas nas colônias do seu império, ou controla essa área manualmente.
+PolicyExplanation AutomationColonyFacilities_Weapons		;Automatiza a construção de instalações de Armas nas colônias do seu império, ou controla essa área manualmente.
+PolicyExplanation AutomationColonyFacilities_FighterBases		;Automatiza a construção de instalações de Bases de Caça nas colônias do seu império, ou controla essa área manualmente.
+PolicyExplanation AutomationColonyFacilities_Wonders		;Automatiza a construção de Maravilhas nas colônias do seu império, ou controla essa área manualmente.
+PolicyExplanation AutomationColonyFacilities_PlanetaryShields		;Automatiza a construção de instalações de Escudos Planetários nas colônias do seu império, ou controla essa área manualmente.
+PolicyExplanation AutomationColonyFacilities_HyperDeny		;Automatiza a construção de instalações de Negação Hiperespacial nas colônias do seu império, ou controla essa área manualmente.
+PolicyExplanation AutomationColonyFacilities_Medical		;Automatiza a construção de instalações Médicas nas colônias do seu império, ou controla essa área manualmente.
+
+We are furious at your outrageous incident against us		;Estamos furiosos com seu incidente ultrajante contra nós
+We are upset that you think we instigated an outrageous incident against you (we were obviously framed!)		;Estamos chateados que você pense que instigamos um incidente ultrajante contra você (fomos claramente armados!)
+Our Leader has been Psychically Controlled		;Nosso Líder foi Controlado Psicicamente
+The EMPIRE have taken psychic control of our leader NAME		;O {0} tomou controle psíquico de nosso líder {1}!\n\nIsso levou à nossa subjugação como vassalos do {0}.\n\nAgora servimos aos interesses do {0}. Nossa única saída dessa situação é rebelar e declarar guerra contra o {0}.
+The EMPIRE have taken psychic control of our leader NAME ALLIANCE		;O {0} tomou controle psíquico de nosso líder {1}!\n\nIsso levou à nossa subjugação como vassalos do {0}. Eles também nos integraram em sua aliança, o {2}.\n\nAgora servimos aos interesses do {0}. Nossa única saída dessa situação é rebelar e declarar guerra contra o {0}.
+
+ALLIANCE rejects Peace		;{0} rejeita a Paz
+The ALLIANCE rejects your peace offer		;A {0} rejeita sua oferta de paz
+
+Cannot queue an Attack against a target while Blockading it		;Não é possível enfileirar um Ataque contra um alvo enquanto o bloqueia
+Cannot queue Bombardment against a target while Blockading it		;Não é possível enfileirar Bombardeio contra um alvo enquanto o bloqueia
+Cannot queue an Invasion of a target while Blockading it		;Não é possível enfileirar uma Invasão de um alvo enquanto o bloqueia
+Cannot queue a Raid against a target while Blockading it		;Não é possível enfileirar um Ataque contra um alvo enquanto o bloqueia
+Cannot queue a Raid against a target while also Invading it		;Não é possível enfileirar um Ataque contra um alvo enquanto também está Invadindo-o
+Cannot queue Invasion against a target while also Raiding it		;Não é possível enfileirar Invasão contra um alvo enquanto também está Raideando
+Cannot queue Capture of a target while Blockading it		;Não é possível enfileirar Captura de um alvo enquanto o bloqueia
+Cannot queue a Raid against a target while also Attacking it		;Não é possível enfileirar um Ataque contra um alvo enquanto também está Atacando-o
+Cannot queue Capture of a target while also Attacking it		;Não é possível enfileirar Captura de um alvo enquanto também está Atacando-o
+Cannot queue Attack against a target while also Capturing it		;Não é possível enfileirar Ataque contra um alvo enquanto também está Capturando-o
+Cannot queue a Raid against a target while also Capturing it		;Não é possível enfileirar um Ataque contra um alvo enquanto também está Capturando-o
+Cannot queue Attack against a target while also Raiding it		;Não é possível enfileirar Ataque contra um alvo enquanto também está Raideando-o
+Cannot queue Capture of a target while also Raiding it		;Não é possível enfileirar Captura de um alvo enquanto também está Raideando-o
+
+ShipMission Attack Verb Attack		;Atacando
+ShipMission Attack Verb Attack Colony		;Limpando Defesas
+ShipMission Attack Verb Invade		;Invadindo
+ShipMission Attack Verb Bombard		;Bombardeando
+ShipMission Attack Verb Raid		;Raideando
+ShipMission Attack Verb Capture		;Capturando
+ShipMission Attack Verb Blockade		;Bloqueando
+
+FLEET ATTACK VERB		;{0} {1}
+Multiple Fleets ATTACK VERB		;Múltiplas Frotas {0}
+
+Staging		;Preparação
+Staging at		;Preparando em
+Staging Point		;Ponto de Preparação
+Staging Point Explanation		;Os pontos de preparação permitem que várias frotas coordenem seu ataque contra uma colônia ou base inimiga.\n\nTodas as frotas designadas viajarão primeiro para o ponto de preparação antes de viajar simultaneamente para o alvo. Isso garante que todas as frotas cheguem juntas para atacar o alvo ao mesmo tempo.\n\nOs pontos de preparação devem ser planetas, luas ou bases em locais tranquilos, razoavelmente próximos ao alvo - idealmente dentro de um único salto do alvo.\n\nPara designar um ponto de preparação para um alvo:\n1. selecione a colônia ou base alvo (seja na lista de Alvos Inimigos ou diretamente na visualização principal)\n2. com o alvo ainda selecionado, clique com o botão direito e segure no ponto de preparação para mostrar um menu pop-up\n3. clique na opção do menu 'Definir ponto de preparação para o ALVO em LOCALIZAÇÃO'
+
+Staging Point Limitation		;[WARN]Não é possível atribuir um Ponto de Preparação a um alvo, a menos que tenha sido enfileirado para ataque[/WARN]
+Staging Point Limitation Solution		;[WARN]Primeiro enfileire um tipo de ataque (Atacar, Invadir, Bombardear, Raidear, Capturar, Bloquear), depois defina o Ponto de Preparação[/WARN]
+
+Deployable Plague		;Praga Desencadeável
+Creature Influence		;Influência de Criaturas
+Creature Counter Influence		;Influência Contra Criaturas
+
+Very low excess supply at spaceports		;Excesso de suprimentos muito baixo nos espaços
+
+Alliance Not AdmitMember Reason War With Member		;Você está em guerra com um membro da aliança ({0})
+Alliance Not AdmitMember Reason War With Friend		;Você está em guerra com nosso amigo ({0})
+Alliance Not AdmitMember Reason Vassal to NonAlliance Member		;Você é vassalo de um membro não-aliança ({0})
+Alliance Not AdmitMember Reason Close Relations With Enemy		;Você tem relações próximas com um de nossos inimigos ({0})
+Alliance Not AdmitMember Reason We Dont like you enough		;Nós simplesmente não gostamos de você o suficiente
+
+Unlikely to invite you to join		;Improvável que o convidemos para se juntar
+May invite you to join		;Pode convidá-lo para se juntar
+
+Empire Policy for Bombardment is Never Explanation		;Bombardeio é proibido em sua política do império, portanto você não pode enfileirar bombardeio contra colônias inimigas.\n\nVocê pode habilitar bombardeio enfileirado mudando a política de bombardeio em Configurações de Política > Militar > Bombardear Colônias Quando.\n\nObserve que você também pode precisar alterar a política para seus designs de naves para incluir armas de bombardeio dedicadas.
+
+Empire Policy for Bombardment Prohibits Explanation		;As configurações atuais de política do império ({0}) proíbem Bombardeio para este alvo, portanto você não pode enfileirar bombardeio para esta colônia, por exemplo, tropas devem existir na colônia quando a configuração de política de Bombardeio para 'Enfraquecer Tropas Inimigas'.\n\nVocê pode alterar a política de bombardeio em Configurações de Política > Militar > Bombardear Colônias Quando.\n\nObserve que você também pode precisar alterar a política para seus designs de naves para incluir armas de bombardeio dedicadas.
+
+Quest GameEventActionType Money		;Dinheiro
+Quest GameEventActionType MapInfo		;Mapas do Sistema Revelados
+Quest GameEventActionType ResearchProgress		;Progresso de Pesquisa
+Quest GameEventActionType ResearchBreakthrough		;Avanço em Pesquisa
+Quest GameEventActionType BuildFacility		;Construir Instalação
+Quest GameEventActionType AddBonusWarScore		;Pontos de Guerra
+Quest GameEventActionType VictoryConditionBonus		;Pontuação de Vitória
+Quest GameEventActionType AddEmpireIncidentFactorGeneral Positive		;Melhorar Relações com {0}
+Quest GameEventActionType AddEmpireIncidentFactorGeneral Negative		;Prejudicar Relações com {0}
+Quest GameEventActionType AdjustWarWeariness Increase		;Aumentar o Desgaste da Guerra do Inimigo
+Quest GameEventActionType AdjustWarWeariness Reduce		;Reduzir o Desgaste da Guerra
+
+CATEGORY project		;Projeto aleatório {0}
+Random Project		;Projeto Aleatório
+AMOUNT Empire Happiness for X years		;{0} Felicidade do Império por {1} anos
+AMOUNT Empire Happiness for 1 year		;{0} Felicidade do Império por 1 ano
+
+Our military strategists have analyzed the situation in our war against the EMPIRE		;Nossos estrategistas militares analisaram a situação em nossa guerra contra o [FACTION]{0}[/FACTION], buscando tarefas que tenham impacto máximo contra nosso inimigo. Eles têm a seguinte sugestão
+
+Capture Enemy Leaders		;Capturar Líderes Inimigos
+We have identified an enemy ROLE that would prove invaluable if captured. You should find and capture ROLE NAME of the EMPIRE		;Identificamos um inimigo {0} que seria inestimável se capturado. Você deve encontrar e capturar [CHARACTER]{0} {1}[/CHARACTER] do [FACTION]{2}[/FACTION]
+Secure Assistance		;Obter Assistência
+We should make more friends and allies. Sign a TREATY with EMPIRE		;Devemos fazer mais amigos e aliados. Assine um [FACTION]{0}[/FACTION] com [FACTION]{1}[/FACTION]
+Strengthen the Alliance		;Fortalecer a Aliança
+We should expand our Alliance. Admit a new member to the ALLIANCE		;Devemos expandir nossa Aliança. Admitir um novo membro para a [FACTION]{0}[/FACTION]
+Capture Enemy Flag Ship		;Capturar Nave Bandeira Inimiga
+Destroy Enemy Flag Ship		;Destruir Nave Bandeira Inimiga
+We have identified an enemy ROLE that would prove invaluable if captured. You should find and capture SHIP. This is the flag ship of the FLEET in the EMPIRE		;Identificamos um inimigo {0} que seria inestimável se capturado. Você deve encontrar e capturar [HL]{1}[/HL]. Esta é a nave bandeira da [HL]{2}[/HL] no [FACTION]{3}[/FACTION]
+We have identified an enemy ROLE that must be destroyed. You should find and destroy SHIP. This is the flag ship of the FLEET in the EMPIRE		;Identificamos um inimigo {0} que deve ser destruído. Você deve encontrar e destruir [HL]{1}[/HL]. Esta é a nave bandeira da [HL]{2}[/HL] no [FACTION]{3}[/FACTION]
+Capture Enemy Planet Destroyer		;Capturar Destruidor de Planetas Inimigo
+Destroy Enemy Planet Destroyer		;Destruir Destruidor de Planetas Inimigo
+We have identified an enemy planet destroyer that would prove invaluable if captured. You should find and capture SHIP of the EMPIRE		;Identificamos um destruidor de planetas inimigo que seria inestimável se capturado. Você deve encontrar e capturar [HL]{0}[/HL] do [FACTION]{1}[/FACTION]
+We have identified an enemy planet destroyer that must be destroyed. You should find and destroy SHIP of the EMPIRE		;Identificamos um destruidor de planetas inimigo que deve ser destruído. Você deve encontrar e destruir [HL]{0}[/HL] do [FACTION]{1}[/FACTION]
+Capture Enemy Research Station		;Capturar Estação de Pesquisa Inimiga
+Destroy Enemy Research Station		;Destruir Estação de Pesquisa Inimiga
+We have identified an enemy research station that must be captured. You should capture SHIP of the EMPIRE		;Identificamos uma estação de pesquisa inimiga que deve ser capturada. Você deve capturar [HL]{0}[/HL] do [FACTION]{1}[/FACTION]
+We have identified an enemy research station that must be destroyed. You should destroy SHIP of the EMPIRE		;Identificamos uma estação de pesquisa inimiga que deve ser destruída. Você deve destruir [HL]{0}[/HL] do [FACTION]{1}[/FACTION]
+Research New Technology		;Pesquisar Nova Tecnologia
+We have identified a key technology that we must obtain. You should research PROJECT by the specified date		;Identificamos uma tecnologia chave que devemos obter. Você deve pesquisar [RESEARCH]{0}[/RESEARCH] até a data especificada
+Defend Important Research Station		;Defender Estação de Pesquisa Importante
+We have identified an important research station that our enemies are likely to target. You should defend SHIP from attack, preventing its destruction or capture		;Identificamos uma estação de pesquisa importante que nossos inimigos provavelmente vão atacar. Você deve defender [HL]{0}[/HL] de um ataque, evitando sua destruição ou captura
+Capture Enemy Refuelling Station		;Capturar Estação de Reabastecimento Inimiga
+We have identified an enemy refuelling station that must be captured. You should capture SHIP of the EMPIRE		;Identificamos uma estação de reabastecimento inimiga que deve ser capturada. Você deve capturar [HL]{0}[/HL] do [FACTION]{1}[/FACTION]
+We have identified an enemy refuelling station that must be destroyed. You should destroy SHIP of the EMPIRE		;Identificamos uma estação de reabastecimento inimiga que deve ser destruída. Você deve destruir [HL]{0}[/HL] do [FACTION]{1}[/FACTION]
+Capture Enemy Mining Station		;Capturar Estação de Mineração Inimiga
+We have identified an enemy mining station that extracts a construction resource in short supply in EMPIRE. You should capture SHIP of the EMPIRE		;Identificamos uma estação de mineração inimiga que extrai um recurso de construção em escassez em {1}. Você deve capturar [HL]{0}[/HL] do [FACTION]{1}[/FACTION]
+Destroy Enemy Mining Station		;Destruir Estação de Mineração Inimiga
+We have identified an enemy mining station that extracts a construction resource in short supply in EMPIRE. You should destroy SHIP of the EMPIRE		;Identificamos uma estação de mineração inimiga que extrai um recurso de construção em escassez em {1}. Você deve destruir [HL]{0}[/HL] do [FACTION]{1}[/FACTION]
+We have identified an enemy mining station that extracts a high-priority luxury resource for the EMPIRE. You should capture SHIP of the EMPIRE		;Identificamos uma estação de mineração inimiga que extrai um recurso de luxo de alta prioridade para o {1}. Você deve capturar [HL]{0}[/HL] do [FACTION]{1}[/FACTION]
+We have identified an enemy mining station that extracts a high-priority luxury resource for the EMPIRE. You should destroy SHIP of the EMPIRE		;Identificamos uma estação de mineração inimiga que extrai um recurso de luxo de alta prioridade para o {1}. Você deve destruir [HL]{0}[/HL] do [FACTION]{1}[/FACTION]
+Defend Important Refuelling Station		;Defender Estação de Reabastecimento Importante
+We have identified an important refuelling station that our enemies are likely to target. You should defend SHIP from attack, preventing its destruction or capture		;Identificamos uma estação de reabastecimento importante que nossos inimigos provavelmente vão atacar. Você deve defender [HL]{0}[/HL] de um ataque, evitando sua destruição ou captura
+Conquer Enemy Colony		;Conquistar Colônia Inimiga
+We have identified an important enemy colony of the EMPIRE. You should invade and conquer COLONY of the EMPIRE		;Identificamos uma importante colônia inimiga do {1}. Você deve invadir e conquistar [HL]{0}[/HL] do [FACTION]{1}[/FACTION]
+Defend Important Colony		;Defender Colônia Importante
+We have identified an important colony that our enemies are likely to target. You should defend COLONY from attack, preventing its destruction or conquest		;Identificamos uma colônia importante que nossos inimigos provavelmente vão atacar. Você deve defender [HL]{0}[/HL] de um ataque, evitando sua destruição ou conquista
+We have identified an important allied colony that our enemies are likely to target. You should defend COLONY from attack, preventing its destruction or conquest. COLONY is a colony of our ally, the EMPIRE		;Identificamos uma importante colônia aliada que nossos inimigos provavelmente vão atacar. Você deve defender [HL]{0}[/HL] de um ataque, evitando sua destruição ou conquista. {0} é uma colônia de nosso aliado, o [FACTION]{1}[/FACTION]
+Destroy Enemy Troop Facility		;Destruir Instalação de Tropas Inimiga
+We have identified an important enemy troop facility of the EMPIRE. You should destroy the FACILITY at COLONY		;Identificamos uma importante instalação de tropas inimiga do [FACTION]{2}[/FACTION]. Você deve destruir a [HL]{0}[/HL] em [LOCATION]{1}[/LOCATION]
+Destroy Valuable Enemy Facility		;Destruir Instalação Valiosa Inimiga
+We have identified a valuable enemy facility of the EMPIRE. You should destroy the FACILITY at COLONY		;Identificamos uma instalação valiosa inimiga do [FACTION]{2}[/FACTION]. Você deve destruir a [HL]{0}[/HL] em [LOCATION]{1}[/LOCATION]
+War Mission		;Missão de Guerra
+War Mission Accomplished		;Missão de Guerra Concluída
+Rewards		;Recompensas
+Expires		;Expira
+
+Capture Shakturi Spy		;Capturar Espião Shakturi
+Capture Shakturi Ambassador		;Capturar Embaixador Shakturi
+Capture Shakturi General		;Capturar General Shakturi
+Capture Shakturi Admiral		;Capturar Almirante Shakturi
+Strengthen the Freedom Alliance		;Fortalecer a Aliança da Liberdade
+Destroy Shakturi Flag Ship		;Destruir a Nave Bandeira Shakturi
+Research Cure for Shakturi Psionic Virus		;Pesquisar Cura para o Vírus Psíquico Shakturi
+Research Counter to Rift Striders		;Pesquisar Contra-ataque para os Rift Striders
+Research Psychic Disruption		;Pesquisar Disrupção Psíquica
+Destroy Shakturi Planet Destroyer		;Destruir o Destruidor de Planetas Shakturi
+Capture Shakturi Planet Destroyer		;Capturar o Destruidor de Planetas Shakturi
+Destroy Shakturi Beacon		;Destruir o Beacon Shakturi
+Investigate Strange Beacon		;Investigar Beacon Estranho
+Investigate Ancient Vault		;Investigar Cofre Antigo
+Investigate Ancient Archive		;Investigar Arquivo Antigo
+Destroy Enemy Refuelling Station		;Destruir Estação de Reabastecimento Inimiga
+
+We have identified some strange ruins that should be investigated. You should investigate the FACILITY at PLANET		;Identificamos algumas ruínas estranhas que devem ser investigadas. Você deve investigar o {0} em {1}
+We have identified an ancient vault that should be investigated. You should investigate FACILITY at PLANET		;Identificamos um cofre antigo que deve ser investigado. Você deve investigar o {0} em {1}
+We have identified an ancient archive that should be investigated. You should investigate FACILITY at PLANET		;Identificamos um arquivo antigo que deve ser investigado. Você deve investigar o {0} em {1}
+
+Ancient Guardian Mission Intro		;Os Guardiões Antigos sugerem a seguinte missão em nossa luta contra os Shakturi
+
+Must retain Terraforming facility Explanation		;É necessário manter a instalação de Terraformação para manter o aumento da qualidade de terraformação, pois este local tem baixa adequação (abaixo de 20)
+Minimum Suitability Required		;Adequação Mínima Requerida
+This colony suitability is below the minimum level required to build this facility		;A adequação desta colônia está abaixo do nível mínimo necessário para construir esta instalação
+Can only build when population at colony has Suitability of X or higher		;Só pode ser construído quando a população da colônia tem uma adequação de {0} ou mais
+Must retain Terraforming facility Description		;Quando a colônia tem baixa adequação (menos de +20), a quantidade de melhoria da qualidade depende da presença da instalação de Terraformação. Se for removida, a quantidade de melhoria da qualidade será perdida
+
+Freedom Alliance Victory Title		;Os Shakturi Foram Derrotados!
+Freedom Alliance Victory Description		;A Aliança da Liberdade é vitoriosa! Travamos uma grande guerra contra um terrível invasor que buscou remodelar esta galáxia em sua própria imagem sombria e terrível. Levamos a luta aos Shakturi e quebramos sua vontade e sua capacidade de manter esta luta. Este não é um revés temporário para nossos inimigos. Eles descobriram que manter uma base nesta galáxia é muito caro para eles. Eles estão se retirando. Eles perderam completamente.\n\nSeus aliados no Eixo Shaktur, que buscaram trair sua própria galáxia e nos subjugar a senhores malignos, também cessaram suas hostilidades. Eles estão em desordem e, sem seus mestres Shakturi, não serão uma grande ameaça.\n\nPor toda a galáxia, os buracos de minhoca Shakturi estão colapsando e as distúrbios gravitacionais desaparecendo. Nossos inimigos buscavam remodelar a própria geografia do espaço, mas os paramos. Há mais de mil anos, derrotar os Shakturi lançou a galáxia em uma era sombria de isolamento e confusão. Agora os Shakturi foram derrotados novamente, mas desta vez estamos prontos para começar uma nova era dourada de prosperidade e paz. Viva a Aliança da Liberdade!
+Shaktur Axis Victory Title		;A Aliança da Liberdade Foi Derrotada!
+Shaktur Axis Victory Description		;O Eixo Shaktur é vitorioso em sua grande guerra contra os tolos que acreditavam ser iguais aos nossos gloriosos mestres. Claro, seus esforços foram sempre ilusórios. Vimos que eles não podiam vencer, e fizemos nossa escolha. Nossos inimigos causaram alguns problemas, sim, mas no grande escopo da história, eles nunca foram mais do que uma nota de rodapé. O inevitável agora se concretizou, e aqueles que resistiram aos Shakturi serão subjugados ou eliminados completamente.\n\nPor toda a galáxia, vemos o florescimento de buracos de minhoca, o surgimento de distúrbios gravitacionais e grandes novas enxames de Rift Striders. Verdadeiramente os Shakturi remodelam a própria geografia do espaço! Esta é uma nova era. A ordem que os Shakturi buscavam estabelecer há mais de mil anos agora é uma realidade. Esperamos que nossos grandes mestres lembrem-se daqueles que lutaram ao seu lado, quase como iguais, e que receberemos as recompensas que tão ricamente merecemos.\n\nCertamente em seu triunfo, os Shakturi não esquecerão aqueles que ajudaram a tornar esta vitória possível. Viva o Eixo Shaktur!
+
+Shaktur Axis Victory Player Explanation Title		;A Aliança da Liberdade se Desintegra
+Shaktur Axis Victory Player Explanation		;Com a vitória do Eixo Shaktur, nossa fragmentada Aliança da Liberdade falha e desmorona. Todos os nossos aliados perderam a esperança e a aliança foi dissolvida.\n\nPodemos continuar a lutar na galáxia se quisermos. Mas lutar contra um Shakturi vitorioso será um desafio sem comparação.\n\nOu você pode escolher encerrar este jogo aqui e tentar novamente em um novo jogo.
+
+Independent Victory Title		;A Galáxia é Nossa!
+Independent Victory Description		;'Você deve escolher um lado,' disseram eles, mas estavam errados. Tanto a Aliança da Liberdade quanto o Eixo Shaktur buscavam enredar todas as espécies sencientes da galáxia em sua luta, mas acreditamos que poderíamos criar um terceiro caminho, e estávamos certos! Ambos os lados foram desgastados, cada um incapaz de vencer decisivamente, cada um relutante em se render. As duas principais potências da galáxia estão trancadas em um impasse violento sem fim, e nós, que sempre buscamos o que é melhor para nosso próprio império, agora estamos prontos para explorar o novo status quo.\n\nA guerra é caos, e a guerra é horror, mas para aqueles que sabem como encontrá-la, a guerra também é oportunidade. Essa oportunidade está agora diante de nós. O futuro parece brilhante para aqueles que escolhem seu próprio caminho em vez de se juntar a alianças e confederações vinculativas. Um horizonte sem fim de exploração nos aguarda nesta nova era de equilíbrio e guerra.\n\nQue outros escolham lados. Nós escolheremos nosso próprio caminho e prosperaremos para sempre!
+Great Shakturi War		;Grande Guerra Shakturi
+ALLIANCE Victory		;{0} Vitória!
+Victorious ALLIANCE members		;Membros Vitoriosos de {0}
+Victorious Factions		;Fações Vitoriosas
+Victory Conditions disabled during Shakturi War		;Condições de Vitória desativadas durante a Guerra Shakturi
+X progress to defeating Shaktur Axis		;{0} progresso para derrotar o Eixo Shaktur
+X progress to defeating Freedom Alliance		;{0} progresso para derrotar a Aliança da Liberdade
+Independent Victory if last for X years			;Vitória Independente se durar por {0} anos fora de qualquer aliança
+Time since start of War		;Tempo desde o início da Guerra
+
+Mission Score		;Pontuação da Missão
+and		;e
+
+AllianceVictory Portion Economy Description		;A economia privada da Aliança gera {0} do total entre {1}
+AllianceVictory Portion Population Description		;A Aliança controla {0} da população total entre {1}
+AllianceVictory Portion Territory Description		;A Aliança controla {0} das colônias totais entre {1}
+AllianceVictory Portion Bonus Description		;{0} de missões concluídas
+
+Ancient Guardian Message		;Estamos recebendo uma mensagem dos Guardiões Antigos
+
+ShakturiMissionIntro_ExploreBeaconLocation		;Entidades biológicas, tememos que vocês ainda não tenham tomado medidas suficientes para combater a crescente ameaça Shakturi. Ignorar esses inimigos colocará em perigo toda a vida em sua galáxia. Para resistir aos Shakturi, vocês devem compreendê-los e entender sua tecnologia, que é diferente de tudo que já encontraram antes.\n\nA presença deles nesta galáxia depende do desdobramento e manutenção de seus Sinais, e vocês não podem esperar lutar contra este inimigo se não compreenderem sua tecnologia.\n\nÉ imperativo que vocês enviem naves para [HL]explorar um Sinal em {0}[/HL] para que possam começar a tomar as medidas necessárias para neutralizar seus efeitos. O atraso não é aconselhável.
+ShakturiMissionCompletion__ExploreBeaconLocation		;Seres biológicos, é bom que vocês tenham começado a tomar medidas ativas para compreender os Shakturi e sua tecnologia. Vocês são sábios em aceitar conselhos de nossa parte.\n\nSaibam que os Sinais Shakturi são os pilares da invasão de sua galáxia, pois estabilizam e facilitam a passagem por buracos de minhoca entre a galáxia Shakturi e a sua. Na antiga galáxia, os Shakturi foram capazes de estabelecer numerosos Sinais, mas agora restam apenas alguns.\n\nComo vocês sem dúvida já deduziram, destruir os Sinais tornaria uma invasão em grande escala e a ocupação desta galáxia praticamente insustentáveis, mas esses bastiões não são tão facilmente capturados. Vocês não podem destruir o Sinal ou sua base planetária a partir da órbita por causa de seus escudos fortes.\n\nPara romper a conexão entre um Sinal e a galáxia Shakturi, vocês terão que [HL]conquistar o planeta de cada Sinal[/HL] e aprender como destruí-lo a partir da superfície. Preparem suas forças e ataquem apenas quando estiverem prontos para uma luta brutal. Como em todas as coisas da guerra, o tempo é crítico.
+ShakturiMissionIntro_ResearchPsionicVirusCure		;Temos monitorado sua civilização, e observamos que sua população foi atingida por um Vírus Psionico Shakturi. Perder o controle da embarcação que contém sua consciência deve ser uma experiência muito perturbadora. Embora não possamos ser afetados por tal Vírus, vocês podem, e devemos urgir que não ignorem essa praga.\n\nSeus cientistas têm muito em mente, mas é vital que direcionem sua atenção para encontrar uma cura para esta doença. Para isso, vocês devem pesquisar [RESEARCH]Vírus Psionico Shakturi[/RESEARCH] sem demora.
+ShakturiMissionCompletion_ResearchPsionicVirusCure		;Estamos satisfeitos que vocês seguiram nosso conselho e completaram sua pesquisa sobre o Vírus Psionico Shakturi. Este vírus é uma arma insidiosa, que não apenas espalha morte e pânico, mas também tem o efeito de tornar os sobreviventes mais complacentes e vulneráveis ao ataque psionico Shakturi. Em outras palavras, o vírus torna os Shakturi ainda mais poderosos.\n\nDevemos urgir que vocês tomem medidas para eliminar o vírus onde quer que ele apareça e continuar a conduzir pesquisas em tecnologias de defesa psíquica. A falta de ação tornará seu império e sua população muito mais vulneráveis ao inimigo.
+ShakturiMissionIntro_ResearchCounterRiftStriders		;Observamos que seu império encontrou essas novas criaturas conhecidas como Striders do Rift, que servem aos Shakturi. Essas criaturas são perigosas e apresentarão um obstáculo ao seu sucesso.\n\nDevemos encorajá-los a direcionar sua pesquisa para entender essas entidades. Para isso, vocês devem pesquisar [RESEARCH]Estudos sobre Striders do Rift[/RESEARCH] sem demora.
+ShakturiMissionCompletion_ResearchCounterRiftStriders		;Ah, muito bem. Vocês completaram sua pesquisa introdutória sobre as criaturas conhecidas como Striders do Rift.\n\nVocês já devem ter descoberto que essas não são entidades naturais, mas sim criações artificiais projetadas e produzidas pelos Shakturi para atacar seus inimigos. Os Shakturi podem continuar a criar mais Striders do Rift e soltá-los na galáxia continuamente.\n\nNo entanto, a dominação dos Shakturi sobre suas criações não é absoluta. O inimigo deve manter um alto nível de controle psíquico sobre os Striders do Rift para direcionar suas tendências destrutivas.\n\nAo continuar a pesquisar sobre engenharia genética Shakturi, vocês descobrirão maneiras de interromper esse controle. Isso tornará os Striders do Rift tão perigosos para os Shakturi quanto são para vocês, neutralizando assim qualquer vantagem Shakturi.
+ShakturiMissionIntro_ResearchPsychicDisruption		;Entidades biológicas, estamos preocupados que vocês estejam sendo influenciados e prejudicados pelos Shakturi de maneiras que nem conseguem detectar.\n\nSeus políticos, seus almirantes e generais, até mesmo seus diplomatas, servem a vocês? Ou servem a seus inimigos em segredo? Pode ser que seu povo não saiba que se tornou traidor. Vocês podem se dar ao luxo de permanecer ignorantes? Não podem!\n\nVocês devem aprender a se proteger da influência psíquica Shakturi se desejam resistir às maneiras invisíveis que os Shakturi minam seus esforços. Para isso, vocês devem pesquisar [RESEARCH]Disrupção Psíquica[/RESEARCH] sem demora.
+ShakturiMissionCompletion_ResearchPsychicDisruption		;Bom, vocês completaram sua pesquisa sobre Disrupção Psíquica. Estamos satisfeitos que seguiram nosso excelente conselho. Agora vocês entendem que os Shakturi podem usar suas habilidades psíquicas ofensivas para melhorar suas operações militares, esforços diplomáticos e missões de espionagem, além de frustrar as suas.\n\nMais pesquisas sobre como combater a manipulação psíquica Shakturi permitirão que vocês anulem essas poderosas vantagens do inimigo. Urgimos que prossigam.
+ShakturiMissionIntro_ExploreAncientGuardianVaults		;Criaturas biológicas, vocês conquistaram tanto, e disso devem se orgulhar.\n\nMas não negligenciem a sabedoria daqueles que vieram antes de vocês. Os Antigos Guardiões tentaram se preparar para essa crise preservando conhecimento da antiga galáxia em Cofres escondidos.\n\nVocês devem [HL]procurar um desses Cofres em {0}[/HL] e descobrir seus segredos. Notem bem a localização deste cofre.
+ShakturiMissionCompletion_ExploreAncientGuardianVaults		;
+ShakturiMissionIntro_ExploreShakturiMindVault		;Criaturas orgânicas, vocês agora estão cientes do valor dos Cofres deixados pelos Antigos Guardiões, mas ainda há um Cofre final que vocês devem explorar. É aqui que vocês encontrarão alguns dos segredos mais poderosos e perigosos que preservamos para proteger sua civilização dos Shakturi.\n\nInstamos vocês a [HL]explorar este Cofre em {0}[/HL] sem demora e se empoderar com as maiores armas de seus ancestrais.
+ShakturiMissionCompletion_ExploreShakturiMindVault		;Vocês aprenderam tanto e chegaram tão longe. Estamos muito orgulhosos de vocês, criaturas biológicas. E seus ancestrais que nos criaram diriam o mesmo se ainda estivessem vivos. Agora vocês possuem alguns dos segredos mais poderosos da antiga galáxia.\n\n[HL]Mega-Naves[/HL] são caras e consomem muitos recursos, mas elas proporcionarão vantagens estratégicas significativas. Instamos vocês a não desperdiçar essas naves ou arriscar suas vidas a menos que estejam em busca de ganhos estratégicos indiscutíveis.\n\nVocês também devem saber que os Shakturi possuem suas próprias Mega-Naves, enormes [HL]Destruidores de Planetas[/HL] que ameaçarão sua civilização. Vocês devem fazer tudo o que estiver ao seu alcance para se proteger contra essas ameaças. Muitas vezes, a melhor resposta a uma mega-nave é outra mega-nave.\n\nVocês também descobriram o segredo de como engendrar o [HL]Vírus Xaraktor[/HL]. Praticamente todas as espécies sencientes têm mitos que detalham o potencial destrutivo de novas tecnologias. Aquilo que pode destruir seu inimigo pode reverter contra você. Não há exemplo maior disso do que o Vírus Xaraktor. Embora possa devastar os Shakturi, também pode afetar sua própria população com resultados horríveis e incontroláveis.\n\nIsso deve ser considerado uma [HL]arma de último recurso[/HL]. É melhor usá-la do que ver a galáxia cair nas mãos dos Shakturi, mas usá-la sem verdadeira necessidade causaria grandes danos. Podemos apenas esperar que vocês possuam a sabedoria necessária para controlar essa terrível arma.
+ShakturiMissionIntro_ExploreShakturiArchive		;Vocês já estão familiarizados com nossa história. Nos dias finais da Antiga Galáxia, antes do grande Cataclismo, os Antigos Guardiões buscaram preservar o conhecimento caso a ameaça Shakturi ressurgisse.\n\nVocês também devem saber que os Shakturi, por sua vez, buscaram preservar parte de seu conhecimento em Arquivos, que esconderam nesta galáxia. Vocês fariam bem em [HL]procurar esses Arquivos em {0}[/HL] e aprender a usar o conhecimento dos Shakturi contra eles.\n\nMas tenham cuidado, pois os Shakturi sempre armaram armadilhas para proteger seus tesouros.
+ShakturiMissionCompletion_ExploreShakturiArchive		;
+ShakturiMissionIntro_DestroyShakturiPlanetDestroyer		;Criaturas biológicas, uma das maiores ameaças que vocês enfrentam vem dos Destruidores de Planetas Shakturi e sua capacidade de exterminar completamente sua civilização.\n\nMesmo para os Shakturi, esses Destruidores de Planetas representam um grande esforço. Sempre que vocês puderem remover uma dessas armas de seus inimigos, estarão prejudicando seriamente seus esforços de guerra.\n\nÉ por essa razão que devemos solicitá-los a procurar uma dessas enormes naves. [HL]Destruam {0}[/HL] para dar um passo mais perto da vitória.
+ShakturiMissionCompletion_DestroyShakturiPlanetDestroyer		;Parabenizamos vocês por seu grande sucesso. Os Shakturi não conseguem substituir facilmente seus Destruidores de Planetas. Cada um que vocês tomam de suas mãos é uma vitória significativa.\n\nMas não descansem. Ainda há muito a fazer se vocês esperam sobreviver.
+ShakturiMissionIntro_CaptureShakturiPlanetDestroyer		;Criaturas biológicas, uma das maiores ameaças que vocês enfrentam vem dos Destruidores de Planetas Shakturi e sua capacidade de exterminar completamente sua civilização.\n\nMesmo para os Shakturi, esses Destruidores de Planetas representam um grande esforço. Sempre que vocês puderem remover uma dessas armas de seus inimigos, estarão prejudicando seriamente seus esforços de guerra.\n\nÉ por essa razão que devemos solicitá-los a procurar uma dessas enormes naves. [HL]Capturem {0}[/HL] para dar um passo mais perto da vitória.
+ShakturiMissionCompletion_CaptureShakturiPlanetDestroyer		;Parabenizamos vocês por seu grande sucesso. Os Shakturi não conseguem substituir facilmente seus Destruidores de Planetas. Cada um que vocês tomam de suas mãos é uma vitória significativa.\n\nMas não descansem. Ainda há muito a fazer se vocês esperam sobreviver.
+ShakturiMissionIntro_DestroyShakturiBeacon		;Orgânicos, o ataque dos Shakturi ocorre em muitas frentes usando uma ampla variedade de armas, mas seria sábio atacar o coração do poder deles.\n\nDevemos solicitá-los a levar a luta ao inimigo [HL]destruindo um de seus Beacons em {0}[/HL]. Isso será um golpe do qual eles não se recuperarão tão cedo!\n\nEste é um dos objetivos-chave que vocês podem alcançar para avançar ainda mais sua causa e prejudicar a deles.
+ShakturiMissionCompletion_DestroyShakturiBeacon		;Muito bem, criaturas biológicas! Vocês são realmente uma maravilha!\n\nOs Shakturi usam seus Beacons para facilitar a viagem através de buracos de minhoca entre esta galáxia e a deles. Ao destruir o Beacon, vocês prejudicaram suas linhas de suprimento e desaceleraram sua capacidade de fornecer reforços.\n\nEste é um grande dia e um golpe decisivo contra os Shakturi.
+ShakturiMissionIntro_CaptureShakturiSpy		;Trago um aviso a vocês, criaturas orgânicas! Agentes Shakturi operam entre vocês. Isso não pode continuar.\n\nInstamos vocês a procurar e [HL]capturar o espião Shakturi chamado {0}[/HL].
+ShakturiMissionCompletion_CaptureShakturiSpy		;Vocês fizeram bem em capturar o espião Shakturi. Ao acessar seus sistemas de vigilância, pudemos observar a interrogatório do cativo.\n\nEsses agentes Shakturi usam suas habilidades psíquicas para influenciar os mecanismos internos de seu império e minar os esforços de políticos, diplomatas, generais, almirantes e outros agentes de espionagem.\n\nSomente pesquisando e aprimorando os meios de defesa psíquica vocês poderão esperar frustrar essas infiltrações perigosas.
+ShakturiMissionIntro_CaptureShakturiAmbassador		;Sentientes biológicos vocalizam muito, mas às vezes o que dizem é destinado a enganar em vez de informar. Observamos isso ao longo dos milênios.\n\nEm nenhum lugar isso é mais verdadeiro do que entre seus diplomatas, que mentem uns aos outros, cada um sabendo que o outro engana, mas esperando separar os grãos de engano dos núcleos de verdade.\n\nAté mesmo os Shakturi têm embaixadores, espalhando enganos na tentativa de transformar potenciais inimigos em vítimas dispostas. Mesmo receber um embaixador Shakturi é perigoso, mas às vezes um poder mais fraco não tem escolha a não ser parecer aberto à negociação.\n\nMesmo enquanto nos comunicamos com vocês agora, diplomatas Shakturi estão viajando por todos os impérios desta galáxia, tentando persuadir os fracos de mente e os desesperados de que seria sábio fazer uma aliança com aqueles que buscam sua eliminação.\n\nSeria prudente [HL]capturar um desses embaixadores chamado {0}[/HL] e descobrir os segredos de sua arte para que possam proteger melhor a si mesmos e seus aliados contra suas maquinações.
+ShakturiMissionCompletion_CaptureShakturiAmbassador		;O diplomata é um dos mais traiçoeiros e elusivos dos castas Shakturi, e vocês devem ser parabenizados por capturar um com sucesso.\n\nEnquanto continuam a interrogá-lo, não há dúvida de que ficarão horrorizados com as profundezas de sua duplicidade. Quaisquer segredos que ele revele, saibam que vocês estão apenas arranhando a superfície dos métodos Shakturi de manipular outros seres.\n\nSeu império luta contra um inimigo que pode, por meios psíquicos, convencer suas vítimas a aceitar voluntariamente a dominação e, em última instância, o massacre. Todos os seres orgânicos são vulneráveis a esses métodos, incluindo sua própria população e seus aliados.\n\nVocês devem continuar a perseguir sua pesquisa em defesas psíquicas contra a diplomacia Shakturi para aprender maneiras de combater a influência sinistra desses inimigos perigosos.
+ShakturiMissionIntro_CaptureShakturiGeneral		;Agora, vocês certamente já observaram que os Shakturi são lutadores formidáveis, não apenas no espaço, mas também no combate terrestre.\n\nSeus generais são criados para se destacarem em estratégia e táticas militares, capazes de entender as complexidades do combate em um nível que, francamente, vocês não conseguem sequer imaginar. Mas vocês podem imaginar melhor do que fazem agora.\n\nInstamos vocês a [HL]capturar um de seus generais chamado {0}[/HL] em um esforço para entender como essas criaturas abordam o combate terrestre. Os segredos que vocês descobrirem podem muito bem ser a diferença entre a vitória e a extinção.
+ShakturiMissionCompletion_CaptureShakturiGeneral		;Não temos ilusões de que capturar um general Shakturi possa ter sido uma tarefa fácil. Sem dúvida, vocês sacrificaram muitas de suas frágeis vidas biológicas e facilmente rompíveis para alcançar esse objetivo monumental.\n\nO preço valerá o esforço, pois seu prisioneiro agora ajudará vocês a entender como os Shakturi veem o campo de batalha, como eles aprimoram seus soldados e, mais importante, como manipulam o campo de batalha controlando as mentes das tropas adversárias, até o ponto de fazê-las lutar em nome dos Shakturi.\n\nContinuem seus esforços em pesquisar defesas psíquicas e engenharia genética. Isso ajudará vocês a descobrir novas maneiras de evitar e contrabalançar as poderosas habilidades de seu inimigo. É a única maneira de vocês sobreviverem.
+ShakturiMissionIntro_CaptureShakturiAdmiral		;Os Shakturi são capazes de trazer naves aterrorizantes para derrotar seus inimigos em combate espacial, mas não é apenas a tecnologia que os torna tão formidáveis.\n\nSob a orientação dos almirantes especialmente criados, as naves Shakturi atacam com propósito, astúcia e eficiência mortal. As mentes de seus almirantes não podem ser completamente compreendidas, mas podem ser entendidas melhor.\n\nTomem as rédeas da situação com seus apêndices preensíveis, [HL]capturando um de seus almirantes chamado {0}[/HL]!
+ShakturiMissionCompletion_CaptureShakturiAdmiral		;Batalhas espaciais! O choque de grandes embarcações. A tristeza das criaturas biológicas sendo sugadas para o vácuo do abismo. Coisas muito dramáticas!\n\nE, mais importante, vocês capturaram um almirante Shakturi. Devem descobrir tudo o que essa criatura pode lhes dizer.\n\nSem dúvida, vocês aprenderão muito sobre como esse inimigo formidável pensa, e isso ajudará em seus esforços para derrotar os Shakturi. Ataques e manipulações psíquicas são uma parte importante de suas estratégias, que permitem desativar suas naves e até controlar as mentes de suas tripulações para forçá-las a disparar contra seus próprios aliados.\n\nVocês devem continuar a encontrar maneiras de resistir a seus esforços. Somente aprendendo mais sobre as misteriosas artes de defesa psíquica vocês poderão proteger plenamente suas naves, seu império e todas as espécies sencientes desta galáxia.
+ShakturiMissionIntro_AddMemberToFreedomAlliance		;Criaturas orgânicas, avançadas e bem-sucedidas como vocês são, não podem derrotar os Shakturi sozinhas.\n\nEntre as estrelas, vocês encontrarão outras civilizações que também lutam para resistir aos Shakturi. Sozinhas, elas podem fazer pouco para ajudar sua causa, mas se vocês conseguirem trazer alguma delas para sua Aliança da Liberdade, a resistência aos Shakturi será muito mais forte.\n\nInstamos vocês a procurar outros impérios e [HL]convencê-los a se juntar à Aliança da Liberdade[/HL].
+ShakturiMissionCompletion_AddMemberToFreedomAlliance		;
+ShakturiMissionIntro_ResearchPinnacleTechs		;Entidades biológicas, vocês fizeram grandes progressos. Estamos verdadeiramente impressionados. Às vezes, temíamos que vocês não sobrevivessem por tanto tempo, mas aqui estão!\n\nA batalha à frente pode parecer formidável, mas vocês avançaram muito, em grande parte devido à sua dedicação em pesquisar a tecnologia Shakturi e os meios de combatê-la.\n\nNão parem agora. Vocês não devem apenas entender a tecnologia do inimigo, mas também dominá-la conhecendo tudo o que pode ser conhecido em um dos ramos do conhecimento.\n\nInstamos vocês a se dedicarem à pesquisa de [RESEARCH]{0}[/RESEARCH]. Fazer isso aumentará sua capacidade de resistir aos muitos ataques do inimigo e os aproximará ainda mais da vitória.
+ShakturiMissionCompletion_ResearchPinnacleTechs		;
+ShakturiMissionIntro_DestroyShakturiFlagship		;Criaturas vivas, uma oportunidade notável se apresenta.\n\nOs Shakturi colocam pessoal e pesquisa significativos a bordo de seus porta-naves. Destruir um deles desferirá um golpe monumental contra o inimigo, um que dificultará sua capacidade de continuar o ataque.\n\nInstamos vocês a reunir suas forças e [HL]destruir o porta-naves Shakturi '{0}'[/HL]. Desferir um golpe pela liberdade galáctica!
+ShakturiMissionCompletion_DestroyShakturiFlagship		;
+
+War Missions		;Missões de Guerra
+War Mission Assigned		;Missão de Guerra Atribuída
+
+Incoming Planet Destroyer		;Destruidor de Planetas a Caminho
+A Planet Destroyer is en route to destroy this enemy colony		;Um Destruidor de Planetas ({0}) está a caminho para destruir esta colônia inimiga
+
+Our capital enjoys lower corruption		;Nossa capital desfruta de menor corrupção
+
+This location has a dangerous storm with damaging effects		;Esta localização tem uma tempestade perigosa com efeitos prejudiciais
+Our latest colony ship design has inadequate defenses to protect itself		;Nosso mais recente design de nave colonizadora tem defesas inadequadas para se proteger
+
+Fleet Composition		;Composição da Frota
+Fleet Tech Level		;Nível de Tecnologia da Frota
+Fleet Starting Location		;Localização Inicial da Frota
+
+Refugee Fleet Composition Explanation		;Selecione a composição de naves da sua Frota de Refugiados.\n\nAlgumas frotas são mais focadas em militar e defesa, enquanto outras se concentram em exploração ou aquisição de recursos.
+Refugee Fleet Size Basic		;Básica
+Refugee Fleet Size Military		;Militar
+Refugee Fleet Size Colonization		;Exploração e Colonização
+Refugee Fleet Size Resource		;Recursos
+Refugee Fleet Size Explanation Basic		;Uma frota básica com uma composição equilibrada de naves.
+Refugee Fleet Size Explanation Military		;Esta frota adiciona um Cruzador e um pequeno Porta-naves para oferecer uma força defensiva significativa.
+Refugee Fleet Size Explanation Colonization		;Esta frota possui uma Nave Colônia adicional, permitindo um crescimento muito melhor uma vez que seu império encontre um lar. Também possui naves de Exploração e Naves de Passageiros extras.
+Refugee Fleet Size Explanation Resource		;Esta frota tem naves de Mineração e Cargueiros adicionais. Também possui um Tanque de Combustível extra.
+Refugee Fleet Tech Level Explanation		;Selecione o nível de tecnologia para sua Frota de Refugiados.\n\nNíveis de tecnologia mais altos oferecem melhores hiperdimensões, scanners, armas e defesas. Isso facilita chegar ao seu destino e estabelecer sua colônia inicial.\n\nNíveis de tecnologia mais baixos dificultam a operação eficaz da sua Frota de Refugiados. Hiperdimensões de baixa tecnologia podem tornar isso particularmente desafiador, com seu baixo alcance de salto e, portanto, baixo alcance de combustível.
+Refugee Fleet Tech Level X		;Nível {0}
+Starting Location Explanation Refugee Fleet		;A localização aproximada de início da sua frota dentro da galáxia.\n\nEsta não é uma configuração precisa. Ela simplesmente determina a região da galáxia onde sua frota começa.\n\nEsta área é indicada por sombreamento azul na prévia da galáxia abaixo.
+Your fleet is comprised of the following ships		;Sua frota é composta pelas seguintes naves
+StartNewGame_YourStartingSituationRefugeeFleet		;Situação Inicial da Frota de Refugiados
+Your Empire Tech Level		;Nível de Tecnologia do Seu Império
+
+Refugee Fleet Situation Introduction		;[BAD]Cruéis invasores alienígenas forçaram você a fugir de seu mundo natal, e você está em fuga![/BAD]\n\nVocê não tem colônias. Em vez disso, você começa com uma pequena frota de naves, incluindo algumas naves militares, alguns tanques de combustível, algumas naves de exploração e sua única Nave Colônia. Seu objetivo é estabelecer um novo mundo natal, então selecionar um novo governo e transitar para o jogo normal.\n\n[B]Mas para onde você irá?[/B]\n\nMitos antigos registram um tempo no distante passado quando um grupo do seu povo foi exilado, deixando seu mundo natal para trás e viajando longe através das estrelas para estabelecer seu próprio novo mundo. Com o tempo, o contato com eles foi perdido. [HL]Podemos encontrá-los novamente e unir forças?[/HL]\n\n[B]Temos várias pistas sobre sua localização na galáxia. Devemos viajar para estas coordenadas (marcadas em nosso mapa) e investigar.[/B] Talvez possamos eventualmente encontrar nossos irmãos há muito perdidos e nos reunir com eles mais uma vez.\n\nAlternativamente, se não conseguirmos encontrá-los, também podemos estabelecer uma nova colônia por conta própria. Temos uma enorme Nave Colônia contendo toda a população remanescente em nossa facção. Podemos usar isso para estabelecer nosso novo mundo natal. Devemos procurar cuidadosamente um planeta que seja adequado para nossa raça. É essencial que protejamos nossa Nave Colônia. Se perdermos isso, então perdemos tudo.\n\nAssim que estabelecermos nosso novo mundo natal, selecionaremos um novo governo e faremos a transição para um império normal, com todas as características habituais: pesquisa, construção, mineração e mais colonização. Se não conseguirmos selecionar manualmente um novo governo dentro de 2-3 meses, um governo padrão será escolhido automaticamente para nós.
+
+Cannot change government away from Refugee Fleet until establish first colony		;Não é possível mudar o governo da Frota de Refugiados até estabelecer a primeira colônia
+
+It seems that the exiled faction of our race were here at some point in the distant past		;[HL]Parece que a facção exilada da nossa raça esteve aqui em algum momento no passado distante.[/HL]
+We should proceed to these coordinates. They are marked on our galaxy map with a dashed blue expanding ping circle		;[B]Devemos prosseguir para essas coordenadas.[/B] Elas estão marcadas em nosso mapa galáctico com um círculo de ping azul em expansão e tracejado.
+They constructed this facility which has since fallen into disrepair and ruin		;Eles construíram esta instalação que desde então caiu em desuso e ruínas.
+In the ruins we have found a heavily-damaged computer core. Most of the data has been lost. But we have been able to recover a set of galactic map coordinates		;Nas ruínas encontramos um núcleo de computador severamente danificado. A maior parte dos dados foi perdida. [HL]Mas conseguimos recuperar um conjunto de coordenadas do mapa galáctico.[/HL]
+They constructed this ROLE which has long since been abandoned		;Eles construíram este {0} que há muito foi abandonado.
+Onboard the base we have found a heavily-damaged computer core. Most of the data has been lost. But we have been able to recover a set of galactic map coordinates		;A bordo da base encontramos um núcleo de computador severamente danificado. A maior parte dos dados foi perdida. Mas conseguimos recuperar um conjunto de coordenadas do mapa galáctico.
+Onboard the ship we have found a heavily-damaged computer core. Most of the data has been lost. But we have been able to recover a set of galactic map coordinates		;A bordo da nave encontramos um núcleo de computador severamente danificado. A maior parte dos dados foi perdida. Mas conseguimos recuperar um conjunto de coordenadas do mapa galáctico.
+This appears to be one of their ships, damaged and long since abandoned		;Isto parece ser uma de suas naves, danificada e há muito abandonada.
+This field of debris appears to be the remains of one of their ships		;Este campo de destroços parece ser os restos de uma de suas naves.
+This computer core is heavily damaged, and most of the data has been lost. But we have been able to recover a set of galactic map coordinates		;Este núcleo de computador está severamente danificado, e a maior parte dos dados foi perdida. Mas conseguimos recuperar um conjunto de coordenadas do mapa galáctico.
+
+The trail has finally led us to this potential colony at COLONY		;A trilha finalmente nos levou a esta potencial colônia em {0}!
+The conditions at COLONY look very suitable. We should establish our colony here		;As condições em {0} parecem muito adequadas. Devemos estabelecer nossa colônia aqui.
+Once we establish this colony we will select a new government and Explanation		;Uma vez que estabelecermos esta colônia, devemos imediatamente selecionar um novo governo (Seu Império > Governo) e fazer a transição para um império normal, com todos os recursos habituais: pesquisa, construção, mineração e mais colonização.
+Once their colony joins us we will select a new government and Explanation		;Uma vez que a colônia deles se junte a nós, devemos imediatamente selecionar um novo governo (Seu Império > Governo) e fazer a transição para um império normal, com todos os recursos habituais: pesquisa, construção, mineração e mais colonização.
+Note that if we do not manually select a new government, an appropriate new government will be automatically selected for us		;Observe que se não selecionarmos manualmente um novo governo, um novo governo apropriado será selecionado automaticamente para nós.
+
+The trail has finally led us to the colony of the long-lost exiles of our race at COLONY		;A trilha finalmente nos levou à colônia dos exilados há muito perdidos da nossa raça em {0}.
+Long ago, through great trials they survived and made their way here		;Há muito tempo, através de grandes provações, eles sobreviveram e chegaram até aqui.
+They welcome us with great eagerness, overwhelmed to hear the story of the loss of our homeworld and our desperate struggle across the stars as refugees, an account so similar to their own history.		;Eles nos recebem com grande entusiasmo, sobrecarregados ao ouvir a história da perda de nosso mundo natal e nossa luta desesperada pelas estrelas como refugiados, um relato tão semelhante à sua própria história.
+COLONY wishes to join with us in a new RACE empire. However they ask us to perform one great task before this		;[B]{0} deseja se unir a nós em um novo {1} império. No entanto, eles nos pedem para realizar uma grande tarefa antes disso.[/B]
+They have been harassed for many years by a great pirate clan that keeps them isolated and cut off from the rest of the galaxy		;Eles têm sido importunados por muitos anos por um grande clã de piratas que os mantém isolados e cortados do resto da galáxia.
+The pirates have a base in this system at PLANET. We must destroy this base (BASE), and then they will happily join us		;Os piratas têm uma base neste sistema em {0}. [HL]Devemos destruir esta base ({1}), e então eles se juntarão a nós felizmente.[/HL]
+We have defeated the pirate base! The inhabitants of PLANET are overjoyed. They have joined with us and we now once again have a homeworld!		;Derrotamos a base pirata! Os habitantes de {0} estão radiantes. Eles se juntaram a nós e agora temos novamente um mundo natal!
+
+We have defeated the pirate base! The inhabitants of PLANET are overjoyed. They have joined our empire!		;Derrotamos a base pirata! Os habitantes de {0} estão radiantes. Eles se juntaram ao nosso império!
+At last we have been reunited with our long-lost brothers! Together we can build a new future and expand across the stars		;Finalmente, fomos reunidos com nossos irmãos há muito perdidos! Juntos podemos construir um novo futuro e expandir pelas estrelas.
+
+Reunited With The Exiles!		;Reunidos Com Os Exilados!
+
+We must now immediately select a new government Explanation			;Devemos agora imediatamente selecionar um novo governo (Seu Império > Governo) e fazer a transição para um império normal, com todos os recursos habituais: pesquisa, construção, mineração e mais colonização.
+Despite many difficulties as wandering refugees, we have successfully traversed the stars and found a new home!		;Apesar de muitas dificuldades como refugiados errantes, conseguimos atravessar as estrelas e encontrar um novo lar!
+
+Shakturi Share their Secrets		;Shakturi Compartilham Seus Segredos
+Shakturi Share Planet Destroyer Tech Explanation		;Eventos recentes convenceram os Shakturi de que devem compartilhar sua tecnologia mais bem guardada conosco.\n\nEles revelaram como construir poderosas naves destruidoras de planetas e suas armas super relacionadas. Com essas tecnologias excepcionais, seremos capazes de derrotar a insignificante Aliança da Liberdade!\n\nPara desbloquear totalmente essa tecnologia, devemos completar a pesquisa nos 2 novos projetos em nossa árvore tecnológica. Esses projetos já foram enfileirados para pesquisa.\n\nEntão poderemos projetar e construir naves destruidoras de planetas. Devemos nos apressar para explorar esse grande poder!
+Ancient Guardians Share their Secrets		;Guardians Antigos Compartilham Seus Segredos
+Ancient Guardians Share Planet Destroyer Tech Explanation		;Eventos recentes convenceram os Guardiões Antigos de que devem compartilhar sua tecnologia mais bem guardada conosco.\n\nEles revelaram como construir poderosas naves destruidoras de planetas e suas armas super relacionadas. Com essas tecnologias excepcionais, seremos capazes de derrotar o maligno Eixo Shaktur!\n\nPara desbloquear totalmente essa tecnologia, devemos completar a pesquisa nos 2 novos projetos em nossa árvore tecnológica. Esses projetos já foram enfileirados para pesquisa.\n\nEntão poderemos projetar e construir naves destruidoras de planetas. Devemos nos apressar para explorar esse grande poder!\n\nVocê também deve notar que os Shakturi provavelmente responderão dando a seus aliados no Eixo Shaktur essas mesmas tecnologias para usarem contra nós. A corrida para atacar primeiro começou!
+
+Refugee Fleet Switch Government Title		;Mudar Governo
+Refugee Fleet Switch Government Explanation		;Você estabeleceu sua primeira colônia! Sua Frota de Refugiados agora tem um lugar para chamar de lar.\n\nAgora você deve fazer a transição para um novo tipo de governo. Você pode selecionar manualmente um novo governo na tela de Governo e mudar para ele clicando no botão 'Mudar' na parte inferior.\n\nSe você não selecionar manualmente um novo governo, um novo será selecionado automaticamente para você dentro de 2-3 meses.
+
+Will always vote with subjugator Explanation		;Sempre votará com o subjugador\n({0})
+
+Your empire has no construction ships		;Seu império não tem naves de construção
+
+Message SubType DiplomacyTreaties		;Diplomacia: Tratados
+Message SubType DiplomacyGiftTradeDeal		;Diplomacia: Presentes e Negócios de Comércio
+Message SubType DiplomacyWarStartEndVassals		;Diplomacia: Guerras e Vassalos
+Message SubType DiplomacyFirstContact		;Diplomacia: Primeiro Contato
+Message SubType ResearchBreakthrough		;Avanços em Pesquisa
+Message SubType ResearchLocationDiscovery		;Descoberta de Local de Pesquisa
+Message SubType ResearchCrashProgress		;Colapso de Projetos de Pesquisa
+Message SubType ColoniesNewColony		;Nova Colônia ou Posto estabelecido
+Message SubType ColoniesEventsDisasters		;Desastres Coloniais
+Message SubType ColoniesEventsPlagueStart		;Início da Praga
+Message SubType ColoniesEventsPlagueCure		;Praga Curada
+Message SubType ColoniesEventsPlagueSpread		;Praga se Espalha
+Message SubType ColoniesEventsOther		;Outros Eventos Coloniais
+Message SubType ColoniesRebellionsLosses		;Rebeliões e Perdas Coloniais
+Message SubType ExplorationAbandonedShipsBases		;Exploração de Naves e Bases Abandonadas
+Message SubType ExplorationRuins		;Exploração de Ruínas
+Message SubType ExplorationSalvage		;Descobertas de Salvamento
+Message SubType ExplorationUnknownItems		;Exploração de Itens Desconhecidos Detectados
+Message SubType ExplorationBonusesArtifacts		;Bônus e Artefatos de Exploração
+Message SubType ExplorationResources		;Novos Recursos Descobertos
+Message SubType EconomyScrapShips		;Naves ou Bases Desmanteladas
+Message SubType ConstructionStateMilitary		;Nova Nave Militar Construída
+Message SubType ConstructionStateBase		;Nova Base Estadual Construída
+Message SubType ConstructionStateOther		;Nova Nave Estadual Construída
+Message SubType ConstructionCivilianBase		;Nova Base Civil Construída
+Message SubType ConstructionCivilianShips		;Nova Nave Civil Construída
+Message SubType MilitaryColonyRaid		;Alvo de Saque
+Message SubType MilitaryColonyBombardment		;Bombardeando Colônia
+Message SubType MilitaryColonyInvasion		;Invadindo Colônia
+Message SubType MilitaryColonyConquered		;Colônia Inimiga Conquistada
+Message SubType MilitaryColonyLost		;Nossa Colônia Conquistada
+Message SubType MilitaryShipCaptured		;Nave Capturada
+Message SubType MilitaryBaseCaptured		;Base Capturada
+Message SubType MilitaryPlanetDestroyer		;Destruidor de Planeta em Rumo
+Message SubType UnderAttackIncomingEnemyFleet		;Frota Inimiga em Rumo
+Message SubType UnderAttackColonyBombardment		;Sob Ataque: Bombardeio de Colônia
+Message SubType UnderAttackColonyInvasion		;Sob Ataque: Invasão de Colônia
+Message SubType UnderAttackPlanetDestroyed		;Sob Ataque: Planeta Destruído
+Message SubType UnderAttackCivilian		;Sob Ataque: Naves Não Militares
+Message SubType UnderAttackMilitary		;Sob Ataque: Naves Militares
+Message SubType UnderAttackMiningStation		;Sob Ataque: Estação de Mineração
+Message SubType UnderAttackResearchResortMonitoringSpaceport		;Sob Ataque: Estação de Pesquisa, Base de Resort, Estação de Monitoramento, Espaçonave
+Message SubType StoryGeneral		;Mensagens Gerais da História
+Message SubType StoryHiveSighting		;Avistamento da Colmeia
+Message SubType StoryHiveEncounterAwoken		;Encontro com a Colmeia
+Message SubType GalaxyNewsEmpireEliminated		;Notícias da Galáxia: Império Eliminado
+Message SubType GalaxyNewsWarStartEndVassals		;Notícias da Galáxia: Guerra, Vassalos
+Message SubType GalaxyNewsAllianceVotes		;Notícias da Galáxia: Votos de Aliança
+Message SubType GalaxyNewsGovernmentLeader		;Notícias da Galáxia: Mudanças de Governo ou Líder
+Message SubType GalaxyNewsMajorThreatSightings		;Notícias da Galáxia: Avistamentos de Ameaças Maiores
+Message SubType GalaxyNewsColonyDestroyed		;Notícias da Galáxia: Colônia Destruída
+Message SubType GalaxyNewsColonyConquests		;Notícias da Galáxia: Conquistas de Colônia
+Message SubType GalaxyNewsColonyPlagueStart		;Notícias da Galáxia: Início da Praga
+Message SubType GalaxyNewsColonyPlagueSpread		;Notícias da Galáxia: Praga se Espalha
+Message SubType GalaxyNewsColonyDisasters		;Notícias da Galáxia: Desastres Coloniais
+Message SubType GalaxyNewsColonyEventsOther		;Notícias da Galáxia: Outros Eventos Coloniais
+Message SubType GalaxyNewsWonders		;Notícias da Galáxia: Maravilhas Construídas
+Message SubType CharactersLeader		;Mudança de Líder
+Message SubType CharactersGainLoss		;Personagens Ganhados ou Perdidos
+Message SubType CharactersSpyMissionOutcomeNotDetectCapture		;Resultado da Missão de Espionagem
+Message SubType CharactersSpyMissionDetected		;Missão de Espionagem Detectada
+Message SubType CharactersSpyMissionCaptured		;Espião Capturado
+Message SubType RetrofitState		;Retrofit de Naves Estaduais
+Message SubType RetrofitCivilian		;Retrofit de Naves Civis
+
+EmpireMessageCategory Full Undefined		;Todas as Mensagens
+EmpireMessageCategory Full General		;Mensagens Gerais
+EmpireMessageCategory Full Combat		;Mensagens de Combate
+EmpireMessageCategory Full AdvisorSuggestions		;Mensagens de Conselheiros
+EmpireMessageCategory Full GalaxyNews		;Mensagens de Notícias da Galáxia
+
+EmpireMessageCategory Undefined		;Todas as Mensagens
+EmpireMessageCategory General		;Geral
+EmpireMessageCategory Combat		;Combate
+EmpireMessageCategory AdvisorSuggestions		;Conselheiros
+EmpireMessageCategory GalaxyNews		;Notícias da Galáxia
+X of Y filters		;{0} de {1} filtros
+Show Log		;Mostrar Log
+Hide Log		;Ocultar Log
+EmpireMessage FocusLevel All		;Todos os Tipos
+EmpireMessage FocusLevel Default		;Padrão
+EmpireMessage FocusLevel Focus		;Focado
+EmpireMessage FocusLevel HighFocus		;Prioritário
+EmpireMessage FocusLevel Custom		;Personalizado
+
+Click to show filters		;Clique para mostrar filtros
+Click to hide filters		;Clique para ocultar filtros
+Click to show message log		;Clique para mostrar o log de mensagens
+Click to hide message log		;Clique para ocultar o log de mensagens
+
+Preset		;Predefinição
+All Advisor Suggestions		;Todos os Conselheiros
+
+Combat Overlay		;Sobreposição de Combate
+Fleet Overlay		;Sobreposição de Frota
+
+Shakturi Victory Condition Change Title		;Condições de Vitória Shakturi Aplicadas
+Shakturi Victory Condition Change		;A Guerra Final Shakturi contra a Aliança da Liberdade começou.\n\nSuas condições de vitória foram alteradas até que a Guerra Shakturi seja resolvida.\n\nPor favor, veja sua tela de Condições de Vitória para mais detalhes.

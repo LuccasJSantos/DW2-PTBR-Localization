@@ -1,0 +1,17 @@
+Esta tela lista os potenciais novos locais de mineração que você pode direcionar. Estes locais são onde você deve construir novas estações de mineração.
+
+Verifique as opções de ordenação e filtragem na parte superior do painel. As opções de filtro permitem que você direcione recursos específicos. Itens de filtro coloridos em amarelo são recursos de construção usados para construir novos navios e bases. Itens de filtro azul claro são recursos de luxo usados para desenvolver suas colônias.
+
+Quando você dá zoom no nível da galáxia ou do sistema, os novos locais de mineração são destacados no mapa. Passar o mouse sobre um item da lista sinaliza a localização no mapa. Clicar no item selecionará sua localização. Dando um duplo clique no item moverá a visualização para essa localização.
+
+Cada item da lista mostra os recursos conhecidos e os níveis de abundância no local. Se seu império tiver uma escassez do recurso, ele será cercado por uma borda vermelha tracejada. Passe o mouse sobre cada recurso para uma descrição completa, incluindo quaisquer bônus que ele forneça.
+
+[H3]Fila de Novas Estações de Mineração[/H3]
+O botão à direita permite que você coloque em fila a construção de uma nova estação de mineração no local. Quando a próxima nave de construção estiver disponível, ela construirá uma estação de mineração aqui. Você pode clicar no botão novamente para cancelar a construção.
+
+Se você não puder construir no local, o botão de Fila estará desativado. Uma dica sobre o botão explicará por que você não pode construir lá.
+
+[H3]Locais Perigosos[/H3]
+Um símbolo de raio vermelho será mostrado ao lado do nome do local se o local for considerado perigoso. Um local é perigoso quando há ameaças não eliminadas presentes, como piratas ou criaturas espaciais mortais.
+
+Naves não militares não viajarão para um local perigoso. As ameaças devem ser primeiro eliminadas por naves militares ou uma frota. Isso significa que, embora você possa colocar em fila a construção de novas estações de mineração em um local perigoso, as naves de construção não irão lá para construir a nova estação até que as ameaças sejam eliminadas.

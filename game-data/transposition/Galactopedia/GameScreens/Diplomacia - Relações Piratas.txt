@@ -1,0 +1,22 @@
+Piratas são facções fora da lei que vivem inteiramente no espaço, em naves ou bases. Eles não possuem colônias. Os piratas geralmente são hostis e antipáticos. Eles saqueiam e pilham, levando o que querem.
+
+No entanto, você pode melhorar as relações com os piratas aceitando acordos de 'proteção' ou oferecendo presentes. Alternativamente, você pode simplesmente fortalecer suas forças e eliminá-los.
+
+[H3]Lista de Facções Piratas[/H3]
+Esta tela lista todas as suas relações com facções piratas. Verifique as várias opções de ordenação e filtragem na parte superior do painel.
+
+Cada item da lista mostra como a facção pirata se sente em relação a você, juntamente com a tendência do seu relacionamento.
+
+Clicar em um item de relação na lista selecionará a base pirata, se conhecida.
+
+[H3]Painel de Detalhes da Relação[/H3]
+Passar o cursor sobre um item da lista mostra o painel de Detalhes da Relação à direita. Clicar no item da lista ou no painel de detalhes manterá o painel aberto.
+
+O painel de detalhes fornece um resumo completo do seu relacionamento com a facção pirata selecionada, com informações semelhantes ao que você veria ao interagir com outro império.
+
+[H3]Falando com Piratas[/H3]
+Você pode conversar com os piratas clicando no botão 'Falar' abaixo do nome deles no painel de detalhes. As discussões com piratas oferecem opções como oferecer tratados e presentes, além de negociar acordos comerciais detalhados.
+
+Os piratas costumam ter muitas informações secretas sobre a galáxia, que podem estar dispostos a vender para você se as relações forem amigáveis o suficiente.
+
+Clique em 'Adeus' ou no botão de fechar no canto superior direito para encerrar a conversa.

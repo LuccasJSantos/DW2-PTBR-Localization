@@ -152,12 +152,12 @@
 		<CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
 		<CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 		<EmpireNameAdjectives>
-			<string>Provisional</string>
-			<string>Interim</string>
+			<string>Provisório</string>
+			<string>Interino</string>
 		</EmpireNameAdjectives>
 		<EmpireNameNouns>
-			<string>Administration</string>
-			<string>Authority</string>
+			<string>(Administração)</string>
+			<string>(Autoridade)</string>
 		</EmpireNameNouns>
 	</Government>
 
@@ -263,29 +263,29 @@
 		<CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
 		<CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 		<EmpireNameAdjectives>
-			<string>Provisional</string>
-			<string>Interim</string>
+			<string>Provisório</string>
+			<string>Interino</string>
 		</EmpireNameAdjectives>
 		<EmpireNameNouns>
-			<string>Administration</string>
-			<string>Authority</string>
+			<string>(Administração)</string>
+			<string>(Autoridade)</string>
 		</EmpireNameNouns>
 
-		<Description>[HL]Note that this is an advanced start for experienced players who are comfortable with manual play.[/HL]
-		
-Refugee Fleet government gives you a unique starting situation: Cruel alien invaders have forced you to flee your homeworld, and you are on the run.
+		<Description>[HL]Observe que este é um início avançado para jogadores experientes que estão confortáveis com o jogo manual.[/HL]
 
-You have no colonies. Instead you start with a small fleet of ships, including a few military ships, some fuel tankers, some exploration ships, and your lone Colony Ship. Your objective is to establish a new homeworld, then select a new government and transition to normal play.
+O governo da Frota de Refugiados oferece uma situação inicial única: Cruéis invasores alienígenas o forçaram a fugir do seu planeta natal, e você está em fuga.
 
-But where will you go?
+Você não possui colônias. Em vez disso, começa com uma pequena frota de naves, incluindo algumas naves militares, alguns tanques de combustível, algumas naves de exploração, e sua única Nave de Colonização. Seu objetivo é estabelecer um novo planeta natal, então escolher um novo governo e fazer a transição para o jogo normal.
 
-Ancient myths record a time in the distant past when a band of your people were exiled, leaving your homeworld behind and travelling far across the stars to establish their own new world. Over time contact with them was lost. Can we find them again and join forces?
+Mas para onde você irá?
 
-We have several clues as to their location in the galaxy. We should travel to these coordinates (marked on our map) and investigate. Perhaps we will eventually find our long-lost brothers, and become reunited with them once again.
+Mitos antigos registram um tempo no passado distante em que um grupo do seu povo foi exilado, deixando seu planeta natal para trás e viajando longe através das estrelas para estabelecer um novo mundo. Com o tempo, o contato com eles foi perdido. Podemos encontrá-los novamente e unir forças?
 
-Alternatively, if we cannot find them, we can also establish a new colony of our own. We have a massive Colony Ship containing all of the remaining population in our faction. We can use that to establish our new homeworld. We should carefully look for a planet that is suitable for our race. It is essential that we protect our Colony Ship. If we lose this then we have lost all.
+Temos várias pistas sobre sua localização na galáxia. Devemos viajar para essas coordenadas (marcadas em nosso mapa) e investigar. Talvez finalmente encontremos nossos irmãos perdidos há tanto tempo e nos reunamos com eles novamente.
 
-Once we establish our new homeworld we will select a new government and transition to a normal empire, with all of the usual features: research, construction, mining, and further colonization. If we fail to manually select a new government within 2-3 months, a default government will automatically be chosen for us</Description>
+Alternativamente, se não conseguirmos encontrá-los, também podemos estabelecer uma nova colônia por conta própria. Temos uma Nave de Colonização massiva contendo toda a população restante de nossa facção. Podemos usá-la para estabelecer nosso novo planeta natal. Devemos procurar cuidadosamente um planeta que seja adequado para nossa raça. É essencial que protejamos nossa Nave de Colonização. Se a perdermos, então perdemos tudo.
+
+Assim que estabelecermos nosso novo planeta natal, escolheremos um novo governo e faremos a transição para um império normal, com todos os recursos habituais: pesquisa, construção, mineração e colonização adicional. Se não selecionarmos manualmente um novo governo em 2-3 meses, um governo padrão será automaticamente escolhido para nós.</Description>
 		
 	</Government>
 

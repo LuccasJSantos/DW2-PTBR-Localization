@@ -1,0 +1,19 @@
+Os personagens do seu império são exibidos nesta lista. Por padrão, esta lista é filtrada para mostrar apenas funções de personagens que não são espiões. Verifique as várias opções de ordenação e filtro na parte superior do painel.
+
+Você pode ver os detalhes de cada personagem ao passar o mouse sobre a entrada da lista e clicar para fixar o painel aberto à direita.
+
+Você pode mudar o nome de um personagem clicando no nome abaixo do retrato e digitando um novo nome.
+
+
+[H3]Localizações dos Personagens[/H3]
+
+A maioria dos personagens aplica suas habilidades ao local em que estão. Por exemplo, um Almirante aplica suas habilidades militares à frota da qual faz parte. Cientistas aplicam suas habilidades de pesquisa à Estação de Pesquisa onde estão baseados.
+
+Seu Líder aplica suas habilidades ao império como um todo, melhorando seu império de várias maneiras. Por outro lado, quando ele possui níveis de habilidade negativos, pode ser um detrimento para seu império nessas áreas específicas.
+
+Para mover um personagem para um local específico, use a lista suspensa de localizações para selecionar o local e depois clique no botão 'Transferir' para movê-lo até lá.
+
+Se você deseja automatizar completamente a localização de um personagem, pode usar o botão 'Automatizar' abaixo do retrato do personagem à direita.
+
+[H3]Eventos[/H3]
+Na parte inferior do painel de detalhes, há uma lista de todos os eventos nos quais o personagem esteve envolvido. Diversos eventos podem melhorar ou diminuir suas habilidades, ou fornecer novos traços de caráter.

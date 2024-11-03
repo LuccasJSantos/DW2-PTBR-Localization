@@ -1,0 +1,15 @@
+A tela de Design de Naves permite que você crie um novo design para uma nave, base ou caça.
+
+Você gera um novo design adicionando componentes aos compartimentos em um casco.
+
+Seu novo design deve atender a muitos requisitos para ser considerado válido. Por exemplo:
+[ULI]todos os designs devem ter um centro de comando[/ULI]
+[ULI]todos os designs devem armazenar combustível para gerar energia a partir de um reator[/ULI]
+[ULI]todas as naves devem ter motores para serem móveis[/ULI]
+
+Existem muitos outros requisitos específicos para cada função.
+
+[H3]Botão de Recomendações[/H3]
+Verifique o botão de Recomendações e o painel popout à medida que você adiciona componentes ao seu design (na parte superior do painel de Resumo do Design). Algumas recomendações são opcionais (mostradas em amarelo). Outras recomendações são obrigatórias (mostradas em vermelho).
+
+Você não pode salvar seu design até que todos os requisitos sejam atendidos.

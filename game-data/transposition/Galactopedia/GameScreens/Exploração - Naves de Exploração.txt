@@ -1,0 +1,15 @@
+A exploração envolve enviar naves de exploração para visitar mundos desconhecidos, revelando seus recursos, adequação para colonização e quaisquer bônus especiais. Elas também podem encontrar ruínas antigas ou naves ou bases abandonadas que podem ser investigadas.
+
+Em cada localização, a nave de exploração envia equipes de pesquisa para inspecionar o planeta. A pesquisa é lenta e demorada.
+
+Níveis de tecnologia mais altos desbloqueiam componentes de scanners de exploração que permitem uma exploração mais rápida. No entanto, equipes de pesquisa mais lentas ainda podem ser úteis para explorar um local mais minuciosamente e, assim, descobrir itens ocultos mais profundamente.
+
+[H3]Lista de Naves de Exploração[/H3]
+Esta tela lista todas as naves de exploração em seu império. Verifique as opções de ordenação e filtragem na parte superior do painel.
+
+Quando afastado para o nível da galáxia ou do sistema, as localizações das naves de exploração são destacadas no mapa. Passar o mouse sobre um item na lista irá sinalizar a localização no mapa. Clicar no item selecionará a nave de exploração. Um duplo clique no item moverá a visão para aquela localização.
+
+Você pode mudar o status de automação da nave de exploração usando o botão na extrema direita do item da lista.
+
+[H3]Sobreposição do Mapa de Exploração[/H3]
+Quando a lista de Naves de Exploração está aberta, a sobreposição do mapa da galáxia de exploração é ativada automaticamente, mostrando o status de exploração de cada sistema. Sistemas verdes estão totalmente explorados, enquanto sistemas amarelos estão parcialmente explorados.

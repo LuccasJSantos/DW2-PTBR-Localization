@@ -1,0 +1,8 @@
+Esta tela lista colônias onde você pode construir novos espaçosportos. Verifique as opções de ordenação e filtragem na parte superior do painel.
+
+Quando com o zoom reduzido para o nível de galáxia ou sistema, as novas localizações de espaçosportos são destacadas no mapa. Passar o cursor sobre um item na lista fará com que a localização seja marcada no mapa. Clicar no item irá selecioná-lo. Ao clicar duas vezes no item, a visualização será movida para aquela localização.
+
+[H3]Colocando Novos Espaçosportos em Fila[/H3]
+O botão à direita permite que você coloque em fila a construção de um novo espaçosporto na colônia. Você pode clicar no botão novamente para cancelar a construção.
+
+Se você não puder construir naquela localização, o botão de Fila será desativado. Um tooltip no botão explicará por que você não pode construir lá.

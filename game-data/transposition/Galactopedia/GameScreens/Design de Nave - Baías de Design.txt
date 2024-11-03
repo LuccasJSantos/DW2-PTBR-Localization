@@ -1,0 +1,27 @@
+A lista de Baías de Design mostra todas as baías de componentes no casco.
+
+Os componentes adicionados à lista de Baías de Design são o núcleo do design. Os componentes adicionados aqui definem as capacidades e o comportamento do design.
+
+Cada baía possui um tipo e tamanho. Você só pode colocar componentes em uma baía quando ela for do tipo correspondente e quando o tamanho do componente couber na baía.
+
+Existem 6 tipos de baías de componentes. Cada tipo de baía permite apenas certos tipos de componentes:
+[ULI]Geral: centros de comando, acomodações de tripulação, células de combustível, reatores, hiperpropulsores, baías de carga, compartimentos de passageiros, compartimentos de tropa, motores de mineração, coletores de energia e todos os outros[/ULI]
+[ULI]Armas: armas ou feixes de trator[/ULI]
+[ULI]Motores: motores e motores de vetoração[/ULI]
+[ULI]Defesa: armaduras, escudos ou controle de danos[/ULI]
+[ULI]Hangars: baías de acoplamento, estaleiros de construção ou baías de caças[/ULI]
+[ULI]Sensores: scanners, contramedidas, computadores de mira, módulos de pesquisa, bloqueadores de scanner[/ULI]
+
+Para adicionar um componente a uma baía:
+[OLI]selecione o componente desejado da lista de Componentes Disponíveis[/OLI]
+[OLI]encontre uma baía do tipo correspondente e tamanho adequado na lista de Baías de Design[/OLI]
+[OLI]clique com o botão esquerdo na baía para colocar o componente[/OLI]
+
+Você também pode fazer o seguinte:
+[ULI]quando você passa o mouse sobre uma baía que já contém um componente, uma janela de comparação pop-up será exibida. Isso permite que você veja rapidamente as diferenças entre eles[/ULI]
+[ULI]clique com o botão direito em uma baía para remover um componente existente[/ULI]
+
+[H3]Baías Externas[/H3]
+Observe que algumas baías de componentes são externas no modelo de visualização. Em outras palavras, elas podem ser vistas na parte externa do navio ou da base.
+
+As baías externas são mostradas na lista de Baías de Design por um ícone de 'visualização' à esquerda. Você pode clicar no ícone de visualização para girar a visualização e mostrar a baía externa.

@@ -350,11 +350,11 @@
 
 	  <DefaultInfantryId>54</DefaultInfantryId>
     <Name>Shakturi</Name>
-	  <Description>The Shakturi are an extinct race of insectoid aliens that are said to have inhabited the galaxy long ago.
+	  <Description>Os Shakturi são uma raça extinta de alienígenas insectoides que dizem ter habitado a galáxia há muito tempo.
 
-Many ancient myths and legends recount the Shakturi as fearsome invaders from another galaxy far away. They were cunning and merciless aggressors who successfully conquered most of the galaxy. But when they were on the verge of total victory, they suddenly vanished without trace.
+Muitos mitos e lendas antigas descrevem os Shakturi como invasores temíveis de uma galáxia muito distante. Eles eram agressores astutos e impiedosos, que conquistaram a maior parte da galáxia com sucesso. Mas, quando estavam à beira da vitória total, desapareceram repentinamente sem deixar vestígios.
 
-At least, that’s what the ancient stories say. Others claim that the Shakturi never really existed, but are instead an invention used to slander all insectoid races as cruel and evil.</Description>
+Pelo menos, é o que dizem as histórias antigas. Outros afirmam que os Shakturi nunca existiram de fato, mas são uma invenção usada para difamar todas as raças insectoides, retratando-as como cruéis e malignas.</Description>
     <ImageFilename>UserInterface/Races/Shakturi</ImageFilename>
   </Race>
 </ArrayOfRace>

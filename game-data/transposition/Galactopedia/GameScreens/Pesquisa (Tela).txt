@@ -1,0 +1,22 @@
+A tela de Pesquisa mostra todos os projetos de pesquisa.
+
+Os projetos devem ser pesquisados para desbloquear seus benefícios. Pesquisar leva tempo. A velocidade da pesquisa é determinada pela produção de pesquisa de suas colônias e estações de pesquisa.
+
+Os projetos de pesquisa fornecem os seguintes tipos de novas tecnologias que podem melhorar seu império de várias maneiras:
+[ULI]novos cascos e componentes de naves permitem que você construa naves e bases maiores e melhores[/ULI]
+[ULI]novas instalações planetárias ajudam a melhorar suas colônias[/ULI]
+[ULI]melhoram sua capacidade de colonizar novos mundos[/ULI]
+[ULI]melhoram suas tropas terrestres[/ULI]
+[ULI]fornecem vários bônus, incluindo a melhoria de suas relações diplomáticas com outras facções[/ULI]
+
+O lado esquerdo da tela apresenta o nível tecnológico mais baixo. Essas são as tecnologias que você possui no início de um novo jogo.
+
+À medida que você avança para a direita da tela, o nível tecnológico aumenta.
+
+[H3]Ordem da Pesquisa[/H3]
+Os projetos estão ligados entre si por caminhos. Projetos pai devem ser pesquisados antes de projetos filho. À medida que você pesquisa um projeto, quaisquer projetos filhos (geralmente à direita) são habilitados para pesquisa.
+
+[H3]Pesquisa Cega versus Pesquisa Não Cega[/H3]
+Quando seu jogo está configurado para usar pesquisa cega, você só pode ver os próximos projetos disponíveis além dos já pesquisados.
+
+Quando seu jogo está configurado para ver todas as pesquisas, você pode ver todos os projetos desde o início do jogo.

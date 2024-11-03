@@ -1,0 +1,54 @@
+À medida que você encontra outras facções, pode se envolver em diplomacia com elas. A diplomacia envolve o estabelecimento de tratados, a entrega de presentes e acordos comerciais. Quando as coisas não vão bem, isso também pode incluir guerra e conquista.
+
+[H3]Lista de Relações[/H3]
+Esta tela lista todas as suas relações com outros impérios. Note que, por padrão, isso exclui facções piratas e colônias independentes. Verifique as várias opções de ordenação e filtragem na parte superior do painel.
+
+Cada item da lista mostra como o outro império se sente em relação a você, juntamente com a tendência do seu relacionamento.
+
+Clicar em um item de relação na lista selecionará a capital da facção, se conhecida.
+
+[H3]Painel de Detalhes da Relação[/H3]
+Passar o cursor sobre um item da lista mostra o painel de Detalhes da Relação à direita. Clicar no item da lista ou no painel de detalhes manterá o painel aberto.
+
+O painel de detalhes fornece um resumo completo do seu relacionamento com o império selecionado. No topo, são exibidas a bandeira do império e todas as raças no império. Passe o cursor sobre cada raça para ver a população total no império e um resumo de suas características.
+
+O estilo de governo é mostrado abaixo do nome do império.
+
+Abaixo disso está o botão 'Falar', que permite que você inicie uma conversa com a outra facção.
+
+[H3]Falando com outra Facção[/H3]
+Conversar com a outra facção fornece uma série de opções, incluindo oferecer tratados e presentes, e negociar acordos comerciais detalhados. Clique em 'Adeus' ou no botão de fechar no canto superior direito para encerrar a conversa.
+
+[H3]Reputação[/H3]
+A Reputação atual do império indica como os outros geralmente veem este império. A reputação de um império vem de suas ações. Passe o cursor sobre o valor para ver uma lista dos fatores que contribuem para a reputação do império.
+
+[H3]Cansaço de Guerra[/H3]
+O Cansaço de Guerra cresce ao longo do tempo sempre que um império está em guerra com outra facção. Ele aumenta significativamente quando o império sofre perdas consideráveis em batalha. Alto cansaço de guerra leva à infelicidade e agitação nas colônias. Assim, um império normalmente busca a paz quando seu cansaço de guerra é alto.
+
+No entanto, às vezes o valor de cansaço de guerra de um império pode ser positivo se ele for a vítima de uma declaração de guerra injustificada por outra facção. Nesse caso, eles têm uma motivação adicional para lutar contra os agressores.
+
+[H3]Estratégia[/H3]
+A seção de Estratégia mostra como seu império planeja lidar com a outra facção. Você pode automatizar essa configuração e, assim, deixar que seus conselheiros selecionem uma estratégia apropriada.
+
+Alternativamente, você pode controlar manualmente a estratégia desativando a automação usando o botão à esquerda e, em seguida, selecionando sua estratégia desejada na lista suspensa à direita. Passe o cursor sobre a estratégia atual para obter uma explicação do que significa ao lidar com a outra facção.
+
+[H3]Status e Tratados[/H3]
+Quaisquer tratados atuais estão listados na parte superior da seção de Status.
+
+A próxima parte da seção de Status mostra os sentimentos da outra facção em relação a você. O valor à esquerda é o valor geral que define como eles se sentem em relação a você. Um valor positivo indica que eles gostam de você, enquanto um valor negativo indica que eles não gostam.
+
+Esse sentimento é descrito pelo texto no meio. Passar o cursor sobre esse texto mostrará como seus conselheiros se sentem em relação à outra facção. A tendência atual do relacionamento é mostrada à direita.
+
+Abaixo do total resumido, há uma lista completa de todos os fatores que contribuem para a avaliação da outra facção sobre você. Alguns desses fatores podem ser estáticos e não mudarem, enquanto outros podem mudar ao longo do tempo, aumentando ou diminuindo de valor. Qualquer tendência para cada fator é mostrada à direita.
+
+[H3]Outras Informações[/H3]
+A seção de Informações do Império exibe informações-chave que você conhece sobre a outra facção. Note que algumas das informações aqui podem estar incompletas, por exemplo, a Força Militar Conhecida mostra apenas a força das naves militares que você viu.
+
+A seção de Suprimento de Recursos mostra qualquer renda comercial com a outra facção. Isso significa os recursos que você comprou e vendeu com eles.
+
+Esta seção também mostra os recursos exclusivos que a outra facção pode fornecer a você (uma vez que você tenha um acordo comercial). Esses são recursos dos quais você está em falta, mas o outro império pode negociar com você.
+
+[H3]As relações deles com outras facções[/H3]
+A seção de Relações Com Outros mostra as relações da outra facção com todos os outros impérios que você conheceu, incluindo quaisquer tratados e seus sentimentos em relação a cada um.
+
+Passe o cursor sobre a descrição do sentimento para detalhes sobre como ambos os lados se sentem em relação a cada um.

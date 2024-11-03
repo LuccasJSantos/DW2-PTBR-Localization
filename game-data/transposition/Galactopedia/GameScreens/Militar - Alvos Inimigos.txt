@@ -1,0 +1,13 @@
+Esta tela lista os alvos inimigos conhecidos que você pode atacar com suas frotas. Isso inclui alvos fixos, como bases inimigas (por exemplo, bases piratas) e colônias. Também inclui frotas inimigas cuja localização atual conhecemos.
+
+Quando você está com o zoom na galáxia ou no nível do sistema, os alvos inimigos são destacados no mapa. Passar o mouse sobre um item na lista sinalizará o local no mapa. Clicar no item selecionará seu local. Clicar duas vezes no item moverá a visão para esse local.
+
+Cada item da lista mostra a força inimiga conhecida na localização do alvo. Para bases inimigas, também mostra o nível de saúde atual do alvo.
+
+[H3]Força de Defesa[/H3]
+Para colônias inimigas, mostra a força de tropas defensoras conhecidas. Note que isso pode ser uma estimativa quando a colônia não está diretamente visível, então cautela é necessária ao considerar invadir.
+
+[H3]Enfileirando Ataques[/H3]
+O botão à direita permite que você enfileire um ataque contra o alvo. Quando a próxima frota apropriada estiver disponível, ela atribuirá uma missão de ataque ao alvo. Você pode clicar no botão novamente para cancelar o ataque.
+
+Se você não puder atacar o alvo, o botão de Enfileirar ficará desativado. Uma dica no botão explicará por que você não pode atacar.

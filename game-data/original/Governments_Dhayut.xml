@@ -136,20 +136,20 @@ Surveillance Oligarchies are closed societies. But when they turn their abilitie
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 	  <EmpireNameAdjectives>
-		  <string>Vigilant</string>
-		  <string>Watchful</string>
-		  <string>Wily</string>
-		  <string>Wary</string>
-		  <string>Grand</string>
+		  <string>Vigilante</string>
+		  <string>Cauteloso</string>
+		  <string>Astuto</string>
+		  <string>Atento</string>
+		  <string>Grande</string>
 	  </EmpireNameAdjectives>
 	  <EmpireNameNouns>
-		  <string>Autocracy</string>
-		  <string>Despotism</string>
-		  <string>Oligarchy</string>
-		  <string>Totality</string>
-		  <string>Domination</string>
-		  <string>Tyranny</string>
-		  <string>Inquisition</string>
+		  <string>(Autocracia)</string>
+		  <string>(Despotismo)</string>
+		  <string>(Oligarquia)</string>
+		  <string>(Totalidade)</string>
+		  <string>(Dominação)</string>
+		  <string>(Tirania)</string>
+		  <string>(Inquisição)</string>
 	  </EmpireNameNouns>
 	  <ExtraIntelligenceMissionTypes>
 		  <CharacterMissionType>InternalStabilization</CharacterMissionType>

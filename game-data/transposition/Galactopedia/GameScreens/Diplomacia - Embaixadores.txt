@@ -1,0 +1,15 @@
+Qualquer personagem embaixador no seu império é mostrado nesta lista.
+
+Você pode ver os detalhes de cada embaixador passando o cursor sobre a entrada da lista e clicando para manter o painel aberto à direita.
+
+Você pode mudar o nome de um embaixador clicando em seu nome abaixo do retrato e digitando um novo nome.
+
+[H3]Localização do Embaixador[/H3]
+Embaixadores aplicam benefícios diplomáticos e de espionagem ao seu relacionamento com outra facção. Para designar um embaixador a uma facção específica, você deve enviá-lo para a capital da facção.
+
+Use a lista suspensa de localização e o botão 'Transferir' para designá-lo à facção desejada.
+
+Alternativamente, você pode automatizar o embaixador para que seus conselheiros diplomáticos selecionem a melhor localização para ele. Use o botão 'Automatizar' abaixo do retrato do embaixador à direita.
+
+[H3]Eventos[/H3]
+Na parte inferior do painel de detalhes, há uma lista de todos os eventos nos quais o embaixador esteve envolvido. Vários eventos podem melhorar ou diminuir suas habilidades, ou fornecer novos traços de personagem.

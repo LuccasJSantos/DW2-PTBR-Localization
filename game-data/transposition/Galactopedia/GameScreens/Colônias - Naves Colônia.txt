@@ -1,0 +1,13 @@
+Naves Colônia são naves de transporte especiais que podem carregar um grande número de colonos que são enviados para colonizar um novo mundo para o seu império.
+
+Quando as naves colônia chegam ao seu destino, elas são desmontadas e os recursos brutos são utilizados para estabelecer a nova colônia. Assim, as naves colônia podem ser usadas apenas para colonizar um único mundo. Você deve construir uma nova nave colônia para cada mundo que deseja colonizar.
+
+[H3]Lista de Naves Colônia[/H3]
+Esta tela lista todas as naves colônia do seu império. Verifique as opções de ordenação e filtragem na parte superior do painel.
+
+Quando com o zoom reduzido para o nível de galáxia ou sistema, as localizações das naves colônia são destacadas no mapa. Passar o cursor sobre um item na lista fará com que a localização seja marcada no mapa. Clicar no item irá selecioná-lo. Ao clicar duas vezes no item, a visualização será movida para aquela localização.
+
+Cada item da lista mostra o nível de construção, a missão atual e quaisquer colonos carregados a bordo.
+
+[H3]Status de Automação[/H3]
+Você pode mudar o status de automação da nave colônia usando o botão no extremo direito do item da lista.

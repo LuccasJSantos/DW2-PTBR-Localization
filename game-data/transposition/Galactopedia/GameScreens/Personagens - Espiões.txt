@@ -1,0 +1,22 @@
+Quaisquer personagens espiões no seu império são exibidos nesta lista.
+
+Você pode ver os detalhes de cada espião ao passar o mouse sobre a entrada da lista e clicar para fixar o painel aberto à direita.
+
+Você pode mudar o nome de um espião clicando no nome abaixo do retrato e digitando um novo nome.
+
+[H3]Missões de Inteligência[/H3]
+Espiões realizam missões de inteligência contra outras facções, roubando mapas e tecnologias ou sabotando outra facção de várias maneiras.
+
+Eles também podem realizar contrainteligência, protegendo seu império de missões de espionagem inimigas.
+
+As habilidades de cada espião determinam fortemente os tipos de missões em que eles são mais competentes.
+
+[H3]Atribuição de Missões[/H3]
+Para atribuir uma missão a um espião, selecione o império alvo, o tipo de missão, qualquer alvo específico da missão e o tempo para conclusão nas listas suspensas na seção de missão, e então clique no botão 'Atribuir Missão'.
+
+À medida que você seleciona diferentes opções, a chance de sucesso da missão é mostrada à direita. Tenha cuidado para não atribuir missões muito difíceis. Caso contrário, seu espião pode ser interceptado e até capturado, o que pode gerar sérias repercussões diplomáticas.
+
+Se você deseja automatizar completamente as missões atribuídas a um espião, pode automatizá-lo usando o botão 'Automatizar' abaixo do retrato do espião à direita.
+
+[H3]Eventos[/H3]
+Na parte inferior do painel de detalhes, há uma lista de todos os eventos nos quais o espião esteve envolvido. Diversos eventos podem melhorar ou diminuir suas habilidades, ou fornecer novos traços de caráter. Completar com sucesso missões de inteligência pode aumentar especialmente as habilidades do seu espião.

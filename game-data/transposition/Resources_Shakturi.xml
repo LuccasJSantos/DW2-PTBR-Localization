@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfResource>
+	<Resource>
+		<ResourceId>79</ResourceId>
+		<Name>Crystal de Fenda</Name>
+		<Description>Crystal de Fenda é uma estrutura cristalina orgânica com cor profunda de rosa. Cresce como parte da exoesqueleto da criatura Rift Strider. Os Rift Striders emergem de rasgos gravitacionais no espaço que são portais para uma dimensão psicótica misteriosa. Supõe-se que o Crystal de Fenda é formado pela interação de energia psíquica e gravitacional. Os cristais apresentam propriedades únicas que podem acelerar o crescimento populacional.</Description>
+		<BaseCost>8</BaseCost>
+		<ImageFilename>Environment/Resources/Rift Crystal</ImageFilename>
+		<Bonuses />
+	</Resource>
+	<Resource>
+		<ResourceId>80</ResourceId>
+		<Name>Plasma cerebral do Strider</Name>
+		<Description>Rift Striders são criaturas imensas que surgem de rasgos gravitacionais no espaço que são portais para uma misteriosa dimensão psíquica. O plasma cerebral deles possui propriedades únicas que o tornam muito eficaz no tratamento de pragas. Os cérebros dos Rift Striders parecem ter poderes psíquicos intensos, com vestígios residuales disso em seu plasma cerebral mesmo depois que eles são destruídos. Plasma Cerebral do Strider tem uma cor rosa intensa e é ligeiramente luminoso.</Description>
+		<BaseCost>8</BaseCost>
+		<ImageFilename>Environment/Resources/Strider Brain Plasma</ImageFilename>
+		<Bonuses />
+	</Resource>
+</ArrayOfResource>

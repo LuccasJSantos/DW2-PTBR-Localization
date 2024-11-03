@@ -1,0 +1,39 @@
+Colônias são os mundos povoados do seu império. Elas fornecem a maior parte da riqueza e da renda do seu império. Você obtém uma parte dessa renda taxando suas colônias.
+
+Com o tempo, as colônias crescem tanto em população quanto em nível de desenvolvimento. Colônias maiores e mais desenvolvidas proporcionam uma renda maior.
+
+Para fazer suas colônias crescerem mais rapidamente, você deve trabalhar para manter a população feliz. Você também pode acelerar o crescimento da colônia alocando fundos na tela de Níveis de Financiamento na seção Seu Império.
+
+[H3]Lista de Colônias[/H3]
+Esta tela lista todos os mundos colonizados do seu império. Verifique as várias opções de ordenação e filtragem na parte superior do painel.
+
+Quando com o zoom reduzido para o nível de galáxia ou sistema, as localizações das colônias são destacadas no mapa. Passar o cursor sobre um item na lista fará com que a localização seja marcada no mapa. Clicar no item irá selecioná-lo. Ao clicar duas vezes no item, a visualização será movida para aquela localização.
+
+Cada item da lista mostra o nível populacional, a taxa de aprovação, o nível de desenvolvimento e a renda tributária de cada colônia.
+
+Clicar em uma colônia na lista irá selecioná-la. Isso também abrirá o painel de Detalhes da Colônia à direita. Ao clicar duas vezes na colônia, a visualização será movida para a colônia. Você também pode abrir o painel de Detalhes da Colônia passando o cursor sobre a seta no extremo direito do item da lista.
+
+[H3]Painel de Detalhes da Colônia[/H3]
+O painel de Detalhes da Colônia fornece um resumo completo da sua colônia. Ele também possui um conjunto expandido de opções para gerenciar sua colônia.
+
+A seção superior mostra o desenvolvimento e a economia da colônia. Usando os botões abaixo desta seção, você pode alterar a taxa de imposto e decidir automatizar diferentes áreas da sua colônia. Você também pode designar um modelo de exército específico que determina que tipo de guarnição de tropas defensivas a colônia deve ter.
+
+[H3]População[/H3]
+A seção População mostra todas as raças na colônia. Passar o cursor sobre cada raça mostra sua taxa de reprodução e nível de assimilação.
+
+Também está listado nesta seção o nível geral de aprovação da colônia em relação a você, juntamente com uma divisão de todos os fatores que contribuem para essa taxa de aprovação.
+
+[H3]Tropas e Personagens[/H3]
+A seção Tropas e Personagens mostra todas as unidades de tropa e personagens na colônia.
+
+Você pode recrutar novas unidades de tropa usando os botões abaixo desta seção. Selecionar unidades de tropa individuais também permite desmobilizar ou guarnecer a unidade.
+
+[H3]Instalações Planetárias[/H3]
+A seção Instalações Planetárias mostra todas as instalações, maravilhas e ruínas na colônia.
+
+Você pode construir novas instalações usando os botões abaixo desta seção. Selecionar instalações individuais também permite que você desmonte o edifício.
+
+[H3]Construção[/H3]
+A seção Construção mostra quaisquer naves ou bases atualmente em construção na colônia. Você pode construir novas naves ou bases usando os botões abaixo desta seção.
+
+Clique no botão de fechar no canto superior direito do painel para fechá-lo.

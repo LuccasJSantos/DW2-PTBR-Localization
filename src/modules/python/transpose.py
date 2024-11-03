@@ -13,7 +13,7 @@ transposition_config = [
     { "name": "CreatureType", "key": "CreatureTypeId", "properties": ["Name", "Description"]},
     { "name": "FleetTemplate", "key": "FleetTemplateId", "properties": ["Name", "Description"]},
     { "name": "GameEvent", "key": "Name", "properties": ["Title", "Description", "TriggerActions/GameEventAction/Description", "TriggerActions/GameEventAction/MessageTitle", "TriggerActions/GameEventAction/ChoiceButtonText", "PlacementActions/GameEventAction/Description", "PlacementActions/GameEventAction/MessageTitle"]},
-    { "name": "Government", "key": "GovernmentId", "properties": ["Name", "Description", "LeaderTitle"]},
+    { "name": "Government", "key": "GovernmentId", "properties": ["Name", "Description", "LeaderTitle", "EmpireNameAdjectives/string",  "EmpireNameNouns/string", "FeatureExplanations/string"]},
     { "name": "OrbType", "key": "OrbTypeId", "properties": ["Name"]},
     { "name": "PlanetaryFacilityDefinition", "key": "PlanetaryFacilityDefinitionId", "properties": ["Name"]},
     { "name": "Race", "key": "RaceId", "properties": ["Name", "Description", "FeatureExplanations/string"]},

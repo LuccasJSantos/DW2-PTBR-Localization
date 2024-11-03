@@ -30,7 +30,7 @@
 		<GroundCombatResistance>0.5</GroundCombatResistance>
 		<MaximumBuildCountPerEmpire>1</MaximumBuildCountPerEmpire>
 		<FacilityFamilyId>65</FacilityFamilyId>
-		<Name>Genetic Studies Academy</Name>
+		<Name>Academia de Estudos Genéticos</Name>
 		<ImageFilename>Environment/PlanetaryFacilities/Genetic Studies Academy</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -63,7 +63,7 @@
 		<GroundCombatResistance>0.5</GroundCombatResistance>
 		<MaximumBuildCountPerEmpire>1</MaximumBuildCountPerEmpire>
 		<FacilityFamilyId>61</FacilityFamilyId>
-		<Name>Biowarfare Complex</Name>
+		<Name>Complexo de Guerra Biológica</Name>
 		<ImageFilename>Environment/PlanetaryFacilities/Biowarfare Complex</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -82,7 +82,7 @@
 		</ItemBonuses>
 		<Size>100</Size>
 		<IsRuins>true</IsRuins>
-		<Name>Ruined Generic Vault</Name>
+		<Name>Cofre Genérico em Ruínas</Name>
 		<ImageFilename>Environment/PlanetaryFacilities/Ancient Guardians Vault Ruins 1</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -96,7 +96,7 @@
 		</ItemBonuses>
 		<Size>100</Size>
 		<IsRuins>true</IsRuins>
-		<Name>The Vault of Concealment</Name>
+		<Name>O Cofre do Ocultamento</Name>
 		<ImageFilename>Environment/Events/vault of concealment</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -115,7 +115,7 @@
 		</ItemBonuses>
 		<Size>100</Size>
 		<IsRuins>true</IsRuins>
-		<Name>Vault of Creation</Name>
+		<Name>Cofre da Criação</Name>
 		<ImageFilename>Environment/Events/vault of creation</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -134,7 +134,7 @@
 		</ItemBonuses>
 		<Size>100</Size>
 		<IsRuins>true</IsRuins>
-		<Name>Vault of Aggression</Name>
+		<Name>Cofre da Agressão</Name>
 		<ImageFilename>Environment/Events/vault of agression</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -153,7 +153,7 @@
 		</ItemBonuses>
 		<Size>100</Size>
 		<IsRuins>true</IsRuins>
-		<Name>Vault of the Shakturi Mind</Name>
+		<Name>Cofre da Mente Shakturi</Name>
 		<ImageFilename>Environment/Events/vault of shakturi mind</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -172,7 +172,7 @@
 		</ItemBonuses>
 		<Size>100</Size>
 		<IsRuins>true</IsRuins>
-		<Name>Shakturi Biowarfare Archive</Name>
+		<Name>Arquivo de Guerra Biológica Shakturi</Name>
 		<ImageFilename>Environment/Events/shakturi archive</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -191,7 +191,7 @@
 		</ItemBonuses>
 		<Size>100</Size>
 		<IsRuins>true</IsRuins>
-		<Name>Shakturi Genetic Engineering Archive</Name>
+		<Name>Arquivo de Engenharia Genética Shakturi</Name>
 		<ImageFilename>Environment/Events/shakturi archive</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -210,7 +210,7 @@
 		</ItemBonuses>
 		<Size>100</Size>
 		<IsRuins>true</IsRuins>
-		<Name>Shakturi Psychic Defense Archive</Name>
+		<Name>Arquivo de Defesa Psíquica Shakturi</Name>
 		<ImageFilename>Environment/Events/shakturi archive</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -238,7 +238,7 @@
 		<GroundCombatResistance>0.5</GroundCombatResistance>
 		<MaximumBuildCountPerEmpire>1</MaximumBuildCountPerEmpire>
 		<FacilityFamilyId>60</FacilityFamilyId>
-		<Name>Psychic Academy</Name>
+		<Name>Academia Psíquica</Name>
 		<ImageFilename>Environment/PlanetaryFacilities/Psychic Academy</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -257,7 +257,7 @@
 		<HyperDenyStrength>50</HyperDenyStrength>
 		<FacilityFamilyId>62</FacilityFamilyId>
 		<ExclusiveWithinFamily>true</ExclusiveWithinFamily>
-		<Name>Shakturi Archive Defense</Name>
+		<Name>Defesa de Arquivo Shakturi</Name>
 		<ImageFilename>Environment/Events/Intact Shakturi Psychic Beacon</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -292,7 +292,7 @@
 		<FacilityFamilyId>66</FacilityFamilyId>
 		<BreedCreatureTypeId>9</BreedCreatureTypeId> <!-- Rift Strider -->
 		<BreedCreatureRate>20</BreedCreatureRate>
-		<Name>Rift Strider Breeding Facility</Name>
+		<Name>Instalação de Criação do Rift Strider</Name>
 		<ImageFilename>Environment/PlanetaryFacilities/Creature Breeding Facility</ImageFilename>
 	</PlanetaryFacilityDefinition>
 	<PlanetaryFacilityDefinition>
@@ -312,7 +312,7 @@
 		<HyperDenyRange>20000</HyperDenyRange>
 		<HyperDenyStrength>40</HyperDenyStrength>
 		<ExclusiveWithinFamily>true</ExclusiveWithinFamily>
-		<Name>Shakturi Beacon</Name>
+		<Name>Beacon Shakturi</Name>
 		<ImageFilename>Environment/PlanetaryFacilities/Shakturi Beacon</ImageFilename>
 	</PlanetaryFacilityDefinition>
 </ArrayOfPlanetaryFacilityDefinition>

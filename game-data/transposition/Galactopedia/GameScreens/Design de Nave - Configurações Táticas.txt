@@ -1,0 +1,3 @@
+Use os botões de configurações táticas para definir as táticas padrão para o novo design. Essas táticas padrão serão utilizadas para novos navios e bases que usam o design.
+
+Uma vez que os navios são construídos, eles podem definir suas próprias táticas, mas suas táticas iniciais vêm de seu design.

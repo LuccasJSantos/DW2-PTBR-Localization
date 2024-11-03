@@ -1,0 +1,15 @@
+Os Modelos de Exército permitem que você defina a composição relativa dos tipos de tropas. Os Modelos de Exército são usados por frotas e colônias para especificar quantos de cada tipo de tropa elas devem ter.
+
+[H3]Tipos de Modelos de Exército[/H3]
+Existem 4 tipos básicos de Modelos de Exército:
+[ULI]Invasão: atribuídos a frotas para definir quais tropas devem ser usadas ao invadir colônias inimigas. Esses geralmente incluem muitas Armaduras, algumas Forças Especiais, alguma Infantaria e Titãs (se disponíveis)[/ULI]
+[ULI]Defesa de Colônia Maior: atribuídos a colônias maiores (como sua capital) para definir quais tropas devem ser usadas para defender a colônia de tropas inimigas invasoras. Esses geralmente incluem todos os tipos de tropas, mas especialmente muita infantaria e unidades de defesa planetária.[/ULI]
+[ULI]Defesa de Colônia de Fronteira: atribuídos a colônias vulneráveis de fronteira para definir quais tropas devem ser usadas para defender a colônia de tropas inimigas invasoras. Esses geralmente incluem muita infantaria e algumas unidades de defesa planetária.[/ULI]
+[ULI]Defesa de Colônia Padrão: atribuídos a todas as outras colônias para definir quais tropas devem ser usadas para defender a colônia de tropas inimigas invasoras. Esses geralmente incluem muita infantaria.[/ULI]
+
+Há um modelo padrão para cada tipo, mas você pode modificar esses ou criar modelos adicionais que atendam às suas necessidades.
+
+[H3]Atribuindo Modelos de Exército[/H3]
+Você pode selecionar um Modelo de Exército para uma colônia selecionando a colônia e usando os botões 'Definir Automação de Colônia' > 'Modelo de Exército' no Painel de Seleção. Isso abrirá uma lista de todos os Modelos de Exército que podem ser usados. Selecione o modelo que você deseja usar para a colônia clicando nele na lista. A colônia então tentará recrutar tropas defensivas na proporção delineada pelo modelo.
+
+Você pode selecionar um Modelo de Exército para uma frota selecionando a frota e usando o botão 'Modelo de Exército' no Painel de Seleção. Isso abrirá uma lista de todos os Modelos de Exército que podem ser usados. Selecione o modelo que você deseja usar para a frota clicando nele na lista. A frota então tentará carregar tropas na proporção delineada pelo modelo.

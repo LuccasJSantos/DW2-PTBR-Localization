@@ -1,0 +1,11 @@
+Você pode mover a visualização na tela de pesquisa clicando com o botão esquerdo e arrastando com o mouse.
+
+A roda de rolagem do mouse moverá rapidamente a visualização para cima ou para baixo.
+
+Você pode dar zoom para dentro ou para fora da visualização para ver mais ou menos dos projetos disponíveis. Você pode fazer isso de 2 maneiras:
+[ULI]mantenha pressionada a tecla Ctrl enquanto usa a roda de rolagem do mouse[/ULI]
+[ULI]clique nos botões Aumentar Zoom ou Reduzir Zoom no painel de Controle à direita[/ULI]
+
+Você também pode usar as teclas de seta para rolar para cima/baixo/esquerda/direita.
+
+Para mover rapidamente a visualização para cima ou para baixo, use as teclas PageUp e PageDown.
