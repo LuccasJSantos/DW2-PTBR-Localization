@@ -2,7 +2,7 @@ Recursos são as matérias-primas encontradas em planetas, luas e asteroides. Es
 
 Você pode minerar esses recursos, extraindo-os para uso em seu império.
 
-Alguns recursos são usados na construção de novos navios e bases. Outros recursos são usados para elevar o desenvolvimento de suas colônias - estes são os recursos de luxo. E um recurso (Caslon) é usado como um combustível reator universal.
+Alguns recursos são usados na construção de novas naves e bases. Outros recursos são usados para elevar o desenvolvimento de suas colônias - estes são os recursos de luxo. E um recurso (Caslon) é usado como um combustível reator universal.
 
 [H3]Lista de Recursos[/H3]
 Esta tela lista todos os recursos na galáxia.

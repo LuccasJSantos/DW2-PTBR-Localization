@@ -1,6 +1,6 @@
 A lista de Componentes Disponíveis mostra todos os componentes pesquisados que estão disponíveis para adicionar ao design.
 
-Apenas os componentes que são válidos para o papel são mostrados. Assim, os caças não veem nenhum componente de navio, e vice-versa. Os componentes também serão excluídos se forem muito grandes para quaisquer baías no casco.
+Apenas os componentes que são válidos para a função são mostrados. Assim, os caças não veem nenhum componente de nave, e vice-versa. Os componentes também serão excluídos se forem muito grandes para quaisquer baías no casco.
 
 Você pode filtrar ainda mais os componentes usando a lista suspensa no canto superior esquerdo do painel. Isso permite que você filtre por tipo de baía ou apenas mostre o componente mais recente por categoria.
 

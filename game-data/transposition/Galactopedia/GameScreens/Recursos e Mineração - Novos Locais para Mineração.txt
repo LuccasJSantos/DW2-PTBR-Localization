@@ -1,6 +1,6 @@
 Esta tela lista os potenciais novos locais de mineração que você pode direcionar. Estes locais são onde você deve construir novas estações de mineração.
 
-Verifique as opções de ordenação e filtragem na parte superior do painel. As opções de filtro permitem que você direcione recursos específicos. Itens de filtro coloridos em amarelo são recursos de construção usados para construir novos navios e bases. Itens de filtro azul claro são recursos de luxo usados para desenvolver suas colônias.
+Verifique as opções de ordenação e filtragem na parte superior do painel. As opções de filtro permitem que você direcione recursos específicos. Itens de filtro coloridos em amarelo são recursos de construção usados para construir novas naves e bases. Itens de filtro azul claro são recursos de luxo usados para desenvolver suas colônias.
 
 Quando você dá zoom no nível da galáxia ou do sistema, os novos locais de mineração são destacados no mapa. Passar o mouse sobre um item da lista sinaliza a localização no mapa. Clicar no item selecionará sua localização. Dando um duplo clique no item moverá a visualização para essa localização.
 

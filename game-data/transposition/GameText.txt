@@ -1916,8 +1916,8 @@ Research Threshold		;Limite de pesquisa
 
 No Research Projects		;Sem projetos de pesquisa
 Click to add		;Clique para adicionar
-X colonies		;{0} colônias
-X systems		;{0} sistemas
+X colonies		;{0} colônia(s)
+X systems		;{0} sistema(s)
 X population		;{0} população
 PLUS others		;+ outros
 Tax Rate		;Imposto
@@ -2293,13 +2293,13 @@ StartNewGame_OtherEmpires		;Outros Impérios
 StartNewGame_VictoryConditions		;Condições de Vitória
 StartNewGame_StartGame		;Iniciar Jogo
 
-Galaxy Expansion Random		;Aleatório
+Galaxy Expansion Random		;Aleatória
 Galaxy Expansion PreWarp		;Pré-Dobra
-Galaxy Expansion Starting		;Início
+Galaxy Expansion Starting		;Inicial
 Galaxy Expansion Young		;Jovem
 Galaxy Expansion Expanding		;Expansão
-Galaxy Expansion Mature		;Maduro
-Galaxy Expansion Old		;Antigo
+Galaxy Expansion Mature		;Madura
+Galaxy Expansion Old		;Antiga
 
 Galaxy Expansion Explanation Random		;Tamanho inicial aleatório, desde uma única colônia até um gigante multissetorial poderoso.
 Galaxy Expansion Explanation PreWarp		;Impérios começam com uma única colônia pequena e tecnologia mínima. A viagem hiperespacial ainda não foi desbloqueada.\n\nOs impérios começam expandindo lentamente pelo sistema estelar doméstico
@@ -2465,11 +2465,11 @@ Your Empire Home System Excellent		;Excelente
 
 Home System		;Sistema Doméstico
 Home System Explanation		;A favorabilidade do seu sistema doméstico.\n\nIsso inclui fatores como: abundância de recursos, nível populacional da sua colônia inicial e a presença de outros planetas favoráveis no sistema.
-Your Empire Tech Level PreWarp		;Pré-Disparo
+Your Empire Tech Level PreWarp		;Pré-Dobra
 Your Empire Tech Level X		;Nível {0}
 Tech Level		;Nível Tecnológico
-Your Empire Tech Level Explanation		;O quão avançada está sua pesquisa.\n\nIsso determina quais cascos de naves e componentes estão disponíveis para a construção de naves e bases.\n\nPré-Disparo significa que nenhum tech foi pesquisado.\n\nQuando a Expansão é maior que 'Início', então o Nível Tecnológico deve ser pelo menos nível 1.
-Galaxy Tech Level Explanation		;O quão avançada é a pesquisa para todos os impérios na galáxia.\n\nIsso determina quais cascos de naves e componentes estão disponíveis para a construção de naves e bases.\n\nPré-Disparo significa que nenhum tech foi pesquisado.\n\nQuando a Expansão é maior que 'Início', então o Nível Tecnológico deve ser pelo menos nível 1.
+Your Empire Tech Level Explanation		;O quão avançada está sua pesquisa.\n\nIsso determina quais cascos de naves e componentes estão disponíveis para a construção de naves e bases.\n\nPré-Dobra significa que nenhum tech foi pesquisado.\n\nQuando a Expansão é maior que 'Início', então o Nível Tecnológico deve ser pelo menos nível 1.
+Galaxy Tech Level Explanation		;O quão avançada é a pesquisa para todos os impérios na galáxia.\n\nIsso determina quais cascos de naves e componentes estão disponíveis para a construção de naves e bases.\n\nPré-Dobra significa que nenhum tech foi pesquisado.\n\nQuando a Expansão é maior que 'Início', então o Nível Tecnológico deve ser pelo menos nível 1.
 Starting Location		;Local de Início
 Starting Location Explanation		;A localização aproximada de início do seu império dentro da galáxia.\n\nIsso não é uma configuração precisa. Simplesmente determina a região da galáxia onde seu sistema doméstico está localizado.\n\nEsta área é indicada por sombreamento azul na pré-visualização da galáxia abaixo.
 Starting Location Description		;{1} localização de início no {0} galáxia
@@ -2512,11 +2512,11 @@ Colony Invasion		;Invasão da Colônia em {0}
 Colony Invasion Description		;Tropas terrestres da [FACTION]{0}[/FACTION] estão invadindo nossa colônia [LOCATION]{1}[/LOCATION]!
 Colony Attack at X		;Ataque à Colônia em {0}
 Colony Attack Description		;Nossa colônia [LOCATION]{0}[/LOCATION] está sendo atacada pela [FACTION]{1}[/FACTION]!
-SHIPROLE being Boarded		;{0} sendo abordado
-X is being boarded by EMPIRE		;[LOCATION]{0}[/LOCATION] está sendo abordado pela [FACTION]{1}[/FACTION]!
-X Y is being boarded by EMPIRE		;[LOCATION]{0} {1}[/LOCATION] está sendo abordado pela [FACTION]{2}[/FACTION]!
-X is being boarded by EMPIRE LOCATION SYSTEM		;[LOCATION]{0}[/LOCATION] está sendo abordado pela [FACTION]{1}[/FACTION] em {2} no sistema {3}!
-X Y is being boarded by EMPIRE LOCATION SYSTEM		;[LOCATION]{0} {1}[/LOCATION] está sendo abordado pela [FACTION]{2}[/FACTION] em {3} no sistema {4}!
+SHIPROLE being Boarded		;{0} sendo invadido
+X is being boarded by EMPIRE		;[LOCATION]{0}[/LOCATION] está sendo invadido pela [FACTION]{1}[/FACTION]!
+X Y is being boarded by EMPIRE		;[LOCATION]{0} {1}[/LOCATION] está sendo invadido pela [FACTION]{2}[/FACTION]!
+X is being boarded by EMPIRE LOCATION SYSTEM		;[LOCATION]{0}[/LOCATION] está sendo invadido pela [FACTION]{1}[/FACTION] em {2} no sistema {3}!
+X Y is being boarded by EMPIRE LOCATION SYSTEM		;[LOCATION]{0} {1}[/LOCATION] está sendo invadido pela [FACTION]{2}[/FACTION] em {3} no sistema {4}!
 Our forces are invading COLONY of EMPIRE		;Nossas forças estão invadindo a colônia [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION]
 Our forces are invading the independent colony COLONY		;Nossas forças estão invadindo a colônia independente [LOCATION]{0}[/LOCATION]
 Our forces are bombarding COLONY of EMPIRE		;Nossas forças estão bombardeando a colônia [LOCATION]{0}[/LOCATION] da [FACTION]{1}[/FACTION]
@@ -2647,7 +2647,7 @@ Facility Destroyed by Bombardment Description		;O [FACILITY]{0}[/FACILITY] em no
 Artifact Destroyed by Bombardment		;{0} Destruído por Bombardeio
 Artifact Destroyed by Bombardment Description		;O [ARTIFACT]{0}[/ARTIFACT] em nossa colônia [LOCATION]{1}[/LOCATION] foi destruído pelas forças inimigas durante um bombardeio orbital.
 
-SHIP Boarded and Captured		;{0} Abordado e Capturado!
+SHIP Boarded and Captured		;{0} Invadido e Capturado!
 SHIP Taken Over		;{0} Tomado!
 Captured Base Destroy		;Base Capturada saqueada e destruída
 Captured Base Looted and Destroyed		;Base Saqueada e Destruída
@@ -4742,7 +4742,7 @@ Project is crash researching		;O projeto está sendo pesquisado rapidamente
 Project above is parent		;O projeto acima é um pai (deve ser pesquisado primeiro)
 Project below is child		;O projeto abaixo é um filho (deve ser pesquisado depois)
 
-Version X		;Versão {0}
+Version X		;Versão {0} (Tradução por Luccas Santos)
 Stride X        ;Stride v{0}
 NET X           ;.NET v{0}
 
@@ -6127,7 +6127,7 @@ Rift Refugees		;Refugiados do Rift
 Return of the Shakturi Storyline		;Retorno da História dos Shakturi
 Very Early		;Muito Cedo
 Early		;Cedo
-late		;tarde
+Late		;Tarde
 Very Late		;Muito Tarde
 Shakturi Appearance Title Off		;Shakturi Desativado
 Shakturi Appearance Explanation Off		;A história do Retorno dos Shakturi está desativada. Os Shakturi não aparecerão no jogo.
@@ -6720,13 +6720,13 @@ Message SubType CharactersSpyMissionCaptured		;Espião Capturado
 Message SubType RetrofitState		;Retrofit de Naves Estaduais
 Message SubType RetrofitCivilian		;Retrofit de Naves Civis
 
-EmpireMessageCategory Full Undefined		;Todas as Mensagens
+EmpireMessageCategory Full Undefined		;Todas as Msgs.
 EmpireMessageCategory Full General		;Mensagens Gerais
 EmpireMessageCategory Full Combat		;Mensagens de Combate
 EmpireMessageCategory Full AdvisorSuggestions		;Mensagens de Conselheiros
 EmpireMessageCategory Full GalaxyNews		;Mensagens de Notícias da Galáxia
 
-EmpireMessageCategory Undefined		;Todas as Mensagens
+EmpireMessageCategory Undefined		;Todas as Msgs.
 EmpireMessageCategory General		;Geral
 EmpireMessageCategory Combat		;Combate
 EmpireMessageCategory AdvisorSuggestions		;Conselheiros
@@ -6736,9 +6736,9 @@ Show Log		;Mostrar Log
 Hide Log		;Ocultar Log
 EmpireMessage FocusLevel All		;Todos os Tipos
 EmpireMessage FocusLevel Default		;Padrão
-EmpireMessage FocusLevel Focus		;Focado
-EmpireMessage FocusLevel HighFocus		;Prioritário
-EmpireMessage FocusLevel Custom		;Personalizado
+EmpireMessage FocusLevel Focus		;Focada
+EmpireMessage FocusLevel HighFocus		;Prioritária
+EmpireMessage FocusLevel Custom		;Personalizada
 
 Click to show filters		;Clique para mostrar filtros
 Click to hide filters		;Clique para ocultar filtros

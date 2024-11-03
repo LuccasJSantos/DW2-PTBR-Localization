@@ -1,9 +1,9 @@
 Você pode ajustar como sua receita é gasta na tela de Níveis de Financiamento Bônus. Passe o mouse sobre cada valor para uma explicação detalhada.
 
 [H3]Alocando Financiamento de Manutenção[/H3]
-Nesta tela, você pode definir valores percentuais para cada uma das suas principais áreas de despesa regular: Manutenção de Navios e Bases, Manutenção de Tropas e Manutenção de Instalações. Essas porcentagens limitarão quanto seus conselheiros estão dispostos a gastar em cada área.
+Nesta tela, você pode definir valores percentuais para cada uma das suas principais áreas de despesa regular: Manutenção de Naves e Bases, Manutenção de Tropas e Manutenção de Instalações. Essas porcentagens limitarão quanto seus conselheiros estão dispostos a gastar em cada área.
 
-Assim, se você alocar 50% da sua receita para Manutenção de Navios, seus conselheiros estarão dispostos a construir navios e bases até um limite de manutenção de 50% da sua economia. Mas eles não recomendarão novos navios uma vez que você atinja o limite especificado.
+Assim, se você alocar 50% da sua receita para Manutenção de Naves, seus conselheiros estarão dispostos a construir naves e bases até um limite de manutenção de 50% da sua economia. Mas eles não recomendarão novas naves uma vez que você atinja o limite especificado.
 
 Limitar os gastos em cada área permite uma distribuição mais uniforme da sua receita em todas as áreas da sua economia, evitando excessos em uma única área.
 

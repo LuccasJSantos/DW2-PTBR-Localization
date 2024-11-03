@@ -28,16 +28,16 @@ A seção de Energia resume a geração, armazenamento e distribuição de energ
 
 Ela também mostra gráficos delineando como a energia é consumida tanto em velocidades subluz em combate quanto durante a viagem hiperespaço. Para bases, apenas um gráfico é mostrado.
 
-Um valor importante é a taxa de geração de energia do reator por unidade de combustível. Isso mostra a eficiência do uso do combustível do reator, o que tem um impacto direto sobre a rapidez com que um navio precisa reabastecer.
+Um valor importante é a taxa de geração de energia do reator por unidade de combustível. Isso mostra a eficiência do uso do combustível do reator, o que tem um impacto direto sobre a rapidez com que uma nave precisa reabastecer.
 
 [H3]Movimento[/H3]
-Esta seção é relevante apenas para navios. Ela mostra a velocidade de movimento e o uso de energia em vários níveis.
+Esta seção é relevante apenas para naves. Ela mostra a velocidade de movimento e o uso de energia em vários níveis.
 
 Também é mostrado aqui o alcance de salto do hiperdrive e o alcance total de combustível.
 
 A precisão do salto hiperespaço indica a distância mínima de saída do salto ao viajar para um local sem uma colônia ou base sua, por exemplo, ao atacar um local inimigo.
 
-Isso significa que o navio sairá do salto aproximadamente nesta distância e, em seguida, deve viajar em velocidade subluz em direção ao destino.
+Isso significa que a nave sairá do salto aproximadamente nesta distância e, em seguida, deve viajar em velocidade subluz em direção ao destino.
 
 [H3]Armas[/H3]
 A seção de Armas descreve os alcances e as taxas de dano por segundo em várias categorias de armas.

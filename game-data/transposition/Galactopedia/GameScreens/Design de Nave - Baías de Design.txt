@@ -22,6 +22,6 @@ Você também pode fazer o seguinte:
 [ULI]clique com o botão direito em uma baía para remover um componente existente[/ULI]
 
 [H3]Baías Externas[/H3]
-Observe que algumas baías de componentes são externas no modelo de visualização. Em outras palavras, elas podem ser vistas na parte externa do navio ou da base.
+Observe que algumas baías de componentes são externas no modelo de visualização. Em outras palavras, elas podem ser vistas na parte externa da nave ou da base.
 
 As baías externas são mostradas na lista de Baías de Design por um ícone de 'visualização' à esquerda. Você pode clicar no ícone de visualização para girar a visualização e mostrar a baía externa.

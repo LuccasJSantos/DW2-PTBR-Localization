@@ -3273,13 +3273,13 @@ Também é possível que essa tecnologia possa ser virada contra as mentes sinis
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>Guerra Biológica</MessageTitle>
-				<Description>Não pode ser coincidência. {20} reporta que após a aparição da criatura Rift Strider no sistema {1}, os habitantes de {0} foram atingidos por uma estranha peste.
+				<Description>Não pode ser coincidência. {20} reporta que após a aparição da criatura Rift Strider no sistema {1}, os habitantes de {0} foram atingidos por uma estranha praga.
 
-A peste parece afetar o cérebro dos pacientes de formas que nossos médicos não podem entender. Alguns sofrem falhas neurológicas massivas e morrem, mas a maioria sobrevive e é... alterada.
+A praga parece afetar o cérebro dos pacientes de formas que nossos médicos não podem entender. Alguns sofrem falhas neurológicas massivas e morrem, mas a maioria sobrevive e é... alterada.
 
-Os vítimas parecem perder a inibição e o julgamento. Elas se comportam quase como se estivessem intoxicaadas, ignorando perigo e propriedade. O pior é que muitas parecem perseguir um propósito comum. Houve atos de sabotagem e defecções militares. A peste parece ser projetada para debilitar suas vítimas.
+Os vítimas parecem perder a inibição e o julgamento. Elas se comportam quase como se estivessem intoxicaadas, ignorando perigo e propriedade. O pior é que muitas parecem perseguir um propósito comum. Houve atos de sabotagem e defecções militares. A praga parece ser projetada para debilitar suas vítimas.
 
-Não podemos supor que essa peste não virá para nossos próprios mundos. Encontrar uma cura deve ser nossa maior prioridade, mas pode haver mais em jogo. Se pudermos entender a natureza da doença e como ela foi entregue, talvez possamos nos proteger contra futuros ataques.
+Não podemos supor que essa praga não virá para nossos próprios mundos. Encontrar uma cura deve ser nossa maior prioridade, mas pode haver mais em jogo. Se pudermos entender a natureza da doença e como ela foi entregue, talvez possamos nos proteger contra futuros ataques.
 
 Nosso cientistas dizem que gostariam de o máximo possível de amostras dos restos da criatura Rift Strider para seus estudos.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
