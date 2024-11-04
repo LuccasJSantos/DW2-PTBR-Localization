@@ -55,12 +55,13 @@
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Republic</MessageTitle>
-				<Description>Due to our chosen government, we have gained insight into:
+				<MessageTitle>República</MessageTitle>
+				<Description>Devido ao nosso governo escolhido, ganhamos conhecimento em:
 
-[ULI][RESEARCH]Planetary Governance[/RESEARCH][/ULI]
+[ULI][RESEARCH]Governança Planetária[/RESEARCH][/ULI]
 
-Our first such facility has already been constructed on our homeworld.</Description>
+Nossa primeira instalação desse tipo já foi construída em nosso mundo natal.</Description>
+
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -174,11 +175,12 @@ Our first such facility has already been constructed on our homeworld.</Descript
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Democracy</MessageTitle>
-				<Description>Due to our chosen government, we have gained insight into:
+				<MessageTitle>Democracia</MessageTitle>
+				<Description>Devido ao nosso governo escolhido, ganhamos conhecimento em:
 
-[ULI][RESEARCH]Space Construction[/RESEARCH][/ULI]
-[ULI][RESEARCH]Expanded Space Stations[/RESEARCH][/ULI]</Description>
+[ULI][RESEARCH]Construção Espacial[/RESEARCH][/ULI]
+[ULI][RESEARCH]Estações Espaciais Expandidas[/RESEARCH][/ULI]</Description>
+
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -290,14 +292,15 @@ Our first such facility has already been constructed on our homeworld.</Descript
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Feudalism</MessageTitle>
-				<Description>Due to our chosen government, we have gained insight into:
+				<MessageTitle>Feudalismo</MessageTitle>
+				<Description>Devido ao nosso governo escolhido, ganhamos conhecimento em:
 
-[ULI][RESEARCH]Star Fighters[/RESEARCH][/ULI]
-[ULI][RESEARCH]Zero-G Combat[/RESEARCH][/ULI]
-[ULI][RESEARCH]Ship Boarding[/RESEARCH][/ULI]
+[ULI][RESEARCH]Caças Estelares[/RESEARCH][/ULI]
+[ULI][RESEARCH]Combate em Gravidade Zero[/RESEARCH][/ULI]
+[ULI][RESEARCH]Assalto a Naves[/RESEARCH][/ULI]
 
-An infantry force is also available on our homeworld.</Description>
+Uma unidade de infantaria também está disponível em nosso mundo natal.</Description>
+
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -680,11 +683,12 @@ An infantry force is also available on our homeworld.</Description>
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Mercantile Guild</MessageTitle>
-				<Description>Due to our chosen government, we have gained insight into:
+				<MessageTitle>Guilda Mercantil</MessageTitle>
+				<Description>Devido ao nosso governo escolhido, ganhamos conhecimento em:
 
-[ULI][RESEARCH]Expanded Civilian Ships[/RESEARCH][/ULI]
-[ULI][RESEARCH]Expanded Space Stations[/RESEARCH][/ULI]</Description>
+[ULI][RESEARCH]Naves Civis Expandidas[/RESEARCH][/ULI]
+[ULI][RESEARCH]Estações Espaciais Expandidas[/RESEARCH][/ULI]</Description>
+
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -796,14 +800,15 @@ An infantry force is also available on our homeworld.</Description>
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Military Dictatorship</MessageTitle>
-				<Description>Due to our chosen government, we have gained insight into:
+				<MessageTitle>Ditadura Militar</MessageTitle>
+				<Description>Devido ao nosso governo escolhido, ganhamos conhecimento em:
 
-[ULI][RESEARCH]Improved Escorts[/RESEARCH][/ULI]
-[ULI][RESEARCH]System Patrol Starships[/RESEARCH][/ULI]
-[ULI][RESEARCH]Shock Forces[/RESEARCH][/ULI]
+[ULI][RESEARCH]Escoltas Aprimorados[/RESEARCH][/ULI]
+[ULI][RESEARCH]Naves de Patrulha de Sistema[/RESEARCH][/ULI]
+[ULI][RESEARCH]Forças de Choque[/RESEARCH][/ULI]
 
-An armor force is also available on our homeworld.</Description>
+Uma unidade de armadura também está disponível em nosso mundo natal.</Description>
+
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -1186,14 +1191,15 @@ An armor force is also available on our homeworld.</Description>
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Monarchy</MessageTitle>
-				<Description>Due to our chosen government, we have gained insight into:
+				<MessageTitle>Monarquia</MessageTitle>
+				<Description>Devido ao nosso governo escolhido, ganhamos conhecimento em:
 
-[ULI][RESEARCH]Coordinated Control[/RESEARCH][/ULI]
-[ULI][RESEARCH]Crew Systems[/RESEARCH][/ULI]
-[ULI][RESEARCH]Planetary Palace[/RESEARCH][/ULI]
+[ULI][RESEARCH]Controle Coordenado[/RESEARCH][/ULI]
+[ULI][RESEARCH]Sistemas de Tripulação[/RESEARCH][/ULI]
+[ULI][RESEARCH]Palácio Planetário[/RESEARCH][/ULI]
 
-Our palace and an infantry force is also available on our homeworld.</Description>
+Nosso palácio e uma unidade de infantaria também estão disponíveis em nosso mundo natal.</Description>
+
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -1597,13 +1603,14 @@ Our palace and an infantry force is also available on our homeworld.</Descriptio
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Technocracy</MessageTitle>
-				<Description>Due to our chosen government, we have gained insight into:
+				<MessageTitle>Tecnocracia</MessageTitle>
+				<Description>Devido ao nosso governo escolhido, ganhamos conhecimento em:
 
-[ULI][RESEARCH]Exploration Scanners[/RESEARCH][/ULI]
-[ULI][RESEARCH]Planetary Exploration[/RESEARCH][/ULI]
+[ULI][RESEARCH]Scanners de Exploração[/RESEARCH][/ULI]
+[ULI][RESEARCH]Exploração Planetária[/RESEARCH][/ULI]
 
-A [CHARACTER]scientist[/CHARACTER] is also available on our homeworld.</Description>
+Um [CHARACTER]cientista[/CHARACTER] também está disponível em nosso mundo natal.</Description>
+
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -1733,13 +1740,14 @@ A [CHARACTER]scientist[/CHARACTER] is also available on our homeworld.</Descript
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Hive Mind</MessageTitle>
-				<Description>Due to our chosen government, we have gained insight into:
+				<MessageTitle>Mente Colmeia</MessageTitle>
+				<Description>Devido ao nosso governo escolhido, ganhamos conhecimento em:
 
-[ULI][RESEARCH]Improved Logistics[/RESEARCH][/ULI]
-[ULI][RESEARCH]Long Range Sensors[/RESEARCH][/ULI]
+[ULI][RESEARCH]Logística Aprimorada[/RESEARCH][/ULI]
+[ULI][RESEARCH]Sensores de Longo Alcance[/RESEARCH][/ULI]
 
-An infantry force is also available on our homeworld.</Description>
+Uma unidade de infantaria também está disponível em nosso mundo natal.</Description>
+
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>

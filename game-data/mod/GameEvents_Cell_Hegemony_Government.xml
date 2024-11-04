@@ -55,12 +55,13 @@
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Cell Hegemony</MessageTitle>
-				<Description>Due to our chosen government, we have gained insight into:
+				<MessageTitle>Hegemonia Celular</MessageTitle>
+				<Description>Devido ao nosso governo escolhido, ganhamos conhecimento em:
 
-[ULI][RESEARCH]Exploration Scanners[/RESEARCH][/ULI]
-[ULI][RESEARCH]Improved Sensors[/RESEARCH][/ULI]
-[ULI][RESEARCH]Coordinated Control[/RESEARCH][/ULI]</Description>
+[ULI][RESEARCH]Scanners de Exploração[/RESEARCH][/ULI]
+[ULI][RESEARCH]Sensores Aprimorados[/RESEARCH][/ULI]
+[ULI][RESEARCH]Controle Coordenado[/RESEARCH][/ULI]</Description>
+
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>

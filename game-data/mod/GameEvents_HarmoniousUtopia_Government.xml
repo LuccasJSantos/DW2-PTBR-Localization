@@ -55,11 +55,12 @@
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Harmonious Utopia</MessageTitle>
-				<Description>Due to our chosen government, we have gained insight into:
+				<MessageTitle>Utopia Harmoniosa</MessageTitle>
+				<Description>Devido ao nosso governo escolhido, ganhamos conhecimento em:
 
-[ULI][RESEARCH]Basic Recreation Systems[/RESEARCH][/ULI]
-[ULI][RESEARCH]Basic Medical Systems[/RESEARCH][/ULI]</Description>
+[ULI][RESEARCH]Sistemas Básicos de Recreação[/RESEARCH][/ULI]
+[ULI][RESEARCH]Sistemas Básicos de Saúde[/RESEARCH][/ULI]</Description>
+
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>

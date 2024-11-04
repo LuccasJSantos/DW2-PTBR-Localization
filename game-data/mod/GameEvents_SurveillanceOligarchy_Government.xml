@@ -55,11 +55,12 @@
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle>Surveillance Oligarchy</MessageTitle>
-				<Description>Due to our chosen government, we have gained insight into:
+				<MessageTitle>Oligarquia de Vigilância</MessageTitle>
+				<Description>Devido ao nosso governo escolhido, ganhamos conhecimento em:
 
-[ULI][RESEARCH]Penetrating Scanners[/RESEARCH][/ULI]
-[ULI][RESEARCH]Improved Sensors[/RESEARCH][/ULI]</Description>
+[ULI][RESEARCH]Scanners Penetrantes[/RESEARCH][/ULI]
+[ULI][RESEARCH]Sensores Aprimorados[/RESEARCH][/ULI]</Description>
+
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>

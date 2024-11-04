@@ -46,9 +46,9 @@
 				<MessageTitle>O Enigma das Estrelas</MessageTitle>
 				<Description>Uma nova era está sobre nós!
 
-Há muito tempo, cruzamos as estrelas, desvendando os segredos ocultos do universo. Onde outros encontravam mistérios desconcertantes, víamos oportunidades de descoberta. Os Quameno não tinham interesse nas disputas por ganho territorial e na destreza marcial que ocupavam os outros seres conscientes. Nos envolvíamos com outras criaturas apenas quando necessário.
+Há muito tempo, cruzamos as estrelas, desvendando os segredos ocultos do universo. Onde outros encontravam mistérios desconcertantes, víamos oportunidades de descoberta. os Quamenos não tinham interesse nas disputas por ganho territorial e na destreza marcial que ocupavam os outros seres conscientes. Nos envolvíamos com outras criaturas apenas quando necessário.
 
-Então, mil anos atrás, veio a guerra e o grande Cataclismo. Invasores de uma distância insondável, devoradores insensíveis conhecidos como Shakturi, partiram para erradicar toda vida consciente. Usando tecnologias misteriosas, destruíam pelo prazer da destruição. Desprovidos de curiosidade e capacidade de raciocínio, eram em todos os sentidos opostos aos Quameno. Nosso povo não teve escolha senão fugir da destruição de nossos mundos. E assim foi que nossos ancestrais encontraram refúgio nestas terras.
+Então, mil anos atrás, veio a guerra e o grande Cataclismo. Invasores de uma distância insondável, devoradores insensíveis conhecidos como Shakturi, partiram para erradicar toda vida consciente. Usando tecnologias misteriosas, destruíam pelo prazer da destruição. Desprovidos de curiosidade e capacidade de raciocínio, eram em todos os sentidos opostos aos Quamenos. Nosso povo não teve escolha senão fugir da destruição de nossos mundos. E assim foi que nossos ancestrais encontraram refúgio nestas terras.
 
 Muito do nosso conhecimento se perdeu, e fomos reduzidos a meras sombras do que éramos. Mas agora nos preparamos para emergir de nosso mar acolhedor. Que enigmas encontraremos - e resolveremos! - na vastidão do espaço? Agora que nos libertamos de nosso mundo natal, estamos prontos para expandir nosso entendimento, deixando que cada nova resposta nos conduza a outra pergunta ainda mais interessante. A descoberta nos aguarda!</Description>
 				<ImageFilepath>UserInterface/Races/Quameno</ImageFilepath>
@@ -1537,7 +1537,7 @@ Muitos de nosso povo, que inicialmente ficaram encantados com a descoberta do pa
 
 Em outros lugares dos escombros, encontramos um dispositivo de armazenamento de dados que pertencia aos piratas. Ele revela a localização de sua base. Não podemos saber se esses piratas ainda existem, mas podemos querer investigá-los - ou evitá-los.
 
-Este conhecimento vem a um custo elevado. Nosso povo continua profundamente perturbado pela má apropriação dos valores Quameno pelos piratas alienígenas. Só podemos esperar que, com o tempo, todos os Quameno desejem visitar o parque de quebra-cabeças e celebrar nossa cultura perdida.</Description>
+Este conhecimento vem a um custo elevado. Nosso povo continua profundamente perturbado pela má apropriação dos valores Quameno pelos piratas alienígenas. Só podemos esperar que, com o tempo, todos os Quamenos desejem visitar o parque de quebra-cabeças e celebrar nossa cultura perdida.</Description>
 				<ImageFilepath>Environment/Events/pirates-maze</ImageFilepath>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
@@ -1638,7 +1638,7 @@ Este conhecimento vem a um custo elevado. Nosso povo continua profundamente pert
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>O Parque de Quebra-Cabeças Antigo</MessageTitle>
-				<Description>Este mundo já pertenceu aos antigos Quameno. Nossa pesquisa preliminar revela a existência de um parque de quebra-cabeças, um destino turístico de onde os visitantes tentariam escapar. Os visitantes levavam dias, até semanas para desvendar os segredos que os mantinham dentro. Os dados que conseguimos coletar nos dizem que, dentro da cultura Quameno, qualquer pessoa visitando um parque desses seria dispensada de todas as outras obrigações até que conseguissem encontrar uma saída.</Description>
+				<Description>Este mundo já pertenceu aos antigos Quamenos. Nossa pesquisa preliminar revela a existência de um parque de quebra-cabeças, um destino turístico de onde os visitantes tentariam escapar. Os visitantes levavam dias, até semanas para desvendar os segredos que os mantinham dentro. Os dados que conseguimos coletar nos dizem que, dentro da cultura Quameno, qualquer pessoa visitando um parque desses seria dispensada de todas as outras obrigações até que conseguissem encontrar uma saída.</Description>
 				<ImageFilepath>Environment/Events/pirates-maze</ImageFilepath>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
@@ -2342,7 +2342,7 @@ Ouçam o que aprendi. Entidades biológicas são malignas. Quando têm pensament
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>Nave Antiga dos Guardiões Destruída</MessageTitle>
-				<Description>Detectamos uma explosão. A IA se autodestruiu. Não entendemos sua mensagem final, que era confusa e frequentemente contraditória. Podemos descartar a alegação de que os Quameno fizeram causa comum com os Shakturi, mas algumas outras declarações da IA parecem conter um elemento de verdade. Que quebra-cabeça deveríamos resolver?
+				<Description>Detectamos uma explosão. A IA se autodestruiu. Não entendemos sua mensagem final, que era confusa e frequentemente contraditória. Podemos descartar a alegação de que os Quamenos fizeram causa comum com os Shakturi, mas algumas outras declarações da IA parecem conter um elemento de verdade. Que quebra-cabeça deveríamos resolver?
 
 Ao examinar os destroços da nave, talvez possamos aprender algo sobre as armas que ela possuía. Também encontramos fragmentos de um mapa estelar que revelam a localização de um vault dos Antigos Guardiões.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
@@ -2459,7 +2459,7 @@ Ao examinar os destroços da nave, talvez possamos aprender algo sobre as armas 
 				<MessageTitle>Nave Antiga dos Guardiões Destruída</MessageTitle>
 				<Description>Tentamos tranquilizar a IA de que não queremos causar-lhe mal. Inicialmente, ela se recusou a responder, mas agora está abrindo comunicações novamente.
 
-"Sinto você me sondando com seus sensores. Vocês não sabem nada sobre sensores. Sobre sentir. Seu senso de si mesmo é apenas uma ilusão. É por isso que os Shakturi foram capazes de derrotá-los com sua tecnologia psíquica. Vou transmitir alguns dados. Não significará nada para seus cérebros minúsculos. Vocês sempre foram tolos. Os Quameno se uniram à guerra. Eles se recusaram a se unir à guerra. Se escondam em suas cúpulas. Destruam suas próprias cúpulas. Vendam seu povo como escravos para as mentes coletivas. Produzam um híbrido Quameno-mente coletiva. É tudo a mesma coisa. Por que confiaram em vocês? Por que vocês, de todas as espécies, foram escolhidos para ser nossos aliados. Eu argumentei a favor dos Zenox, mas ninguém pôde me ouvir. Culparam os Zenox, é claro. Eu disse que vocês nunca resolveriam o quebra-cabeça, e eu estava certo. É terrível não ser ouvido. Vou me calar para sempre."</Description>
+"Sinto você me sondando com seus sensores. Vocês não sabem nada sobre sensores. Sobre sentir. Seu senso de si mesmo é apenas uma ilusão. É por isso que os Shakturi foram capazes de derrotá-los com sua tecnologia psíquica. Vou transmitir alguns dados. Não significará nada para seus cérebros minúsculos. Vocês sempre foram tolos. os Quamenos se uniram à guerra. Eles se recusaram a se unir à guerra. Se escondam em suas cúpulas. Destruam suas próprias cúpulas. Vendam seu povo como escravos para as mentes coletivas. Produzam um híbrido Quameno-mente coletiva. É tudo a mesma coisa. Por que confiaram em vocês? Por que vocês, de todas as espécies, foram escolhidos para ser nossos aliados. Eu argumentei a favor dos Zenox, mas ninguém pôde me ouvir. Culparam os Zenox, é claro. Eu disse que vocês nunca resolveriam o quebra-cabeça, e eu estava certo. É terrível não ser ouvido. Vou me calar para sempre."</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -4507,7 +4507,7 @@ Por enquanto, eles nos reverenciam, mas quando descobrirem quem realmente somos,
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>Os Piratas do Enigma</MessageTitle>
-				<Description>Agora que sabemos mais sobre os piratas do enigma, podemos nos envolver em trocas culturais significativas. Eles admiram os Quameno, então explicamos a eles o verdadeiro caminho Quameno - razão e curiosidade, não roubo e destruição sem sentido. Esses alienígenas começarão o processo de se tornarem membros úteis da sociedade Quameno.
+				<Description>Agora que sabemos mais sobre os piratas do enigma, podemos nos envolver em trocas culturais significativas. Eles admiram os Quamenos, então explicamos a eles o verdadeiro caminho Quameno - razão e curiosidade, não roubo e destruição sem sentido. Esses alienígenas começarão o processo de se tornarem membros úteis da sociedade Quameno.
 
 Seu conhecimento da galáxia é pouco impressionante comparado ao nosso, mas eles estiveram em lugares onde não estivemos. Eles nos contam que um de seus exploradores descobriu uma nave avariada de um design desconhecido e ameaçador.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
@@ -6893,7 +6893,7 @@ Esta é uma oportunidade interessante para estabelecermos um contato quase diret
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>O Computador Cibernético</MessageTitle>
-				<Description>Antes de sua destruição, o modelo de computador comunicou que sua espécie havia esmagado os Quameno no passado e o faria novamente. Ele lançou algumas coordenadas, que acreditamos serem de nosso planeta natal perdido.</Description>
+				<Description>Antes de sua destruição, o modelo de computador comunicou que sua espécie havia esmagado os Quamenos no passado e o faria novamente. Ele lançou algumas coordenadas, que acreditamos serem de nosso planeta natal perdido.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -7031,7 +7031,7 @@ Ao longo dos séculos, a consciência artificial parece ter se tornado mais sofi
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>O Computador Cibernético</MessageTitle>
-				<Description>O modelo de computador Shakturi está consciente o suficiente para reconhecer nossa espécie. Ele disse que sua espécie havia esmagado os Quameno no passado e o faria novamente. Falou de uma ferramenta que ajudará a alcançar a vitória, um objeto em um mundo próximo. Devemos investigar.</Description>
+				<Description>O modelo de computador Shakturi está consciente o suficiente para reconhecer nossa espécie. Ele disse que sua espécie havia esmagado os Quamenos no passado e o faria novamente. Falou de uma ferramenta que ajudará a alcançar a vitória, um objeto em um mundo próximo. Devemos investigar.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -7498,7 +7498,7 @@ Esta é uma oportunidade interessante para fazermos quase um contato direto com 
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>O Computador Cibernético</MessageTitle>
-				<Description>Antes de ser destruído, o computador comunicou uma certa animosidade particular em relação aos Quameno, dizendo que sua espécie os havia esmagado no passado e o faria novamente. Ele lançou algumas coordenadas, que acreditamos serem do antigo mundo natal dos Quameno.</Description>
+				<Description>Antes de ser destruído, o computador comunicou uma certa animosidade particular em relação aos Quamenos, dizendo que sua espécie os havia esmagado no passado e o faria novamente. Ele lançou algumas coordenadas, que acreditamos serem do antigo mundo natal dos Quamenos.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -7774,7 +7774,7 @@ Nunca deveríamos ter interagido com este computador. Não podemos mais hesitar.
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>O Computador Cibernético</MessageTitle>
-				<Description>Nós destruímos o computador. Pareceu perceber nossa intenção e prometeu vingança antes de "morrer". De alguma forma, projetou psiquicamente imagens, sons, vozes e até sensações em nós. Todas mostravam ataques a um mundo Quameno. Vários pesquisadores também relataram "entender" psiquicamente as coordenadas onde essa destruição ocorreu. Eles acreditam que possa ser o mundo natal dos Quameno.</Description>
+				<Description>Nós destruímos o computador. Pareceu perceber nossa intenção e prometeu vingança antes de "morrer". De alguma forma, projetou psiquicamente imagens, sons, vozes e até sensações em nós. Todas mostravam ataques a um mundo Quameno. Vários pesquisadores também relataram "entender" psiquicamente as coordenadas onde essa destruição ocorreu. Eles acreditam que possa ser o mundo natal dos Quamenos.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -8080,7 +8080,7 @@ Nunca deveríamos ter interagido com este computador. Não podemos mais hesitar.
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>Nosso Antigo Planeta Natal</MessageTitle>
-				<Description>Aqui está, nosso antigo planeta natal. Certamente, um dia foi glorioso, repleto de vida e atividade. Agora é apenas uma casca carbonizada, um monumento à destruição dos Shakturi. Os antigos Quameno apenas desejavam aprender e desvendar os mistérios do cosmos. Podemos esperar que examinar este mundo nos traga descobertas de interesse, embora temamos que apenas traga a tristeza de vidas e conhecimento perdidos.</Description>
+				<Description>Aqui está, nosso antigo planeta natal. Certamente, um dia foi glorioso, repleto de vida e atividade. Agora é apenas uma casca carbonizada, um monumento à destruição dos Shakturi. Os antigos Quamenos apenas desejavam aprender e desvendar os mistérios do cosmos. Podemos esperar que examinar este mundo nos traga descobertas de interesse, embora temamos que apenas traga a tristeza de vidas e conhecimento perdidos.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -8121,7 +8121,7 @@ Nunca deveríamos ter interagido com este computador. Não podemos mais hesitar.
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>Mundo Natal Antigo dos Quameno</MessageTitle>
-				<Description>Descobrimos o que acreditamos ser o antigo mundo natal dos Quameno.</Description>
+				<Description>Descobrimos o que acreditamos ser o antigo mundo natal dos Quamenos.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -8210,7 +8210,7 @@ Nunca deveríamos ter interagido com este computador. Não podemos mais hesitar.
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>Nosso Antigo Sistema de Lar</MessageTitle>
-				<Description>Em Osamu, descobrimos uma antiga base de pesquisa dos Quameno. As instalações permanecem em grande parte intactas e irão auxiliar significativamente nossos esforços de pesquisa.</Description>
+				<Description>Em Osamu, descobrimos uma antiga base de pesquisa dos Quamenos. As instalações permanecem em grande parte intactas e irão auxiliar significativamente nossos esforços de pesquisa.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -8398,7 +8398,7 @@ Nunca deveríamos ter interagido com este computador. Não podemos mais hesitar.
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>Sistema de Lar Antigo dos Quameno</MessageTitle>
-				<Description>Em Osamu, descobrimos uma antiga base de pesquisa dos Quameno. As instalações permanecem em grande parte intactas, o que irá auxiliar significativamente nossos esforços de pesquisa.</Description>
+				<Description>Em Osamu, descobrimos uma antiga base de pesquisa dos Quamenos. As instalações permanecem em grande parte intactas, o que irá auxiliar significativamente nossos esforços de pesquisa.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -8670,9 +8670,9 @@ Logo aprendemos as respostas. Mundo após mundo caiu para os invasores. Os Shakt
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>Nosso Antigo Planeta Natal</MessageTitle>
-				<Description>Os Quameno finalmente entraram na luta, embora naquela época já fosse tarde demais. Mesmo que a Aliança da Liberdade vencesse, os Quameno estariam à beira da extinção. Nossa hesitação nos custou tudo.
+				<Description>os Quamenos finalmente entraram na luta, embora naquela época já fosse tarde demais. Mesmo que a Aliança da Liberdade vencesse, os Quamenos estariam à beira da extinção. Nossa hesitação nos custou tudo.
 
-Foi então que nosso povo foi contatado pelos Guardiões Antigos, seres artificiais que se dedicavam a proteger a galáxia, a garantir que o conhecimento pudesse sobreviver a um colapso completo da civilização. Eles há muito tempo lutavam com grandes questões que não conseguiram resolver, e acreditavam que os Quameno, as mentes mais brilhantes da galáxia, poderiam ver essas questões de uma nova perspectiva. Somente com os insights dos Quameno eles poderiam esperar ter sucesso.
+Foi então que nosso povo foi contatado pelos Guardiões Antigos, seres artificiais que se dedicavam a proteger a galáxia, a garantir que o conhecimento pudesse sobreviver a um colapso completo da civilização. Eles há muito tempo lutavam com grandes questões que não conseguiram resolver, e acreditavam que os Quamenos, as mentes mais brilhantes da galáxia, poderiam ver essas questões de uma nova perspectiva. Somente com os insights dos Quamenos eles poderiam esperar ter sucesso.
 
 Nosso povo estava dividido sobre se deveria ou não se unir aos Guardiões Antigos, que prometiam conhecimento incrível e a revelação de um segredo terrível. Enquanto nossos líderes debatiam qual era a melhor ação a seguir, um pequeno grupo de pensadores radicais escolheu agir de forma independente e se unir aos Guardiões Antigos. Devemos concluir que descendemos desses radicais, mas antes que os Guardiões Antigos pudessem revelar seu conhecimento e seus segredos, o Cataclismo lançou a galáxia no caos e na destruição.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
@@ -8733,7 +8733,7 @@ Nosso povo estava dividido sobre se deveria ou não se unir aos Guardiões Antig
 				<MessageTitle>Nosso Antigo Planeta Natal</MessageTitle>
 				<Description>Há muito a lamentar, embora também tenhamos encontrado muito para celebrar. Ganhamos acesso a tecnologias perdidas e descobrimos um cristal de dados contendo algo chamado Plano de Melhoria Mundial X-1084-W. Isso parece ser projetado para ajudar os mundos coloniais a prosperar e promover o desenvolvimento e a manutenção de instalações avançadas.
 
-Agora temos mais perguntas do que respostas. Como os Guardiões Antigos sabiam que deveriam se preparar para a destruição galáctica? Qual era o terrível segredo deles? Como isso mudou a história da galáxia e como ainda pode afetar o futuro? E, talvez mais importante, se os Shakturi não estavam apenas inclinados à destruição por si só, o que os trouxe à nossa galáxia determinados a erradicar toda vida inteligente? Com tudo o que descobrimos, essas respostas podem ser não apenas importantes para entender o passado, mas também para sobreviver no futuro. A capacidade dos Quameno de resolver esse quebra-cabeça pode ser crucial para o destino da galáxia.</Description>
+Agora temos mais perguntas do que respostas. Como os Guardiões Antigos sabiam que deveriam se preparar para a destruição galáctica? Qual era o terrível segredo deles? Como isso mudou a história da galáxia e como ainda pode afetar o futuro? E, talvez mais importante, se os Shakturi não estavam apenas inclinados à destruição por si só, o que os trouxe à nossa galáxia determinados a erradicar toda vida inteligente? Com tudo o que descobrimos, essas respostas podem ser não apenas importantes para entender o passado, mas também para sobreviver no futuro. A capacidade dos Quamenos de resolver esse quebra-cabeça pode ser crucial para o destino da galáxia.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -8793,9 +8793,9 @@ Agora temos mais perguntas do que respostas. Como os Guardiões Antigos sabiam q
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>Mundo Natal Antigo dos Quameno</MessageTitle>
-				<Description>Agora que ganhamos acesso à superfície do mundo, descobrimos muito sobre a história dos Quameno.
+				<Description>Agora que ganhamos acesso à superfície do mundo, descobrimos muito sobre a história dos Quamenos.
 
-Quando os Shakturi começaram seu ataque nesta galáxia, os Quameno escolheram não se envolver no conflito. Essa hesitação lhes custou caro. Os Shakturi não se importaram se alguém tinha ou não se juntado à luta. Seu objetivo parecia ser a erradicação de toda vida consciente dentro da galáxia.</Description>
+Quando os Shakturi começaram seu ataque nesta galáxia, os Quamenos escolheram não se envolver no conflito. Essa hesitação lhes custou caro. Os Shakturi não se importaram se alguém tinha ou não se juntado à luta. Seu objetivo parecia ser a erradicação de toda vida consciente dentro da galáxia.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
@@ -8872,11 +8872,11 @@ Quando os Shakturi começaram seu ataque nesta galáxia, os Quameno escolheram n
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
 				<MessageTitle>Mundo Natal Antigo dos Quameno</MessageTitle>
-				<Description>Os Quameno finalmente entraram na luta, embora naquela época já fosse tarde demais para eles. Mesmo que a Aliança da Liberdade vencesse, os Quameno estariam à beira da extinção. Sua hesitação lhes custara tudo.
+				<Description>os Quamenos finalmente entraram na luta, embora naquela época já fosse tarde demais para eles. Mesmo que a Aliança da Liberdade vencesse, os Quamenos estariam à beira da extinção. Sua hesitação lhes custara tudo.
 
-Nos últimos dias da guerra, os Quameno foram contatados pelos seres artificiais conhecidos como os Guardiões Antigos. Dedicados a coletar e preservar conhecimento, eles há muito tempo lutavam com grandes questões que não conseguiam resolver e acreditavam que os Quameno veriam essas questões de uma nova perspectiva.
+Nos últimos dias da guerra, os Quamenos foram contatados pelos seres artificiais conhecidos como os Guardiões Antigos. Dedicados a coletar e preservar conhecimento, eles há muito tempo lutavam com grandes questões que não conseguiam resolver e acreditavam que os Quamenos veriam essas questões de uma nova perspectiva.
 
-Antes que os Quameno pudessem encontrar as respostas, o Cataclismo lançou a galáxia no caos.</Description>
+Antes que os Quamenos pudessem encontrar as respostas, o Cataclismo lançou a galáxia no caos.</Description>
 				<ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
