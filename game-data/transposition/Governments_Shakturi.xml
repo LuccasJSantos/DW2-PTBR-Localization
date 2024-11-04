@@ -216,12 +216,12 @@
 		<CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
 		<CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 		<EmpireNameAdjectives>
-			<string>Provisional</string>
-			<string>Interim</string>
+			<string>Provisório</string>
+			<string>Interino</string>
 		</EmpireNameAdjectives>
 		<EmpireNameNouns>
-			<string>Administration</string>
-			<string>Authority</string>
+			<string>(Administração)</string>
+			<string>(Autoridade)</string>
 		</EmpireNameNouns>
 
 		<Description>[HL]Observe que este é um início avançado para jogadores experientes que estão confortáveis com o jogo manual.[/HL]

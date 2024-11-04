@@ -119,17 +119,17 @@ Uma Hegemonia Celular é de certa forma uma forma diferente de Mente Colmeia, ma
 		<CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
 		<CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 		<EmpireNameAdjectives>
-			<string>Great</string>
-			<string>Expansive</string>
-			<string>Living</string>
-			<string>Rising</string>
+			<string>Grande</string>
+			<string>Expansivo</string>
+			<string>Vivido</string>
+			<string>Ascendente</string>
 		</EmpireNameAdjectives>
 		<EmpireNameNouns>
-			<string>Horde</string>
-			<string>Swarm</string>
-			<string>Nexus</string>
-			<string>Collective</string>
-			<string>Nest</string>
+			<string>(Horda)</string>
+			<string>(Enxame)</string>
+			<string>(Nexo)</string>
+			<string>(Coletiva)</string>
+			<string>(Ninho)</string>
 		</EmpireNameNouns>
 		<ExtraIntelligenceMissionTypes/>
 	</Government>
