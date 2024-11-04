@@ -1,0 +1,27 @@
+Resumo:
+
+1. Naves Mineradoras:
+   - Propriedade privada, não sob controle direto do império.
+   - Extraem recursos de alta demanda e os entregam em espaçonaves.
+   - Não podem atribuir missões.
+
+2. Cargueiros:
+   - Propriedade privada, transportam carga entre colônias, estações de mineração e espaçonaves.
+   - Não sob controle direto do império.
+   - Não podem atribuir missões.
+
+3. Naves de Passageiros:
+   - Propriedade privada, transportam migrantes ou turistas pela galáxia.
+   - Operam automaticamente com base na demanda.
+   - Não podem atribuir missões.
+
+4. Bases Estatais:
+   - Espaçonave: Centro comercial central, construção de naves, defesa, instalações de pesquisa e bônus de felicidade para colônias.
+   - Estação de Pesquisa: Instalações de pesquisa dedicadas ao desbloqueio de novas tecnologias.
+   - Base de Resort: Destino turístico para geração de renda.
+   - Base de Defesa: Defesa poderosa para colônias importantes.
+   - Estação de Monitoramento: Varredura de longo alcance para espionagem ou visibilidade de movimentos inimigos.
+
+5. Bases Civis:
+   - Estação de Mineração: Plataformas de mineração fixas em locais ricos em recursos, defendidas por naves militares.
+   - Uma vez que um planeta/lua é colonizado, sua estação de mineração é removida.

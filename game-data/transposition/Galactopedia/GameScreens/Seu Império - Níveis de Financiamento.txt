@@ -1,0 +1,15 @@
+Você pode ajustar como sua receita é gasta na tela de Níveis de Financiamento Bônus. Passe o mouse sobre cada valor para uma explicação detalhada.
+
+[H3]Alocando Financiamento de Manutenção[/H3]
+Nesta tela, você pode definir valores percentuais para cada uma das suas principais áreas de despesa regular: Manutenção de Naves e Bases, Manutenção de Tropas e Manutenção de Instalações. Essas porcentagens limitarão quanto seus conselheiros estão dispostos a gastar em cada área.
+
+Assim, se você alocar 50% da sua receita para Manutenção de Naves, seus conselheiros estarão dispostos a construir naves e bases até um limite de manutenção de 50% da sua economia. Mas eles não recomendarão novas naves uma vez que você atinja o limite especificado.
+
+Limitar os gastos em cada área permite uma distribuição mais uniforme da sua receita em todas as áreas da sua economia, evitando excessos em uma única área.
+
+Você também pode especificar uma porcentagem da sua receita que ficará não gasta, acumulando assim um estoque de dinheiro que pode ser usado para compras e outras despesas.
+
+[H3]Financiamento Excedente para Crescimento de Colônias e Pesquisa[/H3]
+Qualquer receita excedente pode ser direcionada para Crescimento de Colônias ou Pesquisa. Alocar financiamento para essas 2 áreas aumentará a taxa de Crescimento de Colônias ou a velocidade da Pesquisa que seu império pode realizar.
+
+Se você automatizar os Níveis de Financiamento, seus conselheiros econômicos usarão qualquer receita excedente para manter a velocidade total da Pesquisa, enquanto direcionarão o restante para as taxas de Crescimento de Colônias.

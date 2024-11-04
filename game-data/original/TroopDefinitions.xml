@@ -1061,24 +1061,27 @@
     <Description />
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
-  <TroopDefinition>
-    <TroopDefinitionId>54</TroopDefinitionId>
-    <RaceId>20</RaceId>
-    <Type>Infantry</Type>
-    <Size>5000</Size>
-    <MaintenanceCost>0</MaintenanceCost>
-    <AttackStrength>0</AttackStrength>
-    <DefendStrength>0</DefendStrength>
-    <SabotageStrength>0</SabotageStrength>
-    <EvasionInfantry>0</EvasionInfantry>
-    <EvasionArmor>0</EvasionArmor>
-    <EvasionTitan>0</EvasionTitan>
-    <EvasionPlanetaryDefense>0</EvasionPlanetaryDefense>
-    <EvasionSpecialForces>0</EvasionSpecialForces>
-    <Name>Slayer Swarm</Name>
-    <Description />
-    <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
-  </TroopDefinition>
+	<TroopDefinition>
+		<TroopDefinitionId>54</TroopDefinitionId>
+		<RaceId>20</RaceId>
+		<Type>Infantry</Type>
+		<Size>5000</Size>
+		<RecruitmentCost>
+			<Money>2000</Money>
+		</RecruitmentCost>
+		<MaintenanceCost>200</MaintenanceCost>
+		<AttackStrength>170</AttackStrength>
+		<DefendStrength>255</DefendStrength>
+		<SabotageStrength>0</SabotageStrength>
+		<EvasionInfantry>0</EvasionInfantry>
+		<EvasionArmor>0.25</EvasionArmor>
+		<EvasionTitan>0.25</EvasionTitan>
+		<EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
+		<EvasionSpecialForces>0</EvasionSpecialForces>
+		<Name>Slayer Swarm</Name>
+		<Description />
+		<ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
+	</TroopDefinition>
   <TroopDefinition>
     <TroopDefinitionId>55</TroopDefinitionId>
     <RaceId>21</RaceId>

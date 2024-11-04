@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfGovernment>
+	<Government>
+		<GovernmentId>32760</GovernmentId>
+		<Name>Frota de Refugiados Fenda</Name>
+		<StartingGameEventNames>
+			<string>Initialise Government (Rift Refugee Fleet)</string>
+		</StartingGameEventNames>
+		<Description />
+		<ImageFilename />
+		<LeaderTitle>Lorde das Trevas</LeaderTitle>
+		<CabinetTitle />
+		<EconomicFactors>
+			<IncomeFactors>
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>0</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+			</IncomeFactors>
+			<ExpenseFactors>
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>0</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+			</ExpenseFactors>
+		</EconomicFactors>
+		
+		<Bonuses>
+			<Bonus>
+				<Type>ColonyPopulationGrowthRate</Type>
+				<Amount>0.05</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>0</FilterId>
+				<DiscoveryLevel>0</DiscoveryLevel>
+				<Description />
+			</Bonus>
+		</Bonuses>
+
+		<UseBaseForCapital>false</UseBaseForCapital>
+		<UseShipForCapital>true</UseShipForCapital>
+		<CanColonize>true</CanColonize>
+		<RequiresColoniesToExist>false</RequiresColoniesToExist>
+		
+		<SpecialMode>RefugeeFleet</SpecialMode>
+		
+		<LeaderReplacementTypicalPeriod>30</LeaderReplacementTypicalPeriod>
+		<LeaderReplacementDisruption>0</LeaderReplacementDisruption>
+		<LeaderReplacementBoost>0</LeaderReplacementBoost>
+		<LeaderReplacementCharacterPool />
+		<LeaderReplacementTypicalManner>SimpleReplacement</LeaderReplacementTypicalManner>
+		<Stability>1.3</Stability>
+		<ConcernForOwnReputation>1</ConcernForOwnReputation>
+		<ImportanceOfOthersReputations>1</ImportanceOfOthersReputations>
+		<UsesCabinet>false</UsesCabinet>
+		<CabinetFactorNavalChief>0</CabinetFactorNavalChief>
+		<CabinetFactorGroundForcesChief>0</CabinetFactorGroundForcesChief>
+		<CabinetFactorIntelligenceDirector>0</CabinetFactorIntelligenceDirector>
+		<CabinetFactorHeadDiplomat>0</CabinetFactorHeadDiplomat>
+		<CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
+		<CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
+		<EmpireNameAdjectives>
+			<string>Provisório</string>
+			<string>Interino</string>
+		</EmpireNameAdjectives>
+		<EmpireNameNouns>
+			<string>(Administração)</string>
+			<string>(Autoridade)</string>
+		</EmpireNameNouns>
+	</Government>
+
+	<Government>
+		<GovernmentId>32759</GovernmentId>
+		<Name>Frota de Refugiados</Name>
+		
+		<ImageFilename />
+		<LeaderTitle>Presidente</LeaderTitle>
+		<CabinetTitle />
+		<EconomicFactors>
+			<IncomeFactors>
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>0</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+			</IncomeFactors>
+			<ExpenseFactors>
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>0</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+				<float>1</float>
+				
+			</ExpenseFactors>
+		</EconomicFactors>
+		<Bonuses>
+		</Bonuses>
+
+		<UseBaseForCapital>false</UseBaseForCapital>
+		<UseShipForCapital>true</UseShipForCapital>
+		<CanColonize>true</CanColonize>
+		<RequiresColoniesToExist>false</RequiresColoniesToExist>
+
+		<SpecialMode>RefugeeFleet</SpecialMode>
+		<AllowControlMiningShips>true</AllowControlMiningShips>
+
+		<LeaderReplacementTypicalPeriod>30</LeaderReplacementTypicalPeriod>
+		<LeaderReplacementDisruption>0</LeaderReplacementDisruption>
+		<LeaderReplacementBoost>0</LeaderReplacementBoost>
+		<LeaderReplacementCharacterPool />
+		<LeaderReplacementTypicalManner>SimpleReplacement</LeaderReplacementTypicalManner>
+		<Stability>1.3</Stability>
+		<ConcernForOwnReputation>1</ConcernForOwnReputation>
+		<ImportanceOfOthersReputations>1</ImportanceOfOthersReputations>
+		<UsesCabinet>false</UsesCabinet>
+		<CabinetFactorNavalChief>0</CabinetFactorNavalChief>
+		<CabinetFactorGroundForcesChief>0</CabinetFactorGroundForcesChief>
+		<CabinetFactorIntelligenceDirector>0</CabinetFactorIntelligenceDirector>
+		<CabinetFactorHeadDiplomat>0</CabinetFactorHeadDiplomat>
+		<CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
+		<CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
+		<EmpireNameAdjectives>
+			<string>Provisional</string>
+			<string>Interim</string>
+		</EmpireNameAdjectives>
+		<EmpireNameNouns>
+			<string>Administration</string>
+			<string>Authority</string>
+		</EmpireNameNouns>
+
+		<Description>[HL]Observe que este é um início avançado para jogadores experientes que estão confortáveis com o jogo manual.[/HL]
+
+O governo da Frota de Refugiados oferece uma situação inicial única: Cruéis invasores alienígenas o forçaram a fugir do seu planeta natal, e você está em fuga.
+
+Você não possui colônias. Em vez disso, começa com uma pequena frota de naves, incluindo algumas naves militares, alguns tanques de combustível, algumas naves de exploração, e sua única Nave de Colonização. Seu objetivo é estabelecer um novo planeta natal, então escolher um novo governo e fazer a transição para o jogo normal.
+
+Mas para onde você irá?
+
+Mitos antigos registram um tempo no passado distante em que um grupo do seu povo foi exilado, deixando seu planeta natal para trás e viajando longe através das estrelas para estabelecer um novo mundo. Com o tempo, o contato com eles foi perdido. Podemos encontrá-los novamente e unir forças?
+
+Temos várias pistas sobre sua localização na galáxia. Devemos viajar para essas coordenadas (marcadas em nosso mapa) e investigar. Talvez finalmente encontremos nossos irmãos perdidos há tanto tempo e nos reunamos com eles novamente.
+
+Alternativamente, se não conseguirmos encontrá-los, também podemos estabelecer uma nova colônia por conta própria. Temos uma Nave de Colonização massiva contendo toda a população restante de nossa facção. Podemos usá-la para estabelecer nosso novo planeta natal. Devemos procurar cuidadosamente um planeta que seja adequado para nossa raça. É essencial que protejamos nossa Nave de Colonização. Se a perdermos, então perdemos tudo.
+
+Assim que estabelecermos nosso novo planeta natal, escolheremos um novo governo e faremos a transição para um império normal, com todos os recursos habituais: pesquisa, construção, mineração e colonização adicional. Se não selecionarmos manualmente um novo governo em 2-3 meses, um governo padrão será automaticamente escolhido para nós.</Description>
+		
+	</Government>
+
+</ArrayOfGovernment>

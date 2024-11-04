@@ -1,0 +1,48 @@
+﻿
+GREETING_INTRODUCTION		;Somos os {0}.\n\nSomos viajantes pacíficos que buscam harmonia e boa vontade com todos.
+GREETING_FRIENDLY			;Que esquema maligno você veio compartilhar conosco, amigo?
+GREETING_NEUTRAL			;Explique sua presença diante de nós.
+GREETING_ANGRY				;Você vem falar conosco, inimigo?\n\nO que você tem a dizer?
+
+OFFER_FREETRADE				;Você concordaria com um Acordo de Livre Comércio conosco?\n\nAmbas as nossas economias se beneficiarão grandemente. E também podemos avaliar você para futura conquista.\n\nO que você diz?
+FREETRADE_ACCEPT			;Um Acordo de Livre Comércio seria muito útil. Aceitamos.
+FREETRADE_REJECT			;Não, não estamos interessados em um Acordo de Livre Comércio.\n\nTemos outros planos para você...
+
+CANCELTREATY						;Nosso {0} com você está agora terminado.\n\nEste arranjo não tem mais utilidade para nós.
+CANCELTREATY_RESPONSE_FRIENDLY		;Costumávamos gostar de você.\n\nMas talvez tenhamos julgado mal as coisas...
+CANCELTREATY_RESPONSE_NEUTRAL		;Muito bem então. Seu insulto foi anotado.
+CANCELTREATY_RESPONSE_ANGRY			;Bom, bom. Este tratado estava atrapalhando nossos planos de qualquer forma.
+
+TREATY_PROPOSAL					;O que exatamente você está propondo?
+TREATY_ACCEPTRESPONSE			;Excelente!\n\nEsperamos que você seja um aliado complacente e submisso. É?
+TREATY_REJECTRESPONSE			;Que independente da sua parte.\n\nNão é uma característica que gostamos.
+
+TRADESANCTIONS_IMPOSE			;Chegou a hora de amolecer você: estamos impondo Sanções Comerciais contra você!\n\nNão se preocupe em responder; não estamos interessados na sua resposta.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Fervemos de raiva contra você!\n\nNão pense que você é forte o suficiente para nos desafiar - você não é.
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Se nos importássemos com isso, poderíamos estar com raiva.\n\nMas não nos importamos, então não estamos.
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Admitimos que sua ação nos surpreendeu.\n\nMas obrigado por se identificar como um inimigo para nós.\n\nTenha certeza de que lidaremos com você quando estivermos prontos...
+
+TRADESANCTIONS_LIFT			;Estamos levantando nossas Sanções Comerciais contra você.\n\nVocê parece ter se tornado muito mais complacente. Lição aprendida para você.
+TRADESANCTIONS_LIFT_RESPONSE		;Isso parece ser muito importante para você.\n\nMas não para nós.
+
+WAR_DECLARE				;Chegou a sua vez de ser assimilado ao nosso poderoso império: declaramos GUERRA contra você!\n\nSua conquista será rápida e total.\n\nPor favor, não implore por misericórdia - não temos nenhuma.
+WAR_DECLARE_RESPONSE_EAGER		;Que irônico - estávamos prestes a declarar guerra contra você! Tão conveniente.\n\nE agora você deve morrer...
+WAR_DECLARE_RESPONSE_NEUTRAL		;Que valente de sua parte - ousar nos desafiar!\n\nClaro, bravura e tolice são muito relacionadas.\n\nMuito relacionadas, neste caso.
+WAR_DECLARE_RESPONSE_SURPRISED		;Você está cheio de surpresas!\n\nMas sempre recebemos bem uma boa luta.\n\nEntão, vitória para os fortes! - que somos nós, é claro.
+
+WAR_END					;É hora de acabar com esta guerra. Completaremos sua assimilação mais tarde.\n\nO que você diz?
+WAR_END_ACCEPT				;Pela primeira vez concordamos com você - esta guerra deve acabar.\n\nNossas forças estão se retirando.
+WAR_END_REJECT				;Acabar com a guerra?!\n\nApenas os fracos desejam alívio de suas perdas. Os fortes avançam com a conquista. Vocês são os fracos, e nós somos os fortes.\n\nEsta guerra ainda não acabou.
+
+GIFT_GIVE				;Temos um presente para você de {0} créditos.\n\nNão faz parte de nossa natureza ser tão gentis.\n\nPortanto, você seria sábio em ver isso como uma jogada cínica.
+GIFT_THANKS				;Obrigado pelo seu presente.\n\nIsso nos lembra de um inimigo conquistado pagando tributo para nós.
+
+WARNING						;Você quer nos advertir?\n\nVá em frente e desperdice suas palavras conosco.
+WARNING_INTELLIGENCEMISSIONS			;Sabemos de suas missões secretas contra nós.\n\nSeja avisado que podemos lhe dar uma lição em traição que você nunca esquecerá...\n\nPare com suas missões agora, enquanto ainda pode.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Missões secretas contra você? Que chocante.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Não se preocupe. Isso é apenas nossa vigilância de rotina sobre seu império.\n\nNada sinistro com que se preocupar.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Missões secretas? Isso geralmente indicaria preparativos para guerra.\n\nMas certamente não é o caso aqui. Então não se preocupe com isso...
+WARNING_ATTACKS					;Pare com seus ataques descarados contra nossas naves e bases!\n\nEssas ações colocam você em terreno muito perigoso. Avisamos que pare agora.
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Ataques contra você? Estamos muito chateados com isso.
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Ataques contra VOCÊ?!\n\nNão, não - nossas naves estavam se defendendo de ataques de suas forças.\n\nPor favor, não faça isso novamente.
+WARNING_ATTACKS_RESPONSE_ANGRY			;Ataques?\n\nSim, estamos enfraquecendo você antes de lançar um assalto total.\n\nMais alguma coisa que gostaria de discutir?

@@ -1,0 +1,48 @@
+
+GREETING_INTRODUCTION			;Bem-vindo estranho! Nós somos os {0}.\n\nAdoramos mexer com novas tecnologias.\n\nTalvez você já tenha ouvido dizer que somos gananciosos e desonestos, mas não acredite nessas mentiras. Só queremos garantir que conseguimos um bom negócio
+GREETING_FRIENDLY			;Bem-vindo de volta! Sobre o que você quer conversar?
+GREETING_NEUTRAL			;Estamos ouvindo
+GREETING_ANGRY				;Não estamos muito felizes com você. Então diga o que você quer e depois vá embora!
+
+OFFER_FREETRADE				;Que tal aceitar nossa oferta de um Acordo de Livre Comércio?\n\nSeria um ótimo negócio para você! E eu suponho que nós também nos beneficiaríamos disso...\n\nVocê aceita?
+FREETRADE_ACCEPT			;É um acordo!\n\nAceitamos o Acordo de Livre Comércio
+FREETRADE_REJECT			;Sem acordo.\n\nNão estamos interessados em um Acordo de Livre Comércio agora
+
+CANCELTREATY				;Nosso {0} com você acabou.\n\nSem ressentimentos, certo? Podemos renegociar mais tarde se você quiser
+CANCELTREATY_RESPONSE_FRIENDLY		;Sem tratado?! Não somos mais amigos? Trapaceamos demais?
+CANCELTREATY_RESPONSE_NEUTRAL		;Ei, você quebrou o acordo! Isso não é justo.\n\nNós colocamos muitas cláusulas astutas nesse tratado. Foi um trabalho árduo!
+CANCELTREATY_RESPONSE_ANGRY		;Não precisamos do seu tratado bobo de qualquer maneira. Então aí está
+
+TREATY_PROPOSAL				;Qual é a proposta?
+TREATY_ACCEPTRESPONSE			;Celebração! Somos parceiros agora!
+TREATY_REJECTRESPONSE			;Estamos tristes com isso
+
+TRADESANCTIONS_IMPOSE			;Você apostou do jeito errado desta vez: Sanções Comerciais para você!\n\nNão vamos mais negociar com seu império!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Sanções Comerciais?! Você é um grande trapaceiro!\n\nNós vamos te pegar, alienígena ardiloso!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Sem negociação com você?\n\nSeus negócios eram todos ruins de qualquer maneira. Não precisamos deles
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Mantenha seu comércio então. Não nos importamos
+TRADESANCTIONS_LIFT			;É seu dia de sorte: estamos suspendendo nossas Sanções Comerciais contra você.\n\nAgora vamos retomar as negociações com você. Mas sem mais brincadeiras, ok?
+TRADESANCTIONS_LIFT_RESPONSE		;Huh! Não precisamos do seu comércio...
+
+WAR_DECLARE				;Trapaceiro! Declaramos GUERRA a você!\n\nVocê vai se arrepender agora!
+WAR_DECLARE_RESPONSE_EAGER		;Acha que vai nos derrotar?! Está enganado.\n\nSomos mais ardilosos do que você! Você vai se arrepender!
+WAR_DECLARE_RESPONSE_NEUTRAL		;Estamos prontos para você. Vamos punir você!
+WAR_DECLARE_RESPONSE_SURPRISED		;Achávamos que você gostava da gente?! Não pode fazer isso! Não é permitido!
+
+WAR_END					;Esta guerra é improdutiva. Deveria acabar.\n\nO que você diz?
+WAR_END_ACCEPT				;Sim, concordamos em terminar a guerra
+WAR_END_REJECT				;Não, estamos apostando na vitória nesta guerra.\n\nEntão não vamos parar agora!
+
+GIFT_GIVE				;Aqui está um presente para você: {0} créditos
+GIFT_THANKS				;Obrigado pelo seu presente!\n\nVocê sabe, nós realmente gostamos de dinheiro. E de pessoas que nos dão dinheiro
+
+WARNING						;O que fizemos de errado?
+WARNING_INTELLIGENCEMISSIONS			;Pare com todas essas missões de espionagem contra nós!\n\nPodemos ver o quão ardilosos vocês são. Nós somos bastante ardilosos também, então sabemos do que estamos falando.\n\nDe qualquer forma, não faça essas coisas novamente, tudo bem?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Missões de espionagem contra vocês?\n\nVocê deve estar confundindo, amigo. Isso não pode ser a gente
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Missões de espionagem contra vocês?\n\nVocê deve estar confundindo. Isso não pode ser a gente
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Missões de espionagem contra vocês?\n\nE daí se fizemos? Vocês provavelmente mereceram!
+WARNING_ATTACKS					;Pare de atacar nossas naves e bases!\n\nEstamos te avisando: continue assim e você vai se arrepender!
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Ataques? Do que você está falando?\n\nIsso não fomos nós, amigo
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Ataques? Do que você está falando?\n\nIsso não fomos nós
+
+WARNING_ATTACKS_RESPONSE_ANGRY			;Ataques contra vocês?\n\nTalvez tenhamos feito. Mas vocês mereceram mesmo assim, então aí está!

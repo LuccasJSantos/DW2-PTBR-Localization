@@ -447,8 +447,8 @@ Mercantile Guilds generally allow a high degree of freedom and autonomy to their
     </Bonuses>
 	  
 	  <TradeIncomePerYearPerRestrictedTradeTreaty>1000</TradeIncomePerYearPerRestrictedTradeTreaty>
-	  <TradeIncomePerYearPerLimitedTradeTreaty>3000</TradeIncomePerYearPerLimitedTradeTreaty>
-	  <TradeIncomePerYearPerFreeTradeTreaty>5000</TradeIncomePerYearPerFreeTradeTreaty>
+	  <TradeIncomePerYearPerLimitedTradeTreaty>2000</TradeIncomePerYearPerLimitedTradeTreaty>
+	  <TradeIncomePerYearPerFreeTradeTreaty>3000</TradeIncomePerYearPerFreeTradeTreaty>
 
 	  <LeaderReplacementTypicalPeriod>40</LeaderReplacementTypicalPeriod>
 	  <LeaderReplacementDisruption>0</LeaderReplacementDisruption>
@@ -2367,7 +2367,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
       <Bonus>
         <Type>ColonyIncome</Type>
-        <Amount>0</Amount>
+        <Amount>0.2</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2536,9 +2536,17 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
         <DiscoveryLevel>0</DiscoveryLevel>
         <Description />
       </Bonus>
+	  <Bonus>
+        <Type>CounterEspionage</Type>
+        <Amount>0.1</Amount>
+        <AppliesTo>Empire</AppliesTo>
+        <FilterId>0</FilterId>
+        <DiscoveryLevel>0</DiscoveryLevel>
+        <Description />
+      </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
-        <Amount>0.2</Amount>
+        <Amount>0.1</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2546,7 +2554,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
-        <Amount>0.2</Amount>
+        <Amount>0.15</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2554,7 +2562,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
-        <Amount>0.3</Amount>
+        <Amount>0.1</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2578,7 +2586,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
       <Bonus>
         <Type>PlanetaryFacilityMaintenance</Type>
-        <Amount>0.1</Amount>
+        <Amount>0.2</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2594,7 +2602,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
       <Bonus>
         <Type>ColonyIncome</Type>
-        <Amount>0</Amount>
+        <Amount>0.05</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2608,7 +2616,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
 	  <LeaderReplacementTypicalManner>SimpleReplacement</LeaderReplacementTypicalManner>
 	  <Stability>1.4</Stability>
     <ConcernForOwnReputation>1.5</ConcernForOwnReputation>
-    <ImportanceOfOthersReputations>1.7</ImportanceOfOthersReputations>
+    <ImportanceOfOthersReputations>2</ImportanceOfOthersReputations>
     <UsesCabinet>true</UsesCabinet>
     <CabinetFactorNavalChief>0</CabinetFactorNavalChief>
     <CabinetFactorGroundForcesChief>0</CabinetFactorGroundForcesChief>
@@ -2756,7 +2764,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
       <Bonus>
         <Type>Diplomacy</Type>
-        <Amount>0.1</Amount>
+        <Amount>0.15</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2764,7 +2772,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
-        <Amount>0.1</Amount>
+        <Amount>0.05</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2772,7 +2780,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
-        <Amount>0.15</Amount>
+        <Amount>0.1</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2780,7 +2788,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
       <Bonus>
         <Type>ColonyCorruptionReduction</Type>
-        <Amount>0.15</Amount>
+        <Amount>0.05</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2796,7 +2804,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
       <Bonus>
         <Type>ShipMaintenanceAll</Type>
-        <Amount>0</Amount>
+        <Amount>0.05</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2804,7 +2812,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
       <Bonus>
         <Type>PlanetaryFacilityMaintenance</Type>
-        <Amount>0</Amount>
+        <Amount>0.1</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2828,7 +2836,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
       </Bonus>
 	   <Bonus>
         <Type>CounterEspionage</Type>
-        <Amount>-0.1</Amount>
+        <Amount>0.05</Amount>
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
@@ -2842,7 +2850,7 @@ Hive Mind government type is only available to the Boskara and Dhayut races.</De
 	<LeaderReplacementTypicalManner>SimpleReplacement</LeaderReplacementTypicalManner>
 	<Stability>1.4</Stability>
     <ConcernForOwnReputation>1.5</ConcernForOwnReputation>
-    <ImportanceOfOthersReputations>1.7</ImportanceOfOthersReputations>
+    <ImportanceOfOthersReputations>2</ImportanceOfOthersReputations>
     <UsesCabinet>true</UsesCabinet>
     <CabinetFactorNavalChief>0</CabinetFactorNavalChief>
     <CabinetFactorGroundForcesChief>0</CabinetFactorGroundForcesChief>

@@ -1,0 +1,67 @@
+
+GREETING_INTRODUCTION			;Saudações! Nós somos o {0}.\n\nValorizamos o conhecimento - especialmente o conhecimento daqueles que tramam contra nós.\n\nVocê é um conspirador ou um amigo?
+GREETING_FRIENDLY			;Bem-vindo amigo. Vamos traçar a queda de nossos inimigos!
+GREETING_NEUTRAL			;Você tem algo que gostaria de conversar?
+GREETING_ANGRY				;Ah, é VOCÊ novamente. Diga logo qual é o seu negócio
+
+OFFER_FREETRADE				;Junte-se a nós em um Acordo de Livre Comércio!\n\nSim?
+
+OFFER_PROTECTORATE			;Você precisa se unir a um império forte como o nosso em um tratado de Protetorado. Nós poderíamos então protegê-lo contra quaisquer agressores.\n\nCertamente você concorda?
+OFFER_MUTUALDEFENSE			;Admiramos sua força - deveríamos nos unir em um Pacto de Defesa Mútua. Isso dissuadiria outros de tramarem contra nós.\n\nUm plano sábio, não acha?
+OFFER_DEMANDITEM			;Nós exigimos algo de você. Não nos decepcione - nos dê o que pedimos
+OFFER_DEAL				;Este comércio lhe atrai?
+
+DEMAND_ACCEPT				;Nós vamos abrir mão disso para você
+DEMAND_REJECT				;Não estamos intimidados. Podemos aceitar um acordo justo, mas não ameaças
+
+DEAL_BEGIN				;Qual é a sua proposta?
+DEAL_ACCEPT				;É um acordo!
+DEAL_IMPROVE				;Uma oferta atraente - mas precisamos de um pouco mais
+DEAL_REJECT				;Não podemos aceitar esta oferta
+DEAL_COMPLAIN				;Você deve estar brincando! Mas nós não estamos rindo. Faça uma oferta séria ou nenhuma
+
+MUTUALDEFENSE_ACCEPT			;Concordamos, um Pacto de Defesa Mútua faz muito sentido. Bem-vindos aos nossos novos aliados!
+MUTUALDEFENSE_REJECT			;Não, um Pacto de Defesa Mútua não combina com nossos planos no momento
+MUTUALDEFENSE_REQUESTHELP		;Essas pragas sorrateiras, os {0}, estão nos atacando! Chamamos você para honrar seu tratado conosco e declarar guerra a eles.\n\nVocê está conosco?
+MUTUALDEFENSE_HONORREQUESTHELP		;Vamos honrar este acordo - declaramos guerra aos {0}!
+MUTUALDEFENSE_HONORREQUESTHELP_RESPONSE	;Um teste bem sucedido, aliado!
+MUTUALDEFENSE_DECLINEREQUESTHELP	;Desculpe, mas nossos planos não incluem lutar guerras impossíveis de vencer.\n\nNão podemos ajudar você...
+MUTUALDEFENSE_DECLINEREQUESTHELP_RESPONSE	;Sempre suspeitamos que você ia nos trair.\n\nVocê pagará por essa desonra!
+PROTECTORATE_ACCEPT			;Podemos ver muitos benefícios em nos tornarmos seu Protetorado - aceitamos.\n\nQue nossa amizade dure até crescermos o suficiente para derrotá-lo
+FREETRADE_ACCEPT			;Um Acordo de Livre Comércio - que ideia brilhante! Aceitamos sua oferta
+
+CANCELTREATY				;Não consideramos mais este {0} benéfico - estamos cancelando-o
+CANCELTREATY_RESPONSE_FRIENDLY		;Que triste. Talvez você reconsidere em outro momento
+CANCELTREATY_RESPONSE_NEUTRAL		;Tudo bem então - acabou
+CANCELTREATY_RESPONSE_ANGRY		;Estávamos prestes a cancelar este tratado nós mesmos.\n\nNa verdade, nós não queríamos isso de qualquer maneira
+
+TREATY_PROPOSAL				;O que você tem em mente?
+TREATY_ACCEPTRESPONSE			;Uma decisão muito inteligente - bem-vindo à nossa aliança!
+TREATY_REJECTRESPONSE			;Uma escolha ruim.\n\nTalvez você perceba isso mais tarde e reconsidere...
+
+TRADESANCTIONS_IMPOSE			;Temos algo para você: Sanções Comerciais!\n\nNão patrocinaremos mais sua beligerância - todo comércio entre nós acabou
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Você realmente acha que nos importamos em perder seu comércio? Isso não significa nada para nós!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Nossas suspeitas estão confirmadas: você é completamente indigno de confiança
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Que criminoso! Que perturbador trair seus amigos dessa maneira
+TRADESANCTIONS_LIFT			;Nossas Sanções Comerciais contra você acabaram. Nós voltaremos a negociar com você novamente
+TRADESANCTIONS_LIFT_RESPONSE		;Estamos felizes que você tenha se tornado mais razoável. Nós recebemos o comércio justo entre nós
+
+WAR_DECLARE				;Nossos preparativos estão completos - agora é hora da GUERRA!\n\nEsperamos eliminar até o último vestígio da sua existência miserável da galáxia!
+WAR_DECLARE_RESPONSE_EAGER		;Sabíamos que isso aconteceria!\n\nVocê quer guerra, mas agora receberá aniquilação!
+WAR_DECLARE_RESPONSE_NEUTRAL		;Sabíamos que você estava planejando nos trair!\n\nAgora vamos ensinar uma lição sobre como lutar!
+WAR_DECLARE_RESPONSE_SURPRISED		;Sempre suspeitamos que você fosse um traidor. Agora sabemos que é verdade.\n\nVamos te dar guerra, se é isso que você procura!
+
+WAR_END					;Esta guerra só nos enfraquece. Propomos um fim imediato aos nossos combates
+WAR_END_ACCEPT				;Concordado. Vamos encerrar nossa guerra imediatamente
+WAR_END_REJECT				;Encerrar a guerra? Não, estamos apenas começando!
+
+GIFT_GIVE				;Oferecemos a você um presente de {0} créditos.\n\nEsperamos que isso tranquilize você sobre nossas intenções pacíficas
+GIFT_THANKS				;Agradecemos pelo presente. Obrigado.\n\nTalvez você não seja tão malévolo quanto imaginávamos
+
+WARNING						;O que é?
+WARNING_INTELLIGENCEMISSIONS			;Alertamos para que não tente mais missões secretas contra nós.\n\nTodos os seus planos malignos são bem conhecidos por nós...
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Não temos conhecimento de nenhuma missão contra você, meu amigo, mas vamos investigar esta situação imediatamente
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Certamente você está enganado? Não temos conhecimento de nenhuma missão contra você
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Você tem razão em temer nossa rede de espiões habilidosa.\n\nSabemos mais do que você imagina - incluindo todas as suas fraquezas...
+
+WARNING_ATTACKS					;Estamos enfurecidos com seus ataques de naves contra nós.\n\nPare com eles agora, ou enfrente retaliação!

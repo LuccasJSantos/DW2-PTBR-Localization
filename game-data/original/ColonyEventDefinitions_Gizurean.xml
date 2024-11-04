@@ -185,18 +185,25 @@
 	  <ColonyEventDefinition>
 		<ColonyEventDefinitionId>72</ColonyEventDefinitionId>
 		<Type>Plague</Type>
-		<DurationMinimum>2</DurationMinimum>
-		<DurationMaximum>4</DurationMaximum>
-		<PopulationAmount>-0.1</PopulationAmount>
+		<DurationMinimum>4</DurationMinimum>
+		<DurationMaximum>5</DurationMaximum>
+		<PopulationAmount>-0.08</PopulationAmount>
 		<DevelopmentChange>0</DevelopmentChange>
 		<DamageRepair>0</DamageRepair>
 		<MigrationFactor>0</MigrationFactor>
 		<ResourceAbundance>0</ResourceAbundance>
-		<ColonyHappiness>-10</ColonyHappiness>
+		<ColonyHappiness>-15</ColonyHappiness>
 		<EmpireHappiness>0</EmpireHappiness>
-		<SpreadToOtherColoniesChance>8.0</SpreadToOtherColoniesChance>
-		<SpreadToOtherColoniesRange>50000000</SpreadToOtherColoniesRange>
+		<SpreadToOtherColoniesChance>0.5</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>150000000</SpreadToOtherColoniesRange>
 		<RandomInitiationChance>0</RandomInitiationChance>
+		<PlagueCuringFactor>1.5</PlagueCuringFactor>
+		<PlagueModifiersPerRaceId>
+			<unsignedByte>20</unsignedByte>
+		</PlagueModifiersPerRaceId>
+		<PlagueModifiersPerRaceAmount>
+			<float>0</float>
+		</PlagueModifiersPerRaceAmount>
 		<RaceFilterIds>
 		</RaceFilterIds>
 		<OrbTypeFilters>

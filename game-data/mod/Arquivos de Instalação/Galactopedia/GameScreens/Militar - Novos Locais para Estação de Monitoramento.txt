@@ -1,0 +1,10 @@
+Lista de Localizações Ideais para Estações de Monitoramento
+
+Esta tela lista os locais ideais onde você deve construir novas estações de monitoramento.
+
+Quando você está visualizando a galáxia ou o nível do sistema, os novos locais de estações de monitoramento são destacados no mapa. Passar o mouse sobre um item da lista fará um ping na localização no mapa. Clicar no item irá selecioná-lo. Um duplo clique no item moverá a visualização para essa localização.
+
+[H3]Colocando Estações de Monitoramento em Fila[/H3]
+O botão à direita permite que você coloque em fila a construção de uma nova estação de monitoramento na localização. Você pode clicar no botão novamente para cancelar a construção.
+
+Se você não puder construir na localização, o botão de Fila será desativado. Uma dica de ferramenta no botão explicará por que você não pode construir ali.

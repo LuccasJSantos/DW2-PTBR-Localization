@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ArrayOfCharacterRoom xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<CharacterRoom>
+		<RoomId>14</RoomId>
+		<Name>Shakturi_Default</Name>
+		<RoomImageFilename>Characters/Rooms/Shakturi_Default</RoomImageFilename>
+		<WindowRatioRegion>
+			<X>0.375</X>
+			<Y>0.09</Y>
+			<Width>0.59</Width>
+			<Height>0.76</Height>
+			<Left>0.375</Left>
+			<Top>0.09</Top>
+			<Location>
+				<X>0.375</X>
+				<Y>0.09</Y>
+			</Location>
+			<Size>
+				<Width>0.59</Width>
+				<Height>0.76</Height>
+			</Size>
+		</WindowRatioRegion>
+		<Offset>
+			<X>0.01</X>
+			<Y>0.05</Y>
+		</Offset>
+		<ScaleXY>
+			<X>0.4</X>
+			<Y>0.725</Y>
+		</ScaleXY>
+		<DataPath>data\CharacterRooms\Shakturi\Shakturi_background</DataPath>
+		<AnimationNames>
+			<SortableTextValue>
+				<Text>shakturi_background_action1</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>shakturi_background_action2</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>shakturi_background_action3</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+			<SortableTextValue>
+				<Text>shakturi_background_loop</Text>
+				<Value>1</Value>
+			</SortableTextValue>
+		</AnimationNames>
+	</CharacterRoom>
+
+</ArrayOfCharacterRoom>

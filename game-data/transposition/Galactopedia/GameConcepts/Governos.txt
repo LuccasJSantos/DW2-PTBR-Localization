@@ -1,0 +1,15 @@
+[H2]Tipos de Governo em Impérios[/H2]  
+Os impérios têm várias formas de governo, cada uma com suas próprias características. Diferentes tipos de governo também atraem e repelem naturalmente outros tipos, moldando as relações diplomáticas em toda a galáxia.
+
+Os cinco tipos básicos de governo são: Democracia, República, Feudalismo, Monarquia e Ditadura Militar. Esses tipos de governo estão disponíveis para todos os impérios e raças alienígenas.
+
+Três outros tipos de governo estão disponíveis apenas para certas raças alienígenas: Guilda Mercantil, Tecnocracia e Mente Colmeia. Duas outras formas especiais de governo também existem: o Caminho dos Antigos e o Caminho da Escuridão. Esses dois tipos de governo antigos devem ser redescobertos antes de estarem disponíveis para um império.
+
+Cada raça alienígena tem tendências naturais em relação a certas formas de governo: raças mais agressivas costumam preferir Ditaduras Militares; raças mais pacíficas geralmente preferem Democracias ou Repúblicas.
+
+Cada tipo de governo possui um conjunto único de bônus e penalidades, tornando-os mais ou menos adequados para diferentes estilos de governo. Cada um desses tipos de governo é explicado em detalhes em seu próprio tópico. Consulte cada um desses tópicos individuais para mais detalhes.
+
+[H3]Afinidade Natural[/H3]  
+Cada tipo de governo tem amigos e rivais naturais em outros tipos de governo específicos. No entanto, os tipos de governo são apenas um dos muitos fatores que influenciam como os impérios interagem entre si - impérios com tipos de governo que são naturalmente rivais ainda podem ser amigos devido a outros fatores, como comércio.
+
+Por outro lado, impérios com tipos de governo que são naturalmente amigos ainda podem ser inimigos devido a outros fatores, como disputas sobre sistemas.

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ArrayOfGovernment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Government>
     <GovernmentId>11</GovernmentId>
@@ -6,17 +6,16 @@
 	<StartingGameEventNames>
 		<string>Initialise Government (Harmonious Utopia)</string>
 	</StartingGameEventNames>
-  <Description>Utopias Harmoniosas são uma forma de sociedade ideal que tenta alcançar um caminho para que seus membros vivam em paz, felicidade e prosperidade. Às vezes, é mais uma fantasia do que uma realidade, embora algumas espécies e culturas consigam se aproximar mais do ideal do que outras.
+    <Description>Utopias Harmoniosas são uma forma de sociedade ideal que tenta alcançar um caminho para que seus membros vivam em paz, felicidade e prosperidade. Às vezes, é mais uma fantasia do que uma realidade, embora algumas espécies e culturas consigam se aproximar mais do ideal do que outras.
 
 Na prática, as Utopias Harmoniosas podem ser sufocantes para alguns devido ao ênfase na harmonia. Este ênfase cria pressão social para silenciar qualquer descontentamento ou expressão de discordância. Também há o risco de certo grau de estagnação se a harmonia e a felicidade forem plenamente alcançadas.
 
 Os objetivos típicos dos líderes e do povo em uma Utopia Harmoniosa são longevidade, harmonia, sabedoria e novas experiências prazerosas. Em grande parte, tais lugares atraem outros de toda a galáxia porque chegam mais perto de realizar o ideal de paraíso.
 
 Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificuldades em tempos de conflito e dificuldade, pois as medidas necessárias para defesa ou ataque muitas vezes são contrárias às suas filosofias básicas.</Description>
-
-    <ImageFilename />
+    <ImageFilename/>
 	  <LeaderTitle>Guardião da Vida</LeaderTitle>
-    <CabinetTitle />
+    <CabinetTitle/>
     <EconomicFactors>
       <IncomeFactors>
         <float>1</float> <!-- Undefined, i.e. Unused -->
@@ -52,7 +51,7 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
         <float>1</float> <!-- EnemyRaids -->
       </ExpenseFactors>
     </EconomicFactors>
-    <Biases />
+    <Biases/>
     <Bonuses>
       <Bonus>
         <Type>ColonyPopulationGrowthRate</Type>
@@ -60,7 +59,7 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>WarWearinessReduction</Type>
@@ -68,7 +67,7 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>CounterEspionage</Type>
@@ -76,7 +75,7 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>Diplomacy</Type>
@@ -84,7 +83,7 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ResearchAll</Type>
@@ -92,7 +91,7 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>ColonyHappiness</Type>
@@ -100,7 +99,7 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TroopRecruitment</Type>
@@ -108,7 +107,7 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>MiningRate</Type>
@@ -116,7 +115,7 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>TourismIncome</Type>
@@ -124,7 +123,7 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
       <Bonus>
         <Type>PlanetaryFacilityMaintenance</Type>
@@ -132,7 +131,7 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
         <AppliesTo>Empire</AppliesTo>
         <FilterId>0</FilterId>
         <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
+        <Description/>
       </Bonus>
     </Bonuses>
 	  <LeaderReplacementTypicalPeriod>20</LeaderReplacementTypicalPeriod>
@@ -154,22 +153,22 @@ Utopias Harmoniosas geralmente são sociedades abertas e podem enfrentar dificul
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 	  <EmpireNameAdjectives>
-      <string>Harmonioso</string>
-      <string>Unido</string>
-      <string>Benevolente</string>
-      <string>Grande</string>
-      <string>Idílico</string>
+		  <string>Harmonious</string>
+		  <string>United</string>
+		  <string>Benevolent</string>
+		  <string>Grand</string>
+		  <string>Idyllic</string>
 	  </EmpireNameAdjectives>
 	  <EmpireNameNouns>
-      <string>(Utopia)</string>
-      <string>(Paraíso)</string>
-      <string>(Perfeição)</string>
-      <string>(Felicidade)</string>
-      <string>(Serenidade)</string>
-      <string>(Nirvana)</string>
-      <string>(Tranquilidade)</string>
-      <string>(Comuna)</string>
-      <string>(Cooperativa)</string>
+		  <string>Utopia</string>
+		  <string>Paradise</string>
+		  <string>Perfection</string>
+		  <string>Bliss</string>
+		  <string>Serenity</string>
+		  <string>Nirvana</string>
+		  <string>Tranquility</string>
+		  <string>Commune</string>
+		  <string>Cooperative</string>
 	  </EmpireNameNouns>
   </Government>
 </ArrayOfGovernment>

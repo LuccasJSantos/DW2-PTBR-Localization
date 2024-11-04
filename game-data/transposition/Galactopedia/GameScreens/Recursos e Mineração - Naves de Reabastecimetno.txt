@@ -1,0 +1,10 @@
+Os Tanques de Combustível viajam reabastecendo naves que estão com pouco combustível. Quando você designa Tanques de Combustível para uma frota, eles dão prioridade ao reabastecimento das naves em sua frota.
+
+Eles podem minerar combustível de qualquer local com um recurso de combustível. No entanto, preferem carregar combustível de um espaçoporto ou colônia, pois essa é geralmente uma forma mais rápida de obter combustível.
+
+[H3]Lista de Tanques de Combustível[/H3]
+Esta tela lista todos os Tanques de Combustível em seu império.
+
+Quando você dá zoom no nível da galáxia ou do sistema, os Tanques de Combustível são destacados no mapa. Passar o mouse sobre um item da lista sinaliza a localização no mapa. Clicar no item selecionará sua localização. Dando um duplo clique no item moverá a visualização para essa localização.
+
+Cada item da lista mostra a carga atual e a missão do Tanque de Combustível.

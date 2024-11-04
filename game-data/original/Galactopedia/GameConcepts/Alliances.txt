@@ -1,0 +1,37 @@
+Alliances are a grouping of factions that are joined together in a special diplomatic relationship.
+
+[H3]Treaties and Defense[/H3]
+Each member of an alliance shares the same set of treaties with all other members. This includes Non Aggression and Defense treaties.
+
+This means that alliance members are bound to defend each other against attacks from outside empires. If another empire declares war on an alliance member, all the other alliance members will automatically declare war on the attacker.
+
+When in an alliance, some types of treaties cannot be formed with empires outside the alliance. This includes Non Aggression and Defense treaties.
+
+If an empire has vassals and the parent empire joins an alliance, then their vassals will also automatically join the alliance too.
+
+[H3]Alliance Voting[/H3]
+All members in the alliance have a share in deciding important actions. They do this by voting on proposals. Proposals can include:
+[ULI]admitting new members[/ULI]
+[ULI]expelling existing members[/ULI]
+[ULI]declaring war on other empires[/ULI]
+[ULI]ending wars[/ULI]
+
+Each type of vote has a threshold it must meet in order to pass. For most votes this threshold is 60%.
+
+Each member has a number of votes that they can use when voting on a proposal. The number of votes a member has is based on their size and strength. Thus larger empires have more votes and thus more control in the alliance.
+
+[H3]Admitting New Members[/H3]
+Admitting new members to the alliance must be decided by vote. All existing members must unanimously agree (100%) to admit a new member.
+
+If a new member is admitted to the alliance (by vote of all members) then any wars the new member is currently involved in will also become alliance wars: all members of the alliance must join these wars of the new member. Thus it is unusual for a new member to be admitted while they are at war.
+
+[H3]Expelling Members[/H3]
+Expelling existing alliance members must also be decided by vote. An expulsion vote will pass if 60%+ of the votes agree to expel the member.
+
+Note that any alliance member can unilaterally decide to leave the alliance at any time. No vote is required for this.
+
+[H3]Declaring War[/H3]
+When an empire is a member of an alliance, they cannot independently declare war on any other empire. Instead they must propose an alliance vote to decide whether the entire alliance will declare war on the other empire. The required vote threshold for declaring war is 60%.
+
+[H3]Ending Wars[/H3]
+Ending an alliance war also requires a vote, with a pass threshold of 60%. If the alliance agrees to end the war, then their offer will be sent to the warring empire. The war will end if the warring empire accepts the peace offer.

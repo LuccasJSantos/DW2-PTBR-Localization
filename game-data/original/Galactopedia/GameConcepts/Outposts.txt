@@ -1,0 +1,39 @@
+Outposts are small enclosed surface settlements that can be established at planets and moons.
+
+They are ideal for settling planets that would otherwise be inhospitable to colonization. They are particularly useful to acquire important ruins with empire bonuses or valuable resources.
+
+[H3]Differences from Colonies[/H3]
+While Outposts are similar to Colonies in some ways, they also have a number of important differences.
+
+The key difference is that Outposts do not grow beyond their initial settlement population.
+
+Outposts also do not pay tax. So they have no income.
+
+They can be established at any planet or moon with a solid surface where the suitability is -50 or better.
+
+[H3]Support Costs[/H3]
+Outposts have support costs that correlate to the suitability of the planets population. Lower suitability increases support costs, whereas better suitability lessens support costs.
+
+Thus Outposts are always a net drain on your economy - they never earn money, but always have support costs.
+
+So you should carefully consider whether you really want to establish an outpost at a location. There should be some clear benefit to the Outpost that outweighs the support costs.
+
+[H3]Outposts claim territory[/H3]
+Outposts also claim their entire system as territory for your empire.
+
+However because Outposts do not grow, their territory will never project beyond their system.
+
+[H3]Restrictions[/H3]
+Outposts also have some restrictions:
+[ULI]they cannot build new ships or bases[/ULI]
+[ULI]they cannot build most planetary facilities[/ULI]
+[ULI]they cannot recruit troops[/ULI]
+
+There is also a limit on the total number of Outposts: you can only have one Outpost for each Colony in your empire.
+
+[H3]Establishing new Outposts[/H3]
+Establishing an Outpost requires sending a Colony Ship to the target planet, but instead of performing a 'Colonization' mission, the ship performs an 'Establish Outpost' mission.
+
+The New Colonies List can also be used to queue up new Outposts, just the same as you do for Colonization.
+
+In addition you can also use the 'Queue Outpost' action button under the Selection Panel for any uninhabited planet or moon that qualifies as an outpost.

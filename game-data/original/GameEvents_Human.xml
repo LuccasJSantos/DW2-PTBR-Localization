@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0"?>
 <ArrayOfGameEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<GameEvent>
 		<Name>Hero of the Hour Trigger (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -22,24 +18,18 @@
 		<TriggerActions>
 			<GameEventAction>
 				<Type>TriggerEvent</Type>
-				<MessageTitle></MessageTitle>
-				<Description></Description>
-				<ImageFilepath></ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<GeneratedItemName>Hero of the Hour Choice (Human)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>5</DelaySecondsMinimum>
 				<DelaySecondsMaximum>5</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -49,18 +39,14 @@
 	</GameEvent>
 	<GameEvent>
 		<Name>Hero of the Hour Choice (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -76,21 +62,19 @@ As a result a number of promising officers are demonstrating outstanding fightin
 
 What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[/CHARACTER]?</Description>
 				<ImageFilepath>Environment/Events/Hero of the Hour</ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<ChoiceButtonText>New Admiral</ChoiceButtonText>
 				<GeneratedItemName>Implement Hero of the Hour - Admiral (Human)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -98,25 +82,20 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 			</GameEventAction>
 			<GameEventAction>
 				<Type>TriggerEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>0</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<ChoiceButtonText>New General</ChoiceButtonText>
 				<GeneratedItemName>Implement Hero of the Hour - General (Human)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -126,18 +105,14 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 	</GameEvent>
 	<GameEvent>
 		<Name>Implement Hero of the Hour - Admiral (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -148,24 +123,18 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 				<Type>GenerateCharacter</Type>
 				<MessageTitle>Hero of the Hour</MessageTitle>
 				<Description>A new hero has stepped forward!\n\n[CHARACTER]Admiral {1}[/CHARACTER] has appeared at {2}.</Description>
-				<ImageFilepath />
-				<MusicFilepath />
-				<MessageViewMode>Dialog</MessageViewMode>
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>0</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>FleetAdmiral</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Dialog</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -173,26 +142,18 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 			</GameEventAction>
 			<GameEventAction>
 				<Type>ClearCharacterTraits</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id3>1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>FleetAdmiral</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -200,26 +161,18 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 			</GameEventAction>
 			<GameEventAction>
 				<Type>AddCharacterTrait</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id3>1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>FleetAdmiral</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -227,26 +180,18 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 			</GameEventAction>
 			<GameEventAction>
 				<Type>AddCharacterTrait</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id3>1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>FleetAdmiral</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -254,27 +199,19 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 			</GameEventAction>
 			<GameEventAction>
 				<Type>SetCharacterTraitsKnown</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id2>1</Id2>
 				<Id3>1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>FleetAdmiral</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -284,18 +221,14 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 	</GameEvent>
 	<GameEvent>
 		<Name>Implement Hero of the Hour - General (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -306,24 +239,18 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 				<Type>GenerateCharacter</Type>
 				<MessageTitle>Hero of the Hour</MessageTitle>
 				<Description>A new hero has stepped forward!\n\n[CHARACTER]General {1}[/CHARACTER] has appeared at {2}.</Description>
-				<ImageFilepath />
-				<MusicFilepath />
-				<MessageViewMode>Dialog</MessageViewMode>
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>0</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>TroopGeneral</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Dialog</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -331,26 +258,18 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 			</GameEventAction>
 			<GameEventAction>
 				<Type>ClearCharacterTraits</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id3>1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>TroopGeneral</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -358,26 +277,18 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 			</GameEventAction>
 			<GameEventAction>
 				<Type>AddCharacterTrait</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id3>1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>TroopGeneral</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -385,26 +296,18 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 			</GameEventAction>
 			<GameEventAction>
 				<Type>AddCharacterTrait</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id3>1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>TroopGeneral</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -412,27 +315,19 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 			</GameEventAction>
 			<GameEventAction>
 				<Type>SetCharacterTraitsKnown</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id2>1</Id2>
 				<Id3>1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>TroopGeneral</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -442,18 +337,14 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 	</GameEvent>
 	<GameEvent>
 		<Name>Internal Debates Trigger (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -462,24 +353,18 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 		<TriggerActions>
 			<GameEventAction>
 				<Type>TriggerEvent</Type>
-				<MessageTitle></MessageTitle>
-				<Description></Description>
-				<ImageFilepath></ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<GeneratedItemName>Internal Debates (Human)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>5</DelaySecondsMinimum>
 				<DelaySecondsMaximum>5</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -489,18 +374,14 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 	</GameEvent>
 	<GameEvent>
 		<Name>Internal Debates (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -514,23 +395,18 @@ What shall we choose? An [CHARACTER]Admiral[/CHARACTER] or a [CHARACTER]General[
 
 However the new Defense treaty has also led to the appearance of a [CHARACTER]new Ambassador, {1}[/CHARACTER] at {2}.</Description>
 				<ImageFilepath>Environment/Events/Internal Debates</ImageFilepath>
-				<MusicFilepath />
-				<MessageViewMode>Dialog</MessageViewMode>
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>0</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Ambassador</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Dialog</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -538,26 +414,18 @@ However the new Defense treaty has also led to the appearance of a [CHARACTER]ne
 			</GameEventAction>
 			<GameEventAction>
 				<Type>ClearCharacterTraits</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id3>1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Ambassador</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -565,26 +433,18 @@ However the new Defense treaty has also led to the appearance of a [CHARACTER]ne
 			</GameEventAction>
 			<GameEventAction>
 				<Type>AddCharacterTrait</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id3>1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Ambassador</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -592,27 +452,19 @@ However the new Defense treaty has also led to the appearance of a [CHARACTER]ne
 			</GameEventAction>
 			<GameEventAction>
 				<Type>SetCharacterTraitsKnown</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id2>1</Id2>
 				<Id3>1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Ambassador</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -620,26 +472,20 @@ However the new Defense treaty has also led to the appearance of a [CHARACTER]ne
 			</GameEventAction>
 			<GameEventAction>
 				<Type>StartColonyEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>74</Id1>
 				<Id2>0</Id2>
 				<Value1>1</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -649,18 +495,14 @@ However the new Defense treaty has also led to the appearance of a [CHARACTER]ne
 	</GameEvent>
 	<GameEvent>
 		<Name>Heightened Security Trigger (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -669,24 +511,18 @@ However the new Defense treaty has also led to the appearance of a [CHARACTER]ne
 		<TriggerActions>
 			<GameEventAction>
 				<Type>TriggerEvent</Type>
-				<MessageTitle></MessageTitle>
-				<Description></Description>
-				<ImageFilepath></ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<GeneratedItemName>Heightened Security Choice (Human)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>5</DelaySecondsMinimum>
 				<DelaySecondsMaximum>5</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -696,18 +532,14 @@ However the new Defense treaty has also led to the appearance of a [CHARACTER]ne
 	</GameEvent>
 	<GameEvent>
 		<Name>Heightened Security Choice (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -725,22 +557,19 @@ However doing this will also [BAD]reduce happiness by -5% in our empire for 2 ye
 
 Should we spend a Spy to gain these temporary Counter Espionage bonuses?</Description>
 				<ImageFilepath>Environment/Events/Heightened Security</ImageFilepath>
-				<MusicFilepath />
-				<MessageViewMode>Dialog</MessageViewMode>
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<ChoiceButtonText>Spend a Spy</ChoiceButtonText>
 				<GeneratedItemName>Implement Heightened Security (Human)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Dialog</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -748,25 +577,19 @@ Should we spend a Spy to gain these temporary Counter Espionage bonuses?</Descri
 			</GameEventAction>
 			<GameEventAction>
 				<Type>Undefined</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>0</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<ChoiceButtonText>Leave the Spies Alone</ChoiceButtonText>
-				<GeneratedItemName></GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -776,18 +599,14 @@ Should we spend a Spy to gain these temporary Counter Espionage bonuses?</Descri
 	</GameEvent>
 	<GameEvent>
 		<Name>Implement Heightened Security (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -796,26 +615,18 @@ Should we spend a Spy to gain these temporary Counter Espionage bonuses?</Descri
 		<TriggerActions>
 			<GameEventAction>
 				<Type>DestroyCharacter</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
 				<Id3>2</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Spy</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -823,26 +634,20 @@ Should we spend a Spy to gain these temporary Counter Espionage bonuses?</Descri
 			</GameEventAction>
 			<GameEventAction>
 				<Type>StartColonyEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>75</Id1>
 				<Id2>0</Id2>
 				<Value1>1</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -852,18 +657,14 @@ Should we spend a Spy to gain these temporary Counter Espionage bonuses?</Descri
 	</GameEvent>
 	<GameEvent>
 		<Name>New Worlds Continental Conquest (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -872,27 +673,21 @@ Should we spend a Spy to gain these temporary Counter Espionage bonuses?</Descri
 		<TriggerActions>
 			<GameEventAction>
 				<Type>GeneralStoryMessageToEmpire</Type>
-				<MessageTitle />
 				<Description>Our recent conquest of a Continental planet has deepened our understanding of how to colonize new worlds.
 
 As a result we have achieved a research breakthrough in a new Colonization tech.</Description>
 				<ImageFilepath>Environment/Events/New Worlds</ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -900,25 +695,18 @@ As a result we have achieved a research breakthrough in a new Colonization tech.
 			</GameEventAction>
 			<GameEventAction>
 				<Type>ResearchBreakthrough</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
+				<Value1>4</Value1>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Colonization</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -928,18 +716,14 @@ As a result we have achieved a research breakthrough in a new Colonization tech.
 	</GameEvent>
 	<GameEvent>
 		<Name>New Worlds Continental Colonization (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -953,22 +737,17 @@ As a result we have achieved a research breakthrough in a new Colonization tech.
 				
 As a result we have achieved a research breakthrough in a new Colonization tech.</Description>
 				<ImageFilepath>Environment/Events/New Worlds</ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -976,25 +755,18 @@ As a result we have achieved a research breakthrough in a new Colonization tech.
 			</GameEventAction>
 			<GameEventAction>
 				<Type>ResearchBreakthrough</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
+				<Value1>4</Value1>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Colonization</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -1004,16 +776,12 @@ As a result we have achieved a research breakthrough in a new Colonization tech.
 	</GameEvent>
 	<GameEvent>
 		<Name>Great Art Exposition from Resort Base Built (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<Conditions>
 			<GameEventCondition>
 				<Type>CheckColonyEventIntervalSinceLastActiveInEmpire</Type>
@@ -1023,6 +791,7 @@ As a result we have achieved a research breakthrough in a new Colonization tech.
 			</GameEventCondition>
 		</Conditions>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -1031,27 +800,18 @@ As a result we have achieved a research breakthrough in a new Colonization tech.
 		<TriggerActions>
 			<GameEventAction>
 				<Type>StartColonyEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HighestDevelopmentColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>20</Id1>
-				<Id2>-1</Id2>
-				<Id3>-1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -1066,22 +826,17 @@ As a result our empire will enjoy a [BONUS]+10% boost to trade and tourism incom
 
 [LOCATION]{6}[/LOCATION] will also benefit from [BONUS]+10% colony income and +10% scenery bonus[/BONUS] during that time.</Description>
 				<ImageFilepath>Environment/Events/Great Art Exposition</ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -1091,16 +846,12 @@ As a result our empire will enjoy a [BONUS]+10% boost to trade and tourism incom
 	</GameEvent>
 	<GameEvent>
 		<Name>Great Art Exposition from Free Trade (Human)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<Conditions>
 			<GameEventCondition>
 				<Type>CheckColonyEventIntervalSinceLastActiveInEmpire</Type>
@@ -1110,6 +861,7 @@ As a result our empire will enjoy a [BONUS]+10% boost to trade and tourism incom
 			</GameEventCondition>
 		</Conditions>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -1118,27 +870,18 @@ As a result our empire will enjoy a [BONUS]+10% boost to trade and tourism incom
 		<TriggerActions>
 			<GameEventAction>
 				<Type>StartColonyEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HighestDevelopmentColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>20</Id1>
-				<Id2>-1</Id2>
-				<Id3>-1</Id3>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -1153,22 +896,17 @@ As a result our empire will enjoy a [BONUS]+10% boost to trade and tourism incom
 
 [LOCATION]{6}[/LOCATION] will also benefit from [BONUS]+10% colony income and +10% scenery bonus[/BONUS] during that time.</Description>
 				<ImageFilepath>Environment/Events/Great Art Exposition</ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Id1>-1</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -1176,5 +914,4 @@ As a result our empire will enjoy a [BONUS]+10% boost to trade and tourism incom
 			</GameEventAction>
 		</TriggerActions>
 	</GameEvent>
-
 </ArrayOfGameEvent>

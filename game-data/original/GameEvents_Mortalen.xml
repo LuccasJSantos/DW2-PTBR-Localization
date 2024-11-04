@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0"?>
 <ArrayOfGameEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<GameEvent>
 		<Name>Warrior Wave Trigger (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -22,24 +18,18 @@
 		<TriggerActions>
 			<GameEventAction>
 				<Type>TriggerEvent</Type>
-				<MessageTitle></MessageTitle>
-				<Description></Description>
-				<ImageFilepath></ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<GeneratedItemName>Warrior Wave Choice (Mortalen)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>5</DelaySecondsMinimum>
 				<DelaySecondsMaximum>5</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -49,18 +39,14 @@
 	</GameEvent>
 	<GameEvent>
 		<Name>Warrior Wave Choice (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -81,21 +67,19 @@ In addition we can also choose one of the following:
 
 What shall we choose? Troop Recruitment Rate or Troop Attack Strength?</Description>
 				<ImageFilepath>Environment/Events/Warrior Wave</ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<ChoiceButtonText>+50% Troop Recruitment Rate</ChoiceButtonText>
 				<GeneratedItemName>Implement Warrior Wave - Troop Recruitment (Mortalen)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -103,25 +87,20 @@ What shall we choose? Troop Recruitment Rate or Troop Attack Strength?</Descript
 			</GameEventAction>
 			<GameEventAction>
 				<Type>TriggerEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>0</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<ChoiceButtonText>+20% Troop Attack Strength</ChoiceButtonText>
 				<GeneratedItemName>Implement Warrior Wave - Troop Attack Strength (Mortalen)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -131,18 +110,14 @@ What shall we choose? Troop Recruitment Rate or Troop Attack Strength?</Descript
 	</GameEvent>
 	<GameEvent>
 		<Name>Implement Warrior Wave - Troop Recruitment (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -151,26 +126,20 @@ What shall we choose? Troop Recruitment Rate or Troop Attack Strength?</Descript
 		<TriggerActions>
 			<GameEventAction>
 				<Type>StartColonyEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>76</Id1>
 				<Id2>0</Id2>
 				<Value1>1</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -180,18 +149,14 @@ What shall we choose? Troop Recruitment Rate or Troop Attack Strength?</Descript
 	</GameEvent>
 	<GameEvent>
 		<Name>Implement Warrior Wave - Troop Attack Strength (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -200,26 +165,20 @@ What shall we choose? Troop Recruitment Rate or Troop Attack Strength?</Descript
 		<TriggerActions>
 			<GameEventAction>
 				<Type>StartColonyEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>77</Id1>
 				<Id2>0</Id2>
 				<Value1>1</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -227,21 +186,16 @@ What shall we choose? Troop Recruitment Rate or Troop Attack Strength?</Descript
 			</GameEventAction>
 		</TriggerActions>
 	</GameEvent>
-
 	<GameEvent>
 		<Name>Patriotic Wave Trigger (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -250,24 +204,18 @@ What shall we choose? Troop Recruitment Rate or Troop Attack Strength?</Descript
 		<TriggerActions>
 			<GameEventAction>
 				<Type>TriggerEvent</Type>
-				<MessageTitle></MessageTitle>
-				<Description></Description>
-				<ImageFilepath></ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<GeneratedItemName>Patriotic Wave Choice (Mortalen)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>5</DelaySecondsMinimum>
 				<DelaySecondsMaximum>5</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -277,18 +225,14 @@ What shall we choose? Troop Recruitment Rate or Troop Attack Strength?</Descript
 	</GameEvent>
 	<GameEvent>
 		<Name>Patriotic Wave Choice (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -309,21 +253,19 @@ In addition we can also choose one of the following:
 
 What shall we choose? Colony Corruption Reduction or War Weariness Reduction?</Description>
 				<ImageFilepath>Environment/Events/Patriotic Wave</ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<ChoiceButtonText>+10% Colony Corruption Reduction</ChoiceButtonText>
 				<GeneratedItemName>Implement Patriotic Wave - Corruption Reduction (Mortalen)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -331,25 +273,20 @@ What shall we choose? Colony Corruption Reduction or War Weariness Reduction?</D
 			</GameEventAction>
 			<GameEventAction>
 				<Type>TriggerEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>0</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<ChoiceButtonText>+50% War Weariness Reduction</ChoiceButtonText>
 				<GeneratedItemName>Implement Patriotic Wave - War Weariness (Mortalen)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -359,18 +296,14 @@ What shall we choose? Colony Corruption Reduction or War Weariness Reduction?</D
 	</GameEvent>
 	<GameEvent>
 		<Name>Implement Patriotic Wave - Corruption Reduction (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -379,26 +312,20 @@ What shall we choose? Colony Corruption Reduction or War Weariness Reduction?</D
 		<TriggerActions>
 			<GameEventAction>
 				<Type>StartColonyEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>78</Id1>
 				<Id2>0</Id2>
 				<Value1>1</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -408,18 +335,14 @@ What shall we choose? Colony Corruption Reduction or War Weariness Reduction?</D
 	</GameEvent>
 	<GameEvent>
 		<Name>Implement Patriotic Wave - War Weariness (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -428,26 +351,20 @@ What shall we choose? Colony Corruption Reduction or War Weariness Reduction?</D
 		<TriggerActions>
 			<GameEventAction>
 				<Type>StartColonyEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>79</Id1>
 				<Id2>0</Id2>
 				<Value1>1</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -455,21 +372,16 @@ What shall we choose? Colony Corruption Reduction or War Weariness Reduction?</D
 			</GameEventAction>
 		</TriggerActions>
 	</GameEvent>
-
 	<GameEvent>
 		<Name>Know Your Enemy Trigger (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -478,24 +390,18 @@ What shall we choose? Colony Corruption Reduction or War Weariness Reduction?</D
 		<TriggerActions>
 			<GameEventAction>
 				<Type>TriggerEvent</Type>
-				<MessageTitle></MessageTitle>
-				<Description></Description>
-				<ImageFilepath></ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<GeneratedItemName>Know Your Enemy Choice (Mortalen)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>5</DelaySecondsMinimum>
 				<DelaySecondsMaximum>5</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -505,18 +411,14 @@ What shall we choose? Colony Corruption Reduction or War Weariness Reduction?</D
 	</GameEvent>
 	<GameEvent>
 		<Name>Know Your Enemy Choice (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -535,21 +437,19 @@ We can choose one of the following for the next 2 years:
 
 What shall we choose? Espionage and Counter Espionage? Or Targeting and Countermeasures?</Description>
 				<ImageFilepath>Environment/Events/Know Your Enemy</ImageFilepath>
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<ChoiceButtonText>+10% Espionage and +10% Counter Espionage</ChoiceButtonText>
 				<GeneratedItemName>Implement Know Your Enemy - Espionage (Mortalen)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -557,25 +457,20 @@ What shall we choose? Espionage and Counter Espionage? Or Targeting and Counterm
 			</GameEventAction>
 			<GameEventAction>
 				<Type>TriggerEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>0</Id1>
-				<Value1>0</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<ChoiceButtonText>+10% Targeting and +10% Countermeasures</ChoiceButtonText>
 				<GeneratedItemName>Implement Know Your Enemy - Targeting (Mortalen)</GeneratedItemName>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -585,18 +480,14 @@ What shall we choose? Espionage and Counter Espionage? Or Targeting and Counterm
 	</GameEvent>
 	<GameEvent>
 		<Name>Implement Know Your Enemy - Espionage (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -605,26 +496,20 @@ What shall we choose? Espionage and Counter Espionage? Or Targeting and Counterm
 		<TriggerActions>
 			<GameEventAction>
 				<Type>StartColonyEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>80</Id1>
 				<Id2>0</Id2>
 				<Value1>1</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -634,18 +519,14 @@ What shall we choose? Espionage and Counter Espionage? Or Targeting and Counterm
 	</GameEvent>
 	<GameEvent>
 		<Name>Implement Know Your Enemy - Targeting (Mortalen)</Name>
-		<GroupName />
-		<Title />
-		<Description />
-		<ImageFilepath />
-		<MusicFilepath />
 		<TriggerType>Undefined</TriggerType>
 		<TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
 		<TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
 		<TriggerPriority>0</TriggerPriority>
 		<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
-		<Conditions />
+		<ConditionEvaluation>EvaluateOnce</ConditionEvaluation>
 		<PlacementAtGameStart>false</PlacementAtGameStart>
+		<PlacementRaceId>-1</PlacementRaceId>
 		<PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
 		<OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
 		<TechLevelThreshold>-1</TechLevelThreshold>
@@ -654,26 +535,20 @@ What shall we choose? Espionage and Counter Espionage? Or Targeting and Counterm
 		<TriggerActions>
 			<GameEventAction>
 				<Type>StartColonyEvent</Type>
-				<MessageTitle />
-				<Description />
-				<ImageFilepath />
-				<MusicFilepath />
 				<ActionLocationHint>HomeColony</ActionLocationHint>
 				<ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-				<ActionLocationItemName />
 				<ActionLocationItemType>Undefined</ActionLocationItemType>
 				<Id1>81</Id1>
 				<Id2>0</Id2>
 				<Value1>1</Value1>
-				<Value2>0</Value2>
 				<ShipRole>Undefined</ShipRole>
 				<CharacterRole>Undefined</CharacterRole>
 				<ResearchCategory>Undefined</ResearchCategory>
 				<BonusType>Undefined</BonusType>
 				<BonusAppliesTo>Undefined</BonusAppliesTo>
-				<ChoiceButtonText></ChoiceButtonText>
-				<GeneratedItemName />
+				<EmpireRelationType>Undefined</EmpireRelationType>
 				<AllConditionsMustBeMet>true</AllConditionsMustBeMet>
+				<MessageViewMode>Undefined</MessageViewMode>
 				<DelaySecondsMinimum>0</DelaySecondsMinimum>
 				<DelaySecondsMaximum>0</DelaySecondsMaximum>
 				<ActionObjectId>-1</ActionObjectId>
@@ -681,5 +556,4 @@ What shall we choose? Espionage and Counter Espionage? Or Targeting and Counterm
 			</GameEventAction>
 		</TriggerActions>
 	</GameEvent>
-
 </ArrayOfGameEvent>

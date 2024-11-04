@@ -35,6 +35,7 @@
       <short>14</short>
       <short>3</short>
 		<short>0</short>
+		<short>32759</short>
 	</AllowableGovernmentIds>
 	  <PreferredGovernmentIds>
 		  <short>14</short>
@@ -51,11 +52,16 @@
 		  <CharacterMissionType>InciteRevolution</CharacterMissionType>
 		  <CharacterMissionType>AssassinateCharacter</CharacterMissionType>
 		  <CharacterMissionType>DeepCover</CharacterMissionType>
+
+		  <CharacterMissionType>DefectCharacter</CharacterMissionType>
+		  <CharacterMissionType>DestroyFacility</CharacterMissionType>
+		  <CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
+
 	  </AllowableIntelligenceMissionTypes>
 
-	  <SalvageAdvancedTechBoostFactor>0.25</SalvageAdvancedTechBoostFactor>
-	  <RetireAdvancedTechBoostFactor>0.25</RetireAdvancedTechBoostFactor>
-	  <RetireCompleteAdvancedTechBonusResearchAmount>50</RetireCompleteAdvancedTechBonusResearchAmount>
+	  <SalvageAdvancedTechBoostFactor>0.1</SalvageAdvancedTechBoostFactor>
+	  <RetireAdvancedTechBoostFactor>0.1</RetireAdvancedTechBoostFactor>
+	  <RetireCompleteAdvancedTechBonusResearchAmount>30</RetireCompleteAdvancedTechBonusResearchAmount>
 	  <ColonyConquestGameEventName>Scouring Choice (Gizurean)</ColonyConquestGameEventName>
 	  <OtherRaceExterminateGrowthRatePerColony>0</OtherRaceExterminateGrowthRatePerColony>
 	  <OtherRaceExterminateColonyEventDefinitionId>73</OtherRaceExterminateColonyEventDefinitionId>

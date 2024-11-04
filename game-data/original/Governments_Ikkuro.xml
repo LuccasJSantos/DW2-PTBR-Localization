@@ -153,22 +153,22 @@ Harmonious Utopias are generally open societies and can struggle in times of con
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 	  <EmpireNameAdjectives>
-		  <string>Harmonious</string>
-		  <string>United</string>
-		  <string>Benevolent</string>
-		  <string>Grand</string>
-		  <string>Idyllic</string>
+		  <string>Harmonioso</string>
+		  <string>Unido</string>
+		  <string>Benevolente</string>
+		  <string>Grandioso</string>
+		  <string>Idílico</string>
 	  </EmpireNameAdjectives>
 	  <EmpireNameNouns>
-		  <string>Utopia</string>
-		  <string>Paradise</string>
-		  <string>Perfection</string>
-		  <string>Bliss</string>
-		  <string>Serenity</string>
-		  <string>Nirvana</string>
-		  <string>Tranquility</string>
-		  <string>Commune</string>
-		  <string>Cooperative</string>
+		  <string>(Utopia)</string>
+		  <string>(Paraíso)</string>
+		  <string>(Perfeição)</string>
+		  <string>(Felicidade)</string>
+		  <string>(Serenidade)</string>
+		  <string>(Nirvana)</string>
+		  <string>(Tranquilidade)</string>
+		  <string>(Comuna)</string>
+		  <string>(Cooperativa)</string>
 	  </EmpireNameNouns>
   </Government>
 </ArrayOfGovernment>

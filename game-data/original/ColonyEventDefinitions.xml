@@ -5,16 +5,16 @@
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.02</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0005</RandomInitiationChance>
+    <RandomInitiationChance>0.001</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
@@ -32,16 +32,16 @@ As a result there has been extensive loss of life and the quake has even damaged
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.015</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.01</RandomInitiationChance>
+    <RandomInitiationChance>0.001</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
@@ -87,16 +87,16 @@ As a result there has been extensive loss of life and the tsunami has even damag
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.015</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0015</RandomInitiationChance>
+    <RandomInitiationChance>0.001</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
@@ -122,16 +122,16 @@ As a result there has been extensive loss of life and the sinkhole has even dama
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.015</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0035</RandomInitiationChance>
+    <RandomInitiationChance>0.003</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
@@ -161,16 +161,16 @@ As a result there has been extensive loss of life and the sandstorm has even dam
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.015</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0015</RandomInitiationChance>
+    <RandomInitiationChance>0.003</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
@@ -200,16 +200,16 @@ As a result there has been extensive loss of life and the blizzard has even dama
     <Type>Disaster</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.05</PopulationAmount>
+    <PopulationAmount>-0.1</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.03</DamageRepair>
+    <DamageRepair>-0.1</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.002</RandomInitiationChance>
+    <RandomInitiationChance>0.003</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
     <OrbTypeFilters>
@@ -237,121 +237,125 @@ As a result there has been extensive loss of life and the eruption has even dama
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>6</ColonyEventDefinitionId>
     <Type>Plague</Type>
-    <DurationMinimum>0.15</DurationMinimum>
-    <DurationMaximum>0.35</DurationMaximum>
-    <PopulationAmount>-0.11</PopulationAmount>
+    <DurationMinimum>1.5</DurationMinimum>
+    <DurationMaximum>3</DurationMaximum>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
     <DamageRepair>0</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>-5</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
-    <SpreadToOtherColoniesChance>2.0</SpreadToOtherColoniesChance>
-    <SpreadToOtherColoniesRange>150000000</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0008</RandomInitiationChance>
-    <RaceFilterIds>
+    <SpreadToOtherColoniesChance>1</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>250000000</SpreadToOtherColoniesRange>
+    <RandomInitiationChance>0.01</RandomInitiationChance>
+	<RaceFilterIds>
     </RaceFilterIds>
-    <OrbTypeFilters>
+    <OrbTypeFilters>	
     </OrbTypeFilters>
     <Bonuses />
     <ValuesDecayGradually>false</ValuesDecayGradually>
+	<PlagueCuringFactor>1</PlagueCuringFactor>
     <Name>Hekretos Fever</Name>
-    <Description>Hekretos Fever is a deadly infection that attacks the internal organs, causing rapid degeneration and death. An outbreak of Hekretos Fever typically lasts about 3 months.</Description>
+    <Description>Hekretos Fever is a deadly infection that attacks the internal organs, causing rapid degeneration and death. An outbreak of Hekretos Fever typically lasts about 1.5-3 years.</Description>
     <ImageFilename>Environment/Events/HekretosFever</ImageFilename>
     <IconFilename>Environment/Events/Icons/HekretosFever</IconFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>7</ColonyEventDefinitionId>
     <Type>Plague</Type>
-    <DurationMinimum>0.6</DurationMinimum>
-    <DurationMaximum>0.9</DurationMaximum>
-    <PopulationAmount>-0.08</PopulationAmount>
+    <DurationMinimum>2</DurationMinimum>
+    <DurationMaximum>4</DurationMaximum>
+    <PopulationAmount>-0.06</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
     <DamageRepair>0</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>-8</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
-    <SpreadToOtherColoniesChance>1.2</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesChance>1.3</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>250000000</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0007</RandomInitiationChance>
-    <RaceFilterIds>
+    <RandomInitiationChance>0.005</RandomInitiationChance>
+	<RaceFilterIds>				
     </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
     <Bonuses />
     <ValuesDecayGradually>false</ValuesDecayGradually>
+	<PlagueCuringFactor>1.1</PlagueCuringFactor>
     <Name>Dekara Virus</Name>
-    <Description>Dekara Virus is a very painful disease that slowly cripples the central nervous system of any creature it infects, ultimately leading to death. An outbreak of Dekara Virus typically lasts about 9 months.</Description>
+    <Description>Dekara Virus is a very painful disease that slowly cripples the central nervous system of any creature it infects, ultimately leading to death. An outbreak of Dekara Virus typically lasts about 2-4 years.</Description>
     <ImageFilename>Environment/Events/DekaraVirus</ImageFilename>
     <IconFilename>Environment/Events/Icons/DekaraVirus</IconFilename>
   </ColonyEventDefinition>
   <ColonyEventDefinition>
     <ColonyEventDefinitionId>8</ColonyEventDefinitionId>
     <Type>Plague</Type>
-    <DurationMinimum>0.05</DurationMinimum>
-    <DurationMaximum>0.12</DurationMaximum>
-    <PopulationAmount>-0.35</PopulationAmount>
-    <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>0</DamageRepair>
-    <MigrationFactor>0</MigrationFactor>
-    <ResourceAbundance>0</ResourceAbundance>
-    <ColonyHappiness>-12</ColonyHappiness>
-    <EmpireHappiness>0</EmpireHappiness>
-    <SpreadToOtherColoniesChance>4.5</SpreadToOtherColoniesChance>
-    <SpreadToOtherColoniesRange>250000000</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0004</RandomInitiationChance>
-    <RaceFilterIds>
-    </RaceFilterIds>
-    <OrbTypeFilters>
-    </OrbTypeFilters>
-    <Bonuses />
-    <ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Genetic Scrambling Syndrome</Name>
-    <Description>Genetic Scrambling Syndrome attacks the genetic code in all of the cells of an infected creature, wiping out any useful biological instructions. This leads to very rapid disintegration of the infected creature, finally breaking them down to a puddle of protein slime. An outbreak of Genetic Scrambling Syndrome typically lasts only one month. However it is highly infectious and thus can spread rapidly.</Description>
-    <ImageFilename>Environment/Events/GeneticScramblingSyndrome</ImageFilename>
-    <IconFilename>Environment/Events/Icons/GeneticScramblingSyndrome</IconFilename>
-  </ColonyEventDefinition>
-  <ColonyEventDefinition>
-    <ColonyEventDefinitionId>9</ColonyEventDefinitionId>
-    <Type>Plague</Type>
-    <DurationMinimum>0.25</DurationMinimum>
-    <DurationMaximum>0.4</DurationMaximum>
-    <PopulationAmount>-0.28</PopulationAmount>
-    <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>0</DamageRepair>
-    <MigrationFactor>0</MigrationFactor>
-    <ResourceAbundance>0</ResourceAbundance>
-    <ColonyHappiness>-15</ColonyHappiness>
-    <EmpireHappiness>0</EmpireHappiness>
-    <SpreadToOtherColoniesChance>3.0</SpreadToOtherColoniesChance>
-    <SpreadToOtherColoniesRange>300000000</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.0003</RandomInitiationChance>
-    <RaceFilterIds>
-    </RaceFilterIds>
-    <OrbTypeFilters>
-    </OrbTypeFilters>
-    <Bonuses />
-    <ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Merturov Plague</Name>
-    <Description>Merturov Plague is the most deadly disease in the known galaxy. It swiftly eats the brain of the infected creature, progressively causing insanity, immobilization and eventual death. Merturov Plague is a highly resilient air-borne virus, and is thus very infectious. An outbreak of Merturov Plague typically lasts 4 months.</Description>
-    <ImageFilename>Environment/Events/MerturovPlague</ImageFilename>
-    <IconFilename>Environment/Events/Icons/MerturovPlague</IconFilename>
-  </ColonyEventDefinition>
-  <ColonyEventDefinition>
-    <ColonyEventDefinitionId>10</ColonyEventDefinitionId>
-    <Type>Plague</Type>
-    <DurationMinimum>2</DurationMinimum>
-    <DurationMaximum>3</DurationMaximum>
-    <PopulationAmount>-0.08</PopulationAmount>
+    <DurationMinimum>1.5</DurationMinimum>
+    <DurationMaximum>2</DurationMaximum>
+    <PopulationAmount>-0.15</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
     <DamageRepair>0</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>-10</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
-    <SpreadToOtherColoniesChance>8.0</SpreadToOtherColoniesChance>
-    <SpreadToOtherColoniesRange>50000000</SpreadToOtherColoniesRange>
+    <SpreadToOtherColoniesChance>1.6</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>300000000</SpreadToOtherColoniesRange>
+    <RandomInitiationChance>0.002</RandomInitiationChance>
+	<RaceFilterIds>
+    </RaceFilterIds>
+    <OrbTypeFilters>
+    </OrbTypeFilters>
+    <Bonuses />
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+	<PlagueCuringFactor>1.2</PlagueCuringFactor>
+    <Name>Genetic Scrambling Syndrome</Name>
+    <Description>Genetic Scrambling Syndrome attacks the genetic code in all of the cells of an infected creature, wiping out any useful biological instructions. This leads to very rapid disintegration of the infected creature, finally breaking them down to a puddle of protein slime. An outbreak of Genetic Scrambling Syndrome typically lasts 1-2 years. However it is highly infectious and thus can spread rapidly.</Description>
+    <ImageFilename>Environment/Events/GeneticScramblingSyndrome</ImageFilename>
+    <IconFilename>Environment/Events/Icons/GeneticScramblingSyndrome</IconFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>9</ColonyEventDefinitionId>
+    <Type>Plague</Type>
+    <DurationMinimum>2</DurationMinimum>
+    <DurationMaximum>3</DurationMaximum>
+    <PopulationAmount>-0.12</PopulationAmount>
+    <DevelopmentChange>0</DevelopmentChange>
+    <DamageRepair>0</DamageRepair>
+    <MigrationFactor>0</MigrationFactor>
+    <ResourceAbundance>0</ResourceAbundance>
+    <ColonyHappiness>-12</ColonyHappiness>
+    <EmpireHappiness>0</EmpireHappiness>
+    <SpreadToOtherColoniesChance>2</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>300000000</SpreadToOtherColoniesRange>
+    <RandomInitiationChance>0.001</RandomInitiationChance>
+    <RaceFilterIds>
+    </RaceFilterIds>
+    <OrbTypeFilters>
+    </OrbTypeFilters>
+    <Bonuses />
+    <ValuesDecayGradually>false</ValuesDecayGradually>
+	<PlagueCuringFactor>1.4</PlagueCuringFactor>
+    <Name>Merturov Plague</Name>
+    <Description>Merturov Plague is the most deadly disease in the known galaxy. It swiftly eats the brain of the infected creature, progressively causing insanity, immobilization and eventual death. Merturov Plague is a highly resilient air-borne virus, and is thus very infectious. An outbreak of Merturov Plague typically lasts 2-3 years.</Description>
+    <ImageFilename>Environment/Events/MerturovPlague</ImageFilename>
+    <IconFilename>Environment/Events/Icons/MerturovPlague</IconFilename>
+  </ColonyEventDefinition>
+  <ColonyEventDefinition>
+    <ColonyEventDefinitionId>10</ColonyEventDefinitionId>
+    <Type>Plague</Type>
+    <DurationMinimum>4</DurationMinimum>
+    <DurationMaximum>5</DurationMaximum>
+    <PopulationAmount>-0.1</PopulationAmount>
+    <DevelopmentChange>0</DevelopmentChange>
+    <DamageRepair>0</DamageRepair>
+    <MigrationFactor>0</MigrationFactor>
+    <ResourceAbundance>0</ResourceAbundance>
+    <ColonyHappiness>-15</ColonyHappiness>
+    <EmpireHappiness>0</EmpireHappiness>
+    <SpreadToOtherColoniesChance>0.3</SpreadToOtherColoniesChance>
+    <SpreadToOtherColoniesRange>150000000</SpreadToOtherColoniesRange>
     <RandomInitiationChance>0</RandomInitiationChance>
     <RaceFilterIds>
     </RaceFilterIds>
@@ -359,7 +363,14 @@ As a result there has been extensive loss of life and the eruption has even dama
     </OrbTypeFilters>
     <Bonuses />
     <ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Shakturi Psionic Virus</Name>
+	<PlagueModifiersPerRaceId>
+      <unsignedByte>20</unsignedByte>
+    </PlagueModifiersPerRaceId>
+    <PlagueModifiersPerRaceAmount>
+      <float>0</float>
+    </PlagueModifiersPerRaceAmount>
+    <PlagueCuringFactor>1.5</PlagueCuringFactor>
+    <Name>Shakturi Psionic Virus - Variant K7</Name>
     <Description>Shakturi Psionic Virus makes a species more vulnerable to Shakturi psychic powers.\n\nAlthough not particularly deadly, it's lethality correlates with how resistant a species is to psychic attacks.\n\nInfected victims come under a form of psychic suggestion, making them behave in ways that maximize the spread of the virus. Thus Shakturi Psionic Virus is very infectious and can spread rapidly.</Description>
     <ImageFilename>Environment/Events/PsionicMindVirus</ImageFilename>
     <IconFilename>Environment/Events/Icons/PsionicMindVirus</IconFilename>
@@ -398,14 +409,14 @@ As a result there has been extensive loss of life and the eruption has even dama
     <DurationMaximum>0</DurationMaximum>
     <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
-    <DamageRepair>-0.03</DamageRepair>
+    <DamageRepair>-0.05</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
     <ResourceAbundance>0</ResourceAbundance>
     <ColonyHappiness>0</ColonyHappiness>
     <EmpireHappiness>0</EmpireHappiness>
     <SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
-    <RandomInitiationChance>0.00125</RandomInitiationChance>
+    <RandomInitiationChance>0.001</RandomInitiationChance>
     <RaceFilterIds>
       <unsignedByte>1</unsignedByte>
     </RaceFilterIds>
@@ -692,7 +703,7 @@ In addition, the associated festivities at the colony will provide a +10% boost 
     <Type>Undefined</Type>
     <DurationMinimum>0</DurationMinimum>
     <DurationMaximum>0</DurationMaximum>
-    <PopulationAmount>-0.03</PopulationAmount>
+    <PopulationAmount>-0.05</PopulationAmount>
     <DevelopmentChange>0</DevelopmentChange>
     <DamageRepair>0</DamageRepair>
     <MigrationFactor>0</MigrationFactor>
@@ -845,7 +856,7 @@ As a result our empire will enjoy a +10% boost to trade and tourism income for t
     <SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
     <RandomInitiationChance>0</RandomInitiationChance>
     <RaceFilterIds>
-    </RaceFilterIds>s
+    </RaceFilterIds>
     <OrbTypeFilters>
     </OrbTypeFilters>
     <Bonuses />
@@ -1217,4 +1228,30 @@ As a result our empire will enjoy a +10% boost to trade and tourism income for t
     <Description></Description>
     <ImageFilename></ImageFilename>
   </ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>99</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>1</DurationMinimum>
+		<DurationMaximum>1</DurationMaximum>
+		<PopulationAmount>0</PopulationAmount>
+		<DevelopmentChange>0</DevelopmentChange>
+		<DamageRepair>0</DamageRepair>
+		<MigrationFactor>0</MigrationFactor>
+		<ResourceAbundance>0</ResourceAbundance>
+		<ColonyHappiness>0</ColonyHappiness>
+		<EmpireHappiness>5</EmpireHappiness>
+		<SpreadToOtherColoniesChance>0</SpreadToOtherColoniesChance>
+		<SpreadToOtherColoniesRange>0</SpreadToOtherColoniesRange>
+		<RandomInitiationChance>0</RandomInitiationChance>
+		<RaceFilterIds>
+		</RaceFilterIds>
+		<OrbTypeFilters>
+		</OrbTypeFilters>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Happiness from Completed War Mission</Name>
+		<Description>Our recent completion of a War Mission has temporarily increased happiness throughout our empire</Description>
+		<ImageFilename>Environment/Events/Happiness Boost</ImageFilename>
+	</ColonyEventDefinition>
+
 </ArrayOfColonyEventDefinition>

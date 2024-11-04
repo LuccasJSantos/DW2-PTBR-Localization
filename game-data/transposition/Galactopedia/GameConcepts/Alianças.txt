@@ -1,0 +1,37 @@
+Alianças são um agrupamento de facções que estão unidas em uma relação diplomática especial.
+
+[H3]Tratados e Defesa[/H3]
+Cada membro de uma aliança compartilha o mesmo conjunto de tratados com todos os outros membros. Isso inclui Tratados de Não-Agressão e de Defesa.
+
+Isso significa que os membros da aliança estão obrigados a defender uns aos outros contra ataques de impérios externos. Se outro império declarar guerra a um membro da aliança, todos os outros membros da aliança automaticamente declararão guerra ao agressor.
+
+Quando em uma aliança, alguns tipos de tratados não podem ser formados com impérios fora da aliança. Isso inclui Tratados de Não-Agressão e de Defesa.
+
+Se um império tem vassalos e o império pai junta-se à uma aliança, então seus vassalos também automaticamente se juntarão à aliança também.
+
+[H3]Votação da Aliança[/H3]
+Todos os membros da aliança têm uma participação na decisão de ações importantes. Eles fazem isso votando em propostas. As propostas podem incluir:
+[ULI]admitir novos membros[/ULI]
+[ULI]expulsar membros existentes[/ULI]
+[ULI]declaração de guerra contra outros impérios[/ULI]
+[ULI]terminar guerras[/ULI]
+
+Cada tipo de votação deve atender a um limite para ser aprovado. Para a maioria das votações, esse limite é de 60%.
+
+Cada membro tem um número de votos que pode usar ao votar em uma proposta. O número de votos de um membro é baseado em seu tamanho e força. Assim, impérios maiores têm mais votos e, portanto, mais controle na aliança.
+
+[H3]Admitindo Novos Membros[/H3]
+A admissão de novos membros na aliança deve ser decidida por voto. Todos os membros existentes devem concordar de forma unânime (100%) para admitir um novo membro.
+
+Se um novo membro for admitido na aliança (por voto de todos os membros), quaisquer guerras em que esse novo membro esteja atualmente envolvido também se tornarão guerras da aliança: todos os membros da aliança devem se unir a essas guerras do novo membro. Portanto, é incomum que um novo membro seja admitido enquanto está em guerra.
+
+[H3]Expulsão de Membros[/H3]
+A expulsão de membros existentes da aliança também deve ser decidida por voto. Uma votação de expulsão será aprovada se 60% ou mais dos votos concordarem com a expulsão do membro.
+
+Vale notar que qualquer membro da aliança pode decidir unilateralmente deixar a aliança a qualquer momento. Para isso, não é necessária uma votação.
+
+[H3]Declaração de Guerra[/H3]
+Quando um império é membro de uma aliança, ele não pode declarar guerra de forma independente contra outro império. Em vez disso, deve propor uma votação na aliança para decidir se a aliança inteira declarará guerra contra o outro império. O limite de votos necessário para declarar guerra é de 60%.
+
+[H3]Encerramento de Guerras[/H3]
+Encerrar uma guerra da aliança também requer uma votação, com um limite de aprovação de 60%. Se a aliança concordar em encerrar a guerra, sua oferta será enviada ao império inimigo. A guerra terminará se o império inimigo aceitar a oferta de paz.

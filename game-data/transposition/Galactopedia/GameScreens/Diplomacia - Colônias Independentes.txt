@@ -1,0 +1,29 @@
+Colônias Independentes são mundos povoados que não pertencem a nenhuma facção. São mundos neutros e, em grande parte, subdesenvolvidos.
+
+Você pode se tornar amigo delas estabelecendo tratados comerciais e oferecendo presentes. Se elas gostarem o suficiente de você, podem pedir que você as colonize e se junte ao seu império. As grandes populações já estabelecidas das colônias independentes podem fornecer um grande impulso ao seu império enquanto ele ainda está crescendo.
+
+Outra estratégia para lidar com colônias independentes é simplesmente acumular suas tropas e invadi-las. No entanto, fazer isso prejudicará sua reputação com outras facções.
+
+[H3]Lista de Colônias Independentes[/H3]
+Esta tela lista todas as suas relações com colônias independentes. Verifique as várias opções de ordenação e filtragem na parte superior do painel.
+
+Colônias independentes não pertencem a nenhuma facção. Você pode negociar com elas por recursos. Você também pode integrá-las ao seu império, seja pela força ou por meio da diplomacia.
+
+Cada item da lista mostra como a colônia independente se sente em relação a você, juntamente com a tendência do seu relacionamento.
+
+Clicar em um item de relação na lista selecionará a colônia independente, se conhecida.
+
+[H3]Painel de Detalhes da Relação[/H3]
+Passar o cursor sobre um item da lista mostra o painel de Detalhes da Relação à direita. Clicar no item da lista ou no painel de detalhes manterá o painel aberto.
+
+O painel de detalhes fornece um resumo completo do seu relacionamento com a colônia independente selecionada, com informações semelhantes ao que você veria ao interagir com outro império.
+
+[H3]Estratégia[/H3]
+A seção de Estratégia permite que você especifique como irá interagir com a colônia. Você pode tentar integrá-la por meio de presentes e diplomacia, levando eventualmente a um convite para colonizar. Ou você pode escolher invadir e tomar a colônia pela força.
+
+[H3]Falando com uma Colônia Independente[/H3]
+Você pode conversar com a colônia independente clicando no botão 'Falar' abaixo do nome deles no painel de detalhes. As discussões com colônias independentes oferecem opções como oferecer tratados e presentes ou até mesmo negociar acordos comerciais detalhados.
+
+Colônias independentes muitas vezes podem ter conhecimento sobre locais secretos em toda a galáxia, que podem estar dispostas a vender para você se as relações forem amigáveis o suficiente.
+
+Clique em 'Adeus' ou no botão de fechar no canto superior direito para encerrar a conversa.

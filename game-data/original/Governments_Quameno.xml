@@ -88,17 +88,17 @@ A Geniocracy also organizes society's purpose and efforts towards one goal – t
     <CabinetFactorScienceAdministrator>0</CabinetFactorScienceAdministrator>
     <CabinetFactorTradeIndustryAdministrator>0</CabinetFactorTradeIndustryAdministrator>
 	  <EmpireNameAdjectives>
-		  <string>Wise</string>
-		  <string>Astute</string>
-		  <string>Adept</string>
+		  <string>Sábio</string>
+		  <string>Astuto</string>
+		  <string>Adepto</string>
 	  </EmpireNameAdjectives>
 	  <EmpireNameNouns>
-		  <string>Academy</string>
-		  <string>Foundation</string>
-		  <string>Council</string>
-		  <string>Guild</string>
-		  <string>League</string>
-		  <string>Order</string>
+		  <string>(Academia)</string>
+		  <string>(Fundação)</string>
+		  <string>(Conselho)</string>
+		  <string>(Guilda)</string>
+		  <string>(Liga)</string>
+		  <string>(Ordem)</string>
 	  </EmpireNameNouns>
     <ExtraIntelligenceMissionTypes />
 	  <ColonyGrowthFundingFactor>0</ColonyGrowthFundingFactor>
