@@ -2312,32 +2312,32 @@ Galaxy Expansion Explanation Old		;Impérios estão bem estabelecidos com muitas
 Galaxy Expansion		;Expansão da Galáxia
 Galaxy Aggression		;Agressividade da Galáxia
 
-Galaxy Aggression Peaceful		;Pacífico
+Galaxy Aggression Peaceful		;Pacífica
 Galaxy Aggression Normal		;Normal
-Galaxy Aggression Restless		;Inquieto
+Galaxy Aggression Restless		;Inquieta
 Galaxy Aggression Unstable		;Instável
-Galaxy Aggression Chaos		;Caótico
+Galaxy Aggression Chaos		;Caótica
 
 Galaxy Difficulty Easy		;Fácil
 Galaxy Difficulty Normal		;Normal
 Galaxy Difficulty Hard		;Difícil
 Galaxy Difficulty Very Hard		;Muito Difícil
-Galaxy Difficulty Extreme		;Extremo
+Galaxy Difficulty Extreme		;Extrema
 
 Galaxy NearbyHostileRaces Normal		;Normal
-Galaxy NearbyHostileRaces Some		;Alguns
-Galaxy NearbyHostileRaces Hard		;Mais Alguns
-Galaxy NearbyHostileRaces Very Hard		;Muitos
-Galaxy NearbyHostileRaces Extreme		;Extremo
+Galaxy NearbyHostileRaces Some		;Algumas
+Galaxy NearbyHostileRaces Hard		;Mais Algumas
+Galaxy NearbyHostileRaces Very Hard		;Muitas
+Galaxy NearbyHostileRaces Extreme		;Extrema
 
 Hostile Races Near Player		;Raças Hostis Próximas ao Jogador
 NearbyHostileRaces Explanation		;Quantas raças hostis cercam o jogador quando outros impérios são gerados automaticamente. Raças hostis próximas são um fator importante na dificuldade do jogo.\n\nObserve que mesmo na configuração Normal, ainda é possível aleatoriamente ter raças hostis próximas ao jogador.
 
-Galaxy Research Speed Very Slow		;Muito Lento
-Galaxy Research Speed Slow		;Lento
+Galaxy Research Speed Very Slow		;Muito Lenta
+Galaxy Research Speed Slow		;Lenta
 Galaxy Research Speed Normal		;Normal
-Galaxy Research Speed Fast		;Rápido
-Galaxy Research Speed Very Fast		;Muito Rápido
+Galaxy Research Speed Fast		;Rápida
+Galaxy Research Speed Very Fast		;Muito Rápida
 
 Galaxy Research Is Blind		;Apenas Projetos Próximos Visíveis
 Galaxy Research Is Visible		;Todos os Projetos Visíveis
@@ -2361,10 +2361,10 @@ Research Visibility		;Visibilidade de Pesquisa
 Research Pathing		;Caminhos de Pesquisa
 
 Pirates		;Piratas
-Very Few		;Muito Poucos
-Few		;Poucos
-Many		;Muitos
-Very Many		;Muitíssimos
+Very Few		;Muito Poucas
+Few		;Poucas
+Many		;Muitas
+Very Many		;Muitíssimas
 
 Pirate Strength		;Força dos Piratas
 Very Weak		;Muito Fraca
@@ -2373,8 +2373,8 @@ Strong		;Forte
 Very Strong		;Muito Forte
 
 Pirate Proximity		;Proximidade dos Piratas
-Nearby		;Próximo
-Average		;Médio
+Nearby		;Próxima
+Average		;Média
 Distant		;Distante
 Very Distant		;Muito Distante
 
@@ -2389,8 +2389,8 @@ Space Creatures		;Criaturas Espaciais
 Colony Prevalence		;Prevalência de Colônias
 Independent Colonies		;Colônias Independentes
 Very Abundant		;Muito Abundante
-Very Rare		;Muito Raro
-Rare		;Raro
+Very Rare		;Muito Rara
+Rare		;Rara
 
 Colony Influence Range		;Alcance de Influência da Colônia
 Colonization Range Limit		;Limite de Alcance de Colonização
@@ -2468,8 +2468,8 @@ Home System Explanation		;A favorabilidade do seu sistema doméstico.\n\nIsso in
 Your Empire Tech Level PreWarp		;Pré-Dobra
 Your Empire Tech Level X		;Nível {0}
 Tech Level		;Nível Tecnológico
-Your Empire Tech Level Explanation		;O quão avançada está sua pesquisa.\n\nIsso determina quais cascos de naves e componentes estão disponíveis para a construção de naves e bases.\n\nPré-Dobra significa que nenhum tech foi pesquisado.\n\nQuando a Expansão é maior que 'Início', então o Nível Tecnológico deve ser pelo menos nível 1.
-Galaxy Tech Level Explanation		;O quão avançada é a pesquisa para todos os impérios na galáxia.\n\nIsso determina quais cascos de naves e componentes estão disponíveis para a construção de naves e bases.\n\nPré-Dobra significa que nenhum tech foi pesquisado.\n\nQuando a Expansão é maior que 'Início', então o Nível Tecnológico deve ser pelo menos nível 1.
+Your Empire Tech Level Explanation		;O quão avançada está sua pesquisa.\n\nIsso determina quais cascos de naves e componentes estão disponíveis para a construção de naves e bases.\n\nPré-Dobra significa que nenhum tech foi pesquisado.\n\nQuando a Expansão é maior que 'Inicial', então o Nível Tecnológico deve ser pelo menos nível 1.
+Galaxy Tech Level Explanation		;O quão avançada é a pesquisa para todos os impérios na galáxia.\n\nIsso determina quais cascos de naves e componentes estão disponíveis para a construção de naves e bases.\n\nPré-Dobra significa que nenhum tech foi pesquisado.\n\nQuando a Expansão é maior que 'Inicial', então o Nível Tecnológico deve ser pelo menos nível 1.
 Starting Location		;Local de Início
 Starting Location Explanation		;A localização aproximada de início do seu império dentro da galáxia.\n\nIsso não é uma configuração precisa. Simplesmente determina a região da galáxia onde seu sistema doméstico está localizado.\n\nEsta área é indicada por sombreamento azul na pré-visualização da galáxia abaixo.
 Starting Location Description		;{1} localização de início no {0} galáxia
