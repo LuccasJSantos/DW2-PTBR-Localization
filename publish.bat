@@ -1,0 +1,1 @@
+DistantWorlds2.exe --ugc-publish ./game-data/mod
